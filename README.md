@@ -161,3 +161,13 @@ Proje işine yaradıysa ⭐ vermeyi unutma — daha çok kişinin görmesini sa�
 ## ⚖️ Lisans ve sorumluluk reddi
 
 [MIT](LICENSE). Veriler ilgili platformların resmi API'lerinden ve herkese açık akışlarından alınır; her platformun kullanım koşulları geçerlidir. X, TikTok, Instagram, YouTube, Google ve Wikipedia ilgili sahiplerinin ticari markalarıdır; bu proje onlarla bağlantılı değildir. "Örnek rapor" sayfası yalnızca tasarımı göstermek için uydurulmuş veriler içerir.
+
+## 🛡️ VirusTotal
+
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F93%20temiz-brightgreen?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/c5b61512ab5d97fd5b964053e5d75146ccfd8e6b53edd45478d853fd5fb1c2e7)
+
+Dosyalar [VirusTotal](https://www.virustotal.com) ile tarandı; hiçbir antivirüs motoru tehdit bulmadı.
+
+| Taranan | Sonuç | Tarih | Rapor |
+|---|---|---|---|
+| Kaynak kod (`main.zip`) | **0/93** temiz | 24.10.2026 | [Raporu gör](https://www.virustotal.com/gui/url/c5b61512ab5d97fd5b964053e5d75146ccfd8e6b53edd45478d853fd5fb1c2e7) |
