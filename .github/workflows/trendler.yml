@@ -48,6 +48,7 @@ jobs:
           node src/cli.mjs demo
 
       - name: Değişiklikleri kaydet
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -56,6 +57,8 @@ jobs:
             echo "Değişiklik yok"
           else
             git commit -m "📈 Trend raporu: $(date -u +%Y-%m-%d)"
+            # Arada başka bir commit geldiyse üzerine al; üretilen dosyalarda bu çalışmanın çıktısı kazanır
+            git pull --rebase -X theirs origin main
             git push
           fi
 
