@@ -143,7 +143,7 @@ async function demo() {
   const week = isoWeek(new Date());
   const m = buildModel({ week, days: weekDays(week), sources: demoSources(), snapshotDays: 7, sample: true });
   m.final = true;
-  await writeText(join(P.docs, 'ornek.html'), reportPage(m, { base: '' }));
+  await writeText(join(P.docs, 'ornek.html'), reportPage(m, { base: '', path: 'ornek.html' }));
   await writeText(join(P.reports, 'ORNEK.md'), renderMarkdown(m));
   log('Örnek rapor: docs/ornek.html, reports/ORNEK.md');
 }

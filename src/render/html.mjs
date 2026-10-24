@@ -8,7 +8,12 @@ const CHART_JS = 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.um
 /** JSON'u <script> içine güvenle gömmek için */
 const embed = (data) => JSON.stringify(data).replace(/</g, '\\u003c');
 
-function layout({ title, description, base, body, data }) {
+const SITE = 'https://aytcode.github.io/turkiye-trendleri/';
+
+function layout({ title, description, base, body, data, path = '' }) {
+  // Bağlantı önizlemeleri (WhatsApp, X, Telegram, Discord...) mutlak URL ister
+  const url = SITE + path;
+  const image = SITE + 'assets/og.png';
   return `<!doctype html>
 <html lang="tr">
 <head>
@@ -19,6 +24,20 @@ function layout({ title, description, base, body, data }) {
 <meta property="og:title" content="${e(title)}">
 <meta property="og:description" content="${e(description)}">
 <meta property="og:type" content="website">
+<meta property="og:url" content="${e(url)}">
+<meta property="og:site_name" content="Türkiye Trendleri">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:image" content="${image}">
+<meta property="og:image:secure_url" content="${image}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Türkiye'de en popüler 2026 trendleri — haftalık rapor">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${e(title)}">
+<meta name="twitter:description" content="${e(description)}">
+<meta name="twitter:image" content="${image}">
+<link rel="canonical" href="${e(url)}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📈</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -120,7 +139,7 @@ function overallSection(m, limit = 15) {
 </section>`;
 }
 
-export function reportPage(m, { base = '../' } = {}) {
+export function reportPage(m, { base = '../', path = `hafta/${m.week}.html` } = {}) {
   const ytCats = m.sources.youtube.status === 'ok'
     ? `<section class="card"><div class="card-head"><h2>🎬 YouTube trend kategorileri</h2></div><div class="chart-box md"><canvas id="ytcats" aria-label="YouTube kategori dağılımı"></canvas></div></section>`
     : '';
@@ -137,6 +156,7 @@ ${Object.values(m.sources).filter((s) => s.status !== 'ok').map(sourceCard).join
     title: `${m.sample ? '[Örnek] ' : ''}Türkiye Trendleri ${m.week} — X, TikTok, Instagram, YouTube, Google`,
     description: `Türkiye'de ${formatDateTr(m.start)} – ${formatDateTr(m.end)} haftasının en popüler konuları: ${m.overall.slice(0, 5).map((t) => t.title).join(', ')}`,
     base,
+    path,
     body,
     data: m,
   });
