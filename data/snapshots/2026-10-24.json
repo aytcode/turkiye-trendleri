@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-24",
+  "collectedAt": "2026-10-24T10:18:03.925Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "tünel",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "2 saatlik yol 7 dakikaya düşecek: 8 şehri birbirine bağlayacak tünel geliyor",
+              "url": "https://www.sozcu.com.tr/2-saatlik-yol-7-dakikaya-dusecek-8-sehri-birbirine-baglayacak-tunel-geliyor-p372236",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Dağın kalbini delip iki ülkeyi birbirine bağladılar! 706 gün sonra imkansız buluşma",
+              "url": "https://www.sabah.com.tr/trend/galeri/yasam/dagin-kalbini-delip-iki-ulkeyi-birbirine-bagladilar-706-gun-sonra-imkansiz-bulusma",
+              "source": "Sabah"
+            }
+          ]
+        },
+        {
+          "title": "bandırmaspor - iğdır fk",
+          "traffic": 1000,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Bandırmaspor-Iğdır FK maçı ne zaman, saat kaçta, hangi kanalda?",
+              "url": "https://www.fotomac.com.tr/birincilig/2026/10/24/bandirmaspor-igdir-fk-maci-ne-zaman-saat-kacta-hangi-kanalda",
+              "source": "Fotomaç"
+            },
+            {
+              "title": "Lucas Lima forma giyemeyecek",
+              "url": "https://bandirmamanset.com/haber/lucas-lima-forma-giyemeyecek-61146",
+              "source": "Bandırma Manşet"
+            }
+          ]
+        },
+        {
+          "title": "hapis",
+          "traffic": 500,
+          "rank": 3,
+          "news": [
+            {
+              "title": "20 yaşında 250 yıl hapis cezasıyla karşı karşıya: \"Her şeyi eve gelen tebligatlarla öğrendik\"",
+              "url": "https://www.ntv.com.tr/turkiye/20-yasinda-250-yil-hapis-cezasiyla-karsi-karsiya-her-seyi-eve-gelen-tebligatlarla-ogrendik-1747726",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Hatay&apos;da akılalmaz IBAN tuzağı: Marangoz çırağı 250 yıla kadar hapis cezasıyla karşı karşıya",
+              "url": "https://www.yenisafak.com/gundem/hatayda-akilalmaz-iban-tuzagi-marangoz-ciragi-250-yila-kadar-hapis-cezasiyla-karsi-karsiya-4866886",
+              "source": "Yeni Şafak"
+            }
+          ]
+        },
+        {
+          "title": "trabzonspor - esenler erokspor",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Trabzonspor Basketbol Takımı sezona iddialı başladı",
+              "url": "https://yerel-haberler.haberturk.com/trabzon-haberleri/trabzonspor-basketbol-takimi-sezona-iddiali-basladi-119501014",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Trabzonspor-Esenler Erokspor maçı saat kaçta ve hangi kanalda?",
+              "url": "https://www.birgun.net/haber/trabzonspor-esenler-erokspor-maci-saat-kacta-ve-hangi-kanalda-742216",
+              "source": "birgun.net"
+            }
+          ]
+        },
+        {
+          "title": "ümraniyespor - sivasspor",
+          "traffic": 2000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Sivasspor, Ümraniyespor maçının hazırlıklarını tamamladı",
+              "url": "https://yerel-haberler.haberturk.com/sivas-haberleri/sivasspor-umraniyespor-macinin-hazirliklarini-tamamladi-119501648",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Sivassporlu Burak Kapacak, eski günlerine dönmek istiyor",
+              "url": "https://www.aspor.com.tr/tff-birinci-lig/2026/10/23/sivassporlu-burak-kapacak-eski-gunlerine-donmek-istiyor",
+              "source": "A Spor"
+            }
+          ]
+        },
+        {
+          "title": "engin altan düzyatan",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Engin Altan Düzyatan&apos;ın baba acısı",
+              "url": "https://www.hurriyet.com.tr/kelebek/hayat/engin-altan-duzyatanin-baba-acisi-43353324",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Engin Altan Düzyatan’ın acı günü! Babası Mevlan Düzyatan hayatını kaybetti",
+              "url": "https://www.milliyet.com.tr/magazin/engin-altan-duzyatanin-aci-gunu-babasi-mevlan-duzyatan-hayatini-kaybetti-7686585",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "eyüpspor - kasımpaşa",
+          "traffic": 5000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Eyüpspor - Kasımpaşa maçı ne zaman, saat kaçta, hangi kanalda?",
+              "url": "https://www.hurriyet.com.tr/sporarena/eyupspor-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-43353255",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Eyüpspor, Süper Lig&apos;de bugün Kasımpaşa&apos;yı ağırlayacak",
+              "url": "https://aa.com.tr/tr/spor/eyupspor-super-ligde-bugun-kasimpasayi-agirlayacak/4098026",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "büşra develi",
+          "traffic": 100,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Büşra Develi, Mısır&apos;da Güzelliğiyle Dikkat Çekti! El Gouna Film Festivali&apos;nde Boy Gösterdi",
+              "url": "https://onedio.com/haber/busra-develi-misir-da-guzelligiyle-dikkat-cekti-el-gouna-film-festivali-nde-boy-gosterdi-1390885",
+              "source": "Onedio"
+            },
+            {
+              "title": "Büşra Develi festivale damga vurdu! Derin dekoltesi olay oldu - Magazin Haberleri",
+              "url": "https://www.mynet.com/magazin/busra-develi-festivale-damga-vurdu-derin-dekoltesi-olay-oldu-130100605296",
+              "source": "Mynet"
+            }
+          ]
+        },
+        {
+          "title": "fenerbahçe galatasaray",
+          "traffic": 2000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Aziz Yıldırım, &apos;Fenerbahçe&apos;nin Bayramı&apos; için Samandıra&apos;ya iniyor! Özel görüşme",
+              "url": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-fenerbahcenin-bayrami-icin-samandiraya-iniyor-ozel-gorusme-43353045",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "İsmail Kartal kararını verdi! Mason Greenwood için derbi planı",
+              "url": "https://www.fanatik.com.tr/fenerbahce/galeri-ismail-kartal-kararini-verdi-mason-greenwood-icin-derbi-plani-2642123",
+              "source": "Fanatik"
+            }
+          ]
+        },
+        {
+          "title": "osmangazi köprüsü",
+          "traffic": 200,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Bursa&apos;da Cumhuriyet Bayramı coşkuyla kutlanacak",
+              "url": "https://yerel-haberler.haberturk.com/bursa-haberleri/bursada-cumhuriyet-bayrami-coskuyla-kutlanacak-119501584",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Osmangazi Köprüsü’nde 14 saatlik trafik kısıtlaması İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/kocaeli-haberleri/osmangazi-koprusunde-14-saatlik-trafik-kisitlamasi-504945652",
+              "source": "İhlas Haber Ajansı"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

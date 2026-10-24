@@ -1,0 +1,26 @@
+{
+  "name": "turkiye-trendleri",
+  "version": "1.0.0",
+  "description": "Türkiye'de en popüler 2026 trendleri: X, TikTok, Instagram, YouTube, Google Trends ve Vikipedi'den haftalık otomatik rapor botu.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "aliyigit",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "collect": "node src/cli.mjs collect",
+    "report": "node src/cli.mjs report",
+    "build": "node src/cli.mjs build",
+    "run-daily": "node src/cli.mjs run",
+    "demo": "node src/cli.mjs demo",
+    "test": "node --test test/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aytcode/turkiye-trendleri.git"
+  },
+  "homepage": "https://aytcode.github.io/turkiye-trendleri/",
+  "keywords": ["turkey", "türkiye", "trends", "trendler", "google-trends", "youtube", "tiktok", "twitter", "instagram", "github-actions", "chartjs"]
+}

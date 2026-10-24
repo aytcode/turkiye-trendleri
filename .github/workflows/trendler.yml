@@ -1,0 +1,75 @@
+name: Trend raporu
+
+on:
+  schedule:
+    # Her gün 05:00 UTC (08:00 TSİ): günlük anlık görüntü + haftalık raporu güncelle.
+    # Pazartesi çalışması geçen haftayı kesinleştirir.
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['src/**', 'docs/assets/**', '.github/workflows/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: trendler
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Testler
+        run: npm test
+
+      - name: Verileri topla ve raporu üret
+        if: github.event_name != 'push'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node src/cli.mjs run
+
+      - name: Siteyi yeniden üret
+        run: |
+          node src/cli.mjs build
+          node src/cli.mjs demo
+
+      - name: Değişiklikleri kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs reports README.md
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok"
+          else
+            git commit -m "📈 Trend raporu: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
