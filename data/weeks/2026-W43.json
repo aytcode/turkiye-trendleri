@@ -13,7 +13,7 @@
   "end": "2026-10-25",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-24T10:18:27.499Z",
+  "generatedAt": "2026-10-24T10:24:08.482Z",
   "snapshotDays": 1,
   "activeSources": [
     "google",
@@ -173,21 +173,21 @@
           "days": 1,
           "news": [
             {
-              "title": "20 yaşında 250 yıl hapis cezasıyla karşı karşıya: \"Her şeyi eve gelen tebligatlarla öğrendik\"",
-              "url": "https://www.ntv.com.tr/turkiye/20-yasinda-250-yil-hapis-cezasiyla-karsi-karsiya-her-seyi-eve-gelen-tebligatlarla-ogrendik-1747726",
-              "source": "NTV Haber"
-            },
-            {
               "title": "Hatay&apos;da akılalmaz IBAN tuzağı: Marangoz çırağı 250 yıla kadar hapis cezasıyla karşı karşıya",
               "url": "https://www.yenisafak.com/gundem/hatayda-akilalmaz-iban-tuzagi-marangoz-ciragi-250-yila-kadar-hapis-cezasiyla-karsi-karsiya-4866886",
               "source": "Yeni Şafak"
+            },
+            {
+              "title": "20 yaşında 250 yıl hapis cezasıyla karşı karşıya: \"Her şeyi eve gelen tebligatlarla öğrendik\"",
+              "url": "https://www.ntv.com.tr/turkiye/20-yasinda-250-yil-hapis-cezasiyla-karsi-karsiya-her-seyi-eve-gelen-tebligatlarla-ogrendik-1747726",
+              "source": "NTV Haber"
             }
           ],
           "score": 500
         },
         {
           "title": "trabzonspor - esenler erokspor",
-          "traffic": 200,
+          "traffic": 500,
           "days": 1,
           "news": [
             {
@@ -201,7 +201,7 @@
               "source": "birgun.net"
             }
           ],
-          "score": 200
+          "score": 500
         },
         {
           "title": "engin altan düzyatan",
