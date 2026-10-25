@@ -13,8 +13,8 @@
   "end": "2026-10-25",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-24T10:24:08.482Z",
-  "snapshotDays": 1,
+  "generatedAt": "2026-10-25T09:43:47.746Z",
+  "snapshotDays": 2,
   "activeSources": [
     "google",
     "wikipedia"
@@ -132,6 +132,24 @@
           "score": 2000
         },
         {
+          "title": "seyahat",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "ABD’den vatandaşlarına uyarı: Vakit kaybetmeden ayrılın",
+              "url": "https://www.sozcu.com.tr/abd-den-vatandaslarina-uyari-vakit-kaybetmeden-ayrilin-p372400",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Savaşta sona doğru mu? İkinci perdede Trump&apos;tan kritik adım!",
+              "url": "https://www.cnnturk.com/dunya/savasta-sona-dogru-mu-ikinci-perdede-trumptan-kritik-adim-3484013",
+              "source": "CNN Türk"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "bandırmaspor - iğdır fk",
           "traffic": 1000,
           "days": 1,
@@ -145,6 +163,24 @@
               "title": "Lucas Lima forma giyemeyecek",
               "url": "https://bandirmamanset.com/haber/lucas-lima-forma-giyemeyecek-61146",
               "source": "Bandırma Manşet"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "ebru yaşar",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "90’larda Manifest yoktu, biz vardık! - Ali Eyüboğlu",
+              "url": "https://www.milliyet.com.tr/yazarlar/ali-eyuboglu/90larda-manifest-yoktu-biz-vardik-7686862",
+              "source": "Milliyet"
+            },
+            {
+              "title": "Ebru Yaşar konserine ilgi büyük! Ünlü isimler akın etti...",
+              "url": "https://www.internethaber.com/ebru-yasar-konserine-ilgi-buyuk-unlu-isimler-akin-etti-foto-galerisi-2465624.htm",
+              "source": "İnternet Haber"
             }
           ],
           "score": 1000
@@ -204,6 +240,42 @@
           "score": 500
         },
         {
+          "title": "sumud filosu",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "\"Sumud Filosu\"na silahlı müdahale davasında ara karar",
+              "url": "https://www.hurriyet.com.tr/gundem/sumud-filosuna-silahli-mudahale-davasinda-ara-karar-43352786",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "\"Sumud Filosu\"na yapılan silahlı müdahaleye ilişkin 35 sanığın yargılanmasına başlandı",
+              "url": "https://www.aa.com.tr/tr/ayrimcilikhatti/aktuel/sumud-filosuna-yapilan-silahli-mudahaleye-iliskin-35-sanigin-yargilanmasina-baslandi/1832920",
+              "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "taşeron",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "İlgezdi, özel hastanelerde ciro baskısının halk sağlığını tehdit ettiğini belirtti",
+              "url": "https://www.sondakika.com/guncel/haber-ilgezdi-ozel-hastanelerde-ciro-baskisinin-halk-sag-20363689/",
+              "source": "Son Dakika"
+            },
+            {
+              "title": "Özel hastanelerde MR ve ameliyat kotası iddiası!",
+              "url": "https://mansethaber.com/saglik/ozel-hastanelerde-mr-ve-ameliyat-kotasi-iddiasi",
+              "source": "Manşet Haber"
+            }
+          ],
+          "score": 500
+        },
+        {
           "title": "engin altan düzyatan",
           "traffic": 200,
           "days": 1,
@@ -240,6 +312,42 @@
           "score": 200
         },
         {
+          "title": "kasım ara tatili ne zaman",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "KASIM ARA TATİLİ NE ZAMAN 2026? Birinci dönem ilk ara tatili hangi gün başlıyor ve bitiyor, kaç gün sürecek?",
+              "url": "https://www.milliyet.com.tr/galeri/kasim-ara-tatili-ne-zaman-2026-1-donem-ilk-ara-tatili-hangi-gun-basliyor-7686789",
+              "source": "Milliyet"
+            },
+            {
+              "title": "OKULLARDA İLK ARA TATİL NE ZAMAN?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/somestr-15-tatil-ve-ara-tatil-tarihleri-2026-2027-okullar-ne-zaman-kapanacak-ara-tatil-ne-zaman-kac-gun-surecek-kasim-ara-tatili-43340536/2",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "cyberpunk 2077",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Cyberpunk 2077&apos;s Edgerunners 2 Update (2.5) is out now!",
+              "url": "https://www.cyberpunk.net/en/news/52125/cyberpunk-2077s-edgerunners-2-update-2-5-is-out-now",
+              "source": "cyberpunk.net"
+            },
+            {
+              "title": "‘Cyberpunk 2077’ Rockets To Its Second-Highest Playercount Since Launch",
+              "url": "https://www.forbes.com/sites/paultassi/2026/10/24/cyberpunk-2077-rockets-to-its-second-highest-playercount-since-launch/",
+              "source": "Forbes"
+            }
+          ],
+          "score": 200
+        },
+        {
           "title": "büşra develi",
           "traffic": 100,
           "days": 1,
@@ -256,9 +364,81 @@
             }
           ],
           "score": 100
+        },
+        {
+          "title": "warren buffett",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "The First 5 Steps To Becoming A Wealthy Person, According to Charlie Munger",
+              "url": "https://www.newtraderu.com/2026/10/24/the-first-5-steps-to-becoming-a-wealthy-person-according-to-charlie-munger/",
+              "source": "New Trader U"
+            },
+            {
+              "title": "People Who Build Real Wealth Don’t Waste Time on These 5 Activities, According to Charlie Munger",
+              "url": "https://www.newtraderu.com/2026/10/22/people-who-build-real-wealth-dont-waste-time-on-these-5-activities-according-to-charlie-munger/",
+              "source": "New Trader U"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "england vs pakistan",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
+              "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview",
+              "source": "Cricinfo"
+            },
+            {
+              "title": "Pakistan eye top spot as England fight for survival in Lahore",
+              "url": "https://www.thenews.pk/print/1444915-pakistan-eye-top-spot-as-england-fight-for-survival-in-lahore",
+              "source": "The News Pakistan"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "ivan toney",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "\"Dünyanın en iyi penaltıcısı\" sıra dışı yeni penaltısıyla dünya gündeminde",
+              "url": "https://www.goal.com/tr/haber/dunyanin-en-iyi-penalticisi-tuhaf-yeni-penaltisiyla-dunya-capinda-gundem-oldu/blte14947154d5b5247",
+              "source": "Goal.com"
+            },
+            {
+              "title": "Toni efsanelerin izinde: Al Ahly&apos;nin golcüsü Ronaldo, Al Somah ve Felix&apos;in tahtını sarsıyor",
+              "url": "https://www.goal.com/tr/haber/toni-efsanelerin-izinde-al-ahly-nin-golcusu-ronaldo-al-somah-ve-felix-in-tahtini-sarsiyor/bltc831662c9d382374",
+              "source": "Goal.com"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "10 kasım resmi tatil mi",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "10 Kasım Atatürk’ü Anma Günü resmi tatil mi? 10 Kasım 2026 hangi güne denk geliyor?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/10-kasim-ataturku-anma-gunu-resmi-tatil-mi-10-kasim-2026-hangi-gune-denk-geliyor-43351400",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "10 Kasım resmi tatil mi? 10 Kasım hangi güne denk geliyor?",
+              "url": "https://www.cumhuriyet.com.tr/yasam/10-kasim-resmi-tatil-mi-10-kasim-hangi-gune-denk-geliyor-2549328",
+              "source": "Cumhuriyet"
+            }
+          ],
+          "score": 100
         }
       ],
-      "total": 10
+      "total": 20
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -534,7 +714,7 @@
       "total": 93
     },
     {
-      "title": "bandırmaspor - iğdır fk",
+      "title": "seyahat",
       "platforms": [
         "google"
       ],
@@ -554,7 +734,7 @@
       "total": 90
     },
     {
-      "title": "tünel",
+      "title": "bandırmaspor - iğdır fk",
       "platforms": [
         "google"
       ],
@@ -574,7 +754,7 @@
       "total": 87
     },
     {
-      "title": "hapis",
+      "title": "ebru yaşar",
       "platforms": [
         "google"
       ],
@@ -594,7 +774,7 @@
       "total": 83
     },
     {
-      "title": "trabzonspor - esenler erokspor",
+      "title": "tünel",
       "platforms": [
         "google"
       ],
@@ -614,7 +794,7 @@
       "total": 80
     },
     {
-      "title": "engin altan düzyatan",
+      "title": "hapis",
       "platforms": [
         "google"
       ],
@@ -634,7 +814,7 @@
       "total": 77
     },
     {
-      "title": "osmangazi köprüsü",
+      "title": "trabzonspor - esenler erokspor",
       "platforms": [
         "google"
       ],
@@ -654,7 +834,7 @@
       "total": 73
     },
     {
-      "title": "büşra develi",
+      "title": "sumud filosu",
       "platforms": [
         "google"
       ],

@@ -40,9 +40,9 @@
 | 4 | 2026 UEFA ülkeler sıralaması | 1 |
 | 5 | fenerbahçe galatasaray | 1 |
 | 6 | Berke Özer | 1 |
-| 7 | bandırmaspor - iğdır fk | 1 |
+| 7 | seyahat | 1 |
 | 8 | Aylin Kotil | 1 |
-| 9 | tünel | 1 |
+| 9 | bandırmaspor - iğdır fk | 1 |
 | 10 | Sergen Yalçın | 1 |
 <!-- SON-RAPOR:BITIR -->
 
