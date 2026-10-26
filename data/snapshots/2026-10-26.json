@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-26",
+  "collectedAt": "2026-10-26T10:56:34.345Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "selçuk şahin",
+          "traffic": 10000,
+          "rank": 1,
+          "news": [
+            {
+              "title": "2-0&apos;dan döndüler! Selçuk Şahin&apos;in sevinci geceye damga vurdu",
+              "url": "https://www.sondakika.com/spor/haber-2-0dan-donduler-selcuk-sahinin-sevinci-geceye-20366199/",
+              "source": "Son Dakika"
+            },
+            {
+              "title": "Batman Petrolspor-Turka Esenler Erokspor maçının ardından",
+              "url": "https://yerel-haberler.haberturk.com/batman-haberleri/batman-petrolspor-turka-esenler-erokspor-macinin-ardindan-119503165",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "baz puan",
+          "traffic": 100,
+          "rank": 2,
+          "news": [
+            {
+              "title": "İngiliz kuruluştan Merkez Bankası için 850 baz puanlık faiz indirimi tahmini",
+              "url": "https://www.sozcu.com.tr/ingiliz-kurulustan-merkez-bankasi-icin-850-baz-puanlik-faiz-indirimi-tahmini-p372855",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "İngiliz kuruluştan TCMB için 850 baz puanlık faiz indirimi tahmini",
+              "url": "https://www.ekonomim.com/ekonomi/ingiliz-kurulustan-tcmb-icin-850-baz-puanlik-faiz-indirimi-tahmini-haberi-927056",
+              "source": "Ekonomim"
+            }
+          ]
+        },
+        {
+          "title": "akıllı sayaç",
+          "traffic": 500,
+          "rank": 3,
+          "news": [
+            {
+              "title": "SON HABERLER: Elektrik sayaçları değişecek mi? Elektrik sayacı akıllı sistemle değiştiriliyor mu?",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/epdkden-elektrik-faturalarini-ilgilendiren-aciklama-7687712",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "7 milyon abonenin sayacı 2027 sonuna kadar uzaktan okunabilecek",
+              "url": "https://www.ensonhaber.com/7-milyon-abonenin-sayaci-2027-sonuna-kadar-uzaktan-okunabilecek-h1576974",
+              "source": "Ensonhaber"
+            }
+          ]
+        },
+        {
+          "title": "luka doncic",
+          "traffic": 2000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Lakers 132-123 Jazz (Oct 25, 2026) Game Recap",
+              "url": "https://www.espn.com/nba/recap?gameId=401909861",
+              "source": "ESPN"
+            },
+            {
+              "title": "Doncic powers Lakers with 52 points: “Just get out and run”",
+              "url": "https://www.eurohoops.net/en/nba-news/2026243/luka-doncic-scores-52-points-los-angeles-lakers-win-nba/",
+              "source": "Eurohoops"
+            }
+          ]
+        },
+        {
+          "title": "mike tyson",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Herkesin merak ettiği konuk oyuncu belli oldu: Tuzlu Kahve’ye ‘gezegenin en belalı adamı’ geliyor",
+              "url": "https://www.sozcu.com.tr/herkesin-merak-ettigi-konuk-oyuncu-belli-oldu-tuzlu-kahve-ye-gezegenin-en-belali-adami-geliyor-p372833",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Mike Tyson, Tuzlu Kahve dizisine konuk oluyor",
+              "url": "https://www.cumhuriyet.com.tr/yasam/mike-tyson-tuzlu-kahve-dizisine-konuk-oluyor-2550277",
+              "source": "Cumhuriyet"
+            }
+          ]
+        },
+        {
+          "title": "black friday ne zaman",
+          "traffic": 100,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Bu tarihlerde alışveriş yapanlar dikkat: IBAN tuzağına düşmeyin",
+              "url": "https://www.sozcu.com.tr/bu-tarihlerde-alisveris-yapanlar-dikkat-iban-tuzagina-dusmeyin-p372538",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Kasım indirimleriyle aylık e-ticaret hacminin 600 milyar liraya ulaşması bekleniyor",
+              "url": "https://www.aa.com.tr/tr/ekonomi/kasim-indirimleriyle-aylik-e-ticaret-hacminin-600-milyar-liraya-ulasmasi-bekleniyor/4100812",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "boğa",
+          "traffic": 500,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Boğa burcunda süper dolunay - Öner Döşer",
+              "url": "https://www.sozcu.com.tr/boga-burcunda-super-dolunay-p372411",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Güç kapışmaları ve değişim rüzgârları... | Dinçer Güner Köşe Yazısı",
+              "url": "https://www.hurriyet.com.tr/yazarlar/dincer-guner/guc-kapismalari-ve-degisim-ruzgarlari-43353938",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "handan dizisi",
+          "traffic": 200,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Handan dizisinin konusu ne, oyuncuları kim? Handan dizisi hangi platformda yayımlanacak?",
+              "url": "https://www.cumhuriyet.com.tr/tv-rehberi/handan-dizisinin-konusu-ne-oyunculari-kim-handan-dizisi-hangi-platformda-yayimlanacak-2550270",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Müge Anlı&apos;da Türkiye&apos;yi Sarsan O Hemşirenin Hikayesi Dizi Oldu: Başrolde Usta Bir İsim Var",
+              "url": "https://onedio.com/haber/muge-anli-da-turkiye-yi-sarsan-o-olay-dizi-oldu-handan-hemsire-ye-ayta-sozeri-hayat-veriyor-1391177",
+              "source": "Onedio"
+            }
+          ]
+        },
+        {
+          "title": "bursaspor (futbol takımı)",
+          "traffic": 50000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Bursaspor, 6 gollü maçta Ankara&apos;da kazandı!",
+              "url": "https://www.hurriyet.com.tr/sporarena/bursaspor-6-gollu-macta-ankarada-kazandi-43354756",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Osmangazi Meydanı&apos;nda yeşil-beyaz coşku",
+              "url": "https://yerel-haberler.haberturk.com/bursa-haberleri/osmangazi-meydaninda-yesil-beyaz-cosku-119503643",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "phantom blade zero",
+          "traffic": 100,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Phantom Blade Zero Review In Progress – Shaping Up To Be One Of The Best Action Games I&apos;ve Ever Played",
+              "url": "https://gameinformer.com/review-in-progress/2026/10/25/phantom-blade-zero-review-in-progress-shaping-up-to-be-one-of-the",
+              "source": "Game Informer"
+            },
+            {
+              "title": "Phantom Blade Zero’s Combat Is So Good, You Won’t Care The Story Makes No Sense",
+              "url": "https://www.gamespot.com/reviews/phantom-blade-zeros-combat-is-so-good-you-wont-care-the-story-makes-no-sense/",
+              "source": "GameSpot"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

@@ -1,18 +1,36 @@
 [
   {
-    "week": "2026-W43",
-    "start": "2026-10-19",
-    "end": "2026-10-25",
+    "week": "2026-W44",
+    "start": "2026-10-26",
+    "end": "2026-11-01",
     "final": false,
     "activeSources": [
       "google",
       "wikipedia"
     ],
     "top": [
+      "bursaspor (futbol takımı)",
+      "selçuk şahin",
+      "luka doncic",
+      "akıllı sayaç",
+      "boğa"
+    ],
+    "url": "hafta/2026-W44.html"
+  },
+  {
+    "week": "2026-W43",
+    "start": "2026-10-19",
+    "end": "2026-10-25",
+    "final": true,
+    "activeSources": [
+      "google",
+      "wikipedia"
+    ],
+    "top": [
       "eyüpspor - kasımpaşa",
-      "2027 UEFA ülkeler sıralaması",
+      "Nev",
       "ümraniyespor - sivasspor",
-      "2026 UEFA ülkeler sıralaması",
+      "2027 UEFA ülkeler sıralaması",
       "fenerbahçe galatasaray"
     ],
     "url": "hafta/2026-W43.html"

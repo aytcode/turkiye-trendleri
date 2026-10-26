@@ -11,9 +11,9 @@
   ],
   "start": "2026-10-19",
   "end": "2026-10-25",
-  "final": false,
+  "final": true,
   "sample": false,
-  "generatedAt": "2026-10-25T09:43:47.746Z",
+  "generatedAt": "2026-10-26T10:56:34.345Z",
   "snapshotDays": 2,
   "activeSources": [
     "google",
@@ -448,207 +448,207 @@
       "status": "ok",
       "items": [
         {
+          "title": "Nev",
+          "article": "Nev",
+          "views": 59428,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Nev",
+          "score": 59428
+        },
+        {
           "title": "2027 UEFA ülkeler sıralaması",
           "article": "2027_UEFA_ülkeler_sıralaması",
-          "views": 48608,
-          "days": 5,
+          "views": 51022,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 48608
+          "score": 51022
+        },
+        {
+          "title": "Ümit Kocasakal",
+          "article": "Ümit_Kocasakal",
+          "views": 36479,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
+          "score": 36479
         },
         {
           "title": "2026 UEFA ülkeler sıralaması",
           "article": "2026_UEFA_ülkeler_sıralaması",
-          "views": 27046,
-          "days": 5,
+          "views": 28506,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/2026_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 27046
-        },
-        {
-          "title": "Berke Özer",
-          "article": "Berke_Özer",
-          "views": 20830,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Berke_%C3%96zer",
-          "score": 20830
+          "score": 28506
         },
         {
           "title": "Aylin Kotil",
           "article": "Aylin_Kotil",
-          "views": 20338,
-          "days": 5,
+          "views": 22912,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 20338
-        },
-        {
-          "title": "Sergen Yalçın",
-          "article": "Sergen_Yalçın",
-          "views": 19632,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Sergen_Yal%C3%A7%C4%B1n",
-          "score": 19632
-        },
-        {
-          "title": "Can Bonomo",
-          "article": "Can_Bonomo",
-          "views": 19223,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Can_Bonomo",
-          "score": 19223
+          "score": 22912
         },
         {
           "title": "Aziz Sancar",
           "article": "Aziz_Sancar",
-          "views": 18610,
-          "days": 5,
+          "views": 22801,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Aziz_Sancar",
-          "score": 18610
+          "score": 22801
+        },
+        {
+          "title": "Sergen Yalçın",
+          "article": "Sergen_Yalçın",
+          "views": 21535,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Sergen_Yal%C3%A7%C4%B1n",
+          "score": 21535
+        },
+        {
+          "title": "Berke Özer",
+          "article": "Berke_Özer",
+          "views": 21099,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Berke_%C3%96zer",
+          "score": 21099
+        },
+        {
+          "title": "Can Bonomo",
+          "article": "Can_Bonomo",
+          "views": 19865,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Can_Bonomo",
+          "score": 19865
         },
         {
           "title": "Mustafa Sarıgül",
           "article": "Mustafa_Sarıgül",
-          "views": 14498,
-          "days": 5,
+          "views": 18483,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 14498
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 13397,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 13397
-        },
-        {
-          "title": "Ahmet Eşref Fakıbaba",
-          "article": "Ahmet_Eşref_Fakıbaba",
-          "views": 13373,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Ahmet_E%C5%9Fref_Fak%C4%B1baba",
-          "score": 13373
+          "score": 18483
         },
         {
           "title": "Osmanlı padişahları listesi",
           "article": "Osmanlı_padişahları_listesi",
-          "views": 13353,
-          "days": 5,
+          "views": 18194,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 13353
+          "score": 18194
         },
         {
-          "title": "E-Devlet (Türkiye)",
-          "article": "E-Devlet_(Türkiye)",
-          "views": 13232,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/E-Devlet_(T%C3%BCrkiye)",
-          "score": 13232
-        },
-        {
-          "title": "Justin.tv",
-          "article": "Justin.tv",
-          "views": 13058,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Justin.tv",
-          "score": 13058
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 18156,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 18156
         },
         {
           "title": "Cinsel ilişki",
           "article": "Cinsel_ilişki",
-          "views": 12283,
-          "days": 5,
+          "views": 18035,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 12283
+          "score": 18035
         },
         {
           "title": "Abdullah Çatlı",
           "article": "Abdullah_Çatlı",
-          "views": 12005,
-          "days": 5,
+          "views": 17687,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 12005
+          "score": 17687
         },
         {
-          "title": "Kim Jong-un",
-          "article": "Kim_Jong-un",
-          "views": 10755,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Kim_Jong-un",
-          "score": 10755
+          "title": "E-Devlet (Türkiye)",
+          "article": "E-Devlet_(Türkiye)",
+          "views": 15982,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/E-Devlet_(T%C3%BCrkiye)",
+          "score": 15982
         },
         {
-          "title": "Bir sonraki Türkiye genel seçimleri için yapılan anketler",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri_için_yapılan_anketler",
-          "views": 10135,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler",
-          "score": 10135
+          "title": "Justin.tv",
+          "article": "Justin.tv",
+          "views": 15046,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Justin.tv",
+          "score": 15046
         },
         {
           "title": "Gibi bölümleri listesi",
           "article": "Gibi_bölümleri_listesi",
-          "views": 10022,
-          "days": 5,
+          "views": 13970,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Gibi_b%C3%B6l%C3%BCmleri_listesi",
-          "score": 10022
+          "score": 13970
         },
         {
-          "title": "Victor Osimhen",
-          "article": "Victor_Osimhen",
-          "views": 9841,
+          "title": "Ertan Aydın",
+          "article": "Ertan_Aydın",
+          "views": 13886,
           "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Victor_Osimhen",
-          "score": 9841
+          "url": "https://tr.wikipedia.org/wiki/Ertan_Ayd%C4%B1n",
+          "score": 13886
         },
         {
-          "title": "UEFA Şampiyonlar Ligi",
-          "article": "UEFA_Şampiyonlar_Ligi",
-          "views": 9807,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/UEFA_%C5%9Eampiyonlar_Ligi",
-          "score": 9807
-        },
-        {
-          "title": "Mynet",
-          "article": "Mynet",
-          "views": 9379,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Mynet",
-          "score": 9379
-        },
-        {
-          "title": "Ekin Türkmen",
-          "article": "Ekin_Türkmen",
-          "views": 8979,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Ekin_T%C3%BCrkmen",
-          "score": 8979
-        },
-        {
-          "title": "Organize İşler",
-          "article": "Organize_İşler",
-          "views": 8885,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Organize_%C4%B0%C5%9Fler",
-          "score": 8885
-        },
-        {
-          "title": "2028 UEFA ülkeler sıralaması",
-          "article": "2028_UEFA_ülkeler_sıralaması",
-          "views": 8840,
+          "title": "Ahmet Eşref Fakıbaba",
+          "article": "Ahmet_Eşref_Fakıbaba",
+          "views": 13677,
           "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/2028_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 8840
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_E%C5%9Fref_Fak%C4%B1baba",
+          "score": 13677
         },
         {
-          "title": "Uzun Hasan",
-          "article": "Uzun_Hasan",
-          "views": 8794,
+          "title": "Bir sonraki Türkiye genel seçimleri için yapılan anketler",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri_için_yapılan_anketler",
+          "views": 13374,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler",
+          "score": 13374
+        },
+        {
+          "title": "Kim Jong-un",
+          "article": "Kim_Jong-un",
+          "views": 12774,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Kim_Jong-un",
+          "score": 12774
+        },
+        {
+          "title": "Eylül Lize Kandemir",
+          "article": "Eylül_Lize_Kandemir",
+          "views": 12486,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Eyl%C3%BCl_Lize_Kandemir",
+          "score": 12486
+        },
+        {
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 12231,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 12231
+        },
+        {
+          "title": "Organize İşler: Karun Hazinesi",
+          "article": "Organize_İşler:_Karun_Hazinesi",
+          "views": 11767,
           "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Uzun_Hasan",
-          "score": 8794
+          "url": "https://tr.wikipedia.org/wiki/Organize_%C4%B0%C5%9Fler%3A_Karun_Hazinesi",
+          "score": 11767
+        },
+        {
+          "title": "Recep Tayyip Erdoğan",
+          "article": "Recep_Tayyip_Erdoğan",
+          "views": 11536,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+          "score": 11536
         }
       ],
-      "coveredDays": 5,
+      "coveredDays": 7,
       "total": 50
     }
   },
@@ -664,7 +664,7 @@
       "total": 100
     },
     {
-      "title": "2027 UEFA ülkeler sıralaması",
+      "title": "Nev",
       "platforms": [
         "wikipedia"
       ],
@@ -684,7 +684,7 @@
       "total": 97
     },
     {
-      "title": "2026 UEFA ülkeler sıralaması",
+      "title": "2027 UEFA ülkeler sıralaması",
       "platforms": [
         "wikipedia"
       ],
@@ -704,7 +704,7 @@
       "total": 93
     },
     {
-      "title": "Berke Özer",
+      "title": "Ümit Kocasakal",
       "platforms": [
         "wikipedia"
       ],
@@ -724,7 +724,7 @@
       "total": 90
     },
     {
-      "title": "Aylin Kotil",
+      "title": "2026 UEFA ülkeler sıralaması",
       "platforms": [
         "wikipedia"
       ],
@@ -744,7 +744,7 @@
       "total": 87
     },
     {
-      "title": "Sergen Yalçın",
+      "title": "Aylin Kotil",
       "platforms": [
         "wikipedia"
       ],
@@ -764,7 +764,7 @@
       "total": 83
     },
     {
-      "title": "Can Bonomo",
+      "title": "Aziz Sancar",
       "platforms": [
         "wikipedia"
       ],
@@ -784,7 +784,7 @@
       "total": 80
     },
     {
-      "title": "Aziz Sancar",
+      "title": "Sergen Yalçın",
       "platforms": [
         "wikipedia"
       ],
@@ -804,7 +804,7 @@
       "total": 77
     },
     {
-      "title": "Mustafa Sarıgül",
+      "title": "Berke Özer",
       "platforms": [
         "wikipedia"
       ],
@@ -824,7 +824,7 @@
       "total": 73
     },
     {
-      "title": "II. Mehmed",
+      "title": "Can Bonomo",
       "platforms": [
         "wikipedia"
       ],
@@ -844,7 +844,7 @@
       "total": 70
     },
     {
-      "title": "Ahmet Eşref Fakıbaba",
+      "title": "Mustafa Sarıgül",
       "platforms": [
         "wikipedia"
       ],

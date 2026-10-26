@@ -30,20 +30,20 @@
 ## 📊 Son rapor
 
 <!-- SON-RAPOR:BASLA -->
-**2026-W43** (2026-10-19 → 2026-10-25) · ⏳ hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W43.html) · [Markdown](reports/2026-W43.md)
+**2026-W44** (2026-10-26 → 2026-11-01) · ⏳ hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W44.html) · [Markdown](reports/2026-W44.md)
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | eyüpspor - kasımpaşa | 1 |
-| 2 | 2027 UEFA ülkeler sıralaması | 1 |
-| 3 | ümraniyespor - sivasspor | 1 |
-| 4 | 2026 UEFA ülkeler sıralaması | 1 |
-| 5 | fenerbahçe galatasaray | 1 |
-| 6 | Berke Özer | 1 |
-| 7 | seyahat | 1 |
-| 8 | Aylin Kotil | 1 |
-| 9 | bandırmaspor - iğdır fk | 1 |
-| 10 | Sergen Yalçın | 1 |
+| 1 | bursaspor (futbol takımı) | 1 |
+| 2 | selçuk şahin | 1 |
+| 3 | luka doncic | 1 |
+| 4 | akıllı sayaç | 1 |
+| 5 | boğa | 1 |
+| 6 | handan dizisi | 1 |
+| 7 | baz puan | 1 |
+| 8 | mike tyson | 1 |
+| 9 | black friday ne zaman | 1 |
+| 10 | phantom blade zero | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
