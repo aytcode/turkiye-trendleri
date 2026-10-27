@@ -13,8 +13,8 @@
   "end": "2026-11-01",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-26T10:56:34.345Z",
-  "snapshotDays": 1,
+  "generatedAt": "2026-10-27T10:21:29.047Z",
+  "snapshotDays": 2,
   "activeSources": [
     "google",
     "wikipedia"
@@ -78,6 +78,24 @@
       "status": "ok",
       "items": [
         {
+          "title": "fırtına",
+          "traffic": 200000,
+          "days": 1,
+          "news": [
+            {
+              "title": "11 il için \"sarı\" uyarı: Kuvvetli yağışa dikkat",
+              "url": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961285.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Sel, su baskını ve hortum riski: İstanbul, İzmir, Muğla ve Antalya için kuvvetli yağış uyarısı",
+              "url": "https://www.evrensel.net/haber/6006755/sel-su-baskini-ve-hortum-riski-istanbul-izmir-mugla-ve-antalya-icin-kuvvetli-yagis-uyarisi",
+              "source": "Evrensel.net"
+            }
+          ],
+          "score": 200000
+        },
+        {
           "title": "bursaspor (futbol takımı)",
           "traffic": 50000,
           "days": 1,
@@ -132,6 +150,96 @@
           "score": 2000
         },
         {
+          "title": "önder kahveci",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonunda",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-7688426",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "Ekonomi ve siyaset gündemi- 27 Ekim 2026",
+              "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-27-ekim-2026-3792616",
+              "source": "Bloomberght"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "tuzla",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "SON DAKİKA İSTANBUL HABERLERİ: İstanbul hava durumu nasıl, yağışlar ne kadar sürecek?",
+              "url": "https://www.milliyet.com.tr/gundem/live-son-dakika-istanbulda-kuvvetli-yagis-yollar-gole-dondu-7688322",
+              "source": "Milliyet"
+            },
+            {
+              "title": "Sağanak İstanbul&apos;a geri döndü: En fazla yağış nereye düştü?",
+              "url": "https://www.cumhuriyet.com.tr/turkiye/saganak-istanbul-a-geri-dondu-en-fazla-yagis-nereye-dustu-2550670",
+              "source": "Cumhuriyet"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "boykot",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Bir videoyla gelen boykot. Çinli dev markalar Mbappe&apos;yi sildi",
+              "url": "https://www.ntv.com.tr/dunya/galeri-bir-videoyla-gelen-boykot-cinli-dev-markalar-mbappeyi-sildi-1748129",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Çin&apos;den Kylian Mbappe&apos;ye şok: Sözleri yüzünden La Liga yayınları kaldırıldı",
+              "url": "https://www.fanatik.com.tr/real-madrid/cinden-kylian-mbappeye-sok-sozleri-yuzunden-la-liga-yayinlari-kaldirildi-2642451",
+              "source": "Fanatik"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "a101 aldın aldın",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "A101 ONLINE AFİŞ 29 EKİM 2026 (HAFTANIN YENİ İNDİRİMLERİ) || A101&apos;e bu hafta hangi ürünler geliyor, indirimli neler var? A101 Aldın Aldın ile hava temizleyici, narenciye sıkacağı, tencere seti, çamaşır sodası, olta makinesi geliyor",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/a101e-bu-hafta-hangi-urunler-geliyor-indirimli-neler-var-43353582",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "GÜNCEL A101 AFİŞİ 29 EKİM | A101 ALDIN ALDIN 29 Ekim aktüel kataloğunda hangi ürünler satışa sunulacak? Olta Kamışı, Olta Seti, Olta Makinesi, Tencere Seti, Tava ve Sahan Seti, Çelik Termos...",
+              "url": "https://www.milliyet.com.tr/galeri/persembe-satista-a101-aldin-aldin-aktuel-katalogu-29-ekim-a101-aldin-aldin-29-ekim-persembe-aktuel-katalogunda-hangi-urunler-7686507",
+              "source": "Milliyet"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "soruşturma",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "İstanbul Barosu Başkan Adayı Kanadoğlu hakkında resen soruşturma başlatıldı",
+              "url": "https://www.trthaber.com/haber/turkiye/istanbul-barosu-baskan-adayi-kanadoglu-hakkinda-resen-sorusturma-baslatildi-961260.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Osman Korkut Kanadoğlu hakkında soruşturma başlatıldı | Son dakika haberleri",
+              "url": "https://www.haberturk.com/gundem/osman-korkut-kanadoglu-hakkinda-sorusturma-baslatildi-3922795",
+              "source": "Habertürk"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "akıllı sayaç",
           "traffic": 500,
           "days": 1,
@@ -168,6 +276,60 @@
           "score": 500
         },
         {
+          "title": "etimesgut - gaziantep fk",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Etimesgut Spor Gaziantep FK maçı ne zaman saat kaçta hangi kanalda?",
+              "url": "https://www.hurriyet.com.tr/sporarena/etimesgut-spor-gaziantep-fk-maci-ne-zaman-saat-kacta-hangi-kanalda-43356177",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "A Spor canlı yayın: Etimesgutspor-Gaziantep FK maçı hangi kanalda?",
+              "url": "https://www.aspor.com.tr/turkiye-kupasi/2026/10/27/a-spor-canli-yayin-etimesgutspor-gaziantep-fk-maci-hangi-kanalda",
+              "source": "A Spor"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "remzi sanver",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Sırlar odasında büyük kaos! Mason Locası&apos;nda meydan savaşı başladı",
+              "url": "https://www.sozcu.com.tr/mason-locasinda-iktidar-savasi-mahkemeye-gitti-lokallere-girisi-yasaklandi-p372749",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Türk Masonlarının Kapalı Kapılar Ardındaki Kavgası Ortaya Çıktı: 42 Yıllık Üye Localardan Men Edildi",
+              "url": "https://onedio.com/haber/turk-masonlarinin-kapali-kapilar-ardindaki-kavgasi-ortaya-cikti-42-yillik-uye-localardan-men-edildi-1391301",
+              "source": "Onedio"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "ihbar tazminatı",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "İşten ayrılacaklar tarihe dikkat! 2027 kıdem tazminatı tavanında 79 bin 916 TL hesabı",
+              "url": "https://www.takvim.com.tr/ekonomi/2026/10/27/kidem-ihbar-tazminati-2027-ocak-zammi-yeni-hesaplama-tablosu",
+              "source": "Takvim"
+            },
+            {
+              "title": "Aynı İşyerinde 10 Yıl Çalışan Ne Kadar Kıdem Tazminatı Alır? İşte Her Çalışan İçin Net Hesaplama",
+              "url": "https://www.yozgatcamlik.com/ekonomi/ayni-isyerinde-10-yil-calisan-ne-kadar-kidem-tazminati-alir-iste-her-calisan-22169029h",
+              "source": "Yozgat Çamlık Gazetesi"
+            }
+          ],
+          "score": 500
+        },
+        {
           "title": "handan dizisi",
           "traffic": 200,
           "days": 1,
@@ -181,6 +343,24 @@
               "title": "Müge Anlı&apos;da Türkiye&apos;yi Sarsan O Hemşirenin Hikayesi Dizi Oldu: Başrolde Usta Bir İsim Var",
               "url": "https://onedio.com/haber/muge-anli-da-turkiye-yi-sarsan-o-olay-dizi-oldu-handan-hemsire-ye-ayta-sozeri-hayat-veriyor-1391177",
               "source": "Onedio"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "elma",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Football Recap: Elma Comes Up Short Despite Treycen Sample&apos;s Big Defensive Game + How To Watch",
+              "url": "https://www.maxpreps.com/news/G7bOuKd9IE-u0WrCaK5ZIA/football-recap-elma-comes-up-short-despite-treycen-samples-big-defensive-game--how-to-watch.htm",
+              "source": "MaxPreps"
+            },
+            {
+              "title": "128 arrested after night of unrest and looting in Barcelona",
+              "url": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona",
+              "source": "Euronews.com"
             }
           ],
           "score": 200
@@ -258,7 +438,7 @@
           "score": 100
         }
       ],
-      "total": 10
+      "total": 20
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -266,14 +446,215 @@
       "color": "#7A7A7A",
       "needs": [],
       "status": "ok",
-      "items": [],
-      "coveredDays": 0,
-      "total": 0
+      "items": [
+        {
+          "title": "Ümit Kocasakal",
+          "article": "Ümit_Kocasakal",
+          "views": 19624,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
+          "score": 19624
+        },
+        {
+          "title": "Oktay Saral",
+          "article": "Oktay_Saral",
+          "views": 13725,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
+          "score": 13725
+        },
+        {
+          "title": "Fenerbahçe-Galatasaray derbisi",
+          "article": "Fenerbahçe-Galatasaray_derbisi",
+          "views": 11742,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
+          "score": 11742
+        },
+        {
+          "title": "Nev",
+          "article": "Nev",
+          "views": 7036,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Nev",
+          "score": 7036
+        },
+        {
+          "title": "Justin.tv",
+          "article": "Justin.tv",
+          "views": 5691,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Justin.tv",
+          "score": 5691
+        },
+        {
+          "title": "Salvobet",
+          "article": "Salvobet",
+          "views": 5441,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Salvobet",
+          "score": 5441
+        },
+        {
+          "title": "Luiz Inácio Lula da Silva",
+          "article": "Luiz_Inácio_Lula_da_Silva",
+          "views": 5408,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+          "score": 5408
+        },
+        {
+          "title": "Ballon d'Or",
+          "article": "Ballon_d'Or",
+          "views": 5073,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
+          "score": 5073
+        },
+        {
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 3681,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 3681
+        },
+        {
+          "title": "E-Devlet (Türkiye)",
+          "article": "E-Devlet_(Türkiye)",
+          "views": 3584,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/E-Devlet_(T%C3%BCrkiye)",
+          "score": 3584
+        },
+        {
+          "title": "Aleksey Batrakov",
+          "article": "Aleksey_Batrakov",
+          "views": 3514,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
+          "score": 3514
+        },
+        {
+          "title": "Anthony Quinn",
+          "article": "Anthony_Quinn",
+          "views": 3492,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Anthony_Quinn",
+          "score": 3492
+        },
+        {
+          "title": "Fenerbahçe-Galatasaray futbol maçları listesi",
+          "article": "Fenerbahçe-Galatasaray_futbol_maçları_listesi",
+          "views": 3314,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_futbol_ma%C3%A7lar%C4%B1_listesi",
+          "score": 3314
+        },
+        {
+          "title": "29 Ekim Cumhuriyet Bayramı",
+          "article": "29_Ekim_Cumhuriyet_Bayramı",
+          "views": 3306,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/29_Ekim_Cumhuriyet_Bayram%C4%B1",
+          "score": 3306
+        },
+        {
+          "title": "İbrahim Özden Kaboğlu",
+          "article": "İbrahim_Özden_Kaboğlu",
+          "views": 2999,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0brahim_%C3%96zden_Kabo%C4%9Flu",
+          "score": 2999
+        },
+        {
+          "title": "İstanbul Barosu",
+          "article": "İstanbul_Barosu",
+          "views": 2870,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_Barosu",
+          "score": 2870
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 2828,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 2828
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 2826,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 2826
+        },
+        {
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 2794,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 2794
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 2790,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 2790
+        },
+        {
+          "title": "Süper Lig şampiyonları listesi",
+          "article": "Süper_Lig_şampiyonları_listesi",
+          "views": 2722,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+          "score": 2722
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 2716,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 2716
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 2694,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 2694
+        },
+        {
+          "title": "Ertan Aydın",
+          "article": "Ertan_Aydın",
+          "views": 2630,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Ertan_Ayd%C4%B1n",
+          "score": 2630
+        },
+        {
+          "title": "2026 Ballon d'Or",
+          "article": "2026_Ballon_d'Or",
+          "views": 2501,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/2026_Ballon_d'Or",
+          "score": 2501
+        }
+      ],
+      "coveredDays": 1,
+      "total": 50
     }
   },
   "overall": [
     {
-      "title": "bursaspor (futbol takımı)",
+      "title": "fırtına",
       "platforms": [
         "google"
       ],
@@ -283,7 +664,17 @@
       "total": 100
     },
     {
-      "title": "selçuk şahin",
+      "title": "Ümit Kocasakal",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 100
+      },
+      "total": 100
+    },
+    {
+      "title": "bursaspor (futbol takımı)",
       "platforms": [
         "google"
       ],
@@ -293,7 +684,17 @@
       "total": 97
     },
     {
-      "title": "luka doncic",
+      "title": "Oktay Saral",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 97
+      },
+      "total": 97
+    },
+    {
+      "title": "selçuk şahin",
       "platforms": [
         "google"
       ],
@@ -303,7 +704,17 @@
       "total": 93
     },
     {
-      "title": "akıllı sayaç",
+      "title": "Fenerbahçe (futbol takımı)",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 93
+      },
+      "total": 93
+    },
+    {
+      "title": "luka doncic",
       "platforms": [
         "google"
       ],
@@ -313,7 +724,17 @@
       "total": 90
     },
     {
-      "title": "boğa",
+      "title": "Nev",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 90
+      },
+      "total": 90
+    },
+    {
+      "title": "önder kahveci",
       "platforms": [
         "google"
       ],
@@ -323,7 +744,17 @@
       "total": 87
     },
     {
-      "title": "handan dizisi",
+      "title": "Justin.tv",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 87
+      },
+      "total": 87
+    },
+    {
+      "title": "tuzla",
       "platforms": [
         "google"
       ],
@@ -333,7 +764,17 @@
       "total": 83
     },
     {
-      "title": "baz puan",
+      "title": "Salvobet",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 83
+      },
+      "total": 83
+    },
+    {
+      "title": "boykot",
       "platforms": [
         "google"
       ],
@@ -343,7 +784,17 @@
       "total": 80
     },
     {
-      "title": "mike tyson",
+      "title": "Luiz Inácio Lula da Silva",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 80
+      },
+      "total": 80
+    },
+    {
+      "title": "a101 aldın aldın",
       "platforms": [
         "google"
       ],
@@ -353,7 +804,17 @@
       "total": 77
     },
     {
-      "title": "black friday ne zaman",
+      "title": "Ballon d'Or",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 77
+      },
+      "total": 77
+    },
+    {
+      "title": "soruşturma",
       "platforms": [
         "google"
       ],
@@ -363,12 +824,32 @@
       "total": 73
     },
     {
-      "title": "phantom blade zero",
+      "title": "Yapay zekâ",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 73
+      },
+      "total": 73
+    },
+    {
+      "title": "akıllı sayaç",
       "platforms": [
         "google"
       ],
       "parts": {
         "google": 70
+      },
+      "total": 70
+    },
+    {
+      "title": "E-Devlet (Türkiye)",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 70
       },
       "total": 70
     }

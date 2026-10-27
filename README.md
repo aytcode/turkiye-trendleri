@@ -34,16 +34,16 @@
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | bursaspor (futbol takımı) | 1 |
-| 2 | selçuk şahin | 1 |
-| 3 | luka doncic | 1 |
-| 4 | akıllı sayaç | 1 |
-| 5 | boğa | 1 |
-| 6 | handan dizisi | 1 |
-| 7 | baz puan | 1 |
-| 8 | mike tyson | 1 |
-| 9 | black friday ne zaman | 1 |
-| 10 | phantom blade zero | 1 |
+| 1 | fırtına | 1 |
+| 2 | Ümit Kocasakal | 1 |
+| 3 | bursaspor (futbol takımı) | 1 |
+| 4 | Oktay Saral | 1 |
+| 5 | selçuk şahin | 1 |
+| 6 | Fenerbahçe (futbol takımı) | 1 |
+| 7 | luka doncic | 1 |
+| 8 | Nev | 1 |
+| 9 | önder kahveci | 1 |
+| 10 | Justin.tv | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
