@@ -37,13 +37,13 @@
 | 1 | fırtına | 1 |
 | 2 | Ümit Kocasakal | 1 |
 | 3 | bursaspor (futbol takımı) | 1 |
-| 4 | Oktay Saral | 1 |
+| 4 | Fenerbahçe-Galatasaray derbisi | 1 |
 | 5 | selçuk şahin | 1 |
-| 6 | Fenerbahçe (futbol takımı) | 1 |
+| 6 | Oktay Saral | 1 |
 | 7 | luka doncic | 1 |
-| 8 | Nev | 1 |
+| 8 | 2026 İsrail yasama seçimi | 1 |
 | 9 | önder kahveci | 1 |
-| 10 | Justin.tv | 1 |
+| 10 | Ballon d'Or | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

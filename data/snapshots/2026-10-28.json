@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-28",
+  "collectedAt": "2026-10-28T11:12:38.996Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "külçe",
+          "traffic": 200,
+          "rank": 1,
+          "news": []
+        },
+        {
+          "title": "voleybol",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Türkiye Voleybol Federasyonu, Vodafone ile işbirliğini 3 yıl uzattı",
+              "url": "https://www.hurriyet.com.tr/sporarena/turkiye-voleybol-federasyonu-vodafone-ile-isbirligini-3-yil-uzatti-43358050",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Voleybolda yeni sponsorluk anlaşması oyuncularla kutlandı",
+              "url": "https://www.sozcu.com.tr/voleybolda-yeni-sponsorluk-anlasmasi-oyuncularla-kutlandi-p373575",
+              "source": "Sözcü Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "julian nagelsmann",
+          "traffic": 100,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Carragher bringt bei Manchester United \"den besten Trainer der Premier League\" ins Gespräch",
+              "url": "https://www.spox.com/fussball/news/beben-bei-manchester-united-jamie-carragher-raet-den-besten-trainer-der-premier-league-zu-verpflichten/blt1c114d8aeca76d0d",
+              "source": "SPOX.com"
+            },
+            {
+              "title": "Manchester United: 3 Mio. Pfund Ablöse für Ex-Stütze des Rivalen fix",
+              "url": "https://onefootball.com/de/news/manchester-united-3-mio-pfund-abloese-fuer-ex-stuetze-des-rivalen-fix-43685163",
+              "source": "OneFootball"
+            }
+          ]
+        },
+        {
+          "title": "asels",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "ASELSAN’ın Elinde 30,7 Milyar Dolarlık İş Var!",
+              "url": "https://www.savunmasanayist.com/aselsan-ucuncu-ceyrek-sonuclari-bakiye-siparis/",
+              "source": "SavunmaSanayiST"
+            },
+            {
+              "title": "ASELSAN&apos;ın 9 aylık cirosu 151,5 milyar lira oldu",
+              "url": "https://aa.com.tr/tr/ekonomi/aselsanin-9-aylik-cirosu-151-5-milyar-lira-oldu/4102950",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "aspor",
+          "traffic": 500,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Galatasaray&apos;da Batrakov paniği! Taraftarların beğenisini kazanmıştı ancak…",
+              "url": "https://www.aspor.com.tr/galatasaray/2026/10/28/transfer-haberi-galatasarayda-batrakov-endisesi-bunu-kimse-beklemiyordu",
+              "source": "A Spor"
+            },
+            {
+              "title": "Derbi sonrası Galatasaray, Batrakov kıymete bindi! Avrupa’nın yarısını peşine taktı",
+              "url": "https://www.fanatik.com.tr/galatasaray/galeri-derbi-sonrasi-galatasaray-batrakov-kiymete-bindi-avrupanin-yarisini-pesine-takti-2642562",
+              "source": "Fanatik"
+            }
+          ]
+        },
+        {
+          "title": "emekli zammı",
+          "traffic": 1000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "İktidarın emekliye seçim planı şekilleniyor: Emekliler bu zamma ne diyecek?",
+              "url": "https://www.sozcu.com.tr/iktidarin-emekliye-secim-plani-sekilleniyor-emekliler-bu-zamma-ne-diyecek-p373558",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "2027 Ocak emekli zammı için 4 formül masada: Seyyanen zam ve refah payı ayrıntısı",
+              "url": "https://www.cumhuriyet.com.tr/ekonomi/2027-ocak-emekli-zammi-icin-4-formul-masada-seyyanen-zam-ve-refah-payi-ayrintisi-2550955",
+              "source": "Cumhuriyet"
+            }
+          ]
+        },
+        {
+          "title": "ankaraspor - kırklarelispor",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Ankaraspor-Kırklarelispor maçı hangi kanalda?",
+              "url": "https://www.alanyapostasi.com.tr/ankaraspor-kirklarelispor-maci-hangi-kanalda",
+              "source": "Alanya Postası"
+            },
+            {
+              "title": "CANLI | Silivrispor - Beyoğlu Yeni Çarşı maçı başladı",
+              "url": "https://www.canligaste.com/canli-silivrispor-beyoglu-yeni-carsi-maci-basladi/937567/",
+              "source": "Canlı Gaste"
+            }
+          ]
+        },
+        {
+          "title": "play store",
+          "traffic": 200,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+              "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+              "source": "Ars Technica"
+            },
+            {
+              "title": "Android&apos;s sideloading experience is getting stricter, but it still can&apos;t do this one basic thing",
+              "url": "https://www.androidauthority.com/android-sideloading-crackdown-lack-basic-feature-3726602/",
+              "source": "Android Authority"
+            }
+          ]
+        },
+        {
+          "title": "düzcespor - isparta 32",
+          "traffic": 200,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Isparta 32 Spor’da Gözler Düzcespor Maçında!",
+              "url": "https://www.haber32.com.tr/isparta-32-sporda-gozler-duzcespor-macinda",
+              "source": "Haber32"
+            },
+            {
+              "title": "Hakemler 4 ayrı bölgeden",
+              "url": "https://www.duzceninsesi.com.tr/haber/29061490/hakemler-4-ayri-bolgeden",
+              "source": "Düzcenin Sesi"
+            }
+          ]
+        },
+        {
+          "title": "nöbetçi eczane",
+          "traffic": 2000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Kırıkkale&apos;de bu gece hangi eczaneler açık? 24 Ekim 2026 nöbetçi eczane listesi yayımlandı!",
+              "url": "https://www.ilgazetesi.com.tr/kirikkalede-bu-gece-hangi-eczaneler-acik-24-ekim-2026-nobetci-eczane-listesi-336308h.htm",
+              "source": "İl Gazetesi"
+            },
+            {
+              "title": "Kırıkkale Nöbetçi Eczaneleri (28 Ekim)",
+              "url": "https://www.kalehaber.net/kirikkale-nobetci-eczaneleri-28-ekim-1",
+              "source": "Kalehaber"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

@@ -13,8 +13,8 @@
   "end": "2026-11-01",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-27T10:21:29.047Z",
-  "snapshotDays": 2,
+  "generatedAt": "2026-10-28T11:12:38.996Z",
+  "snapshotDays": 3,
   "activeSources": [
     "google",
     "wikipedia"
@@ -186,6 +186,24 @@
           "score": 2000
         },
         {
+          "title": "nöbetçi eczane",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Kırıkkale&apos;de bu gece hangi eczaneler açık? 24 Ekim 2026 nöbetçi eczane listesi yayımlandı!",
+              "url": "https://www.ilgazetesi.com.tr/kirikkalede-bu-gece-hangi-eczaneler-acik-24-ekim-2026-nobetci-eczane-listesi-336308h.htm",
+              "source": "İl Gazetesi"
+            },
+            {
+              "title": "Kırıkkale Nöbetçi Eczaneleri (28 Ekim)",
+              "url": "https://www.kalehaber.net/kirikkale-nobetci-eczaneleri-28-ekim-1",
+              "source": "Kalehaber"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "boykot",
           "traffic": 1000,
           "days": 1,
@@ -235,6 +253,24 @@
               "title": "Osman Korkut Kanadoğlu hakkında soruşturma başlatıldı | Son dakika haberleri",
               "url": "https://www.haberturk.com/gundem/osman-korkut-kanadoglu-hakkinda-sorusturma-baslatildi-3922795",
               "source": "Habertürk"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "emekli zammı",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "İktidarın emekliye seçim planı şekilleniyor: Emekliler bu zamma ne diyecek?",
+              "url": "https://www.sozcu.com.tr/iktidarin-emekliye-secim-plani-sekilleniyor-emekliler-bu-zamma-ne-diyecek-p373558",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "2027 Ocak emekli zammı için 4 formül masada: Seyyanen zam ve refah payı ayrıntısı",
+              "url": "https://www.cumhuriyet.com.tr/ekonomi/2027-ocak-emekli-zammi-icin-4-formul-masada-seyyanen-zam-ve-refah-payi-ayrintisi-2550955",
+              "source": "Cumhuriyet"
             }
           ],
           "score": 1000
@@ -330,6 +366,24 @@
           "score": 500
         },
         {
+          "title": "aspor",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Galatasaray&apos;da Batrakov paniği! Taraftarların beğenisini kazanmıştı ancak…",
+              "url": "https://www.aspor.com.tr/galatasaray/2026/10/28/transfer-haberi-galatasarayda-batrakov-endisesi-bunu-kimse-beklemiyordu",
+              "source": "A Spor"
+            },
+            {
+              "title": "Derbi sonrası Galatasaray, Batrakov kıymete bindi! Avrupa’nın yarısını peşine taktı",
+              "url": "https://www.fanatik.com.tr/galatasaray/galeri-derbi-sonrasi-galatasaray-batrakov-kiymete-bindi-avrupanin-yarisini-pesine-takti-2642562",
+              "source": "Fanatik"
+            }
+          ],
+          "score": 500
+        },
+        {
           "title": "handan dizisi",
           "traffic": 200,
           "days": 1,
@@ -366,79 +420,104 @@
           "score": 200
         },
         {
-          "title": "baz puan",
-          "traffic": 100,
+          "title": "külçe",
+          "traffic": 200,
           "days": 1,
-          "news": [
-            {
-              "title": "İngiliz kuruluştan Merkez Bankası için 850 baz puanlık faiz indirimi tahmini",
-              "url": "https://www.sozcu.com.tr/ingiliz-kurulustan-merkez-bankasi-icin-850-baz-puanlik-faiz-indirimi-tahmini-p372855",
-              "source": "Sözcü Gazetesi"
-            },
-            {
-              "title": "İngiliz kuruluştan TCMB için 850 baz puanlık faiz indirimi tahmini",
-              "url": "https://www.ekonomim.com/ekonomi/ingiliz-kurulustan-tcmb-icin-850-baz-puanlik-faiz-indirimi-tahmini-haberi-927056",
-              "source": "Ekonomim"
-            }
-          ],
-          "score": 100
+          "news": [],
+          "score": 200
         },
         {
-          "title": "mike tyson",
-          "traffic": 100,
+          "title": "voleybol",
+          "traffic": 200,
           "days": 1,
           "news": [
             {
-              "title": "Herkesin merak ettiği konuk oyuncu belli oldu: Tuzlu Kahve’ye ‘gezegenin en belalı adamı’ geliyor",
-              "url": "https://www.sozcu.com.tr/herkesin-merak-ettigi-konuk-oyuncu-belli-oldu-tuzlu-kahve-ye-gezegenin-en-belali-adami-geliyor-p372833",
-              "source": "Sözcü Gazetesi"
+              "title": "Türkiye Voleybol Federasyonu, Vodafone ile işbirliğini 3 yıl uzattı",
+              "url": "https://www.hurriyet.com.tr/sporarena/turkiye-voleybol-federasyonu-vodafone-ile-isbirligini-3-yil-uzatti-43358050",
+              "source": "Hürriyet"
             },
             {
-              "title": "Mike Tyson, Tuzlu Kahve dizisine konuk oluyor",
-              "url": "https://www.cumhuriyet.com.tr/yasam/mike-tyson-tuzlu-kahve-dizisine-konuk-oluyor-2550277",
-              "source": "Cumhuriyet"
+              "title": "Voleybolda yeni sponsorluk anlaşması oyuncularla kutlandı",
+              "url": "https://www.sozcu.com.tr/voleybolda-yeni-sponsorluk-anlasmasi-oyuncularla-kutlandi-p373575",
+              "source": "Sözcü Gazetesi"
             }
           ],
-          "score": 100
+          "score": 200
         },
         {
-          "title": "black friday ne zaman",
-          "traffic": 100,
+          "title": "asels",
+          "traffic": 200,
           "days": 1,
           "news": [
             {
-              "title": "Bu tarihlerde alışveriş yapanlar dikkat: IBAN tuzağına düşmeyin",
-              "url": "https://www.sozcu.com.tr/bu-tarihlerde-alisveris-yapanlar-dikkat-iban-tuzagina-dusmeyin-p372538",
-              "source": "Sözcü Gazetesi"
+              "title": "ASELSAN’ın Elinde 30,7 Milyar Dolarlık İş Var!",
+              "url": "https://www.savunmasanayist.com/aselsan-ucuncu-ceyrek-sonuclari-bakiye-siparis/",
+              "source": "SavunmaSanayiST"
             },
             {
-              "title": "Kasım indirimleriyle aylık e-ticaret hacminin 600 milyar liraya ulaşması bekleniyor",
-              "url": "https://www.aa.com.tr/tr/ekonomi/kasim-indirimleriyle-aylik-e-ticaret-hacminin-600-milyar-liraya-ulasmasi-bekleniyor/4100812",
+              "title": "ASELSAN&apos;ın 9 aylık cirosu 151,5 milyar lira oldu",
+              "url": "https://aa.com.tr/tr/ekonomi/aselsanin-9-aylik-cirosu-151-5-milyar-lira-oldu/4102950",
               "source": "Anadolu Ajansı"
             }
           ],
-          "score": 100
+          "score": 200
         },
         {
-          "title": "phantom blade zero",
-          "traffic": 100,
+          "title": "ankaraspor - kırklarelispor",
+          "traffic": 200,
           "days": 1,
           "news": [
             {
-              "title": "Phantom Blade Zero Review In Progress – Shaping Up To Be One Of The Best Action Games I&apos;ve Ever Played",
-              "url": "https://gameinformer.com/review-in-progress/2026/10/25/phantom-blade-zero-review-in-progress-shaping-up-to-be-one-of-the",
-              "source": "Game Informer"
+              "title": "Ankaraspor-Kırklarelispor maçı hangi kanalda?",
+              "url": "https://www.alanyapostasi.com.tr/ankaraspor-kirklarelispor-maci-hangi-kanalda",
+              "source": "Alanya Postası"
             },
             {
-              "title": "Phantom Blade Zero’s Combat Is So Good, You Won’t Care The Story Makes No Sense",
-              "url": "https://www.gamespot.com/reviews/phantom-blade-zeros-combat-is-so-good-you-wont-care-the-story-makes-no-sense/",
-              "source": "GameSpot"
+              "title": "CANLI | Silivrispor - Beyoğlu Yeni Çarşı maçı başladı",
+              "url": "https://www.canligaste.com/canli-silivrispor-beyoglu-yeni-carsi-maci-basladi/937567/",
+              "source": "Canlı Gaste"
             }
           ],
-          "score": 100
+          "score": 200
+        },
+        {
+          "title": "play store",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+              "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+              "source": "Ars Technica"
+            },
+            {
+              "title": "Android&apos;s sideloading experience is getting stricter, but it still can&apos;t do this one basic thing",
+              "url": "https://www.androidauthority.com/android-sideloading-crackdown-lack-basic-feature-3726602/",
+              "source": "Android Authority"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "düzcespor - isparta 32",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Isparta 32 Spor’da Gözler Düzcespor Maçında!",
+              "url": "https://www.haber32.com.tr/isparta-32-sporda-gozler-duzcespor-macinda",
+              "source": "Haber32"
+            },
+            {
+              "title": "Hakemler 4 ayrı bölgeden",
+              "url": "https://www.duzceninsesi.com.tr/haber/29061490/hakemler-4-ayri-bolgeden",
+              "source": "Düzcenin Sesi"
+            }
+          ],
+          "score": 200
         }
       ],
-      "total": 20
+      "total": 30
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -450,205 +529,205 @@
         {
           "title": "Ümit Kocasakal",
           "article": "Ümit_Kocasakal",
-          "views": 19624,
-          "days": 1,
+          "views": 24738,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
-          "score": 19624
-        },
-        {
-          "title": "Oktay Saral",
-          "article": "Oktay_Saral",
-          "views": 13725,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
-          "score": 13725
+          "score": 24738
         },
         {
           "title": "Fenerbahçe-Galatasaray derbisi",
           "article": "Fenerbahçe-Galatasaray_derbisi",
-          "views": 11742,
-          "days": 1,
+          "views": 19714,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
-          "score": 11742
+          "score": 19714
         },
         {
-          "title": "Nev",
-          "article": "Nev",
-          "views": 7036,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Nev",
-          "score": 7036
+          "title": "Oktay Saral",
+          "article": "Oktay_Saral",
+          "views": 17381,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
+          "score": 17381
         },
         {
-          "title": "Justin.tv",
-          "article": "Justin.tv",
-          "views": 5691,
+          "title": "2026 İsrail yasama seçimi",
+          "article": "2026_İsrail_yasama_seçimi",
+          "views": 15500,
           "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Justin.tv",
-          "score": 5691
-        },
-        {
-          "title": "Salvobet",
-          "article": "Salvobet",
-          "views": 5441,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Salvobet",
-          "score": 5441
-        },
-        {
-          "title": "Luiz Inácio Lula da Silva",
-          "article": "Luiz_Inácio_Lula_da_Silva",
-          "views": 5408,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
-          "score": 5408
+          "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
+          "score": 15500
         },
         {
           "title": "Ballon d'Or",
           "article": "Ballon_d'Or",
-          "views": 5073,
-          "days": 1,
+          "views": 12028,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
-          "score": 5073
+          "score": 12028
         },
         {
-          "title": "Yapay zekâ",
-          "article": "Yapay_zekâ",
-          "views": 3681,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 3681
+          "title": "Nev",
+          "article": "Nev",
+          "views": 9066,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Nev",
+          "score": 9066
         },
         {
-          "title": "E-Devlet (Türkiye)",
-          "article": "E-Devlet_(Türkiye)",
-          "views": 3584,
+          "title": "Burhaneddin Kirmânî",
+          "article": "Burhaneddin_Kirmânî",
+          "views": 8944,
           "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/E-Devlet_(T%C3%BCrkiye)",
-          "score": 3584
+          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
+          "score": 8944
         },
         {
-          "title": "Aleksey Batrakov",
-          "article": "Aleksey_Batrakov",
-          "views": 3514,
+          "title": "Gadi Eisenkot",
+          "article": "Gadi_Eisenkot",
+          "views": 8644,
           "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
-          "score": 3514
+          "url": "https://tr.wikipedia.org/wiki/Gadi_Eisenkot",
+          "score": 8644
         },
         {
-          "title": "Anthony Quinn",
-          "article": "Anthony_Quinn",
-          "views": 3492,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Anthony_Quinn",
-          "score": 3492
-        },
-        {
-          "title": "Fenerbahçe-Galatasaray futbol maçları listesi",
-          "article": "Fenerbahçe-Galatasaray_futbol_maçları_listesi",
-          "views": 3314,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_futbol_ma%C3%A7lar%C4%B1_listesi",
-          "score": 3314
+          "title": "İsmail Kartal",
+          "article": "İsmail_Kartal",
+          "views": 8448,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
+          "score": 8448
         },
         {
           "title": "29 Ekim Cumhuriyet Bayramı",
           "article": "29_Ekim_Cumhuriyet_Bayramı",
-          "views": 3306,
-          "days": 1,
+          "views": 7946,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/29_Ekim_Cumhuriyet_Bayram%C4%B1",
-          "score": 3306
+          "score": 7946
         },
         {
-          "title": "İbrahim Özden Kaboğlu",
-          "article": "İbrahim_Özden_Kaboğlu",
-          "views": 2999,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0brahim_%C3%96zden_Kabo%C4%9Flu",
-          "score": 2999
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 7858,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 7858
         },
         {
-          "title": "İstanbul Barosu",
-          "article": "İstanbul_Barosu",
-          "views": 2870,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_Barosu",
-          "score": 2870
+          "title": "Luiz Inácio Lula da Silva",
+          "article": "Luiz_Inácio_Lula_da_Silva",
+          "views": 6964,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+          "score": 6964
         },
         {
-          "title": "Teknoloji",
-          "article": "Teknoloji",
-          "views": 2828,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 2828
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 6645,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 6645
         },
         {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 2826,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 2826
-        },
-        {
-          "title": "Bilim",
-          "article": "Bilim",
-          "views": 2794,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 2794
-        },
-        {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 2790,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 2790
-        },
-        {
-          "title": "Süper Lig şampiyonları listesi",
-          "article": "Süper_Lig_şampiyonları_listesi",
-          "views": 2722,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
-          "score": 2722
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 6583,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 6583
         },
         {
           "title": "Sanat",
           "article": "Sanat",
-          "views": 2716,
-          "days": 1,
+          "views": 6272,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 2716
+          "score": 6272
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 6242,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 6242
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 6231,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 6231
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 6207,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 6207
+        },
+        {
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 6170,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 6170
+        },
+        {
+          "title": "Aleksey Batrakov",
+          "article": "Aleksey_Batrakov",
+          "views": 6101,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
+          "score": 6101
+        },
+        {
+          "title": "Justin.tv",
+          "article": "Justin.tv",
+          "views": 6076,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Justin.tv",
+          "score": 6076
+        },
+        {
+          "title": "E-Devlet (Türkiye)",
+          "article": "E-Devlet_(Türkiye)",
+          "views": 5809,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/E-Devlet_(T%C3%BCrkiye)",
+          "score": 5809
         },
         {
           "title": "Cinsel ilişki",
           "article": "Cinsel_ilişki",
-          "views": 2694,
-          "days": 1,
+          "views": 5741,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 2694
+          "score": 5741
         },
         {
-          "title": "Ertan Aydın",
-          "article": "Ertan_Aydın",
-          "views": 2630,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Ertan_Ayd%C4%B1n",
-          "score": 2630
+          "title": "I. Selim",
+          "article": "I._Selim",
+          "views": 5659,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/I._Selim",
+          "score": 5659
         },
         {
-          "title": "2026 Ballon d'Or",
-          "article": "2026_Ballon_d'Or",
-          "views": 2501,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/2026_Ballon_d'Or",
-          "score": 2501
+          "title": "Fenerbahçe-Galatasaray futbol maçları listesi",
+          "article": "Fenerbahçe-Galatasaray_futbol_maçları_listesi",
+          "views": 5486,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_futbol_ma%C3%A7lar%C4%B1_listesi",
+          "score": 5486
         }
       ],
-      "coveredDays": 1,
+      "coveredDays": 2,
       "total": 50
     }
   },
@@ -684,7 +763,7 @@
       "total": 97
     },
     {
-      "title": "Oktay Saral",
+      "title": "Fenerbahçe-Galatasaray derbisi",
       "platforms": [
         "wikipedia"
       ],
@@ -704,7 +783,7 @@
       "total": 93
     },
     {
-      "title": "Fenerbahçe (futbol takımı)",
+      "title": "Oktay Saral",
       "platforms": [
         "wikipedia"
       ],
@@ -724,7 +803,7 @@
       "total": 90
     },
     {
-      "title": "Nev",
+      "title": "2026 İsrail yasama seçimi",
       "platforms": [
         "wikipedia"
       ],
@@ -744,7 +823,7 @@
       "total": 87
     },
     {
-      "title": "Justin.tv",
+      "title": "Ballon d'Or",
       "platforms": [
         "wikipedia"
       ],
@@ -764,7 +843,7 @@
       "total": 83
     },
     {
-      "title": "Salvobet",
+      "title": "Nev",
       "platforms": [
         "wikipedia"
       ],
@@ -774,7 +853,7 @@
       "total": 83
     },
     {
-      "title": "boykot",
+      "title": "nöbetçi eczane",
       "platforms": [
         "google"
       ],
@@ -784,7 +863,7 @@
       "total": 80
     },
     {
-      "title": "Luiz Inácio Lula da Silva",
+      "title": "Burhaneddin Kirmânî",
       "platforms": [
         "wikipedia"
       ],
@@ -794,7 +873,7 @@
       "total": 80
     },
     {
-      "title": "a101 aldın aldın",
+      "title": "boykot",
       "platforms": [
         "google"
       ],
@@ -804,7 +883,7 @@
       "total": 77
     },
     {
-      "title": "Ballon d'Or",
+      "title": "Gadi Eisenkot",
       "platforms": [
         "wikipedia"
       ],
@@ -814,7 +893,7 @@
       "total": 77
     },
     {
-      "title": "soruşturma",
+      "title": "a101 aldın aldın",
       "platforms": [
         "google"
       ],
@@ -824,7 +903,7 @@
       "total": 73
     },
     {
-      "title": "Yapay zekâ",
+      "title": "İsmail Kartal",
       "platforms": [
         "wikipedia"
       ],
@@ -834,7 +913,7 @@
       "total": 73
     },
     {
-      "title": "akıllı sayaç",
+      "title": "soruşturma",
       "platforms": [
         "google"
       ],
@@ -844,7 +923,7 @@
       "total": 70
     },
     {
-      "title": "E-Devlet (Türkiye)",
+      "title": "29 Ekim Cumhuriyet Bayramı",
       "platforms": [
         "wikipedia"
       ],
