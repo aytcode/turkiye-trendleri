@@ -5,7 +5,7 @@ import { http, addDays, ymd } from '../util.mjs';
 export const meta = {
   id: 'tiktok',
   name: 'TikTok',
-  color: '#25F4EE',
+  color: '#14B8C4',
   needs: ['TIKTOK_CLIENT_KEY', 'TIKTOK_CLIENT_SECRET'],
 };
 

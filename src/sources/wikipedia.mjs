@@ -1,7 +1,7 @@
 // Türkçe Vikipedi — en çok okunan maddeler (Wikimedia REST API, anahtar gerekmez)
 import { http, log } from '../util.mjs';
 
-export const meta = { id: 'wikipedia', name: 'Vikipedi', color: '#7A7A7A', needs: [] };
+export const meta = { id: 'wikipedia', name: 'Vikipedi', color: '#8E8E93', needs: [] };
 
 const SKIP = /^(Anasayfa|Ana_Sayfa|Özel:|Vikipedi:|Dosya:|Kategori:|Portal:|Yardım:|Şablon:|Kullanıcı:|Tartışma:|-)/;
 // Her hafta zirvede olan "kalıcı" sayfalar trend sayılmaz; yetişkin içerik raporda gösterilmez

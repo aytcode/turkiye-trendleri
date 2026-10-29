@@ -1,36 +1,36 @@
 <div align="center">
 
-# 🇹🇷 Türkiye'de En Popüler 2026 Trendleri
+# Türkiye'de En Popüler 2026 Trendleri
 
 **X, TikTok, Instagram, YouTube, Google Trends ve Vikipedi'den Türkiye gündemini toplayan, her hafta grafikli rapor yayınlayan açık kaynak bot.**
 
 [![Trend raporu](https://github.com/aytcode/turkiye-trendleri/actions/workflows/trendler.yml/badge.svg)](https://github.com/aytcode/turkiye-trendleri/actions/workflows/trendler.yml)
-[![GitHub Pages](https://img.shields.io/badge/canl%C4%B1%20site-GitHub%20Pages-e30a17?logo=github)](https://aytcode.github.io/turkiye-trendleri/)
-[![Node.js](https://img.shields.io/badge/node-%E2%89%A520-339933?logo=node.js&logoColor=white)](package.json)
-[![Bağımlılık yok](https://img.shields.io/badge/ba%C4%9F%C4%B1ml%C4%B1l%C4%B1k-0-brightgreen)](package.json)
 [![Lisans: MIT](https://img.shields.io/badge/lisans-MIT-blue)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/aytcode/turkiye-trendleri?style=social)](https://github.com/aytcode/turkiye-trendleri/stargazers)
 
-[**🌐 Canlı site**](https://aytcode.github.io/turkiye-trendleri/) · [**📊 Son rapor**](#-son-rapor) · [**🧪 Örnek rapor**](https://aytcode.github.io/turkiye-trendleri/ornek.html) · [**🔑 API anahtarları**](#-api-anahtarları)
+[Canlı site](https://aytcode.github.io/turkiye-trendleri/) · [Son rapor](#son-rapor) · [Örnek rapor](https://aytcode.github.io/turkiye-trendleri/ornek.html) · [API anahtarları](#api-anahtarları)
 
-<img src="docs/assets/anasayfa.png" alt="Türkiye Trendleri ana sayfa ekran görüntüsü" width="860">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/anasayfa-koyu.png">
+  <img src="docs/assets/anasayfa.png" alt="Türkiye Trendleri ana sayfa ekran görüntüsü" width="860">
+</picture>
 
 </div>
 
-## ✨ Neler yapar?
+## Neler yapar?
 
-- 📡 **6 kaynak, tek rapor** — Google Trends, Vikipedi, YouTube, X (Twitter), TikTok ve Instagram.
-- 🔥 **"Haftanın Konuları"** — aynı konu farklı platformlarda eşleştirilir (`#KışSaati` = `kış saati`) ve platformlar arası tek bir puanla sıralanır.
-- 📊 **Grafikli HTML + Markdown** — her hafta [chart.js](https://www.chartjs.org/) grafikleriyle bir sayfa ve GitHub'da okunabilen bir `.md` raporu.
-- 🤖 **Tamamen otomatik** — GitHub Actions her gün veri toplar, her hafta raporu kesinleştirir ve GitHub Pages'e yayınlar.
-- 🧩 **Anahtar yoksa çökmez** — API anahtarı eklenmemiş platformlar raporda "atlandı" olarak görünür; Google Trends ve Vikipedi **anahtarsız** çalışır.
-- 🪶 **Sıfır bağımlılık** — yalnızca Node.js ≥ 20 (yerleşik `fetch`). `npm install` bile gerekmez.
-- 🗂️ **Açık veri** — her haftanın ham verisi JSON olarak: [`docs/data/weeks.json`](https://aytcode.github.io/turkiye-trendleri/data/weeks.json).
+- **6 kaynak, tek rapor** — Google Trends, Vikipedi, YouTube, X (Twitter), TikTok ve Instagram.
+- **"Haftanın Konuları"** — aynı konu farklı platformlarda eşleştirilir (`#KışSaati` = `kış saati`) ve platformlar arası tek bir puanla sıralanır.
+- **Grafikli HTML + Markdown** — her hafta [chart.js](https://www.chartjs.org/) grafikleriyle bir sayfa ve GitHub'da okunabilen bir `.md` raporu.
+- **Tamamen otomatik** — GitHub Actions her gün veri toplar, her hafta raporu kesinleştirir ve GitHub Pages'e yayınlar.
+- **Anahtar yoksa çökmez** — API anahtarı eklenmemiş platformlar raporda "atlandı" olarak görünür; Google Trends ve Vikipedi **anahtarsız** çalışır.
+- **Sıfır bağımlılık** — yalnızca Node.js ≥ 20 (yerleşik `fetch`). `npm install` bile gerekmez.
+- **Açık veri** — her haftanın ham verisi JSON olarak: [`docs/data/weeks.json`](https://aytcode.github.io/turkiye-trendleri/data/weeks.json).
 
-## 📊 Son rapor
+## Son rapor
 
 <!-- SON-RAPOR:BASLA -->
-**2026-W44** (2026-10-26 → 2026-11-01) · ⏳ hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W44.html) · [Markdown](reports/2026-W44.md)
+**2026-W44** (2026-10-26 → 2026-11-01) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W44.html) · [Markdown](reports/2026-W44.md)
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
@@ -48,14 +48,14 @@
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
 
-## 🖼️ Ekran görüntüsü
+## Ekran görüntüsü
 
 <div align="center">
 <img src="docs/assets/ornek-rapor.png" alt="Örnek haftalık rapor (örnek veri)" width="760">
-<br><sub>Tüm platformlar etkinken bir haftalık rapor — <a href="https://aytcode.github.io/turkiye-trendleri/ornek.html">örnek sayfa</a> (⚠️ uydurma örnek veri)</sub>
+<br><sub>Tüm platformlar etkinken bir haftalık rapor — <a href="https://aytcode.github.io/turkiye-trendleri/ornek.html">örnek sayfa</a> (uydurma örnek veri)</sub>
 </div>
 
-## ⚙️ Nasıl çalışır?
+## Nasıl çalışır?
 
 ```mermaid
 flowchart LR
@@ -81,7 +81,7 @@ flowchart LR
 3. **Platformlar arası puan.** Her platformun ilk 30 konusu sırasına göre 100'den 3'e kadar puan alır; aynı konu birden çok platformda varsa puanlar toplanır. Ölçekleri çok farklı olan platformları (izlenme vs. arama) adil karşılaştırmak için ham sayılar yerine sıra kullanılır.
 4. **Yayın.** Markdown, HTML ve JSON üretilir, depoya commit'lenir ve `docs/` GitHub Pages'e yüklenir.
 
-## 🔑 API anahtarları
+## API anahtarları
 
 Tüm anahtarlar **isteğe bağlıdır**. Depoda **Settings → Secrets and variables → Actions → New repository secret** yolundan ekleyin:
 
@@ -94,11 +94,11 @@ Tüm anahtarlar **isteğe bağlıdır**. Depoda **Settings → Secrets and varia
 | TikTok | `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET` | Başvuru ile (Research API) | [TikTok Research API](https://developers.tiktok.com/products/research-api/) onaylı uygulamanın client key/secret'ı. |
 | Instagram | `IG_USER_ID`, `IG_ACCESS_TOKEN` | Ücretsiz, Business/Creator hesap | [Instagram Graph API — Hashtag Search](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-hashtag-search). Uzun ömürlü erişim jetonu + IG kullanıcı kimliği. 7 günde en fazla 30 hashtag sınırı nedeniyle haftada 12 hashtag sorgulanır. |
 
-> 💡 En hızlı kazanım: yalnızca `YOUTUBE_API_KEY` ekleyin — ücretsizdir ve 5 dakikada alınır.
+> En hızlı kazanım: yalnızca `YOUTUBE_API_KEY` ekleyin — ücretsizdir ve 5 dakikada alınır.
 
-> ℹ️ Instagram herkese açık bir "trend listesi" sunmaz. Bot, diğer platformlarda öne çıkan konuları hashtag olarak arar ve son 7 günün popüler gönderilerindeki beğeni + yorum toplamını ölçer.
+> Instagram herkese açık bir "trend listesi" sunmaz. Bot, diğer platformlarda öne çıkan konuları hashtag olarak arar ve son 7 günün popüler gönderilerindeki beğeni + yorum toplamını ölçer.
 
-## 💻 Yerelde çalıştırma
+## Yerelde çalıştırma
 
 ```bash
 git clone https://github.com/aytcode/turkiye-trendleri.git
@@ -122,7 +122,7 @@ YOUTUBE_API_KEY=xxx node src/cli.mjs run
 | `node src/cli.mjs demo` | Uydurma örnek veriyle `docs/ornek.html` üretir |
 | `npm test` | Birim testleri |
 
-## 🍴 Kendi ülken / kendi sayfan için
+## Kendi ülken / kendi sayfan için
 
 1. Depoyu **fork**'la.
 2. **Settings → Pages → Source: GitHub Actions** seç.
@@ -130,7 +130,7 @@ YOUTUBE_API_KEY=xxx node src/cli.mjs run
 
 Başka bir ülke için `geo=TR`, `regionCode=TR`, WOEID (`23424969`), `region_code` ve `tr.wikipedia` değerlerini `src/sources/` altında değiştirmen yeterli.
 
-## 🗂️ Proje yapısı
+## Proje yapısı
 
 ```
 src/
@@ -145,24 +145,24 @@ docs/                  GitHub Pages sitesi (index, hafta/*, data/*, assets/)
 .github/workflows/     zamanlanmış GitHub Actions iş akışı
 ```
 
-## 🛣️ Yol haritası
+## Yol haritası
 
 - [ ] Haftadan haftaya yükselen/düşen konular (📈/📉)
 - [ ] Şehir bazlı Google Trends
 - [ ] RSS akışı ve Telegram/Discord bildirimi
 - [ ] Spotify Türkiye Top 50
 
-## 🤝 Katkı
+## Katkı
 
 Hata bildirimi, yeni kaynak veya tasarım önerileri için [issue](https://github.com/aytcode/turkiye-trendleri/issues) açabilir ya da PR gönderebilirsin. Yeni bir kaynak eklemek için `src/sources/` altındaki modüllerden birini örnek alman yeterli.
 
-Proje işine yaradıysa ⭐ vermeyi unutma — daha çok kişinin görmesini sağlar!
+Proje işine yaradıysa yıldız vermeyi unutma — daha çok kişinin görmesini sağlar!
 
-## ⚖️ Lisans ve sorumluluk reddi
+## Lisans ve sorumluluk reddi
 
 [MIT](LICENSE). Veriler ilgili platformların resmi API'lerinden ve herkese açık akışlarından alınır; her platformun kullanım koşulları geçerlidir. X, TikTok, Instagram, YouTube, Google ve Wikipedia ilgili sahiplerinin ticari markalarıdır; bu proje onlarla bağlantılı değildir. "Örnek rapor" sayfası yalnızca tasarımı göstermek için uydurulmuş veriler içerir.
 
-## 🛡️ VirusTotal
+## VirusTotal
 
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F93%20temiz-brightgreen?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/c5b61512ab5d97fd5b964053e5d75146ccfd8e6b53edd45478d853fd5fb1c2e7)
 

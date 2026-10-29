@@ -9,7 +9,7 @@ import { readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readJson, writeJson, writeText, isoWeek, weekDays, addDays, ymd, log } from './util.mjs';
-import { buildModel } from './model.mjs';
+import { buildModel, META } from './model.mjs';
 import { renderMarkdown } from './render/markdown.mjs';
 import { reportPage, indexPage } from './render/html.mjs';
 import * as google from './sources/google-trends.mjs';
@@ -99,6 +99,8 @@ async function build() {
   const weeks = [];
   for (const f of files) {
     const m = JSON.parse(await readFile(join(P.weeks, f), 'utf8'));
+    // Eski haftalar da güncel platform adı/rengiyle çizilsin
+    for (const s of Object.values(m.sources)) Object.assign(s, META[s.id]);
     weeks.push(m);
     await writeText(join(P.reports, `${m.week}.md`), renderMarkdown(m));
     await writeText(join(P.docs, 'hafta', `${m.week}.html`), reportPage(m));
@@ -130,7 +132,7 @@ async function updateReadme(m) {
     .map((t, i) => `| ${i + 1} | ${t.title.replace(/\|/g, '\\|')} | ${t.platforms.length} |`)
     .join('\n');
   const block = `<!-- SON-RAPOR:BASLA -->
-**${m.week}** (${m.start} → ${m.end})${m.final ? '' : ' · ⏳ hafta devam ediyor'} — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/${m.week}.html) · [Markdown](reports/${m.week}.md)
+**${m.week}** (${m.start} → ${m.end})${m.final ? '' : ' · hafta devam ediyor'} — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/${m.week}.html) · [Markdown](reports/${m.week}.md)
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|

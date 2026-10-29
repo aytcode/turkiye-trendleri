@@ -35,7 +35,7 @@
     "tiktok": {
       "id": "tiktok",
       "name": "TikTok",
-      "color": "#25F4EE",
+      "color": "#14B8C4",
       "needs": [
         "TIKTOK_CLIENT_KEY",
         "TIKTOK_CLIENT_SECRET"
@@ -443,7 +443,7 @@
     "wikipedia": {
       "id": "wikipedia",
       "name": "Vikipedi",
-      "color": "#7A7A7A",
+      "color": "#8E8E93",
       "needs": [],
       "status": "ok",
       "items": [

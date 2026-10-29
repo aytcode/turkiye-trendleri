@@ -31,7 +31,7 @@ export const COLUMNS = {
   youtube: {
     metric: { label: 'İzlenme', value: (i) => i.views },
     cols: [
-      { label: 'Kanal', value: (i) => i.channel, text: true },
+      { label: 'Kanal', value: (i) => i.channel, sub: true },
       { label: 'İzlenme', value: (i) => compactNumber(i.views) },
       { label: 'Kategori', value: (i) => i.category, text: true },
       days,
@@ -41,7 +41,7 @@ export const COLUMNS = {
     metric: { label: 'Tahmini arama', value: (i) => i.traffic },
     cols: [
       { label: 'Arama', value: (i) => `${compactNumber(i.traffic)}+` },
-      { label: 'İlgili haber', value: (i) => i.news?.[0]?.title || '—', text: true, link: (i) => i.news?.[0]?.url },
+      { label: 'İlgili haber', value: (i) => i.news?.[0]?.title || '—', sub: true, link: (i) => i.news?.[0]?.url },
     ],
   },
   wikipedia: {
