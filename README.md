@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | fırtına | 1 |
-| 2 | Ümit Kocasakal | 1 |
+| 2 | 2026 İsrail yasama seçimi | 1 |
 | 3 | bursaspor (futbol takımı) | 1 |
-| 4 | Fenerbahçe-Galatasaray derbisi | 1 |
+| 4 | Ümit Kocasakal | 1 |
 | 5 | selçuk şahin | 1 |
-| 6 | Oktay Saral | 1 |
-| 7 | luka doncic | 1 |
-| 8 | 2026 İsrail yasama seçimi | 1 |
-| 9 | önder kahveci | 1 |
-| 10 | Ballon d'Or | 1 |
+| 6 | 29 Ekim Cumhuriyet Bayramı | 1 |
+| 7 | özgüzelderespor - kayserispor | 1 |
+| 8 | Fenerbahçe-Galatasaray derbisi | 1 |
+| 9 | luka doncic | 1 |
+| 10 | Oktay Saral | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

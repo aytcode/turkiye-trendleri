@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-29",
+  "collectedAt": "2026-10-29T11:25:30.775Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "a spor canlı",
+          "traffic": 1000,
+          "rank": 1,
+          "news": [
+            {
+              "title": "28 Ekim 2026 - GOL | Sakaryaspor 1-3 Bursa Yıldırımspor - Aspor Ziraat Türkiye Kupası",
+              "url": "https://www.aspor.com.tr/turkiye-kupasi/kupatv/turkiye-kupasi/gol-sakaryaspor-1-3-bursa-yildirimspor",
+              "source": "A Spor"
+            },
+            {
+              "title": "Ümit Bozkurt: “Ben alacağımı aldım!”",
+              "url": "https://medyabar.com/haber/29065906/umit-bozkurt-ben-alacagimi-aldim",
+              "source": "Medyabar"
+            }
+          ]
+        },
+        {
+          "title": "hırsızlık",
+          "traffic": 100,
+          "rank": 2,
+          "news": [
+            {
+              "title": "152 yıl hapis cezasıyla aranan 17 yaşındaki hükümlü yakalandı",
+              "url": "https://www.trthaber.com/haber/turkiye/152-yil-hapis-cezasiyla-aranan-17-yasindaki-hukumlu-yakalandi-961545.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Manisa&apos;da 152 yıl hapis cezasıyla aranan 17 yaşındaki şüpheli parkta yakalandı",
+              "url": "https://yerel-haberler.haberturk.com/manisa-haberleri/manisada-152-yil-hapis-cezasiyla-aranan-17-yasindaki-supheli-parkta-yakalandi-119506670",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "30 ekim bim kataloğu 2026",
+          "traffic": 100,
+          "rank": 3,
+          "news": [
+            {
+              "title": "BİM 30 EKİM 2026 AKTÜEL KATALOĞU: Bu Hafta Hangi Ürünler İndirimde? BİM Aktüel Ürünler Kataloğu Yayımlandı!",
+              "url": "https://www.cnnturk.com/ekonomi/galeri/bim-30-ekim-2026-aktuel-katalogu-bu-hafta-hangi-urunler-indirimde-bim-aktuel-urunler-katalogu-yayimlandi-3485205",
+              "source": "CNN Türk"
+            },
+            {
+              "title": "BİM AKTÜEL KATALOĞU 30 EKİM- 1-3-4 KASIM: Bu cuma indirimde ne var?",
+              "url": "https://www.yeniasir.com.tr/galeri/yasam/bim-aktuel-katalogu-30-ekim-1-3-4-kasim-bu-cuma-indirimde-ne-var",
+              "source": "Yeni Asır"
+            }
+          ]
+        },
+        {
+          "title": "kasım tatili ne zaman",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "ARA TATİL TARİHLERİ 2026: Kasım Ara Tatili Ne Zaman? MEB 2026-2027 Ara Tatil Kaç Gün Sürecek?",
+              "url": "https://www.cnnturk.com/turkiye/ara-tatil-tarihleri-2026-kasim-ara-tatili-ne-zaman-meb-2026-2027-ara-tatil-kac-gun-surecek-3484389",
+              "source": "CNN Türk"
+            },
+            {
+              "title": "OKULLARDA İLK ARA TATİL NE ZAMAN?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/ara-tatil-tarihi-kasim-tatili-ve-gunleri-2026-1-donem-ilk-ara-tatil-ne-zaman-kac-gun-kaldi-okullar-ne-zaman-kapanacak-kasim-ara-43354840/2",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "domuz eti çıkan sucuk",
+          "traffic": 500,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Tarım bakanlığı: Üç bal taklit veya tağşiş",
+              "url": "https://www.diken.com.tr/tarim-bakanligi-uc-bal-taklit-veya-tagsis-5/",
+              "source": "Diken"
+            },
+            {
+              "title": "Bakanlık marka adı vererek ifşa etti: Dana sucuktan domuz eti çıktı",
+              "url": "https://www.ntv.com.tr/turkiye/galeri-bakanlik-marka-adi-vererek-ifsa-etti-dana-sucuktan-domuz-eti-cikti-1748315",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "milli hızlı tren",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Milli hızlı trenin testleri yıl sonuna kadar tamamlanacak",
+              "url": "https://www.trthaber.com/haber/gundem/milli-hizli-trenin-testleri-yil-sonuna-kadar-tamamlanacak-961580.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Bakan Uraloğlu: Saatte 250 kilometre hızı Ankara-Kırıkkale güzergahında denedik",
+              "url": "https://aa.com.tr/tr/vg/video-galeri/bakan-uraloglu-saatte-250-kilometre-hizi-ankara-kirikkale-guzergahinda-denedik/157758",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "ihsan gedik",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Yeşilçam’ın acımasız kötü adamıydı! Filmlerde arkadan bıçaklayan İhsan Gedik’in son hali yürek burktu",
+              "url": "https://www.sabah.com.tr/trend/galeri/magazin/yesilcamin-acimasiz-kotu-adamiydi-filmlerde-arkadan-bicaklayan-ihsan-gedikin-son-hali-yurek-burktu",
+              "source": "Sabah"
+            },
+            {
+              "title": "Yeşilçam&apos;ın Unutulmaz \"Kötü Adam\"ıydı: Son Hali Ortaya Çıktı!",
+              "url": "https://onedio.com/haber/yesilcam-in-unutulmaz-kotu-adam-i-ihsan-gedik-in-600-e-yakin-filmlik-kariyeri-yeniden-gundemde-1392100",
+              "source": "Onedio"
+            }
+          ]
+        },
+        {
+          "title": "29 ekim a101 aktüel ürünler kataloğu",
+          "traffic": 500,
+          "rank": 8,
+          "news": [
+            {
+              "title": "A101&apos;e Fissler Düdüklü Tencere Geliyor! 29 Ekim 2026 A101 Ekstra Aldın Aldın Kataloğu",
+              "url": "https://onedio.com/haber/a101-e-fissler-duduklu-tencere-geliyor-29-ekim-2026-a101-ekstra-aldin-aldin-katalogu-1392148",
+              "source": "Onedio"
+            },
+            {
+              "title": "A101’DE FİYATLAR YIKILIYOR! ŞİMDİ ALMANIN TAM ZAMANI! (A101 29 EKİM-4 KASIM)",
+              "url": "https://www.ekonomim.com/foto-galeri/aktuel/a101de-fiyatlar-yikiliyor-simdi-almanin-tam-zamani-a101-29-ekim-4-kasim-s1-galeri-927629",
+              "source": "Ekonomim"
+            }
+          ]
+        },
+        {
+          "title": "özgüzelderespor - kayserispor",
+          "traffic": 5000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Bitlis Spor 1916-Metro Holding Kayserispor maçı CANLI İZLE | Ziraat Türkiye Kupası",
+              "url": "https://www.aspor.com.tr/turkiye-kupasi/2026/10/29/bitlis-spor-1916-metro-holding-kayserispor-maci-canli-izle-ziraat-turkiye-kupasi",
+              "source": "A Spor"
+            },
+            {
+              "title": "Bitlis 1916 FK-Kayserispor maçı saat kaçta ve hangi kanalda?",
+              "url": "https://www.birgun.net/haber/bitlis-1916-fk-kayserispor-maci-saat-kacta-ve-hangi-kanalda-743282",
+              "source": "birgun.net"
+            }
+          ]
+        },
+        {
+          "title": "aykut kocaman fenerbahçe",
+          "traffic": 2000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Aykut Kocaman Fenerbahçe’ye gelecek mi? İşte son durum - Aspor",
+              "url": "https://www.aspor.com.tr/video/fenerbahce/aykut-kocaman-fenerbahceye-gelecek-mi-iste-son-durum",
+              "source": "A Spor"
+            },
+            {
+              "title": "Ufuk Kaan Karacan: Kulübe, saltanat kürsüsü değildir!",
+              "url": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-mesaj-kulube-saltanat-kursusu-degildir-43358828",
+              "source": "Hürriyet"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
