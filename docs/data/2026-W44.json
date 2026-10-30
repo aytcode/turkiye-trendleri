@@ -13,8 +13,8 @@
   "end": "2026-11-01",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-29T11:25:30.775Z",
-  "snapshotDays": 4,
+  "generatedAt": "2026-10-30T11:17:30.874Z",
+  "snapshotDays": 5,
   "activeSources": [
     "google",
     "wikipedia"
@@ -114,6 +114,42 @@
           "score": 50000
         },
         {
+          "title": "öğle ezanı",
+          "traffic": 50000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 30 Ekim namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-30-ekim-namaz-vakitleri-1740482",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "Antalya&apos;da cuma namazı saat kaçta? 30 Ekim Cuma ezan vakti belli oldu!",
+              "url": "https://www.mygazete.com/antalyada-cuma-namazi-saat-kacta-30-ekim-cuma-ezan-vakti-belli-oldu/788331",
+              "source": "mygazete"
+            }
+          ],
+          "score": 50000
+        },
+        {
+          "title": "cuma namazı saat kaçta",
+          "traffic": 50000,
+          "days": 1,
+          "news": [
+            {
+              "title": "CUMA NAMAZI BUGÜN SAAT KAÇTA 30 EKİM 2026 (İl il cuma namazı vakitleri) | Diyanet cuma namazı saati İstanbul, Ankara, İzmir, Bursa ve 81 il için yayınlandı! Cuma namazı nasıl kılınır, kaç rekat, öğle ezanı kaçta okunacak? İşte Diyanet ile cuma namazı s",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/cuma-namazi-saat-kacta-30-ekim-2026-il-il-cuma-namazi-vakitleri-diyanet-cuma-namazi-saati-istanbul-ankara-izmir-bursa-ve-81-il-icin-43359873",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Cuma namazı saat kaçta? Diyanet ile 30 Ekim 2026 Ankara, İzmir, İstanbul ve il il Cuma namazı saati",
+              "url": "https://www.haberturk.com/bilgi/foto/cuma-namazi-saat-kacta-diyanet-ile-30-ekim-2026-ankara-izmir-istanbul-ve-il-il-cuma-namazi-saati-3923603",
+              "source": "Habertürk"
+            }
+          ],
+          "score": 50000
+        },
+        {
           "title": "selçuk şahin",
           "traffic": 10000,
           "days": 1,
@@ -145,6 +181,24 @@
               "title": "Bitlis 1916 FK-Kayserispor maçı saat kaçta ve hangi kanalda?",
               "url": "https://www.birgun.net/haber/bitlis-1916-fk-kayserispor-maci-saat-kacta-ve-hangi-kanalda-743282",
               "source": "birgun.net"
+            }
+          ],
+          "score": 5000
+        },
+        {
+          "title": "30 ekim cuma hutbesi",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "30.10.2026 Cuma Hutbesi: Birlik ve Beraberlik (Sesli Hutbe, Türkçe)",
+              "url": "https://dinhizmetleri.diyanet.gov.tr/Detay/1336/30102026-cuma-hutbesi-birlik-ve-beraberlik-(sesli-hutbe-t%C3%BCrk%C3%A7e)",
+              "source": "Diyanet İşleri Başkanlığı"
+            },
+            {
+              "title": "BUGÜNKÜ CUMA HUTBESİ 30 EKİM 2026: Diyanet Cuma Hutbesi Konusu ve PFD Tam Metni: 30 Ekim Cuma Hutbesi Konusu Ne?",
+              "url": "https://www.cnnturk.com/turkiye/bugunku-cuma-hutbesi-30-ekim-2026-diyanet-cuma-hutbesi-konusu-ve-pfd-tam-metni-30-ekim-cuma-hutbesi-konusu-ne-3486582",
+              "source": "CNN Türk"
             }
           ],
           "score": 5000
@@ -240,6 +294,24 @@
           "score": 2000
         },
         {
+          "title": "marco asensio",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Fenerbahçe&apos;de şok etkisi yaratacak karar! Yıldız isimle yollar ayrılıyor",
+              "url": "https://www.aspor.com.tr/fenerbahce/2026/10/30/fenerbahcede-sok-asensio-gelismesi-oyle-bir-karar-alindi-ki",
+              "source": "A Spor"
+            },
+            {
+              "title": "Fenerbahçe&apos;de Marco Asensio için bomba iddia! İsmail Kartal&apos;dan sonra...",
+              "url": "https://www.fanatik.com.tr/fenerbahce/galeri-fenerbahcede-marco-asensio-icin-bomba-iddia-ismail-kartaldan-sonra-2642788",
+              "source": "Fanatik"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "boykot",
           "traffic": 1000,
           "days": 1,
@@ -330,6 +402,60 @@
           "score": 1000
         },
         {
+          "title": "vadeli işlem ve opsiyon borsası",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "VİOP&apos;ta endeks kontratı güne düşüşle başladı",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/borsa-istanbul-haberleri/viopta-endeks-kontrati-gune-dususle-basladi_ID102278888/",
+              "source": "Bigpara"
+            },
+            {
+              "title": "VİOP30 sözleşmesinde 14.000-14.075 puan aralığı direnç bölgesi olarak izleniyor",
+              "url": "https://www.urfadabugun.com/haber/265877/viop30-sozlesmesinde-14000-14075-puan-araligi-direnc-bolgesi-olarak-izleniyor.html",
+              "source": "urfadabugun"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "6 kasım bim kataloğu 2026",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "TEKNOLOJİ MERAKLILARINA MÜJDE! BİM’E NEO (SINGLE) DRON GELİYOR (BİM 1-7 KASIM)",
+              "url": "https://www.ekonomim.com/foto-galeri/aktuel/teknoloji-meraklilarina-mujde-bime-neo-single-dron-geliyor-bim-1-7-kasim-s1-galeri-927191",
+              "source": "Ekonomim"
+            },
+            {
+              "title": "RAFLARDA SATIŞTA! YENİ KATALOG BİM AKTÜEL 30 EKİM 2026: BİM&apos;de bu hafta hangi ürünler indirimde?",
+              "url": "https://www.milliyet.com.tr/galeri/bim-aktuel-30-ekim-2026-yeni-katalog-urunleri-raflarda-satista-bimde-bu-hafta-hangi-urunler-indirimde-7690507",
+              "source": "Milliyet"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "icardi",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Icardi’den Galatasaray ve transfer açıklaması: &apos;Cevabımı sahada vermek için sabırsızlanıyorum!&apos;",
+              "url": "https://www.hurriyet.com.tr/sporarena/icardiden-galatasaray-ve-transfer-aciklamasi-cevabimi-sahada-vermek-icin-sabirsizlaniyorum-43360434",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Galatasaray&apos;a veda eden Icardi&apos;den transfer açıklaması: Cevabı sahada vereceğim",
+              "url": "https://www.milliyet.com.tr/skorer/galatasaraya-veda-eden-icardiden-transfer-aciklamasi-cevabi-sahada-verecegim-7690654",
+              "source": "Milliyet"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "akıllı sayaç",
           "traffic": 500,
           "days": 1,
@@ -400,124 +526,9 @@
             }
           ],
           "score": 500
-        },
-        {
-          "title": "ihbar tazminatı",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "İşten ayrılacaklar tarihe dikkat! 2027 kıdem tazminatı tavanında 79 bin 916 TL hesabı",
-              "url": "https://www.takvim.com.tr/ekonomi/2026/10/27/kidem-ihbar-tazminati-2027-ocak-zammi-yeni-hesaplama-tablosu",
-              "source": "Takvim"
-            },
-            {
-              "title": "Aynı İşyerinde 10 Yıl Çalışan Ne Kadar Kıdem Tazminatı Alır? İşte Her Çalışan İçin Net Hesaplama",
-              "url": "https://www.yozgatcamlik.com/ekonomi/ayni-isyerinde-10-yil-calisan-ne-kadar-kidem-tazminati-alir-iste-her-calisan-22169029h",
-              "source": "Yozgat Çamlık Gazetesi"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "aspor",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Galatasaray&apos;da Batrakov paniği! Taraftarların beğenisini kazanmıştı ancak…",
-              "url": "https://www.aspor.com.tr/galatasaray/2026/10/28/transfer-haberi-galatasarayda-batrakov-endisesi-bunu-kimse-beklemiyordu",
-              "source": "A Spor"
-            },
-            {
-              "title": "Derbi sonrası Galatasaray, Batrakov kıymete bindi! Avrupa’nın yarısını peşine taktı",
-              "url": "https://www.fanatik.com.tr/galatasaray/galeri-derbi-sonrasi-galatasaray-batrakov-kiymete-bindi-avrupanin-yarisini-pesine-takti-2642562",
-              "source": "Fanatik"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "domuz eti çıkan sucuk",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Tarım bakanlığı: Üç bal taklit veya tağşiş",
-              "url": "https://www.diken.com.tr/tarim-bakanligi-uc-bal-taklit-veya-tagsis-5/",
-              "source": "Diken"
-            },
-            {
-              "title": "Bakanlık marka adı vererek ifşa etti: Dana sucuktan domuz eti çıktı",
-              "url": "https://www.ntv.com.tr/turkiye/galeri-bakanlik-marka-adi-vererek-ifsa-etti-dana-sucuktan-domuz-eti-cikti-1748315",
-              "source": "NTV Haber"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "29 ekim a101 aktüel ürünler kataloğu",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "A101&apos;e Fissler Düdüklü Tencere Geliyor! 29 Ekim 2026 A101 Ekstra Aldın Aldın Kataloğu",
-              "url": "https://onedio.com/haber/a101-e-fissler-duduklu-tencere-geliyor-29-ekim-2026-a101-ekstra-aldin-aldin-katalogu-1392148",
-              "source": "Onedio"
-            },
-            {
-              "title": "A101’DE FİYATLAR YIKILIYOR! ŞİMDİ ALMANIN TAM ZAMANI! (A101 29 EKİM-4 KASIM)",
-              "url": "https://www.ekonomim.com/foto-galeri/aktuel/a101de-fiyatlar-yikiliyor-simdi-almanin-tam-zamani-a101-29-ekim-4-kasim-s1-galeri-927629",
-              "source": "Ekonomim"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "handan dizisi",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Handan dizisinin konusu ne, oyuncuları kim? Handan dizisi hangi platformda yayımlanacak?",
-              "url": "https://www.cumhuriyet.com.tr/tv-rehberi/handan-dizisinin-konusu-ne-oyunculari-kim-handan-dizisi-hangi-platformda-yayimlanacak-2550270",
-              "source": "Cumhuriyet"
-            },
-            {
-              "title": "Müge Anlı&apos;da Türkiye&apos;yi Sarsan O Hemşirenin Hikayesi Dizi Oldu: Başrolde Usta Bir İsim Var",
-              "url": "https://onedio.com/haber/muge-anli-da-turkiye-yi-sarsan-o-olay-dizi-oldu-handan-hemsire-ye-ayta-sozeri-hayat-veriyor-1391177",
-              "source": "Onedio"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "elma",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Football Recap: Elma Comes Up Short Despite Treycen Sample&apos;s Big Defensive Game + How To Watch",
-              "url": "https://www.maxpreps.com/news/G7bOuKd9IE-u0WrCaK5ZIA/football-recap-elma-comes-up-short-despite-treycen-samples-big-defensive-game--how-to-watch.htm",
-              "source": "MaxPreps"
-            },
-            {
-              "title": "128 arrested after night of unrest and looting in Barcelona",
-              "url": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona",
-              "source": "Euronews.com"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "külçe",
-          "traffic": 200,
-          "days": 1,
-          "news": [],
-          "score": 200
         }
       ],
-      "total": 40
+      "total": 49
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -529,202 +540,202 @@
         {
           "title": "2026 İsrail yasama seçimi",
           "article": "2026_İsrail_yasama_seçimi",
-          "views": 33291,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
-          "score": 33291
-        },
-        {
-          "title": "Ümit Kocasakal",
-          "article": "Ümit_Kocasakal",
-          "views": 27019,
+          "views": 39890,
           "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
-          "score": 27019
+          "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
+          "score": 39890
         },
         {
           "title": "29 Ekim Cumhuriyet Bayramı",
           "article": "29_Ekim_Cumhuriyet_Bayramı",
-          "views": 23264,
+          "views": 39104,
           "days": 3,
           "url": "https://tr.wikipedia.org/wiki/29_Ekim_Cumhuriyet_Bayram%C4%B1",
-          "score": 23264
-        },
-        {
-          "title": "Fenerbahçe-Galatasaray derbisi",
-          "article": "Fenerbahçe-Galatasaray_derbisi",
-          "views": 22866,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
-          "score": 22866
-        },
-        {
-          "title": "Oktay Saral",
-          "article": "Oktay_Saral",
-          "views": 19135,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
-          "score": 19135
-        },
-        {
-          "title": "Ballon d'Or",
-          "article": "Ballon_d'Or",
-          "views": 15172,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
-          "score": 15172
-        },
-        {
-          "title": "Burhaneddin Kirmânî",
-          "article": "Burhaneddin_Kirmânî",
-          "views": 14680,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
-          "score": 14680
-        },
-        {
-          "title": "Gadi Eisenkot",
-          "article": "Gadi_Eisenkot",
-          "views": 14588,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Gadi_Eisenkot",
-          "score": 14588
-        },
-        {
-          "title": "XHamster",
-          "article": "XHamster",
-          "views": 12930,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 12930
-        },
-        {
-          "title": "Yapay zekâ",
-          "article": "Yapay_zekâ",
-          "views": 12642,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 12642
+          "score": 39104
         },
         {
           "title": "Mustafa Sarıgül",
           "article": "Mustafa_Sarıgül",
-          "views": 12486,
+          "views": 21706,
           "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 12486
+          "score": 21706
         },
         {
-          "title": "İsmail Kartal",
-          "article": "İsmail_Kartal",
-          "views": 12297,
+          "title": "Burhaneddin Kirmânî",
+          "article": "Burhaneddin_Kirmânî",
+          "views": 16989,
           "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
-          "score": 12297
+          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
+          "score": 16989
+        },
+        {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 16798,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 16798
+        },
+        {
+          "title": "Gadi Eisenkot",
+          "article": "Gadi_Eisenkot",
+          "views": 15521,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Gadi_Eisenkot",
+          "score": 15521
         },
         {
           "title": "Cem Akaş",
           "article": "Cem_Akaş",
-          "views": 10573,
-          "days": 1,
+          "views": 14596,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Cem_Aka%C5%9F",
-          "score": 10573
+          "score": 14596
         },
         {
-          "title": "Nev",
-          "article": "Nev",
-          "views": 10279,
+          "title": "Fenerbahçe-Galatasaray derbisi",
+          "article": "Fenerbahçe-Galatasaray_derbisi",
+          "views": 13044,
           "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Nev",
-          "score": 10279
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
+          "score": 13044
+        },
+        {
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 12575,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 12575
+        },
+        {
+          "title": "Ballon d'Or",
+          "article": "Ballon_d'Or",
+          "views": 11914,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
+          "score": 11914
+        },
+        {
+          "title": "İsmail Kartal",
+          "article": "İsmail_Kartal",
+          "views": 11687,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
+          "score": 11687
         },
         {
           "title": "II. Mehmed",
           "article": "II._Mehmed",
-          "views": 10198,
+          "views": 11545,
           "days": 3,
           "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 10198
-        },
-        {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 10087,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 10087
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 10085,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 10085
-        },
-        {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 10066,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 10066
-        },
-        {
-          "title": "Teknoloji",
-          "article": "Teknoloji",
-          "views": 9949,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 9949
-        },
-        {
-          "title": "Bilim",
-          "article": "Bilim",
-          "views": 9912,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 9912
+          "score": 11545
         },
         {
           "title": "Osmanlı padişahları listesi",
           "article": "Osmanlı_padişahları_listesi",
-          "views": 9441,
+          "views": 11216,
           "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 9441
-        },
-        {
-          "title": "Cinsel ilişki",
-          "article": "Cinsel_ilişki",
-          "views": 9406,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 9406
-        },
-        {
-          "title": "Binyamin Netanyahu",
-          "article": "Binyamin_Netanyahu",
-          "views": 9388,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Binyamin_Netanyahu",
-          "score": 9388
+          "score": 11216
         },
         {
           "title": "I. Selim",
           "article": "I._Selim",
-          "views": 9031,
+          "views": 10625,
           "days": 3,
           "url": "https://tr.wikipedia.org/wiki/I._Selim",
-          "score": 9031
+          "score": 10625
         },
         {
-          "title": "Luiz Inácio Lula da Silva",
-          "article": "Luiz_Inácio_Lula_da_Silva",
-          "views": 8108,
+          "title": "Abdullah Çatlı",
+          "article": "Abdullah_Çatlı",
+          "views": 10603,
           "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
-          "score": 8108
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
+          "score": 10603
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 10305,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 10305
+        },
+        {
+          "title": "Binyamin Netanyahu",
+          "article": "Binyamin_Netanyahu",
+          "views": 10229,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Binyamin_Netanyahu",
+          "score": 10229
+        },
+        {
+          "title": "Aylin Kotil",
+          "article": "Aylin_Kotil",
+          "views": 10195,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
+          "score": 10195
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 10179,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 10179
+        },
+        {
+          "title": "XNXX",
+          "article": "XNXX",
+          "views": 10157,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/XNXX",
+          "score": 10157
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 10107,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 10107
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 10013,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 10013
+        },
+        {
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 9956,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 9956
+        },
+        {
+          "title": "Bir Cumhuriyet Şarkısı",
+          "article": "Bir_Cumhuriyet_Şarkısı",
+          "views": 9798,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Bir_Cumhuriyet_%C5%9Eark%C4%B1s%C4%B1",
+          "score": 9798
+        },
+        {
+          "title": "Türkiye'de cumhuriyetin ilanı",
+          "article": "Türkiye'de_cumhuriyetin_ilanı",
+          "views": 9274,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'de_cumhuriyetin_ilan%C4%B1",
+          "score": 9274
         }
       ],
       "coveredDays": 3,
@@ -763,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Ümit Kocasakal",
+      "title": "29 Ekim Cumhuriyet Bayramı",
       "platforms": [
         "wikipedia"
       ],
@@ -773,7 +784,7 @@
       "total": 97
     },
     {
-      "title": "selçuk şahin",
+      "title": "öğle ezanı",
       "platforms": [
         "google"
       ],
@@ -783,7 +794,7 @@
       "total": 93
     },
     {
-      "title": "29 Ekim Cumhuriyet Bayramı",
+      "title": "Mustafa Sarıgül",
       "platforms": [
         "wikipedia"
       ],
@@ -793,7 +804,7 @@
       "total": 93
     },
     {
-      "title": "özgüzelderespor - kayserispor",
+      "title": "cuma namazı saat kaçta",
       "platforms": [
         "google"
       ],
@@ -803,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Fenerbahçe-Galatasaray derbisi",
+      "title": "Burhaneddin Kirmânî",
       "platforms": [
         "wikipedia"
       ],
@@ -813,7 +824,7 @@
       "total": 90
     },
     {
-      "title": "luka doncic",
+      "title": "selçuk şahin",
       "platforms": [
         "google"
       ],
@@ -823,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Oktay Saral",
+      "title": "XHamster",
       "platforms": [
         "wikipedia"
       ],
@@ -833,7 +844,7 @@
       "total": 87
     },
     {
-      "title": "önder kahveci",
+      "title": "özgüzelderespor - kayserispor",
       "platforms": [
         "google"
       ],
@@ -843,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "Ballon d'Or",
+      "title": "Gadi Eisenkot",
       "platforms": [
         "wikipedia"
       ],
@@ -853,7 +864,7 @@
       "total": 83
     },
     {
-      "title": "tuzla",
+      "title": "30 ekim cuma hutbesi",
       "platforms": [
         "google"
       ],
@@ -863,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Burhaneddin Kirmânî",
+      "title": "Cem Akaş",
       "platforms": [
         "wikipedia"
       ],
@@ -873,7 +884,7 @@
       "total": 80
     },
     {
-      "title": "nöbetçi eczane",
+      "title": "luka doncic",
       "platforms": [
         "google"
       ],
@@ -883,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Gadi Eisenkot",
+      "title": "Fenerbahçe-Galatasaray derbisi",
       "platforms": [
         "wikipedia"
       ],
@@ -893,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "aykut kocaman fenerbahçe",
+      "title": "önder kahveci",
       "platforms": [
         "google"
       ],
@@ -903,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "XHamster",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],
@@ -913,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "boykot",
+      "title": "tuzla",
       "platforms": [
         "google"
       ],
@@ -923,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Yapay zekâ",
+      "title": "Ballon d'Or",
       "platforms": [
         "wikipedia"
       ],

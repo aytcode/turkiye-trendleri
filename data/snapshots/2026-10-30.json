@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-30",
+  "collectedAt": "2026-10-30T11:17:30.874Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "kadıköy",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Fenerbahçe&apos;de Samandıra çıkarması! Kuyt&apos;a destek için toplandılar",
+              "url": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-samandira-cikarmasi-kuyta-destek-icin-toplandilar-43360099",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Fenerbahçe’miz Göztepe’yi ağırlıyor",
+              "url": "https://www.fenerbahce.org/haberler/futbol/2026/10/fenerbahce-miz-goztepe-yi-agirliyor",
+              "source": "Fenerbahce.org"
+            }
+          ]
+        },
+        {
+          "title": "marco asensio",
+          "traffic": 2000,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Fenerbahçe&apos;de şok etkisi yaratacak karar! Yıldız isimle yollar ayrılıyor",
+              "url": "https://www.aspor.com.tr/fenerbahce/2026/10/30/fenerbahcede-sok-asensio-gelismesi-oyle-bir-karar-alindi-ki",
+              "source": "A Spor"
+            },
+            {
+              "title": "Fenerbahçe&apos;de Marco Asensio için bomba iddia! İsmail Kartal&apos;dan sonra...",
+              "url": "https://www.fanatik.com.tr/fenerbahce/galeri-fenerbahcede-marco-asensio-icin-bomba-iddia-ismail-kartaldan-sonra-2642788",
+              "source": "Fanatik"
+            }
+          ]
+        },
+        {
+          "title": "voleybol",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "29 Ekim Cumhuriyet Kupası Voleybol Turnuvası&apos;nın şampiyonu belli oldu",
+              "url": "https://yerel-haberler.haberturk.com/bayburt-haberleri/29-ekim-cumhuriyet-kupasi-voleybol-turnuvasinin-sampiyonu-belli-oldu-119507577",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Bilecik’te voleybol turnuvasının şampiyonu belli oldu İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/bilecik-haberleri/bilecikte-voleybol-turnuvasinin-sampiyonu-belli-oldu-508385763",
+              "source": "İhlas Haber Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "iheanacho",
+          "traffic": 500,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Bursasporlu Kelechi Iheanacho A Spor’a özel açıklamalarda bulundu! İZLE - Aspor",
+              "url": "https://www.aspor.com.tr/video/futbol/bursasporlu-kelechi-iheanacho-a-spora-ozel-aciklamalarda-bulundu-izle",
+              "source": "A Spor"
+            },
+            {
+              "title": "Bursaspor&apos;un yıldız golcüsü Kelechi Iheanacho: Efsane olmak istiyorum",
+              "url": "https://www.fanatik.com.tr/bursaspor/bursasporun-yildiz-golcusu-kelechi-iheanacho-efsane-olmak-istiyorum-2642824",
+              "source": "Fanatik"
+            }
+          ]
+        },
+        {
+          "title": "vadeli işlem ve opsiyon borsası",
+          "traffic": 1000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "VİOP&apos;ta endeks kontratı güne düşüşle başladı",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/borsa-istanbul-haberleri/viopta-endeks-kontrati-gune-dususle-basladi_ID102278888/",
+              "source": "Bigpara"
+            },
+            {
+              "title": "VİOP30 sözleşmesinde 14.000-14.075 puan aralığı direnç bölgesi olarak izleniyor",
+              "url": "https://www.urfadabugun.com/haber/265877/viop30-sozlesmesinde-14000-14075-puan-araligi-direnc-bolgesi-olarak-izleniyor.html",
+              "source": "urfadabugun"
+            }
+          ]
+        },
+        {
+          "title": "6 kasım bim kataloğu 2026",
+          "traffic": 1000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "TEKNOLOJİ MERAKLILARINA MÜJDE! BİM’E NEO (SINGLE) DRON GELİYOR (BİM 1-7 KASIM)",
+              "url": "https://www.ekonomim.com/foto-galeri/aktuel/teknoloji-meraklilarina-mujde-bime-neo-single-dron-geliyor-bim-1-7-kasim-s1-galeri-927191",
+              "source": "Ekonomim"
+            },
+            {
+              "title": "RAFLARDA SATIŞTA! YENİ KATALOG BİM AKTÜEL 30 EKİM 2026: BİM&apos;de bu hafta hangi ürünler indirimde?",
+              "url": "https://www.milliyet.com.tr/galeri/bim-aktuel-30-ekim-2026-yeni-katalog-urunleri-raflarda-satista-bimde-bu-hafta-hangi-urunler-indirimde-7690507",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "icardi",
+          "traffic": 1000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Icardi’den Galatasaray ve transfer açıklaması: &apos;Cevabımı sahada vermek için sabırsızlanıyorum!&apos;",
+              "url": "https://www.hurriyet.com.tr/sporarena/icardiden-galatasaray-ve-transfer-aciklamasi-cevabimi-sahada-vermek-icin-sabirsizlaniyorum-43360434",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Galatasaray&apos;a veda eden Icardi&apos;den transfer açıklaması: Cevabı sahada vereceğim",
+              "url": "https://www.milliyet.com.tr/skorer/galatasaraya-veda-eden-icardiden-transfer-aciklamasi-cevabi-sahada-verecegim-7690654",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "öğle ezanı",
+          "traffic": 50000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 30 Ekim namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-30-ekim-namaz-vakitleri-1740482",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "Antalya&apos;da cuma namazı saat kaçta? 30 Ekim Cuma ezan vakti belli oldu!",
+              "url": "https://www.mygazete.com/antalyada-cuma-namazi-saat-kacta-30-ekim-cuma-ezan-vakti-belli-oldu/788331",
+              "source": "mygazete"
+            }
+          ]
+        },
+        {
+          "title": "cuma namazı saat kaçta",
+          "traffic": 50000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "CUMA NAMAZI BUGÜN SAAT KAÇTA 30 EKİM 2026 (İl il cuma namazı vakitleri) | Diyanet cuma namazı saati İstanbul, Ankara, İzmir, Bursa ve 81 il için yayınlandı! Cuma namazı nasıl kılınır, kaç rekat, öğle ezanı kaçta okunacak? İşte Diyanet ile cuma namazı s",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/cuma-namazi-saat-kacta-30-ekim-2026-il-il-cuma-namazi-vakitleri-diyanet-cuma-namazi-saati-istanbul-ankara-izmir-bursa-ve-81-il-icin-43359873",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Cuma namazı saat kaçta? Diyanet ile 30 Ekim 2026 Ankara, İzmir, İstanbul ve il il Cuma namazı saati",
+              "url": "https://www.haberturk.com/bilgi/foto/cuma-namazi-saat-kacta-diyanet-ile-30-ekim-2026-ankara-izmir-istanbul-ve-il-il-cuma-namazi-saati-3923603",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "30 ekim cuma hutbesi",
+          "traffic": 5000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "30.10.2026 Cuma Hutbesi: Birlik ve Beraberlik (Sesli Hutbe, Türkçe)",
+              "url": "https://dinhizmetleri.diyanet.gov.tr/Detay/1336/30102026-cuma-hutbesi-birlik-ve-beraberlik-(sesli-hutbe-t%C3%BCrk%C3%A7e)",
+              "source": "Diyanet İşleri Başkanlığı"
+            },
+            {
+              "title": "BUGÜNKÜ CUMA HUTBESİ 30 EKİM 2026: Diyanet Cuma Hutbesi Konusu ve PFD Tam Metni: 30 Ekim Cuma Hutbesi Konusu Ne?",
+              "url": "https://www.cnnturk.com/turkiye/bugunku-cuma-hutbesi-30-ekim-2026-diyanet-cuma-hutbesi-konusu-ve-pfd-tam-metni-30-ekim-cuma-hutbesi-konusu-ne-3486582",
+              "source": "CNN Türk"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
