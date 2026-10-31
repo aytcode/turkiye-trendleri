@@ -13,8 +13,8 @@
   "end": "2026-11-01",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-30T11:17:30.874Z",
-  "snapshotDays": 5,
+  "generatedAt": "2026-10-31T10:49:50.004Z",
+  "snapshotDays": 6,
   "activeSources": [
     "google",
     "wikipedia"
@@ -150,6 +150,24 @@
           "score": 50000
         },
         {
+          "title": "erzurumspor - çorum",
+          "traffic": 20000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Canlı Anlatım: Erzurumspor - Çorum FK maçı",
+              "url": "https://www.hurriyet.com.tr/sporarena/canli-anlatim-erzurumspor-corum-fk-maci-43361372",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Çorum FK, Süper Lig&apos;de bugün Erzurumspor FK&apos;ye konuk olacak",
+              "url": "https://www.aa.com.tr/tr/spor/corum-fk-super-ligde-bugun-erzurumspor-fkye-konuk-olacak/4105684",
+              "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 20000
+        },
+        {
           "title": "selçuk şahin",
           "traffic": 10000,
           "days": 1,
@@ -199,6 +217,24 @@
               "title": "BUGÜNKÜ CUMA HUTBESİ 30 EKİM 2026: Diyanet Cuma Hutbesi Konusu ve PFD Tam Metni: 30 Ekim Cuma Hutbesi Konusu Ne?",
               "url": "https://www.cnnturk.com/turkiye/bugunku-cuma-hutbesi-30-ekim-2026-diyanet-cuma-hutbesi-konusu-ve-pfd-tam-metni-30-ekim-cuma-hutbesi-konusu-ne-3486582",
               "source": "CNN Türk"
+            }
+          ],
+          "score": 5000
+        },
+        {
+          "title": "meb",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "LGS KAPSAMINDAKİ MERKEZÎ SINAVIN TARİHİ BELLİ OLDU",
+              "url": "https://www.meb.gov.tr/lgs-kapsamindaki-merkezi-sinavin-tarihi-belli-oldu/haber/42348/tr?rand=5473",
+              "source": "MEB"
+            },
+            {
+              "title": "Liselere Geçiş Sistemi (LGS) merkezi sınav tarihi açıklandı! LGS 2027 ne zaman, hangi tarihte yapılacak?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/lgs-2027-ne-zaman-hangi-tarihte-yapilacak-liselere-gecis-sistemi-lgs-merkezi-sinav-tarihi-aciklandi-43360587",
+              "source": "Hürriyet"
             }
           ],
           "score": 5000
@@ -307,6 +343,42 @@
               "title": "Fenerbahçe&apos;de Marco Asensio için bomba iddia! İsmail Kartal&apos;dan sonra...",
               "url": "https://www.fanatik.com.tr/fenerbahce/galeri-fenerbahcede-marco-asensio-icin-bomba-iddia-ismail-kartaldan-sonra-2642788",
               "source": "Fanatik"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "vanspor - sarıyer",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Artı Değer Van Spor - SMS Grup Sarıyer maçı ne zaman, saat kaçta, nasıl izlenir?",
+              "url": "https://www.aspor.com.tr/tff-birinci-lig/2026/10/31/arti-deger-van-spor-sms-grup-sariyer-maci-ne-zaman-saat-kacta",
+              "source": "A Spor"
+            },
+            {
+              "title": "Vanspor FK - Sarıyer Maçı Ne Zaman, Saat Kaçta, Hangi Kanalda? TRT Spor Canlı Yayın Bilgileri",
+              "url": "https://www.birgun.net/haber/vanspor-fk-sariyer-maci-ne-zaman-saat-kacta-hangi-kanalda-trt-spor-canli-yayin-bilgileri-743635",
+              "source": "birgun.net"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "kelechi iheanacho",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Fenerbahçe&apos;den Iheanacho hamlesi! Bursaspor&apos;un gol makinesini istiyor",
+              "url": "https://www.sozcu.com.tr/fenerbahceden-iheanacho-hamlesi-bursasporun-gol-makinesini-istiyor-p374512",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Bursasporlu Kelechi Iheanacho A Spor’a özel açıklamalarda bulundu! İZLE - Aspor",
+              "url": "https://www.aspor.com.tr/video/futbol/bursasporlu-kelechi-iheanacho-a-spora-ozel-aciklamalarda-bulundu-izle",
+              "source": "A Spor"
             }
           ],
           "score": 2000
@@ -454,81 +526,9 @@
             }
           ],
           "score": 1000
-        },
-        {
-          "title": "akıllı sayaç",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "SON HABERLER: Elektrik sayaçları değişecek mi? Elektrik sayacı akıllı sistemle değiştiriliyor mu?",
-              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/epdkden-elektrik-faturalarini-ilgilendiren-aciklama-7687712",
-              "source": "Uzmanpara"
-            },
-            {
-              "title": "7 milyon abonenin sayacı 2027 sonuna kadar uzaktan okunabilecek",
-              "url": "https://www.ensonhaber.com/7-milyon-abonenin-sayaci-2027-sonuna-kadar-uzaktan-okunabilecek-h1576974",
-              "source": "Ensonhaber"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "boğa",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Boğa burcunda süper dolunay - Öner Döşer",
-              "url": "https://www.sozcu.com.tr/boga-burcunda-super-dolunay-p372411",
-              "source": "Sözcü Gazetesi"
-            },
-            {
-              "title": "Güç kapışmaları ve değişim rüzgârları... | Dinçer Güner Köşe Yazısı",
-              "url": "https://www.hurriyet.com.tr/yazarlar/dincer-guner/guc-kapismalari-ve-degisim-ruzgarlari-43353938",
-              "source": "Hürriyet"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "etimesgut - gaziantep fk",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Etimesgut Spor Gaziantep FK maçı ne zaman saat kaçta hangi kanalda?",
-              "url": "https://www.hurriyet.com.tr/sporarena/etimesgut-spor-gaziantep-fk-maci-ne-zaman-saat-kacta-hangi-kanalda-43356177",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "A Spor canlı yayın: Etimesgutspor-Gaziantep FK maçı hangi kanalda?",
-              "url": "https://www.aspor.com.tr/turkiye-kupasi/2026/10/27/a-spor-canli-yayin-etimesgutspor-gaziantep-fk-maci-hangi-kanalda",
-              "source": "A Spor"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "remzi sanver",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Sırlar odasında büyük kaos! Mason Locası&apos;nda meydan savaşı başladı",
-              "url": "https://www.sozcu.com.tr/mason-locasinda-iktidar-savasi-mahkemeye-gitti-lokallere-girisi-yasaklandi-p372749",
-              "source": "Sözcü Gazetesi"
-            },
-            {
-              "title": "Türk Masonlarının Kapalı Kapılar Ardındaki Kavgası Ortaya Çıktı: 42 Yıllık Üye Localardan Men Edildi",
-              "url": "https://onedio.com/haber/turk-masonlarinin-kapali-kapilar-ardindaki-kavgasi-ortaya-cikti-42-yillik-uye-localardan-men-edildi-1391301",
-              "source": "Onedio"
-            }
-          ],
-          "score": 500
         }
       ],
-      "total": 49
+      "total": 59
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -538,44 +538,108 @@
       "status": "ok",
       "items": [
         {
-          "title": "2026 İsrail yasama seçimi",
-          "article": "2026_İsrail_yasama_seçimi",
-          "views": 39890,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
-          "score": 39890
-        },
-        {
           "title": "29 Ekim Cumhuriyet Bayramı",
           "article": "29_Ekim_Cumhuriyet_Bayramı",
-          "views": 39104,
-          "days": 3,
+          "views": 44513,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/29_Ekim_Cumhuriyet_Bayram%C4%B1",
-          "score": 39104
+          "score": 44513
+        },
+        {
+          "title": "2026 İsrail yasama seçimi",
+          "article": "2026_İsrail_yasama_seçimi",
+          "views": 42708,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
+          "score": 42708
         },
         {
           "title": "Mustafa Sarıgül",
           "article": "Mustafa_Sarıgül",
-          "views": 21706,
-          "days": 3,
+          "views": 33162,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 21706
+          "score": 33162
         },
         {
-          "title": "Burhaneddin Kirmânî",
-          "article": "Burhaneddin_Kirmânî",
-          "views": 16989,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
-          "score": 16989
+          "title": "Ümit Kocasakal",
+          "article": "Ümit_Kocasakal",
+          "views": 28909,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
+          "score": 28909
+        },
+        {
+          "title": "Fenerbahçe-Galatasaray derbisi",
+          "article": "Fenerbahçe-Galatasaray_derbisi",
+          "views": 26375,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
+          "score": 26375
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 16798,
-          "days": 3,
+          "views": 22528,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 16798
+          "score": 22528
+        },
+        {
+          "title": "Oktay Saral",
+          "article": "Oktay_Saral",
+          "views": 21140,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
+          "score": 21140
+        },
+        {
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 19085,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 19085
+        },
+        {
+          "title": "Ballon d'Or",
+          "article": "Ballon_d'Or",
+          "views": 18086,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
+          "score": 18086
+        },
+        {
+          "title": "Burhaneddin Kirmânî",
+          "article": "Burhaneddin_Kirmânî",
+          "views": 17950,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
+          "score": 17950
+        },
+        {
+          "title": "Abdullah Çatlı",
+          "article": "Abdullah_Çatlı",
+          "views": 16548,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
+          "score": 16548
+        },
+        {
+          "title": "Cem Akaş",
+          "article": "Cem_Akaş",
+          "views": 16239,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Cem_Aka%C5%9F",
+          "score": 16239
+        },
+        {
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 15698,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 15698
         },
         {
           "title": "Gadi Eisenkot",
@@ -586,159 +650,95 @@
           "score": 15521
         },
         {
-          "title": "Cem Akaş",
-          "article": "Cem_Akaş",
-          "views": 14596,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Cem_Aka%C5%9F",
-          "score": 14596
-        },
-        {
-          "title": "Fenerbahçe-Galatasaray derbisi",
-          "article": "Fenerbahçe-Galatasaray_derbisi",
-          "views": 13044,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
-          "score": 13044
-        },
-        {
-          "title": "Yapay zekâ",
-          "article": "Yapay_zekâ",
-          "views": 12575,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 12575
-        },
-        {
-          "title": "Ballon d'Or",
-          "article": "Ballon_d'Or",
-          "views": 11914,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
-          "score": 11914
-        },
-        {
-          "title": "İsmail Kartal",
-          "article": "İsmail_Kartal",
-          "views": 11687,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
-          "score": 11687
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 11545,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 11545
-        },
-        {
-          "title": "Osmanlı padişahları listesi",
-          "article": "Osmanlı_padişahları_listesi",
-          "views": 11216,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 11216
-        },
-        {
-          "title": "I. Selim",
-          "article": "I._Selim",
-          "views": 10625,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/I._Selim",
-          "score": 10625
-        },
-        {
-          "title": "Abdullah Çatlı",
-          "article": "Abdullah_Çatlı",
-          "views": 10603,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 10603
-        },
-        {
           "title": "Sanat",
           "article": "Sanat",
-          "views": 10305,
-          "days": 3,
+          "views": 15312,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 10305
-        },
-        {
-          "title": "Binyamin Netanyahu",
-          "article": "Binyamin_Netanyahu",
-          "views": 10229,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Binyamin_Netanyahu",
-          "score": 10229
-        },
-        {
-          "title": "Aylin Kotil",
-          "article": "Aylin_Kotil",
-          "views": 10195,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 10195
-        },
-        {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 10179,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 10179
-        },
-        {
-          "title": "XNXX",
-          "article": "XNXX",
-          "views": 10157,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 10157
-        },
-        {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 10107,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 10107
+          "score": 15312
         },
         {
           "title": "Teknoloji",
           "article": "Teknoloji",
-          "views": 10013,
-          "days": 3,
+          "views": 15214,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 10013
+          "score": 15214
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 15159,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 15159
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 15154,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 15154
+        },
+        {
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 15112,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 15112
         },
         {
           "title": "Bilim",
           "article": "Bilim",
-          "views": 9956,
-          "days": 3,
+          "views": 15079,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 9956
+          "score": 15079
         },
         {
-          "title": "Bir Cumhuriyet Şarkısı",
-          "article": "Bir_Cumhuriyet_Şarkısı",
-          "views": 9798,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Bir_Cumhuriyet_%C5%9Eark%C4%B1s%C4%B1",
-          "score": 9798
+          "title": "Aylin Kotil",
+          "article": "Aylin_Kotil",
+          "views": 15067,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
+          "score": 15067
         },
         {
-          "title": "Türkiye'de cumhuriyetin ilanı",
-          "article": "Türkiye'de_cumhuriyetin_ilanı",
-          "views": 9274,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye'de_cumhuriyetin_ilan%C4%B1",
-          "score": 9274
+          "title": "XNXX",
+          "article": "XNXX",
+          "views": 14735,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/XNXX",
+          "score": 14735
+        },
+        {
+          "title": "İsmail Kartal",
+          "article": "İsmail_Kartal",
+          "views": 14610,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
+          "score": 14610
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 13955,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 13955
+        },
+        {
+          "title": "I. Selim",
+          "article": "I._Selim",
+          "views": 13376,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/I._Selim",
+          "score": 13376
         }
       ],
-      "coveredDays": 3,
+      "coveredDays": 5,
       "total": 50
     }
   },
@@ -754,7 +754,7 @@
       "total": 100
     },
     {
-      "title": "2026 İsrail yasama seçimi",
+      "title": "29 Ekim Cumhuriyet Bayramı",
       "platforms": [
         "wikipedia"
       ],
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "29 Ekim Cumhuriyet Bayramı",
+      "title": "2026 İsrail yasama seçimi",
       "platforms": [
         "wikipedia"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Burhaneddin Kirmânî",
+      "title": "Ümit Kocasakal",
       "platforms": [
         "wikipedia"
       ],
@@ -824,7 +824,7 @@
       "total": 90
     },
     {
-      "title": "selçuk şahin",
+      "title": "erzurumspor - çorum",
       "platforms": [
         "google"
       ],
@@ -834,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "XHamster",
+      "title": "Fenerbahçe-Galatasaray derbisi",
       "platforms": [
         "wikipedia"
       ],
@@ -844,7 +844,7 @@
       "total": 87
     },
     {
-      "title": "özgüzelderespor - kayserispor",
+      "title": "selçuk şahin",
       "platforms": [
         "google"
       ],
@@ -854,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "Gadi Eisenkot",
+      "title": "XHamster",
       "platforms": [
         "wikipedia"
       ],
@@ -864,7 +864,7 @@
       "total": 83
     },
     {
-      "title": "30 ekim cuma hutbesi",
+      "title": "özgüzelderespor - kayserispor",
       "platforms": [
         "google"
       ],
@@ -874,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Cem Akaş",
+      "title": "Oktay Saral",
       "platforms": [
         "wikipedia"
       ],
@@ -884,7 +884,7 @@
       "total": 80
     },
     {
-      "title": "luka doncic",
+      "title": "30 ekim cuma hutbesi",
       "platforms": [
         "google"
       ],
@@ -894,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Fenerbahçe-Galatasaray derbisi",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],
@@ -904,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "önder kahveci",
+      "title": "meb",
       "platforms": [
         "google"
       ],
@@ -914,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "Yapay zekâ",
+      "title": "Ballon d'Or",
       "platforms": [
         "wikipedia"
       ],
@@ -924,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "tuzla",
+      "title": "luka doncic",
       "platforms": [
         "google"
       ],
@@ -934,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Ballon d'Or",
+      "title": "Burhaneddin Kirmânî",
       "platforms": [
         "wikipedia"
       ],

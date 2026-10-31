@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | fırtına | 1 |
-| 2 | 2026 İsrail yasama seçimi | 1 |
+| 2 | 29 Ekim Cumhuriyet Bayramı | 1 |
 | 3 | bursaspor (futbol takımı) | 1 |
-| 4 | 29 Ekim Cumhuriyet Bayramı | 1 |
+| 4 | 2026 İsrail yasama seçimi | 1 |
 | 5 | öğle ezanı | 1 |
 | 6 | Mustafa Sarıgül | 1 |
 | 7 | cuma namazı saat kaçta | 1 |
-| 8 | Burhaneddin Kirmânî | 1 |
-| 9 | selçuk şahin | 1 |
-| 10 | XHamster | 1 |
+| 8 | Ümit Kocasakal | 1 |
+| 9 | erzurumspor - çorum | 1 |
+| 10 | Fenerbahçe-Galatasaray derbisi | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

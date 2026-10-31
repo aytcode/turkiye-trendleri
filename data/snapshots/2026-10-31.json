@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-31",
+  "collectedAt": "2026-10-31T10:49:50.004Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "yargıtay",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Altın bozdurup araba alan eşe kötü haber: Hepsini iade edecek",
+              "url": "https://www.ntv.com.tr/turkiye/galeri-altin-bozdurup-araba-alan-ese-kotu-haber-hepsini-iade-edecek-1748758",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Yargıtay&apos;dan milyonları ilgilendiren karar! Düğün sonrası araç hayali kuranlar dikkat!",
+              "url": "https://www.haberturk.com/gundem/son-dakika-haberi-yargitay-dan-milyonlari-ilgilendiren-karar-dugun-sonrasi-arac-hayali-kuranlar-dikkat-3923881",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "at yarışı",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Cumhuriyet için koşacaklar",
+              "url": "https://www.hurriyet.com.tr/sporarena/cumhuriyet-icin-kosacaklar-43360311",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "At yarışlarında Cumhuriyet ve Cumhurbaşkanlığı koşuları yapılacak",
+              "url": "https://www.sporx.com/at-yarislarinda-cumhuriyet-ve-cumhurbaskanligi-kosulari-yapilacak-SXHBQ1181157SXQ",
+              "source": "Sporx.com"
+            }
+          ]
+        },
+        {
+          "title": "vanspor - sarıyer",
+          "traffic": 2000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Artı Değer Van Spor - SMS Grup Sarıyer maçı ne zaman, saat kaçta, nasıl izlenir?",
+              "url": "https://www.aspor.com.tr/tff-birinci-lig/2026/10/31/arti-deger-van-spor-sms-grup-sariyer-maci-ne-zaman-saat-kacta",
+              "source": "A Spor"
+            },
+            {
+              "title": "Vanspor FK - Sarıyer Maçı Ne Zaman, Saat Kaçta, Hangi Kanalda? TRT Spor Canlı Yayın Bilgileri",
+              "url": "https://www.birgun.net/haber/vanspor-fk-sariyer-maci-ne-zaman-saat-kacta-hangi-kanalda-trt-spor-canli-yayin-bilgileri-743635",
+              "source": "birgun.net"
+            }
+          ]
+        },
+        {
+          "title": "erzurumspor - çorum",
+          "traffic": 20000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Canlı Anlatım: Erzurumspor - Çorum FK maçı",
+              "url": "https://www.hurriyet.com.tr/sporarena/canli-anlatim-erzurumspor-corum-fk-maci-43361372",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Çorum FK, Süper Lig&apos;de bugün Erzurumspor FK&apos;ye konuk olacak",
+              "url": "https://www.aa.com.tr/tr/spor/corum-fk-super-ligde-bugun-erzurumspor-fkye-konuk-olacak/4105684",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "30 ekim masterchef hangi takım kazandı",
+          "traffic": 500,
+          "rank": 5,
+          "news": [
+            {
+              "title": "MasterChef Türkiye 30.10.2026 Tanıtımı | MasterChef Türkiye",
+              "url": "https://www.tv8.com.tr/masterchef-turkiye/masterchef-turkiye-30102026-tanitimi-masterchef-turkiye-176741-video.htm",
+              "source": "Tv8.com.tr"
+            },
+            {
+              "title": "MasterChef ödül oyununda kim birinci oldu? 30 Ekim gecesinin kazanan yarışmacısı açıklandı!",
+              "url": "https://www.sabah.com.tr/yasam/masterchef-odul-oyununu-kim-kazandi-hangi-takim-aldi-30-ekim-2026-masterchef-kazanan-isim-belli-oldu-7691855",
+              "source": "Sabah"
+            }
+          ]
+        },
+        {
+          "title": "ata demirer",
+          "traffic": 100,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Ata Demirer: Hikâyeyi birlikte büyüttük",
+              "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ata-demirer-hikayeyi-birlikte-buyuttuk-43359735",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Ata Demirer, Yeni Filmi Pervaneler&apos;in Nasıl Ortaya Çıktığını Açıkladı",
+              "url": "https://onedio.com/haber/ata-demirer-yeni-filmi-pervaneler-in-nasil-ortaya-ciktigini-acikladi-1392456",
+              "source": "Onedio"
+            }
+          ]
+        },
+        {
+          "title": "meb",
+          "traffic": 5000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "LGS KAPSAMINDAKİ MERKEZÎ SINAVIN TARİHİ BELLİ OLDU",
+              "url": "https://www.meb.gov.tr/lgs-kapsamindaki-merkezi-sinavin-tarihi-belli-oldu/haber/42348/tr?rand=5473",
+              "source": "MEB"
+            },
+            {
+              "title": "Liselere Geçiş Sistemi (LGS) merkezi sınav tarihi açıklandı! LGS 2027 ne zaman, hangi tarihte yapılacak?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/lgs-2027-ne-zaman-hangi-tarihte-yapilacak-liselere-gecis-sistemi-lgs-merkezi-sinav-tarihi-aciklandi-43360587",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "kelechi iheanacho",
+          "traffic": 2000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Fenerbahçe&apos;den Iheanacho hamlesi! Bursaspor&apos;un gol makinesini istiyor",
+              "url": "https://www.sozcu.com.tr/fenerbahceden-iheanacho-hamlesi-bursasporun-gol-makinesini-istiyor-p374512",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Bursasporlu Kelechi Iheanacho A Spor’a özel açıklamalarda bulundu! İZLE - Aspor",
+              "url": "https://www.aspor.com.tr/video/futbol/bursasporlu-kelechi-iheanacho-a-spora-ozel-aciklamalarda-bulundu-izle",
+              "source": "A Spor"
+            }
+          ]
+        },
+        {
+          "title": "31 ekim hangi burç",
+          "traffic": 100,
+          "rank": 9,
+          "news": [
+            {
+              "title": "31 Ekim Cumartesi Balık Burcu Günlük Sağlık Burç Yorumu",
+              "url": "https://onedio.com/astroloji/balik/31-ekim-2026-gunluk-saglik-burc-yorumu",
+              "source": "Onedio"
+            },
+            {
+              "title": "Günlük Burç Yorumları 31 Ekim 2026 | Bugün Hangi Burcu Neler Bekliyor? Terazi, Akrep, Yay Ve Diğer Burç Yorumları",
+              "url": "https://www.hurriyet.com.tr/mahmure/gunluk-burc-yorumlari-31-ekim-2026-bugun-hangi-burcu-neler-bekliyor-terazi-akrep-yay-ve-diger-burc-yorumlari-43361289",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "tera yatırım menkul değerler a.ş.",
+          "traffic": 200,
+          "rank": 10,
+          "news": [
+            {
+              "title": "YTM&apos;den Tera Yatırım Menkul Değerler&apos;e ilişkin tasfiye süreci duyurusu",
+              "url": "https://www.bloomberght.com/ytm-den-tera-yatirim-menkul-degerler-e-iliskin-tasfiye-sureci-duyurusu-3792729",
+              "source": "Bloomberght"
+            },
+            {
+              "title": "[Son Dakika] SPK, SELEC, MANAS ve PASEU’da 2 yıl işlem yasağı uyguladı",
+              "url": "https://tr.investing.com/news/global-filings/son-dakika-spk-selec-manas-ve-paseuda-2-yl-islem-yasag-uygulad-93CH-4123182",
+              "source": "Investing.com Türkiye"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
