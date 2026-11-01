@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-01",
+  "collectedAt": "2026-11-01T11:46:35.774Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "real madrid - burgos",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Real Madrid-San Pablo Burgos: a cerrar otra semana perfecta",
+              "url": "https://www.realmadrid.com/es-ES/noticias/baloncesto/primer-equipo/previas/real-madrid-recoletas-san-pablo-burgos-01-11-2026",
+              "source": "Real Madrid CF | Web Oficial"
+            },
+            {
+              "title": "EN DIRECTO | ¡Arranca el partido en el Movistar Arena!",
+              "url": "https://www.diariodeburgos.es/noticia/z079f2c7e-bfb6-4789-8cc1049fa368e7d7/202610/en-directo--arranca-el-partido-en-el-movistar-arena",
+              "source": "Diario de Burgos"
+            }
+          ]
+        },
+        {
+          "title": "cska moskova",
+          "traffic": 100,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Galatasaray&apos;da rota rusya!",
+              "url": "https://www.fotomac.com.tr/galatasaray/2026/11/01/galatasarayda-ocak-operasyonu-basladi-iste-hedefteki-3-isim",
+              "source": "Fotomaç"
+            },
+            {
+              "title": "Galatasaray&apos;dan transfer operasyonu! 3 isme kanca",
+              "url": "https://www.aspor.com.tr/galatasaray/2026/11/01/galatasaray-transfere-rotayi-rusyaya-kirdi-3-isim-birden",
+              "source": "A Spor"
+            }
+          ]
+        },
+        {
+          "title": "amd",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "AMD reportedly plans another Radeon price increase in November as GDDR6 memory costs rise",
+              "url": "https://www.tweaktown.com/news/114405/amd-reportedly-plans-another-radeon-price-increase-in-november-as-gddr6-memory-costs-rise/index.html",
+              "source": "TweakTown"
+            },
+            {
+              "title": "Video card prices Radeon RX 9000 will rise in November amid a 10% jump in GDDR6",
+              "url": "https://en.gamegpu.com/news/zhelezo/tseny-na-videokarty-radeon-rx-9000-vyrastut-v-noyabre-na-fone-skachka-gddr6-na-10",
+              "source": "GameGPU"
+            }
+          ]
+        },
+        {
+          "title": "suruç hava durumu",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Suruç hava durumu 1 Kasım Pazar - Bugün hava nasıl?",
+              "url": "https://www.urfadegisim.com.tr/suruc-hava-durumu-1-kasim-pazar-bugun-hava-nasil/168935",
+              "source": "Urfa Değişim"
+            },
+            {
+              "title": "Suruç hava durumu 31 Ekim Cumartesi - Bugün hava nasıl?",
+              "url": "https://www.urfadegisim.com.tr/suruc-hava-durumu-31-ekim-cumartesi-bugun-hava-nasil/168862",
+              "source": "Urfa Değişim"
+            }
+          ]
+        },
+        {
+          "title": "como - venezia",
+          "traffic": 200,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Como vs Venezia: Italian Serie A stats & head-to-head",
+              "url": "https://www.bbc.com/sport/football/live/cj93zwrnpzp4t",
+              "source": "BBC"
+            },
+            {
+              "title": "Fabregas: ‘Venezia will be difficult for Como, Kean injury happened with Italy’",
+              "url": "https://football-italia.net/fabregas-venezia-will-be-difficult-for-como/",
+              "source": "Football Italia"
+            }
+          ]
+        },
+        {
+          "title": "orban",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Vuçiç&apos;in seçim yenilgisi: Macaristan&apos;dan sonra Sırbistan televizyonları da halktan özür diledi",
+              "url": "https://www.dw.com/tr/macaristandan-sonra-s%C4%B1rbistan-televizyonlar%C4%B1-da-halktan-%C3%B6z%C3%BCr-diledi/a-79795040",
+              "source": "DW.com"
+            },
+            {
+              "title": "BBC, Sırbistan ve Macaristan&apos;daki yenilgileri yazdı: Vucic&apos;in iktidar sonrası akıbeti Orban&apos;a benzeyecek",
+              "url": "https://gazeteoksijen.com/dunya/vucicin-iktidar-sonrasi-akibeti-orbana-benzeyecek-294575",
+              "source": "Gazete Oksijen"
+            }
+          ]
+        },
+        {
+          "title": "ime udoka",
+          "traffic": 100,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Ime Udoka: Irving is &apos;the best offensive player I&apos;ve seen one-on-one&apos;",
+              "url": "https://www.nba.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
+              "source": "NBA.com"
+            },
+            {
+              "title": "Ime Udoka&apos;s Coach of the Year case is being written by his team&apos;s elite offense",
+              "url": "https://spacecityscoop.com/ime-udoka-coach-year-case-being-written-team-elite-offense",
+              "source": "Space City Scoop"
+            }
+          ]
+        },
+        {
+          "title": "şanlıurfaspor",
+          "traffic": 500,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Şanlıurfaspor - Isparta 32 Spor maçı hangi kanalda?",
+              "url": "https://www.alanyapostasi.com.tr/sanliurfaspor-isparta-32-spor-maci-hangi-kanalda",
+              "source": "Alanya Postası"
+            },
+            {
+              "title": "Şanlıurfaspor&apos;da futbolcular taraftardan istedi",
+              "url": "https://www.gazetevatan.com/sehirler/sanliurfa/sanliurfasporda-futbolcular-taraftardan-istedi-2444575",
+              "source": "Gazete Vatan"
+            }
+          ]
+        },
+        {
+          "title": "erzincanspor",
+          "traffic": 500,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Erzincanspor- 52 Orduspor maçı hangi kanalda?",
+              "url": "https://www.alanyapostasi.com.tr/erzincanspor-52-orduspor-maci-hangi-kanalda",
+              "source": "Alanya Postası"
+            },
+            {
+              "title": "Ajans Erzincan ve Kanal Ordu’dan Maç Öncesi Ortak Yayını",
+              "url": "https://www.ajanserzincan.com/ajans-erzincan-ve-kanal-ordudan-mac-oncesi-ortak-yayini",
+              "source": "Ajans Erzincan"
+            }
+          ]
+        },
+        {
+          "title": "metin öztürk",
+          "traffic": 5000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Galatasaray&apos;da sürpriz istifa! Annesine küfür edilince bütün görevlerini bıraktı",
+              "url": "https://www.sozcu.com.tr/galatasaray-da-surpriz-istifa-annesine-kufur-edilince-butun-gorevini-birakti-p374864",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Metin Öztürk kimdir, kaç yaşında, nereli? Galatasaray Kulübü İkinci Başkanı Metin Öztürk neden istifa etti?",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-metin-ozturk-kimdir-kac-yasinda-nereli-galatasaray-kulubu-ikinci-baskani-metin-ozturk-neden-istifa-etti-43362457",
+              "source": "Hürriyet"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

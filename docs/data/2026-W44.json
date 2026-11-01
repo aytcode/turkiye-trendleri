@@ -13,8 +13,8 @@
   "end": "2026-11-01",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-10-31T10:49:50.004Z",
-  "snapshotDays": 6,
+  "generatedAt": "2026-11-01T11:46:35.774Z",
+  "snapshotDays": 7,
   "activeSources": [
     "google",
     "wikipedia"
@@ -234,6 +234,24 @@
             {
               "title": "Liselere Geçiş Sistemi (LGS) merkezi sınav tarihi açıklandı! LGS 2027 ne zaman, hangi tarihte yapılacak?",
               "url": "https://www.hurriyet.com.tr/bilgi/galeri/lgs-2027-ne-zaman-hangi-tarihte-yapilacak-liselere-gecis-sistemi-lgs-merkezi-sinav-tarihi-aciklandi-43360587",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 5000
+        },
+        {
+          "title": "metin öztürk",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Galatasaray&apos;da sürpriz istifa! Annesine küfür edilince bütün görevlerini bıraktı",
+              "url": "https://www.sozcu.com.tr/galatasaray-da-surpriz-istifa-annesine-kufur-edilince-butun-gorevini-birakti-p374864",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Metin Öztürk kimdir, kaç yaşında, nereli? Galatasaray Kulübü İkinci Başkanı Metin Öztürk neden istifa etti?",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-metin-ozturk-kimdir-kac-yasinda-nereli-galatasaray-kulubu-ikinci-baskani-metin-ozturk-neden-istifa-etti-43362457",
               "source": "Hürriyet"
             }
           ],
@@ -508,27 +526,9 @@
             }
           ],
           "score": 1000
-        },
-        {
-          "title": "icardi",
-          "traffic": 1000,
-          "days": 1,
-          "news": [
-            {
-              "title": "Icardi’den Galatasaray ve transfer açıklaması: &apos;Cevabımı sahada vermek için sabırsızlanıyorum!&apos;",
-              "url": "https://www.hurriyet.com.tr/sporarena/icardiden-galatasaray-ve-transfer-aciklamasi-cevabimi-sahada-vermek-icin-sabirsizlaniyorum-43360434",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Galatasaray&apos;a veda eden Icardi&apos;den transfer açıklaması: Cevabı sahada vereceğim",
-              "url": "https://www.milliyet.com.tr/skorer/galatasaraya-veda-eden-icardiden-transfer-aciklamasi-cevabi-sahada-verecegim-7690654",
-              "source": "Milliyet"
-            }
-          ],
-          "score": 1000
         }
       ],
-      "total": 59
+      "total": 69
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -540,106 +540,138 @@
         {
           "title": "29 Ekim Cumhuriyet Bayramı",
           "article": "29_Ekim_Cumhuriyet_Bayramı",
-          "views": 44513,
-          "days": 5,
+          "views": 45215,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/29_Ekim_Cumhuriyet_Bayram%C4%B1",
-          "score": 44513
+          "score": 45215
         },
         {
           "title": "2026 İsrail yasama seçimi",
           "article": "2026_İsrail_yasama_seçimi",
-          "views": 42708,
-          "days": 4,
+          "views": 44192,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
-          "score": 42708
+          "score": 44192
         },
         {
           "title": "Mustafa Sarıgül",
           "article": "Mustafa_Sarıgül",
-          "views": 33162,
-          "days": 5,
+          "views": 38532,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 33162
+          "score": 38532
         },
         {
           "title": "Ümit Kocasakal",
           "article": "Ümit_Kocasakal",
-          "views": 28909,
-          "days": 5,
+          "views": 29511,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
-          "score": 28909
+          "score": 29511
         },
         {
           "title": "Fenerbahçe-Galatasaray derbisi",
           "article": "Fenerbahçe-Galatasaray_derbisi",
-          "views": 26375,
-          "days": 5,
+          "views": 27841,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
-          "score": 26375
+          "score": 27841
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 22528,
-          "days": 5,
+          "views": 27617,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 22528
-        },
-        {
-          "title": "Oktay Saral",
-          "article": "Oktay_Saral",
-          "views": 21140,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
-          "score": 21140
-        },
-        {
-          "title": "Yapay zekâ",
-          "article": "Yapay_zekâ",
-          "views": 19085,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 19085
-        },
-        {
-          "title": "Ballon d'Or",
-          "article": "Ballon_d'Or",
-          "views": 18086,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
-          "score": 18086
-        },
-        {
-          "title": "Burhaneddin Kirmânî",
-          "article": "Burhaneddin_Kirmânî",
-          "views": 17950,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
-          "score": 17950
+          "score": 27617
         },
         {
           "title": "Abdullah Çatlı",
           "article": "Abdullah_Çatlı",
-          "views": 16548,
-          "days": 5,
+          "views": 22150,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 16548
+          "score": 22150
         },
         {
-          "title": "Cem Akaş",
-          "article": "Cem_Akaş",
-          "views": 16239,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Cem_Aka%C5%9F",
-          "score": 16239
+          "title": "Oktay Saral",
+          "article": "Oktay_Saral",
+          "views": 21671,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
+          "score": 21671
+        },
+        {
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 19801,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 19801
+        },
+        {
+          "title": "Ballon d'Or",
+          "article": "Ballon_d'Or",
+          "views": 18893,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
+          "score": 18893
+        },
+        {
+          "title": "Burhaneddin Kirmânî",
+          "article": "Burhaneddin_Kirmânî",
+          "views": 18471,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
+          "score": 18471
         },
         {
           "title": "II. Mehmed",
           "article": "II._Mehmed",
-          "views": 15698,
-          "days": 5,
+          "views": 17979,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 15698
+          "score": 17979
+        },
+        {
+          "title": "XNXX",
+          "article": "XNXX",
+          "views": 17751,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/XNXX",
+          "score": 17751
+        },
+        {
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 17173,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 17173
+        },
+        {
+          "title": "Aylin Kotil",
+          "article": "Aylin_Kotil",
+          "views": 16997,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
+          "score": 16997
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 16810,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 16810
+        },
+        {
+          "title": "Cem Akaş",
+          "article": "Cem_Akaş",
+          "views": 16727,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Cem_Aka%C5%9F",
+          "score": 16727
         },
         {
           "title": "Gadi Eisenkot",
@@ -648,6 +680,14 @@
           "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Gadi_Eisenkot",
           "score": 15521
+        },
+        {
+          "title": "İsmail Kartal",
+          "article": "İsmail_Kartal",
+          "views": 15466,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
+          "score": 15466
         },
         {
           "title": "Sanat",
@@ -666,6 +706,14 @@
           "score": 15214
         },
         {
+          "title": "Dirk Kuyt",
+          "article": "Dirk_Kuyt",
+          "views": 15164,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Dirk_Kuyt",
+          "score": 15164
+        },
+        {
           "title": "Tarih",
           "article": "Tarih",
           "views": 15159,
@@ -682,63 +730,15 @@
           "score": 15154
         },
         {
-          "title": "Osmanlı padişahları listesi",
-          "article": "Osmanlı_padişahları_listesi",
-          "views": 15112,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 15112
-        },
-        {
           "title": "Bilim",
           "article": "Bilim",
           "views": 15079,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Bilim",
           "score": 15079
-        },
-        {
-          "title": "Aylin Kotil",
-          "article": "Aylin_Kotil",
-          "views": 15067,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 15067
-        },
-        {
-          "title": "XNXX",
-          "article": "XNXX",
-          "views": 14735,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 14735
-        },
-        {
-          "title": "İsmail Kartal",
-          "article": "İsmail_Kartal",
-          "views": 14610,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
-          "score": 14610
-        },
-        {
-          "title": "Cinsel ilişki",
-          "article": "Cinsel_ilişki",
-          "views": 13955,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 13955
-        },
-        {
-          "title": "I. Selim",
-          "article": "I._Selim",
-          "views": 13376,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/I._Selim",
-          "score": 13376
         }
       ],
-      "coveredDays": 5,
+      "coveredDays": 6,
       "total": 50
     }
   },
@@ -874,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Oktay Saral",
+      "title": "Abdullah Çatlı",
       "platforms": [
         "wikipedia"
       ],
@@ -894,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Yapay zekâ",
+      "title": "Oktay Saral",
       "platforms": [
         "wikipedia"
       ],
@@ -914,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "Ballon d'Or",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],
@@ -924,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "luka doncic",
+      "title": "metin öztürk",
       "platforms": [
         "google"
       ],
@@ -934,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Burhaneddin Kirmânî",
+      "title": "Ballon d'Or",
       "platforms": [
         "wikipedia"
       ],
