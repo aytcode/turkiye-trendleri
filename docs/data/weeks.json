@@ -1,9 +1,27 @@
 [
   {
+    "week": "2026-W45",
+    "start": "2026-11-02",
+    "end": "2026-11-08",
+    "final": false,
+    "activeSources": [
+      "google",
+      "wikipedia"
+    ],
+    "top": [
+      "fenerbahçe liverpool maçı ne zaman",
+      "ikindi ezanı",
+      "haber 7",
+      "togg kasım kampanyası 2026",
+      "zelda"
+    ],
+    "url": "hafta/2026-W45.html"
+  },
+  {
     "week": "2026-W44",
     "start": "2026-10-26",
     "end": "2026-11-01",
-    "final": false,
+    "final": true,
     "activeSources": [
       "google",
       "wikipedia"

@@ -30,20 +30,20 @@
 ## Son rapor
 
 <!-- SON-RAPOR:BASLA -->
-**2026-W44** (2026-10-26 → 2026-11-01) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W44.html) · [Markdown](reports/2026-W44.md)
+**2026-W45** (2026-11-02 → 2026-11-08) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W45.html) · [Markdown](reports/2026-W45.md)
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | fırtına | 1 |
-| 2 | 29 Ekim Cumhuriyet Bayramı | 1 |
-| 3 | bursaspor (futbol takımı) | 1 |
-| 4 | 2026 İsrail yasama seçimi | 1 |
-| 5 | öğle ezanı | 1 |
-| 6 | Mustafa Sarıgül | 1 |
-| 7 | cuma namazı saat kaçta | 1 |
-| 8 | Ümit Kocasakal | 1 |
-| 9 | erzurumspor - çorum | 1 |
-| 10 | Fenerbahçe-Galatasaray derbisi | 1 |
+| 1 | fenerbahçe liverpool maçı ne zaman | 1 |
+| 2 | ikindi ezanı | 1 |
+| 3 | haber 7 | 1 |
+| 4 | togg kasım kampanyası 2026 | 1 |
+| 5 | zelda | 1 |
+| 6 | باختاكور ضد النصر | 1 |
+| 7 | izmir metro | 1 |
+| 8 | tbmm | 1 |
+| 9 | ermedin demirović | 1 |
+| 10 | kyk burs başvuru sonuçları ne zaman açıklanacak | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

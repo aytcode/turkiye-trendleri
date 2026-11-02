@@ -1,10 +1,10 @@
-# Türkiye Trendleri — 2026-W44
+# Türkiye Trendleri — 2026-W45
 
-**26 Ekim 2026 – 1 Kasım 2026** · Tamamlanan hafta · 7/7 günlük anlık görüntü
+**2 Kasım 2026 – 8 Kasım 2026** · Tamamlanan hafta · 7/7 günlük anlık görüntü
 
 > **Örnek veri.** Bu rapor tasarımı göstermek için uydurma verilerle üretilmiştir.
 
-Grafikli sürüm: https://aytcode.github.io/turkiye-trendleri/hafta/2026-W44.html
+Grafikli sürüm: https://aytcode.github.io/turkiye-trendleri/hafta/2026-W45.html
 
 Aktif kaynaklar: X (Twitter), TikTok, Instagram, YouTube, Google Trends, Vikipedi
 
@@ -119,4 +119,4 @@ Aktif kaynaklar: X (Twitter), TikTok, Instagram, YouTube, Google Trends, Vikiped
 | 10 | [Konser takvimi](#) | 79.000 | 7/7 |
 
 ---
-_Oluşturulma: 2026-11-01 11:46 UTC · [turkiye-trendleri](https://github.com/aytcode/turkiye-trendleri)_
+_Oluşturulma: 2026-11-02 13:20 UTC · [turkiye-trendleri](https://github.com/aytcode/turkiye-trendleri)_

@@ -11,9 +11,9 @@
   ],
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "final": false,
+  "final": true,
   "sample": false,
-  "generatedAt": "2026-11-01T11:46:35.774Z",
+  "generatedAt": "2026-11-02T13:20:22.582Z",
   "snapshotDays": 7,
   "activeSources": [
     "google",
@@ -540,205 +540,205 @@
         {
           "title": "29 Ekim Cumhuriyet Bayramı",
           "article": "29_Ekim_Cumhuriyet_Bayramı",
-          "views": 45215,
-          "days": 6,
+          "views": 45766,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/29_Ekim_Cumhuriyet_Bayram%C4%B1",
-          "score": 45215
+          "score": 45766
         },
         {
           "title": "2026 İsrail yasama seçimi",
           "article": "2026_İsrail_yasama_seçimi",
-          "views": 44192,
-          "days": 5,
+          "views": 45415,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/2026_%C4%B0srail_yasama_se%C3%A7imi",
-          "score": 44192
+          "score": 45415
         },
         {
           "title": "Mustafa Sarıgül",
           "article": "Mustafa_Sarıgül",
-          "views": 38532,
-          "days": 6,
+          "views": 42908,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 38532
-        },
-        {
-          "title": "Ümit Kocasakal",
-          "article": "Ümit_Kocasakal",
-          "views": 29511,
-          "days": 6,
-          "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
-          "score": 29511
-        },
-        {
-          "title": "Fenerbahçe-Galatasaray derbisi",
-          "article": "Fenerbahçe-Galatasaray_derbisi",
-          "views": 27841,
-          "days": 6,
-          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
-          "score": 27841
+          "score": 42908
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 27617,
-          "days": 6,
+          "views": 32679,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 27617
+          "score": 32679
+        },
+        {
+          "title": "Ümit Kocasakal",
+          "article": "Ümit_Kocasakal",
+          "views": 31940,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/%C3%9Cmit_Kocasakal",
+          "score": 31940
+        },
+        {
+          "title": "Fenerbahçe-Galatasaray derbisi",
+          "article": "Fenerbahçe-Galatasaray_derbisi",
+          "views": 28852,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e-Galatasaray_derbisi",
+          "score": 28852
         },
         {
           "title": "Abdullah Çatlı",
           "article": "Abdullah_Çatlı",
-          "views": 22150,
-          "days": 6,
+          "views": 28018,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 22150
+          "score": 28018
         },
         {
           "title": "Oktay Saral",
           "article": "Oktay_Saral",
-          "views": 21671,
-          "days": 6,
+          "views": 22448,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Oktay_Saral",
-          "score": 21671
+          "score": 22448
         },
         {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 19801,
-          "days": 6,
+          "views": 20922,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 19801
-        },
-        {
-          "title": "Ballon d'Or",
-          "article": "Ballon_d'Or",
-          "views": 18893,
-          "days": 6,
-          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
-          "score": 18893
-        },
-        {
-          "title": "Burhaneddin Kirmânî",
-          "article": "Burhaneddin_Kirmânî",
-          "views": 18471,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
-          "score": 18471
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 17979,
-          "days": 6,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 17979
+          "score": 20922
         },
         {
           "title": "XNXX",
           "article": "XNXX",
-          "views": 17751,
-          "days": 6,
+          "views": 20809,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 17751
+          "score": 20809
         },
         {
           "title": "Osmanlı padişahları listesi",
           "article": "Osmanlı_padişahları_listesi",
-          "views": 17173,
-          "days": 6,
+          "views": 20760,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 17173
+          "score": 20760
         },
         {
-          "title": "Aylin Kotil",
-          "article": "Aylin_Kotil",
-          "views": 16997,
-          "days": 6,
-          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 16997
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 20432,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 20432
+        },
+        {
+          "title": "Ballon d'Or",
+          "article": "Ballon_d'Or",
+          "views": 19638,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Ballon_d'Or",
+          "score": 19638
         },
         {
           "title": "Cinsel ilişki",
           "article": "Cinsel_ilişki",
-          "views": 16810,
-          "days": 6,
+          "views": 19173,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 16810
+          "score": 19173
+        },
+        {
+          "title": "Aylin Kotil",
+          "article": "Aylin_Kotil",
+          "views": 19151,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
+          "score": 19151
+        },
+        {
+          "title": "Burhaneddin Kirmânî",
+          "article": "Burhaneddin_Kirmânî",
+          "views": 18772,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Burhaneddin_Kirm%C3%A2n%C3%AE",
+          "score": 18772
+        },
+        {
+          "title": "Süper Lig şampiyonları listesi",
+          "article": "Süper_Lig_şampiyonları_listesi",
+          "views": 17325,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+          "score": 17325
         },
         {
           "title": "Cem Akaş",
           "article": "Cem_Akaş",
-          "views": 16727,
-          "days": 4,
+          "views": 17023,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Cem_Aka%C5%9F",
-          "score": 16727
+          "score": 17023
         },
         {
-          "title": "Gadi Eisenkot",
-          "article": "Gadi_Eisenkot",
-          "views": 15521,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Gadi_Eisenkot",
-          "score": 15521
-        },
-        {
-          "title": "İsmail Kartal",
-          "article": "İsmail_Kartal",
-          "views": 15466,
-          "days": 6,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
-          "score": 15466
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 15312,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 15312
-        },
-        {
-          "title": "Teknoloji",
-          "article": "Teknoloji",
-          "views": 15214,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 15214
+          "title": "I. Selim",
+          "article": "I._Selim",
+          "views": 16716,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/I._Selim",
+          "score": 16716
         },
         {
           "title": "Dirk Kuyt",
           "article": "Dirk_Kuyt",
-          "views": 15164,
-          "days": 6,
+          "views": 16622,
+          "days": 7,
           "url": "https://tr.wikipedia.org/wiki/Dirk_Kuyt",
-          "score": 15164
+          "score": 16622
         },
         {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 15159,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 15159
+          "title": "İsmail Kartal",
+          "article": "İsmail_Kartal",
+          "views": 16141,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0smail_Kartal",
+          "score": 16141
         },
         {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 15154,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 15154
+          "title": "Sinem Dedetaş",
+          "article": "Sinem_Dedetaş",
+          "views": 16027,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Sinem_Dedeta%C5%9F",
+          "score": 16027
         },
         {
-          "title": "Bilim",
-          "article": "Bilim",
-          "views": 15079,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 15079
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 15774,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 15774
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 15750,
+          "days": 7,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 15750
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 15679,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 15679
         }
       ],
-      "coveredDays": 6,
+      "coveredDays": 7,
       "total": 50
     }
   },
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Ümit Kocasakal",
+      "title": "XHamster",
       "platforms": [
         "wikipedia"
       ],
@@ -834,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Fenerbahçe-Galatasaray derbisi",
+      "title": "Ümit Kocasakal",
       "platforms": [
         "wikipedia"
       ],
@@ -854,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "XHamster",
+      "title": "Fenerbahçe-Galatasaray derbisi",
       "platforms": [
         "wikipedia"
       ],
@@ -934,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Ballon d'Or",
+      "title": "XNXX",
       "platforms": [
         "wikipedia"
       ],
