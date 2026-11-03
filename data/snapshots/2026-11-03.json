@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-03",
+  "collectedAt": "2026-11-03T12:42:50.812Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "uefa youth league",
+          "traffic": 100,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Barcelona warn Aston Villa about Egyptian talent",
+              "url": "https://www.gazetaexpress.com/en/Barcelona-warn-Aston-Villa-about-Egyptian-talent/",
+              "source": "Gazeta Express"
+            },
+            {
+              "title": "Hansi Flick pleased with 19-year-old Barcelona forward’s attitude despite limited game time",
+              "url": "https://sports.yahoo.com/articles/hansi-flick-pleased-19-old-090000943.html",
+              "source": "Yahoo Sports"
+            }
+          ]
+        },
+        {
+          "title": "ikindi ezanı",
+          "traffic": 10000,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 3 Kasım 2026 namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-3-kasim-2026-namaz-vakitleri-1743251",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "Trabzon’da akşam ezanı saat kaçta okunacak? 2 Kasım 2026 namaz vakitleri belli oldu!",
+              "url": "https://karadenizgazete.com.tr/karadeniz/trabzon/trabzonda-aksam-ezani-saat-kacta-okunacak-2-kasim-2026-namaz-vakitleri-belli-oldu/631279",
+              "source": "Karadeniz Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "kar alarmı",
+          "traffic": 100000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Son dakika... İstanbul için uyarı üstün uyarı: Kuvvetli yağışlar için saat verildi",
+              "url": "https://www.sozcu.com.tr/son-dakika-istanbul-icin-uyari-ustun-uyari-kuvvetli-yagislar-icin-saat-verildi-p375589",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Batı Karadeniz&apos;de yağış uyarısı yapıldı",
+              "url": "https://yerel-haberler.haberturk.com/duzce-haberleri/bati-karadenizde-yagis-uyarisi-yapildi-119511149",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "serdar aziz",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe&apos;de şampiyonluk yaşayamamak içimde ukde kaldı",
+              "url": "https://www.hurriyet.com.tr/sporarena/serdar-aziz-teknik-direktorluge-hazirlaniyor-fenerbahcede-sampiyonluk-yasayamamak-icimde-ukde-kaldi-43364479",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Fenerbahçe ve Galatasaray&apos;da da oynayan Serdar Aziz futbolu bıraktı",
+              "url": "https://spor.haber7.com/futbol/haber/3673815-fenerbahce-ve-galatasarayda-da-oynayan-serdar-aziz-futbolu-birakti",
+              "source": "Haber 7"
+            }
+          ]
+        },
+        {
+          "title": "9 kasım",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "9 Kasım Pazartesi gününden itibaren 4 burcun hayatı değişecek",
+              "url": "https://www.sozcu.com.tr/9-kasim-pazartesi-gununden-itibaren-4-burcun-hayati-degisecek-p375555",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Kasım 2026 Burç Yorumları",
+              "url": "https://vogue.com.tr/astroloji/kasim-2026-burc-yorumlari",
+              "source": "Vogue"
+            }
+          ]
+        },
+        {
+          "title": "epdk",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Vadeli gazda iptal kuralları değişti",
+              "url": "https://www.enerjigunlugu.net/epdk-vadeli-gazda-iptal-sartlarini-belirledi-70400h.htm",
+              "source": "Enerji Günlüğü"
+            },
+            {
+              "title": "Doğal gazda fiyat hesaplama sistemi değişiyor! EPDK’dan yeni karar",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/dogal-gazda-fiyat-hesaplama-sistemi-degisiyor-epdkdan-yeni-karar_ID102279921/",
+              "source": "Bigpara"
+            }
+          ]
+        },
+        {
+          "title": "sivas hava durumu",
+          "traffic": 500,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Meteoroloji Muğla&apos;da sağanak uyarısı yaptı, 51-100 kg/m2 yağış bekleniyor",
+              "url": "https://www.haberler.com/cevre/meteoroloji-mugla-da-saganak-uyarisi-yapti-51-100-20364511-haberi/",
+              "source": "Haberler"
+            }
+          ]
+        },
+        {
+          "title": "tokat hava durumu",
+          "traffic": 5000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Meteorolojiden İstanbul&apos;a uyarı: Kar soğuğu ve yağış için saat belli oldu",
+              "url": "https://www.ntv.com.tr/turkiye/galeri-kar-sogugu-geliyor-istanbulda-hava-sicakligi-aniden-dusecek-bazi-sehirlerde-kar-bekleniyor-1749141",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Sıcaklıklar yarından itibaren 5 ila 8 derece azalacak",
+              "url": "https://www.trthaber.com/haber/gundem/sicakliklar-yarindan-itibaren-5-ila-8-derece-azalacak-962011.html",
+              "source": "TRT Haber"
+            }
+          ]
+        },
+        {
+          "title": "kadir ezildi programı bitti mi",
+          "traffic": 200,
+          "rank": 9,
+          "news": [
+            {
+              "title": "NOW TV’den &apos;Kadir Ezildi&apos; kararı: Yerine gelecek program ve isim belli oldu",
+              "url": "https://www.cumhuriyet.com.tr/yasam/now-tv-den-kadir-ezildi-karari-yerine-gelecek-program-ve-isim-belli-oldu-2552613",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Gelinler Sofrada Programı 1. Teaser",
+              "url": "https://www.nowtv.com.tr/Gelinler-Sofrada/fragman/1-Bolum-1-Fragman",
+              "source": "NOW"
+            }
+          ]
+        },
+        {
+          "title": "sydney sweeney",
+          "traffic": 200,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Exclusive | Sydney Sweeney’s lingerie brand is doing better than ever, despite haters",
+              "url": "https://pagesix.com/2026/10/28/style/sydney-sweeneys-lingerie-brand-is-doing-better-than-ever-despite-haters/",
+              "source": "Page Six"
+            },
+            {
+              "title": "Sydney Sweeney Braves the Snow in SYRN Flannel Micro Shorts & Tights",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/sydney-sweeney-braves-snow-syrn-080832941.html",
+              "source": "Yahoo"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

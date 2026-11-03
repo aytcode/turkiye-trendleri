@@ -13,8 +13,8 @@
   "end": "2026-11-08",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-02T13:20:22.582Z",
-  "snapshotDays": 1,
+  "generatedAt": "2026-11-03T12:42:50.812Z",
+  "snapshotDays": 2,
   "activeSources": [
     "google",
     "wikipedia"
@@ -78,6 +78,42 @@
       "status": "ok",
       "items": [
         {
+          "title": "kar alarmı",
+          "traffic": 100000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Son dakika... İstanbul için uyarı üstün uyarı: Kuvvetli yağışlar için saat verildi",
+              "url": "https://www.sozcu.com.tr/son-dakika-istanbul-icin-uyari-ustun-uyari-kuvvetli-yagislar-icin-saat-verildi-p375589",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Batı Karadeniz&apos;de yağış uyarısı yapıldı",
+              "url": "https://yerel-haberler.haberturk.com/duzce-haberleri/bati-karadenizde-yagis-uyarisi-yapildi-119511149",
+              "source": "Habertürk"
+            }
+          ],
+          "score": 100000
+        },
+        {
+          "title": "ikindi ezanı",
+          "traffic": 15000,
+          "days": 2,
+          "news": [
+            {
+              "title": "Bursa&apos;da ezan saatleri belli oldu! 2 Kasım için imsak, öğle, ikindi, akşam ve yatsı vakitleri...",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-ezan-saatleri-belli-oldu-2-kasim-icin-imsak-ogle-ikindi-aksam-ve-yatsi-vakitleri-1742504",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 31 Ekim namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-31-ekim-namaz-vakitleri-1741391",
+              "source": "Bursa Hakimiyet"
+            }
+          ],
+          "score": 15000
+        },
+        {
           "title": "fenerbahçe liverpool maçı ne zaman",
           "traffic": 10000,
           "days": 1,
@@ -96,19 +132,19 @@
           "score": 10000
         },
         {
-          "title": "ikindi ezanı",
+          "title": "tokat hava durumu",
           "traffic": 5000,
           "days": 1,
           "news": [
             {
-              "title": "Bursa&apos;da ezan saatleri belli oldu! 2 Kasım için imsak, öğle, ikindi, akşam ve yatsı vakitleri...",
-              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-ezan-saatleri-belli-oldu-2-kasim-icin-imsak-ogle-ikindi-aksam-ve-yatsi-vakitleri-1742504",
-              "source": "Bursa Hakimiyet"
+              "title": "Meteorolojiden İstanbul&apos;a uyarı: Kar soğuğu ve yağış için saat belli oldu",
+              "url": "https://www.ntv.com.tr/turkiye/galeri-kar-sogugu-geliyor-istanbulda-hava-sicakligi-aniden-dusecek-bazi-sehirlerde-kar-bekleniyor-1749141",
+              "source": "NTV Haber"
             },
             {
-              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 31 Ekim namaz vakitleri",
-              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-31-ekim-namaz-vakitleri-1741391",
-              "source": "Bursa Hakimiyet"
+              "title": "Sıcaklıklar yarından itibaren 5 ila 8 derece azalacak",
+              "url": "https://www.trthaber.com/haber/gundem/sicakliklar-yarindan-itibaren-5-ila-8-derece-azalacak-962011.html",
+              "source": "TRT Haber"
             }
           ],
           "score": 5000
@@ -163,6 +199,19 @@
               "title": "Est-ce grave de ne jamais avoir joué à Zelda Ocarina of Time ?",
               "url": "https://www.jeuxvideo.com/news/2111494/est-ce-grave-de-ne-jamais-avoir-joue-a-zelda-ocarina-of-time.htm",
               "source": "JeuxVideo.com"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "sivas hava durumu",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Meteoroloji Muğla&apos;da sağanak uyarısı yaptı, 51-100 kg/m2 yağış bekleniyor",
+              "url": "https://www.haberler.com/cevre/meteoroloji-mugla-da-saganak-uyarisi-yapti-51-100-20364511-haberi/",
+              "source": "Haberler"
             }
           ],
           "score": 500
@@ -240,6 +289,78 @@
           "score": 200
         },
         {
+          "title": "serdar aziz",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe&apos;de şampiyonluk yaşayamamak içimde ukde kaldı",
+              "url": "https://www.hurriyet.com.tr/sporarena/serdar-aziz-teknik-direktorluge-hazirlaniyor-fenerbahcede-sampiyonluk-yasayamamak-icimde-ukde-kaldi-43364479",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Fenerbahçe ve Galatasaray&apos;da da oynayan Serdar Aziz futbolu bıraktı",
+              "url": "https://spor.haber7.com/futbol/haber/3673815-fenerbahce-ve-galatasarayda-da-oynayan-serdar-aziz-futbolu-birakti",
+              "source": "Haber 7"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "epdk",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Vadeli gazda iptal kuralları değişti",
+              "url": "https://www.enerjigunlugu.net/epdk-vadeli-gazda-iptal-sartlarini-belirledi-70400h.htm",
+              "source": "Enerji Günlüğü"
+            },
+            {
+              "title": "Doğal gazda fiyat hesaplama sistemi değişiyor! EPDK’dan yeni karar",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/dogal-gazda-fiyat-hesaplama-sistemi-degisiyor-epdkdan-yeni-karar_ID102279921/",
+              "source": "Bigpara"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "kadir ezildi programı bitti mi",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "NOW TV’den &apos;Kadir Ezildi&apos; kararı: Yerine gelecek program ve isim belli oldu",
+              "url": "https://www.cumhuriyet.com.tr/yasam/now-tv-den-kadir-ezildi-karari-yerine-gelecek-program-ve-isim-belli-oldu-2552613",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Gelinler Sofrada Programı 1. Teaser",
+              "url": "https://www.nowtv.com.tr/Gelinler-Sofrada/fragman/1-Bolum-1-Fragman",
+              "source": "NOW"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "sydney sweeney",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Exclusive | Sydney Sweeney’s lingerie brand is doing better than ever, despite haters",
+              "url": "https://pagesix.com/2026/10/28/style/sydney-sweeneys-lingerie-brand-is-doing-better-than-ever-despite-haters/",
+              "source": "Page Six"
+            },
+            {
+              "title": "Sydney Sweeney Braves the Snow in SYRN Flannel Micro Shorts & Tights",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/sydney-sweeney-braves-snow-syrn-080832941.html",
+              "source": "Yahoo"
+            }
+          ],
+          "score": 200
+        },
+        {
           "title": "kyk burs başvuru sonuçları ne zaman açıklanacak",
           "traffic": 100,
           "days": 1,
@@ -256,9 +377,45 @@
             }
           ],
           "score": 100
+        },
+        {
+          "title": "uefa youth league",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Barcelona warn Aston Villa about Egyptian talent",
+              "url": "https://www.gazetaexpress.com/en/Barcelona-warn-Aston-Villa-about-Egyptian-talent/",
+              "source": "Gazeta Express"
+            },
+            {
+              "title": "Hansi Flick pleased with 19-year-old Barcelona forward’s attitude despite limited game time",
+              "url": "https://sports.yahoo.com/articles/hansi-flick-pleased-19-old-090000943.html",
+              "source": "Yahoo Sports"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "9 kasım",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "9 Kasım Pazartesi gününden itibaren 4 burcun hayatı değişecek",
+              "url": "https://www.sozcu.com.tr/9-kasim-pazartesi-gununden-itibaren-4-burcun-hayati-degisecek-p375555",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Kasım 2026 Burç Yorumları",
+              "url": "https://vogue.com.tr/astroloji/kasim-2026-burc-yorumlari",
+              "source": "Vogue"
+            }
+          ],
+          "score": 100
         }
       ],
-      "total": 10
+      "total": 19
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -266,19 +423,230 @@
       "color": "#8E8E93",
       "needs": [],
       "status": "ok",
-      "items": [],
-      "coveredDays": 0,
-      "total": 0
+      "items": [
+        {
+          "title": "Sérgio Conceição",
+          "article": "Sérgio_Conceição",
+          "views": 40234,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/S%C3%A9rgio_Concei%C3%A7%C3%A3o",
+          "score": 40234
+        },
+        {
+          "title": "Ahmet Nazif Zorlu",
+          "article": "Ahmet_Nazif_Zorlu",
+          "views": 33781,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_Nazif_Zorlu",
+          "score": 33781
+        },
+        {
+          "title": "Mustafa Sarıgül",
+          "article": "Mustafa_Sarıgül",
+          "views": 5635,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
+          "score": 5635
+        },
+        {
+          "title": "Zorlu Holding",
+          "article": "Zorlu_Holding",
+          "views": 4704,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
+          "score": 4704
+        },
+        {
+          "title": "2026 Amerika Birleşik Devletleri seçimleri",
+          "article": "2026_Amerika_Birleşik_Devletleri_seçimleri",
+          "views": 4480,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/2026_Amerika_Birle%C5%9Fik_Devletleri_se%C3%A7imleri",
+          "score": 4480
+        },
+        {
+          "title": "Abdullah Çatlı",
+          "article": "Abdullah_Çatlı",
+          "views": 4251,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
+          "score": 4251
+        },
+        {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 4191,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 4191
+        },
+        {
+          "title": "Abdurrahman Köksaloğlu",
+          "article": "Abdurrahman_Köksaloğlu",
+          "views": 3437,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Abdurrahman_K%C3%B6ksalo%C4%9Flu",
+          "score": 3437
+        },
+        {
+          "title": "Devlet Bahçeli",
+          "article": "Devlet_Bahçeli",
+          "views": 3338,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Devlet_Bah%C3%A7eli",
+          "score": 3338
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 3293,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 3293
+        },
+        {
+          "title": "XNXX",
+          "article": "XNXX",
+          "views": 3141,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/XNXX",
+          "score": 3141
+        },
+        {
+          "title": "Ahmet Mekin",
+          "article": "Ahmet_Mekin",
+          "views": 2899,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_Mekin",
+          "score": 2899
+        },
+        {
+          "title": "Kimi Antonelli",
+          "article": "Kimi_Antonelli",
+          "views": 2894,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Kimi_Antonelli",
+          "score": 2894
+        },
+        {
+          "title": "Abdullah Öcalan",
+          "article": "Abdullah_Öcalan",
+          "views": 2793,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
+          "score": 2793
+        },
+        {
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 2644,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 2644
+        },
+        {
+          "title": "Cadılar Bayramı",
+          "article": "Cadılar_Bayramı",
+          "views": 2532,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Cad%C4%B1lar_Bayram%C4%B1",
+          "score": 2532
+        },
+        {
+          "title": "Hacı Mehmet Zorlu",
+          "article": "Hacı_Mehmet_Zorlu",
+          "views": 2505,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Hac%C4%B1_Mehmet_Zorlu",
+          "score": 2505
+        },
+        {
+          "title": "Muhammed Hüseyin Fazlullah",
+          "article": "Muhammed_Hüseyin_Fazlullah",
+          "views": 2500,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Muhammed_H%C3%BCseyin_Fazlullah",
+          "score": 2500
+        },
+        {
+          "title": "İbrahim Turhan (ekonomist)",
+          "article": "İbrahim_Turhan_(ekonomist)",
+          "views": 2489,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C4%B0brahim_Turhan_(ekonomist)",
+          "score": 2489
+        },
+        {
+          "title": "Aylin Kotil",
+          "article": "Aylin_Kotil",
+          "views": 2382,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
+          "score": 2382
+        },
+        {
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 2151,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 2151
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 2143,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 2143
+        },
+        {
+          "title": "Mehmet Günsür",
+          "article": "Mehmet_Günsür",
+          "views": 2003,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Mehmet_G%C3%BCns%C3%BCr",
+          "score": 2003
+        },
+        {
+          "title": "Mehmet Uçum",
+          "article": "Mehmet_Uçum",
+          "views": 1960,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Mehmet_U%C3%A7um",
+          "score": 1960
+        },
+        {
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 1942,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 1942
+        }
+      ],
+      "coveredDays": 1,
+      "total": 50
     }
   },
   "overall": [
     {
-      "title": "fenerbahçe liverpool maçı ne zaman",
+      "title": "kar alarmı",
       "platforms": [
         "google"
       ],
       "parts": {
         "google": 100
+      },
+      "total": 100
+    },
+    {
+      "title": "Sérgio Conceição",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 100
       },
       "total": 100
     },
@@ -293,7 +661,17 @@
       "total": 97
     },
     {
-      "title": "haber 7",
+      "title": "Ahmet Nazif Zorlu",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 97
+      },
+      "total": 97
+    },
+    {
+      "title": "fenerbahçe liverpool maçı ne zaman",
       "platforms": [
         "google"
       ],
@@ -303,7 +681,17 @@
       "total": 93
     },
     {
-      "title": "togg kasım kampanyası 2026",
+      "title": "Mustafa Sarıgül",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 93
+      },
+      "total": 93
+    },
+    {
+      "title": "tokat hava durumu",
       "platforms": [
         "google"
       ],
@@ -313,7 +701,17 @@
       "total": 90
     },
     {
-      "title": "zelda",
+      "title": "Zorlu Holding",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 90
+      },
+      "total": 90
+    },
+    {
+      "title": "haber 7",
       "platforms": [
         "google"
       ],
@@ -323,7 +721,17 @@
       "total": 87
     },
     {
-      "title": "باختاكور ضد النصر",
+      "title": "2026 Amerika Birleşik Devletleri seçimleri",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 87
+      },
+      "total": 87
+    },
+    {
+      "title": "togg kasım kampanyası 2026",
       "platforms": [
         "google"
       ],
@@ -333,7 +741,17 @@
       "total": 83
     },
     {
-      "title": "izmir metro",
+      "title": "Abdullah Çatlı",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 83
+      },
+      "total": 83
+    },
+    {
+      "title": "zelda",
       "platforms": [
         "google"
       ],
@@ -343,7 +761,17 @@
       "total": 80
     },
     {
-      "title": "tbmm",
+      "title": "XHamster",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 80
+      },
+      "total": 80
+    },
+    {
+      "title": "sivas hava durumu",
       "platforms": [
         "google"
       ],
@@ -353,7 +781,17 @@
       "total": 77
     },
     {
-      "title": "ermedin demirović",
+      "title": "Abdurrahman Köksaloğlu",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 77
+      },
+      "total": 77
+    },
+    {
+      "title": "باختاكور ضد النصر",
       "platforms": [
         "google"
       ],
@@ -363,12 +801,32 @@
       "total": 73
     },
     {
-      "title": "kyk burs başvuru sonuçları ne zaman açıklanacak",
+      "title": "Devlet Bahçeli",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 73
+      },
+      "total": 73
+    },
+    {
+      "title": "izmir metro",
       "platforms": [
         "google"
       ],
       "parts": {
         "google": 70
+      },
+      "total": 70
+    },
+    {
+      "title": "Bir sonraki Türkiye genel seçimleri",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 70
       },
       "total": 70
     }
