@@ -13,8 +13,8 @@
   "end": "2026-11-08",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-03T12:42:50.812Z",
-  "snapshotDays": 2,
+  "generatedAt": "2026-11-04T12:53:45.137Z",
+  "snapshotDays": 3,
   "activeSources": [
     "google",
     "wikipedia"
@@ -91,6 +91,24 @@
               "title": "Batı Karadeniz&apos;de yağış uyarısı yapıldı",
               "url": "https://yerel-haberler.haberturk.com/duzce-haberleri/bati-karadenizde-yagis-uyarisi-yapildi-119511149",
               "source": "Habertürk"
+            }
+          ],
+          "score": 100000
+        },
+        {
+          "title": "akom",
+          "traffic": 100000,
+          "days": 1,
+          "news": [
+            {
+              "title": "İstanbul&apos;da hava soğuyor! Valilik uyardı, bu saatlere dikkat",
+              "url": "https://www.sozcu.com.tr/istanbul-da-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-p375795",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "AKOM&apos;dan İstanbul&apos;a kuvvetli sağanak ve fırtına uyarısı: Saat verildi, yağışlar şiddetlenecek",
+              "url": "https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-a-kuvvetli-saganak-ve-firtina-uyarisi-saat-verildi-yagislar-siddetlenecek-2553121",
+              "source": "Cumhuriyet"
             }
           ],
           "score": 100000
@@ -186,6 +204,42 @@
           "score": 2000
         },
         {
+          "title": "alfred schreuder",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Kasımpaşa Belözoğlu yerine flaş bir ismi takımın başına geçiriyor",
+              "url": "https://www.sozcu.com.tr/kasimpasa-belozoglu-yerine-flas-bir-ismi-takimin-basina-geciriyor-p375875",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Anlaşmaya varıldı! Kasımpaşa&apos;nın yeni teknik direktörü belli oluyor",
+              "url": "https://beinsports.com.tr/haber/anlasmaya-varildi-kasimpasanin-yeni-teknik-direktoru-belli-oluyor",
+              "source": "beinsports.com.tr"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "thyao hisse",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "THY&apos;nin kârı yakıt baskısına rağmen beklentileri aştı",
+              "url": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
+              "source": "Bloomberght"
+            },
+            {
+              "title": "THY, üçüncü çeyrekte 929 milyon dolar esas faaliyet karı elde etti",
+              "url": "https://www.aa.com.tr/tr/ekonomi/thy-ucuncu-ceyrekte-929-milyon-dolar-esas-faaliyet-kari-elde-etti/4111159",
+              "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "zelda",
           "traffic": 500,
           "days": 1,
@@ -212,6 +266,42 @@
               "title": "Meteoroloji Muğla&apos;da sağanak uyarısı yaptı, 51-100 kg/m2 yağış bekleniyor",
               "url": "https://www.haberler.com/cevre/meteoroloji-mugla-da-saganak-uyarisi-yapti-51-100-20364511-haberi/",
               "source": "Haberler"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "ela rümeysa cebeci",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Uyuşturucu davasında ikinci celse: Saran ve Cebeci’nin hapsi istendi",
+              "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Son dakika... Ela Rümeysa Cebeci adliyeye geldi",
+              "url": "https://www.milliyet.com.tr/gundem/son-dakika-ela-rumeysa-cebeci-adliyeye-geldi-7694179",
+              "source": "Milliyet"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "zabıt kâtibi",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Milyonlarca lirayı zimmetine geçirdi... Hırsız katipten şok itiraf!",
+              "url": "https://www.sozcu.com.tr/milyonlarca-lirayi-zimmetine-gecirdi-hirsiz-katipten-itiraf-esi-ihbar-etti-p375838",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "SON DAKİKA HABER | Zimmetine 6.5 milyon TL geçirip bahis oynamıştı! Katibe için karar çıktı | Son dakika haberleri",
+              "url": "https://www.haberturk.com/gundem/son-dakika-haber-zimmetine-65-milyon-tl-gecirip-bahis-oynamisti-katibe-icin-karar-cikti-3924844",
+              "source": "Habertürk"
             }
           ],
           "score": 500
@@ -361,6 +451,60 @@
           "score": 200
         },
         {
+          "title": "uefa gençlik ligi",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Göztepeli gençlerden Avrupa&apos;ya veda",
+              "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/goztepeli-genclerden-avrupaya-veda-119512030",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Göztepe U19, UEFA Gençlik Ligi’ne veda etti İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/izmir-haberleri/goztepe-u19-uefa-genclik-ligine-veda-etti-510631082",
+              "source": "İhlas Haber Ajansı"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "rio ferdinand",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "&apos;Galatasaray&apos;dan ayrılmaktan söz edemem&apos; Rio Ferdinand, Osimhen ile yaptığı konuşmayı anlattı: Ona bunu sordum",
+              "url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasaraydan-ayrilmaktan-soz-edemem-rio-ferdinand-osimhen-ile-yaptigi-konusmayi-anlatti-ona-bunu-sordum-2643351",
+              "source": "Fanatik"
+            },
+            {
+              "title": "Dünya devinin efsanesi bizzat açıkladı! Victor Osimhen&apos;in Galatasaray&apos;a sadakati olay oldu",
+              "url": "https://spor.haber7.com/galatasaray/haber/3674094-dunya-devinin-efsanesi-bizzat-acikladi-victor-osimhenin-galatasaraya-sadakati-olay-oldu",
+              "source": "Haber 7"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "zeynep sever",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Bir yıl önce doğum yapmıştı! Zeynep Demirel’den fit formuyla dikkat çekti",
+              "url": "https://www.milliyet.com.tr/magazin/galeri/bir-yil-once-dogum-yapmisti-zeynep-demirelden-fit-formuyla-dikkat-cekti-7693554",
+              "source": "Milliyet"
+            },
+            {
+              "title": "Bir sene önce doğum yapmıştı! Zeynep Demirel kaslı pozuyla hayran bıraktı",
+              "url": "https://www.posta.com.tr/galeri/bir-sene-once-dogum-yapmisti-zeynep-demirel-kasli-pozuyla-hayran-birakti-3060220",
+              "source": "Posta"
+            }
+          ],
+          "score": 200
+        },
+        {
           "title": "kyk burs başvuru sonuçları ne zaman açıklanacak",
           "traffic": 100,
           "days": 1,
@@ -377,45 +521,9 @@
             }
           ],
           "score": 100
-        },
-        {
-          "title": "uefa youth league",
-          "traffic": 100,
-          "days": 1,
-          "news": [
-            {
-              "title": "Barcelona warn Aston Villa about Egyptian talent",
-              "url": "https://www.gazetaexpress.com/en/Barcelona-warn-Aston-Villa-about-Egyptian-talent/",
-              "source": "Gazeta Express"
-            },
-            {
-              "title": "Hansi Flick pleased with 19-year-old Barcelona forward’s attitude despite limited game time",
-              "url": "https://sports.yahoo.com/articles/hansi-flick-pleased-19-old-090000943.html",
-              "source": "Yahoo Sports"
-            }
-          ],
-          "score": 100
-        },
-        {
-          "title": "9 kasım",
-          "traffic": 100,
-          "days": 1,
-          "news": [
-            {
-              "title": "9 Kasım Pazartesi gününden itibaren 4 burcun hayatı değişecek",
-              "url": "https://www.sozcu.com.tr/9-kasim-pazartesi-gununden-itibaren-4-burcun-hayati-degisecek-p375555",
-              "source": "Sözcü Gazetesi"
-            },
-            {
-              "title": "Kasım 2026 Burç Yorumları",
-              "url": "https://vogue.com.tr/astroloji/kasim-2026-burc-yorumlari",
-              "source": "Vogue"
-            }
-          ],
-          "score": 100
         }
       ],
-      "total": 19
+      "total": 29
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -425,207 +533,207 @@
       "status": "ok",
       "items": [
         {
-          "title": "Sérgio Conceição",
-          "article": "Sérgio_Conceição",
-          "views": 40234,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/S%C3%A9rgio_Concei%C3%A7%C3%A3o",
-          "score": 40234
-        },
-        {
           "title": "Ahmet Nazif Zorlu",
           "article": "Ahmet_Nazif_Zorlu",
-          "views": 33781,
-          "days": 1,
+          "views": 81871,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Ahmet_Nazif_Zorlu",
-          "score": 33781
+          "score": 81871
         },
         {
-          "title": "Mustafa Sarıgül",
-          "article": "Mustafa_Sarıgül",
-          "views": 5635,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 5635
+          "title": "Sérgio Conceição",
+          "article": "Sérgio_Conceição",
+          "views": 47223,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/S%C3%A9rgio_Concei%C3%A7%C3%A3o",
+          "score": 47223
         },
         {
-          "title": "Zorlu Holding",
-          "article": "Zorlu_Holding",
-          "views": 4704,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
-          "score": 4704
+          "title": "Deniz Undav",
+          "article": "Deniz_Undav",
+          "views": 33507,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Deniz_Undav",
+          "score": 33507
+        },
+        {
+          "title": "Aleksey Batrakov",
+          "article": "Aleksey_Batrakov",
+          "views": 22118,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
+          "score": 22118
         },
         {
           "title": "2026 Amerika Birleşik Devletleri seçimleri",
           "article": "2026_Amerika_Birleşik_Devletleri_seçimleri",
-          "views": 4480,
-          "days": 1,
+          "views": 15632,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/2026_Amerika_Birle%C5%9Fik_Devletleri_se%C3%A7imleri",
-          "score": 4480
+          "score": 15632
+        },
+        {
+          "title": "Emre Belözoğlu",
+          "article": "Emre_Belözoğlu",
+          "views": 15001,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
+          "score": 15001
+        },
+        {
+          "title": "Zorlu Holding",
+          "article": "Zorlu_Holding",
+          "views": 11415,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
+          "score": 11415
         },
         {
           "title": "Abdullah Çatlı",
           "article": "Abdullah_Çatlı",
-          "views": 4251,
-          "days": 1,
+          "views": 10087,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 4251
+          "score": 10087
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 4191,
-          "days": 1,
+          "views": 9171,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 4191
+          "score": 9171
         },
         {
-          "title": "Abdurrahman Köksaloğlu",
-          "article": "Abdurrahman_Köksaloğlu",
-          "views": 3437,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Abdurrahman_K%C3%B6ksalo%C4%9Flu",
-          "score": 3437
+          "title": "Mustafa Sarıgül",
+          "article": "Mustafa_Sarıgül",
+          "views": 9078,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
+          "score": 9078
         },
         {
-          "title": "Devlet Bahçeli",
-          "article": "Devlet_Bahçeli",
-          "views": 3338,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Devlet_Bah%C3%A7eli",
-          "score": 3338
-        },
-        {
-          "title": "Bir sonraki Türkiye genel seçimleri",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 3293,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 3293
-        },
-        {
-          "title": "XNXX",
-          "article": "XNXX",
-          "views": 3141,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 3141
-        },
-        {
-          "title": "Ahmet Mekin",
-          "article": "Ahmet_Mekin",
-          "views": 2899,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Ahmet_Mekin",
-          "score": 2899
-        },
-        {
-          "title": "Kimi Antonelli",
-          "article": "Kimi_Antonelli",
-          "views": 2894,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Kimi_Antonelli",
-          "score": 2894
-        },
-        {
-          "title": "Abdullah Öcalan",
-          "article": "Abdullah_Öcalan",
-          "views": 2793,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
-          "score": 2793
-        },
-        {
-          "title": "Yapay zekâ",
-          "article": "Yapay_zekâ",
-          "views": 2644,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 2644
-        },
-        {
-          "title": "Cadılar Bayramı",
-          "article": "Cadılar_Bayramı",
-          "views": 2532,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Cad%C4%B1lar_Bayram%C4%B1",
-          "score": 2532
+          "title": "2027 UEFA ülkeler sıralaması",
+          "article": "2027_UEFA_ülkeler_sıralaması",
+          "views": 7677,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
+          "score": 7677
         },
         {
           "title": "Hacı Mehmet Zorlu",
           "article": "Hacı_Mehmet_Zorlu",
-          "views": 2505,
-          "days": 1,
+          "views": 6037,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Hac%C4%B1_Mehmet_Zorlu",
-          "score": 2505
+          "score": 6037
+        },
+        {
+          "title": "XNXX",
+          "article": "XNXX",
+          "views": 5872,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/XNXX",
+          "score": 5872
+        },
+        {
+          "title": "Devlet Bahçeli",
+          "article": "Devlet_Bahçeli",
+          "views": 5838,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Devlet_Bah%C3%A7eli",
+          "score": 5838
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 5815,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 5815
+        },
+        {
+          "title": "Abdullah Öcalan",
+          "article": "Abdullah_Öcalan",
+          "views": 5664,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
+          "score": 5664
         },
         {
           "title": "Muhammed Hüseyin Fazlullah",
           "article": "Muhammed_Hüseyin_Fazlullah",
-          "views": 2500,
-          "days": 1,
+          "views": 5466,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Muhammed_H%C3%BCseyin_Fazlullah",
-          "score": 2500
-        },
-        {
-          "title": "İbrahim Turhan (ekonomist)",
-          "article": "İbrahim_Turhan_(ekonomist)",
-          "views": 2489,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/%C4%B0brahim_Turhan_(ekonomist)",
-          "score": 2489
-        },
-        {
-          "title": "Aylin Kotil",
-          "article": "Aylin_Kotil",
-          "views": 2382,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 2382
-        },
-        {
-          "title": "Osmanlı padişahları listesi",
-          "article": "Osmanlı_padişahları_listesi",
-          "views": 2151,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 2151
-        },
-        {
-          "title": "Cinsel ilişki",
-          "article": "Cinsel_ilişki",
-          "views": 2143,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 2143
+          "score": 5466
         },
         {
           "title": "Mehmet Günsür",
           "article": "Mehmet_Günsür",
-          "views": 2003,
-          "days": 1,
+          "views": 5458,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Mehmet_G%C3%BCns%C3%BCr",
-          "score": 2003
+          "score": 5458
         },
         {
-          "title": "Mehmet Uçum",
-          "article": "Mehmet_Uçum",
-          "views": 1960,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Mehmet_U%C3%A7um",
-          "score": 1960
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 5285,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 5285
         },
         {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 1942,
+          "title": "Vestel",
+          "article": "Vestel",
+          "views": 5179,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Vestel",
+          "score": 5179
+        },
+        {
+          "title": "Atakan Karazor",
+          "article": "Atakan_Karazor",
+          "views": 4982,
           "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 1942
+          "url": "https://tr.wikipedia.org/wiki/Atakan_Karazor",
+          "score": 4982
+        },
+        {
+          "title": "Abdurrahman Köksaloğlu",
+          "article": "Abdurrahman_Köksaloğlu",
+          "views": 4825,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Abdurrahman_K%C3%B6ksalo%C4%9Flu",
+          "score": 4825
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 4448,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 4448
+        },
+        {
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 4358,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 4358
+        },
+        {
+          "title": "Süper Lig şampiyonları listesi",
+          "article": "Süper_Lig_şampiyonları_listesi",
+          "views": 4155,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+          "score": 4155
         }
       ],
-      "coveredDays": 1,
+      "coveredDays": 2,
       "total": 50
     }
   },
@@ -641,7 +749,7 @@
       "total": 100
     },
     {
-      "title": "Sérgio Conceição",
+      "title": "Ahmet Nazif Zorlu",
       "platforms": [
         "wikipedia"
       ],
@@ -651,7 +759,7 @@
       "total": 100
     },
     {
-      "title": "ikindi ezanı",
+      "title": "akom",
       "platforms": [
         "google"
       ],
@@ -661,7 +769,7 @@
       "total": 97
     },
     {
-      "title": "Ahmet Nazif Zorlu",
+      "title": "Sérgio Conceição",
       "platforms": [
         "wikipedia"
       ],
@@ -671,7 +779,7 @@
       "total": 97
     },
     {
-      "title": "fenerbahçe liverpool maçı ne zaman",
+      "title": "ikindi ezanı",
       "platforms": [
         "google"
       ],
@@ -681,7 +789,7 @@
       "total": 93
     },
     {
-      "title": "Mustafa Sarıgül",
+      "title": "Deniz Undav",
       "platforms": [
         "wikipedia"
       ],
@@ -691,7 +799,7 @@
       "total": 93
     },
     {
-      "title": "tokat hava durumu",
+      "title": "fenerbahçe liverpool maçı ne zaman",
       "platforms": [
         "google"
       ],
@@ -701,7 +809,7 @@
       "total": 90
     },
     {
-      "title": "Zorlu Holding",
+      "title": "Aleksey Batrakov",
       "platforms": [
         "wikipedia"
       ],
@@ -711,7 +819,7 @@
       "total": 90
     },
     {
-      "title": "haber 7",
+      "title": "tokat hava durumu",
       "platforms": [
         "google"
       ],
@@ -731,7 +839,7 @@
       "total": 87
     },
     {
-      "title": "togg kasım kampanyası 2026",
+      "title": "haber 7",
       "platforms": [
         "google"
       ],
@@ -741,7 +849,7 @@
       "total": 83
     },
     {
-      "title": "Abdullah Çatlı",
+      "title": "Emre Belözoğlu",
       "platforms": [
         "wikipedia"
       ],
@@ -751,7 +859,7 @@
       "total": 83
     },
     {
-      "title": "zelda",
+      "title": "togg kasım kampanyası 2026",
       "platforms": [
         "google"
       ],
@@ -761,7 +869,7 @@
       "total": 80
     },
     {
-      "title": "XHamster",
+      "title": "Zorlu Holding",
       "platforms": [
         "wikipedia"
       ],
@@ -771,7 +879,7 @@
       "total": 80
     },
     {
-      "title": "sivas hava durumu",
+      "title": "alfred schreuder",
       "platforms": [
         "google"
       ],
@@ -781,7 +889,7 @@
       "total": 77
     },
     {
-      "title": "Abdurrahman Köksaloğlu",
+      "title": "Abdullah Çatlı",
       "platforms": [
         "wikipedia"
       ],
@@ -791,7 +899,7 @@
       "total": 77
     },
     {
-      "title": "باختاكور ضد النصر",
+      "title": "thyao hisse",
       "platforms": [
         "google"
       ],
@@ -801,7 +909,7 @@
       "total": 73
     },
     {
-      "title": "Devlet Bahçeli",
+      "title": "XHamster",
       "platforms": [
         "wikipedia"
       ],
@@ -811,7 +919,7 @@
       "total": 73
     },
     {
-      "title": "izmir metro",
+      "title": "zelda",
       "platforms": [
         "google"
       ],
@@ -821,7 +929,7 @@
       "total": 70
     },
     {
-      "title": "Bir sonraki Türkiye genel seçimleri",
+      "title": "Mustafa Sarıgül",
       "platforms": [
         "wikipedia"
       ],

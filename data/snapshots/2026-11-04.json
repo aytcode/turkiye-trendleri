@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-04",
+  "collectedAt": "2026-11-04T12:53:45.137Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "ela rümeysa cebeci",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Uyuşturucu davasında ikinci celse: Saran ve Cebeci’nin hapsi istendi",
+              "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Son dakika... Ela Rümeysa Cebeci adliyeye geldi",
+              "url": "https://www.milliyet.com.tr/gundem/son-dakika-ela-rumeysa-cebeci-adliyeye-geldi-7694179",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "türkiye kupası kura çekimi",
+          "traffic": 100,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Ziraat Türkiye Kupası kura çekimi | CANLI",
+              "url": "https://www.fotomac.com.tr/turkiye-kupasi/2026/11/04/ziraat-turkiye-kupasi-kura-cekimi-canli",
+              "source": "Fotomaç"
+            },
+            {
+              "title": "Konyaspor&apos;da heyecanlı bekleyiş",
+              "url": "https://www.yenimeram.com.tr/konyaspor-da-heyecanli-bekleyis/540153/",
+              "source": "Yeni Meram"
+            }
+          ]
+        },
+        {
+          "title": "uefa gençlik ligi",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Göztepeli gençlerden Avrupa&apos;ya veda",
+              "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/goztepeli-genclerden-avrupaya-veda-119512030",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Göztepe U19, UEFA Gençlik Ligi’ne veda etti İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/izmir-haberleri/goztepe-u19-uefa-genclik-ligine-veda-etti-510631082",
+              "source": "İhlas Haber Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "rio ferdinand",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "&apos;Galatasaray&apos;dan ayrılmaktan söz edemem&apos; Rio Ferdinand, Osimhen ile yaptığı konuşmayı anlattı: Ona bunu sordum",
+              "url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasaraydan-ayrilmaktan-soz-edemem-rio-ferdinand-osimhen-ile-yaptigi-konusmayi-anlatti-ona-bunu-sordum-2643351",
+              "source": "Fanatik"
+            },
+            {
+              "title": "Dünya devinin efsanesi bizzat açıkladı! Victor Osimhen&apos;in Galatasaray&apos;a sadakati olay oldu",
+              "url": "https://spor.haber7.com/galatasaray/haber/3674094-dunya-devinin-efsanesi-bizzat-acikladi-victor-osimhenin-galatasaraya-sadakati-olay-oldu",
+              "source": "Haber 7"
+            }
+          ]
+        },
+        {
+          "title": "akom",
+          "traffic": 100000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "İstanbul&apos;da hava soğuyor! Valilik uyardı, bu saatlere dikkat",
+              "url": "https://www.sozcu.com.tr/istanbul-da-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-p375795",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "AKOM&apos;dan İstanbul&apos;a kuvvetli sağanak ve fırtına uyarısı: Saat verildi, yağışlar şiddetlenecek",
+              "url": "https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-a-kuvvetli-saganak-ve-firtina-uyarisi-saat-verildi-yagislar-siddetlenecek-2553121",
+              "source": "Cumhuriyet"
+            }
+          ]
+        },
+        {
+          "title": "zeynep sever",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Bir yıl önce doğum yapmıştı! Zeynep Demirel’den fit formuyla dikkat çekti",
+              "url": "https://www.milliyet.com.tr/magazin/galeri/bir-yil-once-dogum-yapmisti-zeynep-demirelden-fit-formuyla-dikkat-cekti-7693554",
+              "source": "Milliyet"
+            },
+            {
+              "title": "Bir sene önce doğum yapmıştı! Zeynep Demirel kaslı pozuyla hayran bıraktı",
+              "url": "https://www.posta.com.tr/galeri/bir-sene-once-dogum-yapmisti-zeynep-demirel-kasli-pozuyla-hayran-birakti-3060220",
+              "source": "Posta"
+            }
+          ]
+        },
+        {
+          "title": "alfred schreuder",
+          "traffic": 1000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Kasımpaşa Belözoğlu yerine flaş bir ismi takımın başına geçiriyor",
+              "url": "https://www.sozcu.com.tr/kasimpasa-belozoglu-yerine-flas-bir-ismi-takimin-basina-geciriyor-p375875",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Anlaşmaya varıldı! Kasımpaşa&apos;nın yeni teknik direktörü belli oluyor",
+              "url": "https://beinsports.com.tr/haber/anlasmaya-varildi-kasimpasanin-yeni-teknik-direktoru-belli-oluyor",
+              "source": "beinsports.com.tr"
+            }
+          ]
+        },
+        {
+          "title": "zabıt kâtibi",
+          "traffic": 500,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Milyonlarca lirayı zimmetine geçirdi... Hırsız katipten şok itiraf!",
+              "url": "https://www.sozcu.com.tr/milyonlarca-lirayi-zimmetine-gecirdi-hirsiz-katipten-itiraf-esi-ihbar-etti-p375838",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "SON DAKİKA HABER | Zimmetine 6.5 milyon TL geçirip bahis oynamıştı! Katibe için karar çıktı | Son dakika haberleri",
+              "url": "https://www.haberturk.com/gundem/son-dakika-haber-zimmetine-65-milyon-tl-gecirip-bahis-oynamisti-katibe-icin-karar-cikti-3924844",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "thyao hisse",
+          "traffic": 1000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "THY&apos;nin kârı yakıt baskısına rağmen beklentileri aştı",
+              "url": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
+              "source": "Bloomberght"
+            },
+            {
+              "title": "THY, üçüncü çeyrekte 929 milyon dolar esas faaliyet karı elde etti",
+              "url": "https://www.aa.com.tr/tr/ekonomi/thy-ucuncu-ceyrekte-929-milyon-dolar-esas-faaliyet-kari-elde-etti/4111159",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "zubimendi",
+          "traffic": 100,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Zubimendi se acerca al Real Madrid",
+              "url": "https://www.fichajes.net/noticias/zubimendi-acerca-real-madrid-20261103.html",
+              "source": "Fichajes.net"
+            },
+            {
+              "title": "Zubimendi podría salir del Arsenal en enero: Real Madrid, Barcelona y Atlético, atentos",
+              "url": "https://onefootball.com/es/noticias/zubimendi-podria-salir-del-arsenal-en-enero-real-madrid-barcelona-y-atletico-atentos-43722242",
+              "source": "OneFootball"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

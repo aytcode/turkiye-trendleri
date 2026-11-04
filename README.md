@@ -35,14 +35,14 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | kar alarmı | 1 |
-| 2 | Sérgio Conceição | 1 |
-| 3 | ikindi ezanı | 1 |
-| 4 | Ahmet Nazif Zorlu | 1 |
-| 5 | fenerbahçe liverpool maçı ne zaman | 1 |
-| 6 | Mustafa Sarıgül | 1 |
-| 7 | tokat hava durumu | 1 |
-| 8 | Zorlu Holding | 1 |
-| 9 | haber 7 | 1 |
+| 2 | Ahmet Nazif Zorlu | 1 |
+| 3 | akom | 1 |
+| 4 | Sérgio Conceição | 1 |
+| 5 | ikindi ezanı | 1 |
+| 6 | Deniz Undav | 1 |
+| 7 | fenerbahçe liverpool maçı ne zaman | 1 |
+| 8 | Aleksey Batrakov | 1 |
+| 9 | tokat hava durumu | 1 |
 | 10 | 2026 Amerika Birleşik Devletleri seçimleri | 1 |
 <!-- SON-RAPOR:BITIR -->
 
