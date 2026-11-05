@@ -34,16 +34,16 @@
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | kar alarmı | 1 |
-| 2 | Ahmet Nazif Zorlu | 1 |
-| 3 | akom | 1 |
-| 4 | Sérgio Conceição | 1 |
-| 5 | ikindi ezanı | 1 |
-| 6 | Deniz Undav | 1 |
-| 7 | fenerbahçe liverpool maçı ne zaman | 1 |
-| 8 | Aleksey Batrakov | 1 |
-| 9 | tokat hava durumu | 1 |
-| 10 | 2026 Amerika Birleşik Devletleri seçimleri | 1 |
+| 1 | Fenerbahçe (futbol takımı) | 2 |
+| 2 | kar alarmı | 1 |
+| 3 | Ahmet Nazif Zorlu | 1 |
+| 4 | akom | 1 |
+| 5 | Deniz Undav | 1 |
+| 6 | uefa | 1 |
+| 7 | Sérgio Conceição | 1 |
+| 8 | ikindi ezanı | 1 |
+| 9 | Emre Belözoğlu | 1 |
+| 10 | Aleksey Batrakov | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

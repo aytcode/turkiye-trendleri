@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-05",
+  "collectedAt": "2026-11-05T13:01:56.283Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "dila danışman",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "İddialar Doğru Çıktı: Kızılcık Şerbeti&apos;nde Ömer ile Kıvılcım&apos;ın Arasına Giren Oyuncu Diziye Veda Etti!",
+              "url": "https://onedio.com/haber/iddialar-dogru-cikti-kizilcik-serbeti-nde-omer-ile-kivilcim-in-arasina-giren-oyuncu-diziye-veda-etti-1393461",
+              "source": "Onedio"
+            },
+            {
+              "title": "Kızılcık Şerbeti&apos;nde bir ayrılık daha! Böyle veda etti",
+              "url": "https://www.mynet.com/magazin/kizilcik-serbeti-nde-bir-ayrilik-daha-boyle-veda-etti-130100606193",
+              "source": "Mynet"
+            }
+          ]
+        },
+        {
+          "title": "ikindi namazı",
+          "traffic": 10000,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 5 Kasım 2026 namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-5-kasim-2026-namaz-vakitleri-1744613",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "2 Kasım Pazartesi Bursa&apos;da ezan saat kaçta okunacak?",
+              "url": "https://www.bursasaati.com.tr/2-kasim-pazartesi-bursada-ezan-saat-kacta-okunacak",
+              "source": "Bursa Saati Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "izmir çelik",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Türkiye&apos;nin demir çelik sektöründeki dev firması konkordato ilan etti!",
+              "url": "https://www.ekonomim.com/sirketler/turkiyenin-demir-celik-sektorundeki-dev-firmasi-konkordato-ilan-etti-haberi-929357",
+              "source": "Ekonomim"
+            },
+            {
+              "title": "İzmir&apos;de konkordato mesaisi: 3 şirket, 2 kişi! - İzmir Haber - İzmir Son Dakika Haberleri",
+              "url": "https://www.egedesonsoz.com/izmirde-konkordato-mesaisi-3-sirket-2-kisi",
+              "source": "Ege&apos;de Sonsöz"
+            }
+          ]
+        },
+        {
+          "title": "türkiye nüfusu",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Türkiye’nin nüfusu açıklandı! Erkek ve kadın arasındaki fark belli oldu",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/turkiyenin-nufusu-aciklandi-erkek-ve-kadin-nufusu-arasindaki-fark-belli-oldu_ID102282094/",
+              "source": "Bigpara"
+            },
+            {
+              "title": "Türkiye&apos;nin nüfusu artmasına rağmen çocuk sayısı azalıyor: İşte TÜİK&apos;in açıkladığı çarpıcı sonuçlar",
+              "url": "https://www.sozcu.com.tr/turkiye-nin-nufusu-artmasina-ragmen-cocuk-sayisi-azaliyor-iste-tuik-in-acikladigi-carpici-sonuclar-p375930",
+              "source": "Sözcü Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "seiko",
+          "traffic": 200,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Seiko 5 Sports vs Timex Deepwater: Weighing Affordable Dive Watch Trade-Offs",
+              "url": "https://twobrokewatchsnobs.com/seiko-5-sports-vs-timex-deepwater/",
+              "source": "Two Broke Watch Snobs"
+            },
+            {
+              "title": "How Abdul El-Sayed defeated Maga in Michigan – video",
+              "url": "https://www.theguardian.com/us-news/video/2026/nov/04/how-abdul-el-sayed-defeated-maga-in-michigan-video",
+              "source": "The Guardian"
+            }
+          ]
+        },
+        {
+          "title": "uefa",
+          "traffic": 50000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Yapay zekadan bomba tahmin! Galatasaray ve Fenerbahçe&apos;nin Şampiyonlar Ligi&apos;ndeki tur şansını açıkladı",
+              "url": "https://www.sozcu.com.tr/yapay-zekadan-bomba-tahmin-galatasaray-ve-fenerbahcenin-sampiyonlar-ligindeki-tur-sansini-acikladi-p376314",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Fenerbahçe Liverpool&apos;u yendi, Türkiye farkı kapattı! Avrupa devine hezimet yakın",
+              "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-liverpoolu-yendi-turkiye-farki-kapatti-avrupa-devine-hezimet-yakin-43366422",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "mehmet şimşek",
+          "traffic": 2000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Bakan Şimşek: 2027 bütçesinde emeklilere ek kaynak ayırıyoruz",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/bakan-simsek-2027-butcesinde-emeklilere-ek-kaynak-ayiriyoruz_ID102283090/",
+              "source": "Bigpara"
+            },
+            {
+              "title": "Bakan Şimşek&apos;ten fon açıklaması: 9 milyar lira tespit edildi",
+              "url": "https://www.ntv.com.tr/ntvpara/bakan-simsekten-fon-aciklamasi-9-milyar-lira-tespit-edildi-1749511",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "cristiano ronaldo",
+          "traffic": 2000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Cristiano Ronaldo retires: Portugal forward says he is quitting international football",
+              "url": "https://www.bbc.com/sport/football/articles/cme8rxx2e1w9o",
+              "source": "BBC"
+            },
+            {
+              "title": "Cristiano Ronaldo Announces International Retirement",
+              "url": "https://english.aawsat.com/sports/5337876-cristiano-ronaldo-announces-international-retirement",
+              "source": "ASHARQ AL-AWSAT English"
+            }
+          ]
+        },
+        {
+          "title": "lion city sailors",
+          "traffic": 100,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Watch Lion City Sailors FC vs. Adelaide United live today: Who is broadcasting the match on TV and via live stream?",
+              "url": "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-lion-city-sailors-fc-v-adelaide-united/blt3a5988b5a11ef67f",
+              "source": "Goal.com"
+            },
+            {
+              "title": "‘Quite off’ Reds rocked by late Sailors strikes in Asia",
+              "url": "https://aleagues.com.au/news/quite-off-reds-rocked-by-late-sailors-strikes-in-asia/",
+              "source": "A-Leagues"
+            }
+          ]
+        },
+        {
+          "title": "adl",
+          "traffic": 200,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Daniel Biss wins 9th Congressional District seat",
+              "url": "https://evanstonroundtable.com/2026/11/03/daniel-biss-wins-9th-congressional-district-seat/",
+              "source": "Evanston RoundTable"
+            },
+            {
+              "title": "This grandson of Holocaust survivors is headed to Congress. The ADL has concerns about his antisemitism record.",
+              "url": "https://forward.com/news/860645/daniel-biss-adl-j-street-antisemitism/",
+              "source": "The Forward"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
