@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | Fenerbahçe (futbol takımı) | 2 |
-| 2 | kar alarmı | 1 |
+| 2 | mustafa eskihellaç | 1 |
 | 3 | Ahmet Nazif Zorlu | 1 |
-| 4 | akom | 1 |
+| 4 | kar alarmı | 1 |
 | 5 | Deniz Undav | 1 |
-| 6 | uefa | 1 |
+| 6 | akom | 1 |
 | 7 | Sérgio Conceição | 1 |
-| 8 | ikindi ezanı | 1 |
-| 9 | Emre Belözoğlu | 1 |
-| 10 | Aleksey Batrakov | 1 |
+| 8 | uefa | 1 |
+| 9 | 2027 UEFA ülkeler sıralaması | 1 |
+| 10 | ikindi ezanı | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

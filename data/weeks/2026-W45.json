@@ -13,8 +13,8 @@
   "end": "2026-11-08",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-05T13:01:56.283Z",
-  "snapshotDays": 4,
+  "generatedAt": "2026-11-06T12:50:32.394Z",
+  "snapshotDays": 5,
   "activeSources": [
     "google",
     "wikipedia"
@@ -77,6 +77,24 @@
       "needs": [],
       "status": "ok",
       "items": [
+        {
+          "title": "mustafa eskihellaç",
+          "traffic": 200000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Trabzonspor Freiburg&apos;a kaybetti",
+              "url": "https://www.trthaber.com/haber/gundem/trabzonspor-freiburga-kaybetti-962371.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Thomas Reis, \"Yeni bir seri başlatacağız\"",
+              "url": "https://yerel-haberler.haberturk.com/trabzon-haberleri/thomas-reis-yeni-bir-seri-baslatacagiz-119514275",
+              "source": "Habertürk"
+            }
+          ],
+          "score": 200000
+        },
         {
           "title": "kar alarmı",
           "traffic": 100000,
@@ -150,6 +168,24 @@
           "score": 15000
         },
         {
+          "title": "ikindi namazı",
+          "traffic": 15000,
+          "days": 2,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 5 Kasım 2026 namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-5-kasim-2026-namaz-vakitleri-1744613",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "2 Kasım Pazartesi Bursa&apos;da ezan saat kaçta okunacak?",
+              "url": "https://www.bursasaati.com.tr/2-kasim-pazartesi-bursada-ezan-saat-kacta-okunacak",
+              "source": "Bursa Saati Gazetesi"
+            }
+          ],
+          "score": 15000
+        },
+        {
           "title": "fenerbahçe liverpool maçı ne zaman",
           "traffic": 10000,
           "days": 1,
@@ -163,24 +199,6 @@
               "title": "Liverpool öncesi Fenerbahçe&apos;de sıcak gelişme! Greenwood ve Oppong...",
               "url": "https://beinsports.com.tr/haber/liverpool-oncesi-fenerbahcede-sicak-gelisme-greenwood-ve-oppong",
               "source": "beinsports.com.tr"
-            }
-          ],
-          "score": 10000
-        },
-        {
-          "title": "ikindi namazı",
-          "traffic": 10000,
-          "days": 1,
-          "news": [
-            {
-              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 5 Kasım 2026 namaz vakitleri",
-              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-5-kasim-2026-namaz-vakitleri-1744613",
-              "source": "Bursa Hakimiyet"
-            },
-            {
-              "title": "2 Kasım Pazartesi Bursa&apos;da ezan saat kaçta okunacak?",
-              "url": "https://www.bursasaati.com.tr/2-kasim-pazartesi-bursada-ezan-saat-kacta-okunacak",
-              "source": "Bursa Saati Gazetesi"
             }
           ],
           "score": 10000
@@ -276,6 +294,24 @@
           "score": 2000
         },
         {
+          "title": "türkiye maçı",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Türkiye - Belçika Maçının Genel Bilet Satışları Başladı",
+              "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51837",
+              "source": "TFF"
+            },
+            {
+              "title": "Milli maç ne zaman? Türkiye Belçika maçı ne zaman, saat kaçta, hangi kanalda? Aday kadro açıklandı! 2026 milli maç takvimi...",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-milli-mac-ne-zaman-turkiye-belcika-maci-ne-zaman-saat-kacta-hangi-kanalda-2026-milli-mac-takvimi-43368125",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "alfred schreuder",
           "traffic": 1000,
           "days": 1,
@@ -307,6 +343,42 @@
               "title": "THY, üçüncü çeyrekte 929 milyon dolar esas faaliyet karı elde etti",
               "url": "https://www.aa.com.tr/tr/ekonomi/thy-ucuncu-ceyrekte-929-milyon-dolar-esas-faaliyet-kari-elde-etti/4111159",
               "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "gs amed maçı",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Galatasaray, Süper Lig&apos;de Amedspor&apos;u ağırlayacak",
+              "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-super-ligde-amedsporu-agirlayacak-43368015",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Amed Sportif Faaliyetler maçı hazırlıkları başladı",
+              "url": "https://www.galatasaray.org/haber/futbol/amed-sportif-faaliyetler-maci-hazirliklari-basladi/61317",
+              "source": "GALATASARAY.ORG"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "enes ünal",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Brighton deplasmanda tek golle güldü!",
+              "url": "https://www.cumhuriyet.com.tr/spor/brighton-deplasmanda-tek-golle-guldu-2553803",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Fabian Hurzeler, Getafe karşısında zorlu bir mücadeleyle kazanılan Konferans Ligi maçının ardından Brighton&apos;ın üst düzey mentalitesini övdü",
+              "url": "https://www.goal.com/tr/haber/fabian-hurzeler-getafe-karsisinda-zorlu-bir-mucadeleyle-gelen-konferans-ligi-galibiyetinin-ardindan-brighton-in-ust-duzey-zihniyetini-ovdu/blt9e887c0932577bc5",
+              "source": "Goal.com"
             }
           ],
           "score": 1000
@@ -379,6 +451,42 @@
           "score": 500
         },
         {
+          "title": "berke özer",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Berke Özer&apos;den Sergen Yalçın ve Milli Takım açıklaması!",
+              "url": "https://www.hurriyet.com.tr/sporarena/berke-ozerden-sergen-yalcin-ve-milli-takim-aciklamasi-43367578",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Berker Özer seçilecek mi? Sergen Yalçın sözleri diikat çeti | Futbol Haberleri",
+              "url": "https://www.gzt.com/spor/berker-ozer-secilecek-mi-sergen-yalcin-sozleri-diikat-ceti-4276004",
+              "source": "GZT"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "kenan yıldız",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Juventus&apos;ta Kenan Yıldız sevinci",
+              "url": "https://www.sondakika.com/spor/haber-juventusta-kenan-yildiz-sevinci-20400275/",
+              "source": "Son Dakika"
+            },
+            {
+              "title": "Kenan Yıldız&apos;dan sevindirici haber! Sahalara dönüşü...",
+              "url": "https://beinsports.com.tr/haber/juventusta-kenan-yildiz-gelismesi-iste-sahalara-donus-tarihi",
+              "source": "beinsports.com.tr"
+            }
+          ],
+          "score": 500
+        },
+        {
           "title": "باختاكور ضد النصر",
           "traffic": 200,
           "days": 1,
@@ -413,117 +521,9 @@
             }
           ],
           "score": 200
-        },
-        {
-          "title": "tbmm",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "TBMM&apos;de bu hafta: Bütçe ve kanun teklifi mesaisi",
-              "url": "https://www.trthaber.com/haber/gundem/tbmmde-bu-hafta-butce-ve-kanun-teklifi-mesaisi-961865.html",
-              "source": "TRT Haber"
-            },
-            {
-              "title": "Emekli Maaşında Kritik Gün: 23.552 TL Alanın Yeni Maaşı Değişiyor",
-              "url": "https://onedio.com/haber/emekli-maasinda-kritik-gun-23-552-tl-alanin-yeni-maasi-degisiyor-1392933",
-              "source": "Onedio"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "ermedin demirović",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "VfB Stuttgart: Gegen Gündogan und Sané: Matchball-Spiel für den VfB gegen Galatasaray!",
-              "url": "https://www.bild.de/sport/fussball/vfb-stuttgart-gegen-guendogan-und-sane-matchball-spiel-fuer-den-vfb-gegen-galatasaray-6ae87a05fa18ad14b908ea66",
-              "source": "BILD"
-            },
-            {
-              "title": "Champions League live & gratis: Wird die DAZN-Konferenz am Dienstag kostenlos übertragen?",
-              "url": "https://ran.joyn.de/sports/fussball/champions-league/champions-league-live-gratis-wird-die-dazn-konferenz-am-dienstag-kostenlos-uebertragen-200175",
-              "source": "Joyn"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "serdar aziz",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe&apos;de şampiyonluk yaşayamamak içimde ukde kaldı",
-              "url": "https://www.hurriyet.com.tr/sporarena/serdar-aziz-teknik-direktorluge-hazirlaniyor-fenerbahcede-sampiyonluk-yasayamamak-icimde-ukde-kaldi-43364479",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Fenerbahçe ve Galatasaray&apos;da da oynayan Serdar Aziz futbolu bıraktı",
-              "url": "https://spor.haber7.com/futbol/haber/3673815-fenerbahce-ve-galatasarayda-da-oynayan-serdar-aziz-futbolu-birakti",
-              "source": "Haber 7"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "epdk",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Vadeli gazda iptal kuralları değişti",
-              "url": "https://www.enerjigunlugu.net/epdk-vadeli-gazda-iptal-sartlarini-belirledi-70400h.htm",
-              "source": "Enerji Günlüğü"
-            },
-            {
-              "title": "Doğal gazda fiyat hesaplama sistemi değişiyor! EPDK’dan yeni karar",
-              "url": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/dogal-gazda-fiyat-hesaplama-sistemi-degisiyor-epdkdan-yeni-karar_ID102279921/",
-              "source": "Bigpara"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "kadir ezildi programı bitti mi",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "NOW TV’den &apos;Kadir Ezildi&apos; kararı: Yerine gelecek program ve isim belli oldu",
-              "url": "https://www.cumhuriyet.com.tr/yasam/now-tv-den-kadir-ezildi-karari-yerine-gelecek-program-ve-isim-belli-oldu-2552613",
-              "source": "Cumhuriyet"
-            },
-            {
-              "title": "Gelinler Sofrada Programı 1. Teaser",
-              "url": "https://www.nowtv.com.tr/Gelinler-Sofrada/fragman/1-Bolum-1-Fragman",
-              "source": "NOW"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "sydney sweeney",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Exclusive | Sydney Sweeney’s lingerie brand is doing better than ever, despite haters",
-              "url": "https://pagesix.com/2026/10/28/style/sydney-sweeneys-lingerie-brand-is-doing-better-than-ever-despite-haters/",
-              "source": "Page Six"
-            },
-            {
-              "title": "Sydney Sweeney Braves the Snow in SYRN Flannel Micro Shorts & Tights",
-              "url": "https://www.yahoo.com/entertainment/celebrity/articles/sydney-sweeney-braves-snow-syrn-080832941.html",
-              "source": "Yahoo"
-            }
-          ],
-          "score": 200
         }
       ],
-      "total": 39
+      "total": 48
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -535,205 +535,205 @@
         {
           "title": "Ahmet Nazif Zorlu",
           "article": "Ahmet_Nazif_Zorlu",
-          "views": 109487,
-          "days": 3,
+          "views": 118057,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Ahmet_Nazif_Zorlu",
-          "score": 109487
+          "score": 118057
         },
         {
           "title": "Deniz Undav",
           "article": "Deniz_Undav",
-          "views": 52569,
-          "days": 3,
+          "views": 54829,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Deniz_Undav",
-          "score": 52569
+          "score": 54829
         },
         {
           "title": "Sérgio Conceição",
           "article": "Sérgio_Conceição",
-          "views": 47931,
-          "days": 3,
+          "views": 48155,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/S%C3%A9rgio_Concei%C3%A7%C3%A3o",
-          "score": 47931
-        },
-        {
-          "title": "Emre Belözoğlu",
-          "article": "Emre_Belözoğlu",
-          "views": 35168,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
-          "score": 35168
-        },
-        {
-          "title": "Aleksey Batrakov",
-          "article": "Aleksey_Batrakov",
-          "views": 34625,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
-          "score": 34625
+          "score": 48155
         },
         {
           "title": "2027 UEFA ülkeler sıralaması",
           "article": "2027_UEFA_ülkeler_sıralaması",
-          "views": 28077,
-          "days": 3,
+          "views": 44999,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 28077
+          "score": 44999
+        },
+        {
+          "title": "Emre Belözoğlu",
+          "article": "Emre_Belözoğlu",
+          "views": 43070,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
+          "score": 43070
+        },
+        {
+          "title": "Aleksey Batrakov",
+          "article": "Aleksey_Batrakov",
+          "views": 37186,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
+          "score": 37186
+        },
+        {
+          "title": "Fatma Betül Sayan Kaya",
+          "article": "Fatma_Betül_Sayan_Kaya",
+          "views": 35106,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
+          "score": 35106
         },
         {
           "title": "2026 Amerika Birleşik Devletleri seçimleri",
           "article": "2026_Amerika_Birleşik_Devletleri_seçimleri",
-          "views": 27811,
-          "days": 3,
+          "views": 31747,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/2026_Amerika_Birle%C5%9Fik_Devletleri_se%C3%A7imleri",
-          "score": 27811
-        },
-        {
-          "title": "Zorlu Holding",
-          "article": "Zorlu_Holding",
-          "views": 14606,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
-          "score": 14606
+          "score": 31747
         },
         {
           "title": "2026 UEFA ülkeler sıralaması",
           "article": "2026_UEFA_ülkeler_sıralaması",
-          "views": 14497,
-          "days": 3,
+          "views": 24467,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/2026_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 14497
+          "score": 24467
         },
         {
           "title": "Dirk Kuyt",
           "article": "Dirk_Kuyt",
-          "views": 14375,
-          "days": 3,
+          "views": 20743,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Dirk_Kuyt",
-          "score": 14375
+          "score": 20743
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 13439,
-          "days": 3,
+          "views": 16460,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 13439
+          "score": 16460
+        },
+        {
+          "title": "Zorlu Holding",
+          "article": "Zorlu_Holding",
+          "views": 15703,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
+          "score": 15703
         },
         {
           "title": "Abdullah Çatlı",
           "article": "Abdullah_Çatlı",
-          "views": 13155,
-          "days": 3,
+          "views": 15246,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 13155
-        },
-        {
-          "title": "Mustafa Sarıgül",
-          "article": "Mustafa_Sarıgül",
-          "views": 11044,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 11044
+          "score": 15246
         },
         {
           "title": "Donald Trump",
           "article": "Donald_Trump",
-          "views": 10801,
-          "days": 3,
+          "views": 13223,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Donald_Trump",
-          "score": 10801
+          "score": 13223
+        },
+        {
+          "title": "Mustafa Sarıgül",
+          "article": "Mustafa_Sarıgül",
+          "views": 12619,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
+          "score": 12619
         },
         {
           "title": "Demokrat Parti (Amerika Birleşik Devletleri)",
           "article": "Demokrat_Parti_(Amerika_Birleşik_Devletleri)",
-          "views": 9773,
-          "days": 3,
+          "views": 12069,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Demokrat_Parti_(Amerika_Birle%C5%9Fik_Devletleri)",
-          "score": 9773
-        },
-        {
-          "title": "Bir sonraki Türkiye genel seçimleri",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 8756,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 8756
-        },
-        {
-          "title": "2028 Amerika Birleşik Devletleri başkanlık seçimleri",
-          "article": "2028_Amerika_Birleşik_Devletleri_başkanlık_seçimleri",
-          "views": 8680,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/2028_Amerika_Birle%C5%9Fik_Devletleri_ba%C5%9Fkanl%C4%B1k_se%C3%A7imleri",
-          "score": 8680
-        },
-        {
-          "title": "XNXX",
-          "article": "XNXX",
-          "views": 8272,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 8272
+          "score": 12069
         },
         {
           "title": "Amerika Birleşik Devletleri Senatosu",
           "article": "Amerika_Birleşik_Devletleri_Senatosu",
-          "views": 8068,
-          "days": 2,
+          "views": 11777,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Senatosu",
-          "score": 8068
+          "score": 11777
         },
         {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 7854,
-          "days": 3,
+          "views": 11430,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 7854
+          "score": 11430
         },
         {
-          "title": "Abdullah Öcalan",
-          "article": "Abdullah_Öcalan",
-          "views": 7624,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
-          "score": 7624
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 11284,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 11284
         },
         {
-          "title": "Hacı Mehmet Zorlu",
-          "article": "Hacı_Mehmet_Zorlu",
-          "views": 7499,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Hac%C4%B1_Mehmet_Zorlu",
-          "score": 7499
+          "title": "2028 Amerika Birleşik Devletleri başkanlık seçimleri",
+          "article": "2028_Amerika_Birleşik_Devletleri_başkanlık_seçimleri",
+          "views": 10939,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/2028_Amerika_Birle%C5%9Fik_Devletleri_ba%C5%9Fkanl%C4%B1k_se%C3%A7imleri",
+          "score": 10939
         },
         {
-          "title": "Mehmet Günsür",
-          "article": "Mehmet_Günsür",
-          "views": 7400,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Mehmet_G%C3%BCns%C3%BCr",
-          "score": 7400
-        },
-        {
-          "title": "Fenerbahçe (futbol takımı)",
-          "article": "Fenerbahçe_(futbol_takımı)",
-          "views": 7200,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e_(futbol_tak%C4%B1m%C4%B1)",
-          "score": 7200
+          "title": "XNXX",
+          "article": "XNXX",
+          "views": 10205,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/XNXX",
+          "score": 10205
         },
         {
           "title": "Abdul el-Sayed",
           "article": "Abdul_el-Sayed",
-          "views": 6951,
-          "days": 3,
+          "views": 10028,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Abdul_el-Sayed",
-          "score": 6951
+          "score": 10028
+        },
+        {
+          "title": "Fenerbahçe (futbol takımı)",
+          "article": "Fenerbahçe_(futbol_takımı)",
+          "views": 9179,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e_(futbol_tak%C4%B1m%C4%B1)",
+          "score": 9179
+        },
+        {
+          "title": "UEFA Şampiyonlar Ligi",
+          "article": "UEFA_Şampiyonlar_Ligi",
+          "views": 9169,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/UEFA_%C5%9Eampiyonlar_Ligi",
+          "score": 9169
+        },
+        {
+          "title": "Abdullah Öcalan",
+          "article": "Abdullah_Öcalan",
+          "views": 8947,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
+          "score": 8947
         }
       ],
-      "coveredDays": 3,
+      "coveredDays": 4,
       "total": 50
     }
   },
@@ -745,13 +745,13 @@
         "wikipedia"
       ],
       "parts": {
-        "google": 87,
-        "wikipedia": 23
+        "google": 80,
+        "wikipedia": 27
       },
-      "total": 110
+      "total": 107
     },
     {
-      "title": "kar alarmı",
+      "title": "mustafa eskihellaç",
       "platforms": [
         "google"
       ],
@@ -771,7 +771,7 @@
       "total": 100
     },
     {
-      "title": "akom",
+      "title": "kar alarmı",
       "platforms": [
         "google"
       ],
@@ -791,7 +791,7 @@
       "total": 97
     },
     {
-      "title": "uefa",
+      "title": "akom",
       "platforms": [
         "google"
       ],
@@ -811,7 +811,7 @@
       "total": 93
     },
     {
-      "title": "ikindi ezanı",
+      "title": "uefa",
       "platforms": [
         "google"
       ],
@@ -821,7 +821,7 @@
       "total": 90
     },
     {
-      "title": "Emre Belözoğlu",
+      "title": "2027 UEFA ülkeler sıralaması",
       "platforms": [
         "wikipedia"
       ],
@@ -831,7 +831,17 @@
       "total": 90
     },
     {
-      "title": "Aleksey Batrakov",
+      "title": "ikindi ezanı",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 87
+      },
+      "total": 87
+    },
+    {
+      "title": "Emre Belözoğlu",
       "platforms": [
         "wikipedia"
       ],
@@ -851,7 +861,7 @@
       "total": 83
     },
     {
-      "title": "2027 UEFA ülkeler sıralaması",
+      "title": "Aleksey Batrakov",
       "platforms": [
         "wikipedia"
       ],
@@ -861,17 +871,7 @@
       "total": 83
     },
     {
-      "title": "tokat hava durumu",
-      "platforms": [
-        "google"
-      ],
-      "parts": {
-        "google": 80
-      },
-      "total": 80
-    },
-    {
-      "title": "2026 Amerika Birleşik Devletleri seçimleri",
+      "title": "Fatma Betül Sayan Kaya",
       "platforms": [
         "wikipedia"
       ],
@@ -881,7 +881,7 @@
       "total": 80
     },
     {
-      "title": "haber 7",
+      "title": "tokat hava durumu",
       "platforms": [
         "google"
       ],
@@ -891,7 +891,7 @@
       "total": 77
     },
     {
-      "title": "Zorlu Holding",
+      "title": "2026 Amerika Birleşik Devletleri seçimleri",
       "platforms": [
         "wikipedia"
       ],
@@ -901,7 +901,7 @@
       "total": 77
     },
     {
-      "title": "togg kasım kampanyası 2026",
+      "title": "haber 7",
       "platforms": [
         "google"
       ],
@@ -921,7 +921,7 @@
       "total": 73
     },
     {
-      "title": "mehmet şimşek",
+      "title": "togg kasım kampanyası 2026",
       "platforms": [
         "google"
       ],

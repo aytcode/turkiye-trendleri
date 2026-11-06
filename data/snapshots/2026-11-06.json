@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-06",
+  "collectedAt": "2026-11-06T12:50:32.394Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "ikindi namazı",
+          "traffic": 5000,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 5 Kasım 2026 namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-5-kasim-2026-namaz-vakitleri-1744613",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "Bursa namaz saatleri | 6 Kasım 2026 Cuma",
+              "url": "https://www.bursahayat.com.tr/bursa/bursa-namaz-saatleri-6-kasim-2026-cuma-775862",
+              "source": "Bursa Hayat Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "altay bayındır",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Altay Bayindir: Celta Vigo face fine after going back on Man United promise",
+              "url": "https://sports.yahoo.com/articles/altay-bayindir-celta-vigo-face-070000386.html",
+              "source": "Yahoo Sports"
+            },
+            {
+              "title": "Man Utd: Summer move going so badly a fine may have to be paid – report",
+              "url": "https://www.teamtalk.com/manchester-united/man-utd-transfer-news-altay-bayindir-fine",
+              "source": "TEAMtalk"
+            }
+          ]
+        },
+        {
+          "title": "ersin",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Taraftarla kavga etmişti: Ersin Destanoğlu uzaklarda iyi iş çıkarıyor: 6 kez kapattı",
+              "url": "https://www.yeniakit.com.tr/foto-galeri/taraftarla-kavga-etmisti-ersin-destanoglu-uzaklarda-iyi-is-cikariyor-6-kez-kapatti-183318",
+              "source": "Yeni Akit Gazetesi"
+            },
+            {
+              "title": "Ersin Destanoğlu uzaklarda iyi iş çıkarıyor: 6 kez kapattı",
+              "url": "https://www.fotospor.com.tr/dunyadan-futbol/ersin-destanoglu-uzaklarda-iyi-is-cikariyor-6-kez-kapatt-716439",
+              "source": "Fotospor"
+            }
+          ]
+        },
+        {
+          "title": "gs amed maçı",
+          "traffic": 1000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Galatasaray, Süper Lig&apos;de Amedspor&apos;u ağırlayacak",
+              "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-super-ligde-amedsporu-agirlayacak-43368015",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Amed Sportif Faaliyetler maçı hazırlıkları başladı",
+              "url": "https://www.galatasaray.org/haber/futbol/amed-sportif-faaliyetler-maci-hazirliklari-basladi/61317",
+              "source": "GALATASARAY.ORG"
+            }
+          ]
+        },
+        {
+          "title": "berke özer",
+          "traffic": 500,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Berke Özer&apos;den Sergen Yalçın ve Milli Takım açıklaması!",
+              "url": "https://www.hurriyet.com.tr/sporarena/berke-ozerden-sergen-yalcin-ve-milli-takim-aciklamasi-43367578",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Berker Özer seçilecek mi? Sergen Yalçın sözleri diikat çeti | Futbol Haberleri",
+              "url": "https://www.gzt.com/spor/berker-ozer-secilecek-mi-sergen-yalcin-sozleri-diikat-ceti-4276004",
+              "source": "GZT"
+            }
+          ]
+        },
+        {
+          "title": "necati arabacı",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Cehennem Necati&apos;nin adamı Manisa&apos;da yakalandı",
+              "url": "https://www.ntv.com.tr/turkiye/cehennem-necatinin-adami-manisada-yakalandi-1749620",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Manisa&apos;da 15 yıl 6 ay hapis cezasıyla aranan hükümlü yakalandı",
+              "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/manisada-15-yil-6-ay-hapis-cezasiyla-aranan-hukumlu-yakalandi-119513931",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "enes ünal",
+          "traffic": 1000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Brighton deplasmanda tek golle güldü!",
+              "url": "https://www.cumhuriyet.com.tr/spor/brighton-deplasmanda-tek-golle-guldu-2553803",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Fabian Hurzeler, Getafe karşısında zorlu bir mücadeleyle kazanılan Konferans Ligi maçının ardından Brighton&apos;ın üst düzey mentalitesini övdü",
+              "url": "https://www.goal.com/tr/haber/fabian-hurzeler-getafe-karsisinda-zorlu-bir-mucadeleyle-gelen-konferans-ligi-galibiyetinin-ardindan-brighton-in-ust-duzey-zihniyetini-ovdu/blt9e887c0932577bc5",
+              "source": "Goal.com"
+            }
+          ]
+        },
+        {
+          "title": "mustafa eskihellaç",
+          "traffic": 200000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Trabzonspor Freiburg&apos;a kaybetti",
+              "url": "https://www.trthaber.com/haber/gundem/trabzonspor-freiburga-kaybetti-962371.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Thomas Reis, \"Yeni bir seri başlatacağız\"",
+              "url": "https://yerel-haberler.haberturk.com/trabzon-haberleri/thomas-reis-yeni-bir-seri-baslatacagiz-119514275",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "kenan yıldız",
+          "traffic": 500,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Juventus&apos;ta Kenan Yıldız sevinci",
+              "url": "https://www.sondakika.com/spor/haber-juventusta-kenan-yildiz-sevinci-20400275/",
+              "source": "Son Dakika"
+            },
+            {
+              "title": "Kenan Yıldız&apos;dan sevindirici haber! Sahalara dönüşü...",
+              "url": "https://beinsports.com.tr/haber/juventusta-kenan-yildiz-gelismesi-iste-sahalara-donus-tarihi",
+              "source": "beinsports.com.tr"
+            }
+          ]
+        },
+        {
+          "title": "türkiye maçı",
+          "traffic": 2000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Türkiye - Belçika Maçının Genel Bilet Satışları Başladı",
+              "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51837",
+              "source": "TFF"
+            },
+            {
+              "title": "Milli maç ne zaman? Türkiye Belçika maçı ne zaman, saat kaçta, hangi kanalda? Aday kadro açıklandı! 2026 milli maç takvimi...",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-milli-mac-ne-zaman-turkiye-belcika-maci-ne-zaman-saat-kacta-hangi-kanalda-2026-milli-mac-takvimi-43368125",
+              "source": "Hürriyet"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
