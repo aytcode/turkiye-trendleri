@@ -13,8 +13,8 @@
   "end": "2026-11-08",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-06T12:50:32.394Z",
-  "snapshotDays": 5,
+  "generatedAt": "2026-11-07T11:38:08.434Z",
+  "snapshotDays": 6,
   "activeSources": [
     "google",
     "wikipedia"
@@ -312,6 +312,24 @@
           "score": 2000
         },
         {
+          "title": "sığır eti",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Et fiyatlarında yeni dönem! Hesaplama değişti, Resmi Gazete&apos;de yayımlandı",
+              "url": "https://www.sozcu.com.tr/et-fiyatlarinda-yeni-donem-hesaplama-degisti-resmi-gazete-de-yayimlandi-p376931",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Resmi Gazete&apos;de yayımlandı: Et fiyatlarına yeni düzenleme!",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/resmi-gazetede-yayimlandi-et-fiyatlarina-yeni-duzenleme-7696175",
+              "source": "Uzmanpara"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "alfred schreuder",
           "traffic": 1000,
           "days": 1,
@@ -487,43 +505,25 @@
           "score": 500
         },
         {
-          "title": "باختاكور ضد النصر",
-          "traffic": 200,
+          "title": "iski",
+          "traffic": 500,
           "days": 1,
           "news": [
             {
-              "title": "مباشر مباراة النصر ضد باختاكور في دوري أبطال آسيا للنخبة.. لحظة بلحظة",
-              "url": "https://www.aljazeera.net/sport/liveblog/2026/11/2/%D8%A8%D8%A7%D8%AE%D8%AA%D8%A7%D9%83%D9%88%D8%B1-vs-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
-              "source": "الجزيرة نت"
+              "title": "Doluluk oranı yüzde 61’e çıktı... Son 10 yılın rekoru",
+              "url": "https://www.hurriyet.com.tr/gundem/doluluk-orani-yuzde-61e-cikti-son-10-yilin-rekoru-43369050",
+              "source": "Hürriyet"
             },
             {
-              "title": "العالمي لتأكيد الصحوة بالأوزبك",
-              "url": "https://menafn.com/arabic/1111899779/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%AA%D8%A7%D9%94%D9%83%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AD%D9%88%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B2%D8%A8%D9%83",
-              "source": "Menafn"
+              "title": "Baraj doluluk oranları 1 günde yüzde 5&apos;i aştı. İstanbul barajları ne kadar, yüzde kaç dolu?",
+              "url": "https://www.ntv.com.tr/turkiye/galeri-baraj-doluluk-oranlari-1-gunde-yuzde-5i-asti-istanbul-barajlari-ne-kadar-yuzde-kac-dolu-1749479",
+              "source": "NTV Haber"
             }
           ],
-          "score": 200
-        },
-        {
-          "title": "izmir metro",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "İzmir Metro&apos;da arıza şoku! Seferlerde aksama!",
-              "url": "https://www.egedesonsoz.com/izmir-metroda-ariza-soku-seferler-bolundu",
-              "source": "Ege&apos;de Sonsöz"
-            },
-            {
-              "title": "İzmir’de metro seferlerinde aksama İhlas Haber Ajansı",
-              "url": "https://www.iha.com.tr/izmir-haberleri/izmirde-metro-seferlerinde-aksama-510010141",
-              "source": "İhlas Haber Ajansı"
-            }
-          ],
-          "score": 200
+          "score": 500
         }
       ],
-      "total": 48
+      "total": 58
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -535,18 +535,42 @@
         {
           "title": "Ahmet Nazif Zorlu",
           "article": "Ahmet_Nazif_Zorlu",
-          "views": 118057,
-          "days": 4,
+          "views": 120134,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Ahmet_Nazif_Zorlu",
-          "score": 118057
+          "score": 120134
+        },
+        {
+          "title": "Fatma Betül Sayan Kaya",
+          "article": "Fatma_Betül_Sayan_Kaya",
+          "views": 104437,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
+          "score": 104437
         },
         {
           "title": "Deniz Undav",
           "article": "Deniz_Undav",
-          "views": 54829,
-          "days": 4,
+          "views": 55682,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Deniz_Undav",
-          "score": 54829
+          "score": 55682
+        },
+        {
+          "title": "2027 UEFA ülkeler sıralaması",
+          "article": "2027_UEFA_ülkeler_sıralaması",
+          "views": 51138,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
+          "score": 51138
+        },
+        {
+          "title": "Emre Belözoğlu",
+          "article": "Emre_Belözoğlu",
+          "views": 50595,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
+          "score": 50595
         },
         {
           "title": "Sérgio Conceição",
@@ -557,199 +581,163 @@
           "score": 48155
         },
         {
-          "title": "2027 UEFA ülkeler sıralaması",
-          "article": "2027_UEFA_ülkeler_sıralaması",
-          "views": 44999,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 44999
-        },
-        {
-          "title": "Emre Belözoğlu",
-          "article": "Emre_Belözoğlu",
-          "views": 43070,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
-          "score": 43070
-        },
-        {
           "title": "Aleksey Batrakov",
           "article": "Aleksey_Batrakov",
-          "views": 37186,
-          "days": 4,
+          "views": 38660,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
-          "score": 37186
-        },
-        {
-          "title": "Fatma Betül Sayan Kaya",
-          "article": "Fatma_Betül_Sayan_Kaya",
-          "views": 35106,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
-          "score": 35106
+          "score": 38660
         },
         {
           "title": "2026 Amerika Birleşik Devletleri seçimleri",
           "article": "2026_Amerika_Birleşik_Devletleri_seçimleri",
-          "views": 31747,
-          "days": 4,
+          "views": 33286,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/2026_Amerika_Birle%C5%9Fik_Devletleri_se%C3%A7imleri",
-          "score": 31747
+          "score": 33286
         },
         {
           "title": "2026 UEFA ülkeler sıralaması",
           "article": "2026_UEFA_ülkeler_sıralaması",
-          "views": 24467,
-          "days": 4,
+          "views": 27484,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/2026_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 24467
+          "score": 27484
         },
         {
           "title": "Dirk Kuyt",
           "article": "Dirk_Kuyt",
-          "views": 20743,
-          "days": 4,
+          "views": 22106,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Dirk_Kuyt",
-          "score": 20743
+          "score": 22106
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 16460,
-          "days": 4,
+          "views": 19651,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 16460
-        },
-        {
-          "title": "Zorlu Holding",
-          "article": "Zorlu_Holding",
-          "views": 15703,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
-          "score": 15703
-        },
-        {
-          "title": "Abdullah Çatlı",
-          "article": "Abdullah_Çatlı",
-          "views": 15246,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 15246
-        },
-        {
-          "title": "Donald Trump",
-          "article": "Donald_Trump",
-          "views": 13223,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Donald_Trump",
-          "score": 13223
-        },
-        {
-          "title": "Mustafa Sarıgül",
-          "article": "Mustafa_Sarıgül",
-          "views": 12619,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 12619
-        },
-        {
-          "title": "Demokrat Parti (Amerika Birleşik Devletleri)",
-          "article": "Demokrat_Parti_(Amerika_Birleşik_Devletleri)",
-          "views": 12069,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Demokrat_Parti_(Amerika_Birle%C5%9Fik_Devletleri)",
-          "score": 12069
-        },
-        {
-          "title": "Amerika Birleşik Devletleri Senatosu",
-          "article": "Amerika_Birleşik_Devletleri_Senatosu",
-          "views": 11777,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Senatosu",
-          "score": 11777
+          "score": 19651
         },
         {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 11430,
-          "days": 4,
+          "views": 18624,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 11430
+          "score": 18624
+        },
+        {
+          "title": "Abdullah Çatlı",
+          "article": "Abdullah_Çatlı",
+          "views": 17315,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
+          "score": 17315
+        },
+        {
+          "title": "Zorlu Holding",
+          "article": "Zorlu_Holding",
+          "views": 16067,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Zorlu_Holding",
+          "score": 16067
+        },
+        {
+          "title": "Mustafa Sarıgül",
+          "article": "Mustafa_Sarıgül",
+          "views": 14511,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
+          "score": 14511
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 14469,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 14469
+        },
+        {
+          "title": "Donald Trump",
+          "article": "Donald_Trump",
+          "views": 14457,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Donald_Trump",
+          "score": 14457
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 14221,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 14221
         },
         {
           "title": "Bir sonraki Türkiye genel seçimleri",
           "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 11284,
-          "days": 4,
+          "views": 14194,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 11284
+          "score": 14194
         },
         {
-          "title": "2028 Amerika Birleşik Devletleri başkanlık seçimleri",
-          "article": "2028_Amerika_Birleşik_Devletleri_başkanlık_seçimleri",
-          "views": 10939,
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 14175,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 14175
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 14151,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 14151
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 14122,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 14122
+        },
+        {
+          "title": "Demokrat Parti (Amerika Birleşik Devletleri)",
+          "article": "Demokrat_Parti_(Amerika_Birleşik_Devletleri)",
+          "views": 12881,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Demokrat_Parti_(Amerika_Birle%C5%9Fik_Devletleri)",
+          "score": 12881
+        },
+        {
+          "title": "Amerika Birleşik Devletleri Senatosu",
+          "article": "Amerika_Birleşik_Devletleri_Senatosu",
+          "views": 12845,
           "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/2028_Amerika_Birle%C5%9Fik_Devletleri_ba%C5%9Fkanl%C4%B1k_se%C3%A7imleri",
-          "score": 10939
+          "url": "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Senatosu",
+          "score": 12845
         },
         {
           "title": "XNXX",
           "article": "XNXX",
-          "views": 10205,
-          "days": 4,
+          "views": 12110,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 10205
-        },
-        {
-          "title": "Abdul el-Sayed",
-          "article": "Abdul_el-Sayed",
-          "views": 10028,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Abdul_el-Sayed",
-          "score": 10028
-        },
-        {
-          "title": "Fenerbahçe (futbol takımı)",
-          "article": "Fenerbahçe_(futbol_takımı)",
-          "views": 9179,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e_(futbol_tak%C4%B1m%C4%B1)",
-          "score": 9179
-        },
-        {
-          "title": "UEFA Şampiyonlar Ligi",
-          "article": "UEFA_Şampiyonlar_Ligi",
-          "views": 9169,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/UEFA_%C5%9Eampiyonlar_Ligi",
-          "score": 9169
-        },
-        {
-          "title": "Abdullah Öcalan",
-          "article": "Abdullah_Öcalan",
-          "views": 8947,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
-          "score": 8947
+          "score": 12110
         }
       ],
-      "coveredDays": 4,
+      "coveredDays": 5,
       "total": 50
     }
   },
   "overall": [
-    {
-      "title": "Fenerbahçe (futbol takımı)",
-      "platforms": [
-        "google",
-        "wikipedia"
-      ],
-      "parts": {
-        "google": 80,
-        "wikipedia": 27
-      },
-      "total": 107
-    },
     {
       "title": "mustafa eskihellaç",
       "platforms": [
@@ -781,7 +769,7 @@
       "total": 97
     },
     {
-      "title": "Deniz Undav",
+      "title": "Fatma Betül Sayan Kaya",
       "platforms": [
         "wikipedia"
       ],
@@ -801,7 +789,7 @@
       "total": 93
     },
     {
-      "title": "Sérgio Conceição",
+      "title": "Deniz Undav",
       "platforms": [
         "wikipedia"
       ],
@@ -829,6 +817,18 @@
         "wikipedia": 90
       },
       "total": 90
+    },
+    {
+      "title": "Fenerbahçe (futbol takımı)",
+      "platforms": [
+        "google",
+        "wikipedia"
+      ],
+      "parts": {
+        "google": 80,
+        "wikipedia": 7
+      },
+      "total": 87
     },
     {
       "title": "ikindi ezanı",
@@ -861,7 +861,7 @@
       "total": 83
     },
     {
-      "title": "Aleksey Batrakov",
+      "title": "Sérgio Conceição",
       "platforms": [
         "wikipedia"
       ],
@@ -871,7 +871,7 @@
       "total": 83
     },
     {
-      "title": "Fatma Betül Sayan Kaya",
+      "title": "Aleksey Batrakov",
       "platforms": [
         "wikipedia"
       ],

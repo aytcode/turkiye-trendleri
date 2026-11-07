@@ -34,15 +34,15 @@
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | Fenerbahçe (futbol takımı) | 2 |
-| 2 | mustafa eskihellaç | 1 |
-| 3 | Ahmet Nazif Zorlu | 1 |
-| 4 | kar alarmı | 1 |
-| 5 | Deniz Undav | 1 |
-| 6 | akom | 1 |
-| 7 | Sérgio Conceição | 1 |
-| 8 | uefa | 1 |
-| 9 | 2027 UEFA ülkeler sıralaması | 1 |
+| 1 | mustafa eskihellaç | 1 |
+| 2 | Ahmet Nazif Zorlu | 1 |
+| 3 | kar alarmı | 1 |
+| 4 | Fatma Betül Sayan Kaya | 1 |
+| 5 | akom | 1 |
+| 6 | Deniz Undav | 1 |
+| 7 | uefa | 1 |
+| 8 | 2027 UEFA ülkeler sıralaması | 1 |
+| 9 | Fenerbahçe (futbol takımı) | 2 |
 | 10 | ikindi ezanı | 1 |
 <!-- SON-RAPOR:BITIR -->
 

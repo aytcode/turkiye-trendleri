@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-07",
+  "collectedAt": "2026-11-07T11:38:08.434Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "atm",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "鹿児島信用金庫も復旧 信用金庫システム障害",
+              "url": "https://newsdig.tbs.co.jp/articles/mbc/3068949?display=1",
+              "source": "TBS NEWS DIG"
+            },
+            {
+              "title": "128の信用金庫 他金融機関への送金除いてサービス復旧",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261106de71936",
+              "source": "NHKニュース"
+            }
+          ]
+        },
+        {
+          "title": "ankaragücü",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Ankaragücü-Kahramanmaraş İstiklal Maçı Saat Kaçta, Hangi Kanalda?",
+              "url": "https://www.birgun.net/haber/ankaragucu-kahramanmaras-istiklal-maci-saat-kacta-hangi-kanalda-745110",
+              "source": "birgun.net"
+            },
+            {
+              "title": "MKE Ankaragücü galibiyet hasretini bitirmek için sahaya çıkıyor: Rakip Kahramanmaraş İstiklalspor",
+              "url": "https://turkinform.com.tr/mke-ankaragucu-galibiyet-hasretini-bitirmek-icin-sahaya-cikiyor-rakip-kahramanmaras-istiklalspor",
+              "source": "Türkinform"
+            }
+          ]
+        },
+        {
+          "title": "malatya yeşilyurtspor",
+          "traffic": 100,
+          "rank": 3,
+          "news": [
+            {
+              "title": "CANLI İZLE | Malatya Yeşilyurtspor - Kırşehir FK maçı ne zaman, saat kaçta, hangi kanalda?",
+              "url": "https://www.ntvspor.net/futbol/galeri-canli-izle-malatya-yesilyurtspor-kirsehir-fk-maci-ne-zaman-saat-kacta-hangi-kanalda-432620",
+              "source": "NTVSpor"
+            },
+            {
+              "title": "Malatya Yeşilyurt SK, Karaman Deplasmanında da Gol Yağdırdı",
+              "url": "https://malatyahaber.com/malatya-yesilyurt-sk-karaman-deplasmaninda-da-gol-yagdirdi",
+              "source": "Malatya Haber"
+            }
+          ]
+        },
+        {
+          "title": "oğuz tezmen",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Fatih Altaylı, Tera&apos;nın patronu Emre Tezmen&apos;in babasını yazdı: Armut dibine düştü, oğul babaya çekti",
+              "url": "https://t24.com.tr/gundem/fatih-altayli-teranin-patronu-emre-tezmenin-babasini-yazdi-armut-dibine-dustu-ogul-babaya-cekti,1357574",
+              "source": "T24"
+            },
+            {
+              "title": "» Fatih Altaylı yazdı: Tera’cı Emre Tezmen’in babasını biliyor musunuz?",
+              "url": "https://10haber.net/siyaset/fatih-altayli-yazdi-teraci-emre-tezmenin-babasini-biliyor-musunuz-752356/",
+              "source": "10Haber"
+            }
+          ]
+        },
+        {
+          "title": "hola",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Vicky Martín Berrocal, acompañada por su hija, impacta de negro y transparencias en Buenos Aires tras conocerse que Alba Díaz vuelve a estar soltera",
+              "url": "https://www.hola.com/moda/20261107933736/vicky-martin-berrocal-vestido-negro-transparencias-alba-diaz-buenos-aires/",
+              "source": "HOLA"
+            },
+            {
+              "title": "Vicky Martín Berrocal y Alba Díaz conquistan Buenos Aires con dos vestidos de Victoria: del negro con transparencias al rojo más favorecedor",
+              "url": "https://www.larazon.es/lifestyle/moda/vicky-martin-berrocal-alba-diaz-conquistan-buenos-aires-dos-vestidos-victoria-negro-transparencias-rojo-mas-favorecedor_202611066aeda41c03bbf30bb0420547.html",
+              "source": "La Razón"
+            }
+          ]
+        },
+        {
+          "title": "berk bakioğlu",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Kardeşlerim&apos;in Ayaz&apos;ı Berk Bakioğlu meslektaşıyla evleniyor",
+              "url": "https://www.ahaber.com.tr/galeri/magazin/berk-bakioglu-ve-sifanur-gul-evlilik-yolunda-ilk-adimi-atiyor",
+              "source": "A Haber"
+            },
+            {
+              "title": "Şifanur Gül ve Berk Bakioğlu evleniyor! Nişan için tarih verdi",
+              "url": "https://www.milliyet.com.tr/magazin/galeri/sifanur-gul-ve-berk-bakioglu-evleniyor-nisan-icin-tarih-verdi-7696121",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "berkan kutlu",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Berkan Kutlu&apos;dan özel açıklamalar - Galatasaray&apos;dan ayrılışını ve Kocaelispor&apos;daki yükselişi anlattı",
+              "url": "https://www.transfermarkt.com.tr/berkan-kutludan-ozel-aciklamalar-galatasaraydan-ayrilisini-ve-kocaelispordaki-yukselisi-anlatti/view/news/489788",
+              "source": "Transfermarkt"
+            },
+            {
+              "title": "Konyaspor&apos;da neden başarısız olduğunu söyledi",
+              "url": "https://www.yenihaberden.com/konyaspor-da-neden-basarisiz-oldugunu-soyledi/1862423/",
+              "source": "Konya Yeni Haber"
+            }
+          ]
+        },
+        {
+          "title": "iski",
+          "traffic": 500,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Doluluk oranı yüzde 61’e çıktı... Son 10 yılın rekoru",
+              "url": "https://www.hurriyet.com.tr/gundem/doluluk-orani-yuzde-61e-cikti-son-10-yilin-rekoru-43369050",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Baraj doluluk oranları 1 günde yüzde 5&apos;i aştı. İstanbul barajları ne kadar, yüzde kaç dolu?",
+              "url": "https://www.ntv.com.tr/turkiye/galeri-baraj-doluluk-oranlari-1-gunde-yuzde-5i-asti-istanbul-barajlari-ne-kadar-yuzde-kac-dolu-1749479",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "melisa döngel",
+          "traffic": 100,
+          "rank": 9,
+          "news": [
+            {
+              "title": "‘Evlenmek ve anne olmak istiyorum’",
+              "url": "https://www.milliyet.com.tr/magazin/evlenmek-ve-anne-olmak-istiyorum-7696068",
+              "source": "Milliyet"
+            },
+            {
+              "title": "Melisa Döngel: Kas değil, maneviyat daha önemli",
+              "url": "https://www.hurriyet.com.tr/kelebek/stil/melisa-dongel-kas-degil-maneviyat-daha-onemli-43369128",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "sığır eti",
+          "traffic": 2000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Et fiyatlarında yeni dönem! Hesaplama değişti, Resmi Gazete&apos;de yayımlandı",
+              "url": "https://www.sozcu.com.tr/et-fiyatlarinda-yeni-donem-hesaplama-degisti-resmi-gazete-de-yayimlandi-p376931",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Resmi Gazete&apos;de yayımlandı: Et fiyatlarına yeni düzenleme!",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/resmi-gazetede-yayimlandi-et-fiyatlarina-yeni-duzenleme-7696175",
+              "source": "Uzmanpara"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
