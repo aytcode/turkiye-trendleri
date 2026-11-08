@@ -13,8 +13,8 @@
   "end": "2026-11-08",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-07T11:38:08.434Z",
-  "snapshotDays": 6,
+  "generatedAt": "2026-11-08T11:49:34.447Z",
+  "snapshotDays": 7,
   "activeSources": [
     "google",
     "wikipedia"
@@ -222,6 +222,42 @@
           "score": 5000
         },
         {
+          "title": "erzurumspor",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Canlı Anlatım: Rizespor - Erzurumspor FK maçı",
+              "url": "https://www.hurriyet.com.tr/sporarena/canli-anlatim-rizespor-erzurumspor-fk-maci-43370351",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Çaykur Rizespor A.Ş. - Erzurumspor FK Futbol | Maç Biletleri",
+              "url": "https://www.passo.com.tr/tr/etkinlik/caykurrizespor-erzurum-mac-bileti-passo/13876320",
+              "source": "Passo"
+            }
+          ],
+          "score": 5000
+        },
+        {
+          "title": "bandırmaspor - karagümrük",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Bandırmaspor - Karagümrük maçı hangi kanalda, saat kaçta? Bandırmaspor - Fatih Karagümrük canlı izle, maç kaç kaç?",
+              "url": "https://www.gzt.com/spor/bandirmaspor-fatih-karagumruk-maci-canli-izle-bandirmaspor-karagumruk-maci-hangi-kanalda-saat-kacta-4276649",
+              "source": "GZT"
+            },
+            {
+              "title": "Parola galibiyet",
+              "url": "https://www.fotomac.com.tr/birincilig/2026/11/07/parola-galibiyet",
+              "source": "Fotomaç"
+            }
+          ],
+          "score": 5000
+        },
+        {
           "title": "haber 7",
           "traffic": 2000,
           "days": 1,
@@ -330,6 +366,42 @@
           "score": 2000
         },
         {
+          "title": "çorum - fenerbahçe",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Fenerbahçe maçı öncesi Çorum FK&apos;de sakatlık şoku",
+              "url": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-sakatlik-soku-p377201",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Futbol A Takımımız Çorum&apos;da",
+              "url": "https://www.fenerbahce.org/haberler/futbol/2026/11/futbol-a-takimimiz-corum-da",
+              "source": "Fenerbahce.org"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "ehlıyet yası",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Ehliyet yaşı 17’ye mi düştü, kaç oldu? Türkiye’de güncel ehliyet yaş sınırı!",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/ehliyet-yasi-17ye-mi-dustu-kac-oldu-turkiyede-guncel-ehliyet-yas-siniri-43370034",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Ehliyet yenilemede şartlar ağırlaştı! 65 yaş üstü tepkili",
+              "url": "https://www.merhabahaber.com/ehliyet-yenilemede-sartlar-agirlasti-65-yas-ustu-tepkili-1954213h.htm",
+              "source": "Merhaba Gazetesi"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "alfred schreuder",
           "traffic": 1000,
           "days": 1,
@@ -402,6 +474,42 @@
           "score": 1000
         },
         {
+          "title": "napoli - lazio",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "LIVE Alle 12.30 Napoli-Lazio, le ufficiali: Allegri sceglie Lang. Gattuso con Pinamonti centravanti",
+              "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/08-11-2026/napoli-lazio-live-risultato-e-gol-in-diretta-serie-a.shtml",
+              "source": "La Gazzetta dello Sport"
+            },
+            {
+              "title": "Il triste arrivo del pullman del Napoli al Maradona tra indifferenza e qualche fischio",
+              "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/08-152463387/il_triste_arrivo_del_pullman_del_napoli_al_maradona_tra_indifferenza_e_qualche_fischio",
+              "source": "Corriere dello Sport"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "burak özçivit",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Güneşin Doğduğu Yer 8. Bölüm",
+              "url": "https://www.atv.com.tr/gunesin-dogdugu-yer/8-bolum/izle",
+              "source": "ATV"
+            },
+            {
+              "title": "Burak Özçivit&apos;in dizisi yayından çıkarıldı: Nedeni ve yeni bölüm tarihi belli oldu",
+              "url": "https://www.sozcu.com.tr/burak-ozcivit-in-dizisi-yayindan-cikarildi-nedeni-ve-yeni-tarihi-belli-oldu-p377093",
+              "source": "Sözcü Gazetesi"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "zelda",
           "traffic": 500,
           "days": 1,
@@ -418,112 +526,9 @@
             }
           ],
           "score": 500
-        },
-        {
-          "title": "sivas hava durumu",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Meteoroloji Muğla&apos;da sağanak uyarısı yaptı, 51-100 kg/m2 yağış bekleniyor",
-              "url": "https://www.haberler.com/cevre/meteoroloji-mugla-da-saganak-uyarisi-yapti-51-100-20364511-haberi/",
-              "source": "Haberler"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "ela rümeysa cebeci",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Uyuşturucu davasında ikinci celse: Saran ve Cebeci’nin hapsi istendi",
-              "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Son dakika... Ela Rümeysa Cebeci adliyeye geldi",
-              "url": "https://www.milliyet.com.tr/gundem/son-dakika-ela-rumeysa-cebeci-adliyeye-geldi-7694179",
-              "source": "Milliyet"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "zabıt kâtibi",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Milyonlarca lirayı zimmetine geçirdi... Hırsız katipten şok itiraf!",
-              "url": "https://www.sozcu.com.tr/milyonlarca-lirayi-zimmetine-gecirdi-hirsiz-katipten-itiraf-esi-ihbar-etti-p375838",
-              "source": "Sözcü Gazetesi"
-            },
-            {
-              "title": "SON DAKİKA HABER | Zimmetine 6.5 milyon TL geçirip bahis oynamıştı! Katibe için karar çıktı | Son dakika haberleri",
-              "url": "https://www.haberturk.com/gundem/son-dakika-haber-zimmetine-65-milyon-tl-gecirip-bahis-oynamisti-katibe-icin-karar-cikti-3924844",
-              "source": "Habertürk"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "berke özer",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Berke Özer&apos;den Sergen Yalçın ve Milli Takım açıklaması!",
-              "url": "https://www.hurriyet.com.tr/sporarena/berke-ozerden-sergen-yalcin-ve-milli-takim-aciklamasi-43367578",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Berker Özer seçilecek mi? Sergen Yalçın sözleri diikat çeti | Futbol Haberleri",
-              "url": "https://www.gzt.com/spor/berker-ozer-secilecek-mi-sergen-yalcin-sozleri-diikat-ceti-4276004",
-              "source": "GZT"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "kenan yıldız",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Juventus&apos;ta Kenan Yıldız sevinci",
-              "url": "https://www.sondakika.com/spor/haber-juventusta-kenan-yildiz-sevinci-20400275/",
-              "source": "Son Dakika"
-            },
-            {
-              "title": "Kenan Yıldız&apos;dan sevindirici haber! Sahalara dönüşü...",
-              "url": "https://beinsports.com.tr/haber/juventusta-kenan-yildiz-gelismesi-iste-sahalara-donus-tarihi",
-              "source": "beinsports.com.tr"
-            }
-          ],
-          "score": 500
-        },
-        {
-          "title": "iski",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Doluluk oranı yüzde 61’e çıktı... Son 10 yılın rekoru",
-              "url": "https://www.hurriyet.com.tr/gundem/doluluk-orani-yuzde-61e-cikti-son-10-yilin-rekoru-43369050",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Baraj doluluk oranları 1 günde yüzde 5&apos;i aştı. İstanbul barajları ne kadar, yüzde kaç dolu?",
-              "url": "https://www.ntv.com.tr/turkiye/galeri-baraj-doluluk-oranlari-1-gunde-yuzde-5i-asti-istanbul-barajlari-ne-kadar-yuzde-kac-dolu-1749479",
-              "source": "NTV Haber"
-            }
-          ],
-          "score": 500
         }
       ],
-      "total": 58
+      "total": 68
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -901,7 +906,7 @@
       "total": 77
     },
     {
-      "title": "haber 7",
+      "title": "erzurumspor",
       "platforms": [
         "google"
       ],
@@ -921,7 +926,7 @@
       "total": 73
     },
     {
-      "title": "togg kasım kampanyası 2026",
+      "title": "bandırmaspor - karagümrük",
       "platforms": [
         "google"
       ],

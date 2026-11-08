@@ -119,4 +119,4 @@ Aktif kaynaklar: X (Twitter), TikTok, Instagram, YouTube, Google Trends, Vikiped
 | 10 | [Konser takvimi](#) | 79.000 | 7/7 |
 
 ---
-_Oluşturulma: 2026-11-07 11:38 UTC · [turkiye-trendleri](https://github.com/aytcode/turkiye-trendleri)_
+_Oluşturulma: 2026-11-08 11:49 UTC · [turkiye-trendleri](https://github.com/aytcode/turkiye-trendleri)_

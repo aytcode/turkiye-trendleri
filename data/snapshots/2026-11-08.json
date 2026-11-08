@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-08",
+  "collectedAt": "2026-11-08T11:49:34.447Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "kademeli emeklilik",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "SGK Başuzmanı İsa Karakaş yazdı: EYT’den kısmi emekliliğe memurların emeklilik rehberi",
+              "url": "https://t24.com.tr/ekonomi/sgk-basuzmani-isa-karakas-yazdi-eytden-kismi-emeklilige-memurlarin-emeklilik-rehberi,1357580",
+              "source": "T24"
+            },
+            {
+              "title": "EYT sonrası emeklilik formülü: Kademeli emeklilik ne zaman çıkacak, 2000 sonrası emeklilik yaş, prim ve yıl şartı değişti mi? 6 maddelik emeklilik teklifi | Özgün Haberler",
+              "url": "https://www.yenisafak.com/galeri/ozgun/eyt-sonrasi-emeklilik-formulu-kademeli-emeklilik-ne-zaman-cikacak-2000-sonrasi-emeklilik-yas-prim-ve-yil-sarti-degisti-mi-6-maddelik-emeklilik-teklifi-4853578",
+              "source": "Yeni Şafak"
+            }
+          ]
+        },
+        {
+          "title": "erzurumspor",
+          "traffic": 5000,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Canlı Anlatım: Rizespor - Erzurumspor FK maçı",
+              "url": "https://www.hurriyet.com.tr/sporarena/canli-anlatim-rizespor-erzurumspor-fk-maci-43370351",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Çaykur Rizespor A.Ş. - Erzurumspor FK Futbol | Maç Biletleri",
+              "url": "https://www.passo.com.tr/tr/etkinlik/caykurrizespor-erzurum-mac-bileti-passo/13876320",
+              "source": "Passo"
+            }
+          ]
+        },
+        {
+          "title": "heerenveen - feyenoord",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Koploper Feyenoord speelt lastig uitduel in Heerenveen, later Twente-Ajax",
+              "url": "https://www.nu.nl/voetbal/6415880/koploper-feyenoord-speelt-lastig-uitduel-in-heerenveen-later-twente-ajax.html",
+              "source": "NU"
+            },
+            {
+              "title": "Hadj Moussa werkt aangepaste warming-up af: Van Bronckhorst geeft uitleg",
+              "url": "https://1908.nl/artikelen/hadj-moussa-werkt-aangepaste-warming-up-af-van-bronckhorst-geeft-uitleg",
+              "source": "1908.nl"
+            }
+          ]
+        },
+        {
+          "title": "napoli - lazio",
+          "traffic": 1000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "LIVE Alle 12.30 Napoli-Lazio, le ufficiali: Allegri sceglie Lang. Gattuso con Pinamonti centravanti",
+              "url": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/08-11-2026/napoli-lazio-live-risultato-e-gol-in-diretta-serie-a.shtml",
+              "source": "La Gazzetta dello Sport"
+            },
+            {
+              "title": "Il triste arrivo del pullman del Napoli al Maradona tra indifferenza e qualche fischio",
+              "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/08-152463387/il_triste_arrivo_del_pullman_del_napoli_al_maradona_tra_indifferenza_e_qualche_fischio",
+              "source": "Corriere dello Sport"
+            }
+          ]
+        },
+        {
+          "title": "çorum - fenerbahçe",
+          "traffic": 2000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Fenerbahçe maçı öncesi Çorum FK&apos;de sakatlık şoku",
+              "url": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-sakatlik-soku-p377201",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Futbol A Takımımız Çorum&apos;da",
+              "url": "https://www.fenerbahce.org/haberler/futbol/2026/11/futbol-a-takimimiz-corum-da",
+              "source": "Fenerbahce.org"
+            }
+          ]
+        },
+        {
+          "title": "bandırmaspor - karagümrük",
+          "traffic": 5000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Bandırmaspor - Karagümrük maçı hangi kanalda, saat kaçta? Bandırmaspor - Fatih Karagümrük canlı izle, maç kaç kaç?",
+              "url": "https://www.gzt.com/spor/bandirmaspor-fatih-karagumruk-maci-canli-izle-bandirmaspor-karagumruk-maci-hangi-kanalda-saat-kacta-4276649",
+              "source": "GZT"
+            },
+            {
+              "title": "Parola galibiyet",
+              "url": "https://www.fotomac.com.tr/birincilig/2026/11/07/parola-galibiyet",
+              "source": "Fotomaç"
+            }
+          ]
+        },
+        {
+          "title": "ankara son dakika",
+          "traffic": 500,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Ankara&apos;da gece saatlerinde kar yağışı etkili oldu",
+              "url": "https://www.hurriyet.com.tr/gundem/ankarada-gece-saatlerinde-kar-yagisi-etkili-oldu-43370055",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Yurdun bazı bölgelerinde kar etkili oluyor",
+              "url": "https://www.aa.com.tr/tr/gundem/yurdun-bazi-bolgelerinde-kar-etkili-oluyor/4115689",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "ehlıyet yası",
+          "traffic": 2000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Ehliyet yaşı 17’ye mi düştü, kaç oldu? Türkiye’de güncel ehliyet yaş sınırı!",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/ehliyet-yasi-17ye-mi-dustu-kac-oldu-turkiyede-guncel-ehliyet-yas-siniri-43370034",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Ehliyet yenilemede şartlar ağırlaştı! 65 yaş üstü tepkili",
+              "url": "https://www.merhabahaber.com/ehliyet-yenilemede-sartlar-agirlasti-65-yas-ustu-tepkili-1954213h.htm",
+              "source": "Merhaba Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "baykar bayraktar tb2",
+          "traffic": 500,
+          "rank": 9,
+          "news": [
+            {
+              "title": "16 FPV Dronla Havalandı: Bayraktar TB2’de Yeni Kabiliyet",
+              "url": "https://www.savunmasanayist.com/bayraktar-tb2-fpv-kamikaze-dron-testi/",
+              "source": "SavunmaSanayiST"
+            },
+            {
+              "title": "Bayraktar TB2&apos;den yeni başarı! 16 kamikaze dronla gerçekleştirilen testte hedefler imha edildi",
+              "url": "https://www.ahaber.com.tr/video/gundem-videolari/bayraktar-tb2den-yeni-basari-16-kamikaze-dronla-gerceklestirilen-testte-hedefler-imha-edildi",
+              "source": "A Haber"
+            }
+          ]
+        },
+        {
+          "title": "burak özçivit",
+          "traffic": 1000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Güneşin Doğduğu Yer 8. Bölüm",
+              "url": "https://www.atv.com.tr/gunesin-dogdugu-yer/8-bolum/izle",
+              "source": "ATV"
+            },
+            {
+              "title": "Burak Özçivit&apos;in dizisi yayından çıkarıldı: Nedeni ve yeni bölüm tarihi belli oldu",
+              "url": "https://www.sozcu.com.tr/burak-ozcivit-in-dizisi-yayindan-cikarildi-nedeni-ve-yeni-tarihi-belli-oldu-p377093",
+              "source": "Sözcü Gazetesi"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
