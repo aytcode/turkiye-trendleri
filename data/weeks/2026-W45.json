@@ -11,9 +11,9 @@
   ],
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "final": false,
+  "final": true,
   "sample": false,
-  "generatedAt": "2026-11-08T11:49:34.447Z",
+  "generatedAt": "2026-11-09T13:45:21.891Z",
   "snapshotDays": 7,
   "activeSources": [
     "google",
@@ -538,44 +538,44 @@
       "status": "ok",
       "items": [
         {
-          "title": "Ahmet Nazif Zorlu",
-          "article": "Ahmet_Nazif_Zorlu",
-          "views": 120134,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Ahmet_Nazif_Zorlu",
-          "score": 120134
-        },
-        {
           "title": "Fatma Betül Sayan Kaya",
           "article": "Fatma_Betül_Sayan_Kaya",
-          "views": 104437,
-          "days": 5,
+          "views": 123274,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
-          "score": 104437
+          "score": 123274
+        },
+        {
+          "title": "Ahmet Nazif Zorlu",
+          "article": "Ahmet_Nazif_Zorlu",
+          "views": 121315,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_Nazif_Zorlu",
+          "score": 121315
         },
         {
           "title": "Deniz Undav",
           "article": "Deniz_Undav",
-          "views": 55682,
-          "days": 5,
+          "views": 56432,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Deniz_Undav",
-          "score": 55682
-        },
-        {
-          "title": "2027 UEFA ülkeler sıralaması",
-          "article": "2027_UEFA_ülkeler_sıralaması",
-          "views": 51138,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 51138
+          "score": 56432
         },
         {
           "title": "Emre Belözoğlu",
           "article": "Emre_Belözoğlu",
-          "views": 50595,
-          "days": 5,
+          "views": 55144,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
-          "score": 50595
+          "score": 55144
+        },
+        {
+          "title": "2027 UEFA ülkeler sıralaması",
+          "article": "2027_UEFA_ülkeler_sıralaması",
+          "views": 52421,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
+          "score": 52421
         },
         {
           "title": "Sérgio Conceição",
@@ -588,58 +588,106 @@
         {
           "title": "Aleksey Batrakov",
           "article": "Aleksey_Batrakov",
-          "views": 38660,
-          "days": 5,
+          "views": 42880,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Aleksey_Batrakov",
-          "score": 38660
+          "score": 42880
         },
         {
           "title": "2026 Amerika Birleşik Devletleri seçimleri",
           "article": "2026_Amerika_Birleşik_Devletleri_seçimleri",
-          "views": 33286,
-          "days": 5,
+          "views": 34371,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/2026_Amerika_Birle%C5%9Fik_Devletleri_se%C3%A7imleri",
-          "score": 33286
+          "score": 34371
         },
         {
           "title": "2026 UEFA ülkeler sıralaması",
           "article": "2026_UEFA_ülkeler_sıralaması",
-          "views": 27484,
-          "days": 5,
+          "views": 28182,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/2026_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 27484
-        },
-        {
-          "title": "Dirk Kuyt",
-          "article": "Dirk_Kuyt",
-          "views": 22106,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Dirk_Kuyt",
-          "score": 22106
-        },
-        {
-          "title": "XHamster",
-          "article": "XHamster",
-          "views": 19651,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 19651
+          "score": 28182
         },
         {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 18624,
-          "days": 5,
+          "views": 25981,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 18624
+          "score": 25981
+        },
+        {
+          "title": "Dirk Kuyt",
+          "article": "Dirk_Kuyt",
+          "views": 22946,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Dirk_Kuyt",
+          "score": 22946
+        },
+        {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 22354,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 22354
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 21275,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 21275
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 20956,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 20956
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 20941,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 20941
+        },
+        {
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 20910,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 20910
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 20887,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 20887
         },
         {
           "title": "Abdullah Çatlı",
           "article": "Abdullah_Çatlı",
-          "views": 17315,
-          "days": 5,
+          "views": 19467,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
-          "score": 17315
+          "score": 19467
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 16662,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 16662
         },
         {
           "title": "Zorlu Holding",
@@ -652,93 +700,45 @@
         {
           "title": "Mustafa Sarıgül",
           "article": "Mustafa_Sarıgül",
-          "views": 14511,
-          "days": 5,
+          "views": 15774,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 14511
-        },
-        {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 14469,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 14469
+          "score": 15774
         },
         {
           "title": "Donald Trump",
           "article": "Donald_Trump",
-          "views": 14457,
-          "days": 5,
+          "views": 15336,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/Donald_Trump",
-          "score": 14457
-        },
-        {
-          "title": "Teknoloji",
-          "article": "Teknoloji",
-          "views": 14221,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 14221
-        },
-        {
-          "title": "Bir sonraki Türkiye genel seçimleri",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 14194,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 14194
-        },
-        {
-          "title": "Bilim",
-          "article": "Bilim",
-          "views": 14175,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 14175
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 14151,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 14151
-        },
-        {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 14122,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 14122
-        },
-        {
-          "title": "Demokrat Parti (Amerika Birleşik Devletleri)",
-          "article": "Demokrat_Parti_(Amerika_Birleşik_Devletleri)",
-          "views": 12881,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Demokrat_Parti_(Amerika_Birle%C5%9Fik_Devletleri)",
-          "score": 12881
-        },
-        {
-          "title": "Amerika Birleşik Devletleri Senatosu",
-          "article": "Amerika_Birleşik_Devletleri_Senatosu",
-          "views": 12845,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Senatosu",
-          "score": 12845
+          "score": 15336
         },
         {
           "title": "XNXX",
           "article": "XNXX",
-          "views": 12110,
-          "days": 5,
+          "views": 13859,
+          "days": 6,
           "url": "https://tr.wikipedia.org/wiki/XNXX",
-          "score": 12110
+          "score": 13859
+        },
+        {
+          "title": "Amerika Birleşik Devletleri Senatosu",
+          "article": "Amerika_Birleşik_Devletleri_Senatosu",
+          "views": 13580,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Senatosu",
+          "score": 13580
+        },
+        {
+          "title": "Demokrat Parti (Amerika Birleşik Devletleri)",
+          "article": "Demokrat_Parti_(Amerika_Birleşik_Devletleri)",
+          "views": 13372,
+          "days": 6,
+          "url": "https://tr.wikipedia.org/wiki/Demokrat_Parti_(Amerika_Birle%C5%9Fik_Devletleri)",
+          "score": 13372
         }
       ],
-      "coveredDays": 5,
+      "coveredDays": 6,
       "total": 50
     }
   },
@@ -754,7 +754,7 @@
       "total": 100
     },
     {
-      "title": "Ahmet Nazif Zorlu",
+      "title": "Fatma Betül Sayan Kaya",
       "platforms": [
         "wikipedia"
       ],
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Fatma Betül Sayan Kaya",
+      "title": "Ahmet Nazif Zorlu",
       "platforms": [
         "wikipedia"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "2027 UEFA ülkeler sıralaması",
+      "title": "Emre Belözoğlu",
       "platforms": [
         "wikipedia"
       ],
@@ -822,18 +822,6 @@
         "wikipedia": 90
       },
       "total": 90
-    },
-    {
-      "title": "Fenerbahçe (futbol takımı)",
-      "platforms": [
-        "google",
-        "wikipedia"
-      ],
-      "parts": {
-        "google": 80,
-        "wikipedia": 7
-      },
-      "total": 87
     },
     {
       "title": "ikindi ezanı",
@@ -846,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Emre Belözoğlu",
+      "title": "2027 UEFA ülkeler sıralaması",
       "platforms": [
         "wikipedia"
       ],
@@ -874,6 +862,16 @@
         "wikipedia": 83
       },
       "total": 83
+    },
+    {
+      "title": "fenerbahçe liverpool maçı ne zaman",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 80
+      },
+      "total": 80
     },
     {
       "title": "Aleksey Batrakov",
@@ -936,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Dirk Kuyt",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],

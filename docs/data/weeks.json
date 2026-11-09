@@ -1,18 +1,36 @@
 [
   {
-    "week": "2026-W45",
-    "start": "2026-11-02",
-    "end": "2026-11-08",
+    "week": "2026-W46",
+    "start": "2026-11-09",
+    "end": "2026-11-15",
     "final": false,
     "activeSources": [
       "google",
       "wikipedia"
     ],
     "top": [
+      "adana deprem",
+      "kandilli rasathanesi",
+      "adana&apos;da deprem oldu mu",
+      "mersin deprem",
+      "ikindi namazı"
+    ],
+    "url": "hafta/2026-W46.html"
+  },
+  {
+    "week": "2026-W45",
+    "start": "2026-11-02",
+    "end": "2026-11-08",
+    "final": true,
+    "activeSources": [
+      "google",
+      "wikipedia"
+    ],
+    "top": [
       "mustafa eskihellaç",
-      "Ahmet Nazif Zorlu",
-      "kar alarmı",
       "Fatma Betül Sayan Kaya",
+      "kar alarmı",
+      "Ahmet Nazif Zorlu",
       "akom"
     ],
     "url": "hafta/2026-W45.html"

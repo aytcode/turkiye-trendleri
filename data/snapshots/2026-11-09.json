@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-09",
+  "collectedAt": "2026-11-09T13:45:21.891Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "duvar",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Şantiyede can pazarı: Kamyonla duvar arasına sıkışan işçi hayatını kaybetti",
+              "url": "https://www.hurriyet.com.tr/gundem/santiyede-can-pazari-kamyonla-duvar-arasina-sikisan-isci-hayatini-kaybetti-43371329",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Bahçelievler&apos;de iş cinayeti: İnşaatta kamyonla duvar arasına sıkışan işçi yaşamını yitirdi",
+              "url": "https://www.evrensel.net/haber/6008629/bahcelievlerde-is-cinayeti-insaatta-kamyonla-duvar-arasina-sikisan-isci-yasamini-yitirdi",
+              "source": "Evrensel.net"
+            }
+          ]
+        },
+        {
+          "title": "sinem kobal kenan imirzalıoğlu",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Sinem Kobal ve Kenan İmirzalıoğlu boşandı mı, ayrıldılar mı?",
+              "url": "https://www.haberler.com/haber/sinem-kobal-ve-kenan-imirzalioglu-bosandi-mi-20410414-haberi/",
+              "source": "Haberler"
+            },
+            {
+              "title": "Set arkasında yüzünde maskeyle poz! Sinem Kobal’ın siyah beyaz tarzı çok konuşuldu!",
+              "url": "https://www.sabah.com.tr/trend/galeri/magazin/set-arkasinda-yuzunde-maskeyle-poz-sinem-kobalin-siyah-beyaz-tarzi-cok-konusuldu",
+              "source": "Sabah"
+            }
+          ]
+        },
+        {
+          "title": "adana&apos;da deprem oldu mu",
+          "traffic": 2000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Galatasaray&apos;a Osimhen&apos;den kötü haber! Taraftarlar şokta",
+              "url": "https://www.haberler.com/spor/galatasaraya-osimhenden-kotu-haber-20410661-haberi/",
+              "source": "Haberler"
+            },
+            {
+              "title": "Osimhen Amedspor maçında yok mu, neden yok? Osimhen sakatlandı mı, ne kadar yok, son durum nedir?",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-osimhen-amedspor-macinda-yok-mu-neden-yok-osimhen-sakatlandi-mi-ne-kadar-yok-son-durum-nedir-43369504",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "kandilli rasathanesi",
+          "traffic": 20000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Kasım 2026",
+              "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-kasim-2026-1750025",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Son Dakika Deprem Haberleri AFAD ve Kandilli Listesi: 9 Kasım 2026 bugün az önce deprem mi oldu, en son deprem nerede oldu?",
+              "url": "https://www.milliyet.com.tr/galeri/son-dakika-depremler-afad-ve-kandilli-listesi-9-kasim-2026-son-dakika-deprem-mi-oldu-en-son-deprem-nerede-oldu-son-depremler-7697090",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "tekstil",
+          "traffic": 1000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Türkiye&apos;nin tekstil devi iflas etti: Çok sayıda ülkeye ihracat yapıyordu...",
+              "url": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-tekstil-devi-iflas-etti-cok-sayida-ulkeye-ihracat-yapiyordu-2554640",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Dünyanın dört bir yanına ihracat yapıyordu: 18 yıllık Türk makine devi iflas etti",
+              "url": "https://www.sozcu.com.tr/dunyanin-dort-bir-yanina-ihracat-yapiyordu-18-yillik-turk-makine-devi-iflas-etti-p379415",
+              "source": "Sözcü Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "şafak karaali",
+          "traffic": 1000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Usta tiyatrocu Şafak Karali 57 yaşında hayatını kaybetti",
+              "url": "https://www.sozcu.com.tr/tiyatrocu-safak-karali-hayatini-kaybetti-p377286",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Avrupa Yakası ve Karadayı&apos;da rol almıştı! Ünlü oyuncu Şafak Karali&apos;ye veda: O benimle yaşayacak",
+              "url": "https://www.milliyet.com.tr/magazin/avrupa-yakasi-ve-karadayida-rol-almisti-unlu-oyuncu-safak-karaliye-veda-o-benimle-yasayacak-7697389",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "kayseri deprem",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Kayseri’de 3.2 büyüklüğünde deprem",
+              "url": "https://www.hurriyet.com.tr/gundem/kayseride-3-2-buyuklugunde-deprem-43370804",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Kayseri deprem son dakika! 8 Kasım Kayseri&apos;de deprem mi oldu, merkez üssü neresi?",
+              "url": "https://www.sabah.com.tr/yasam/son-dakika-kayseri-depremi-yahyalida-deprem-kac-buyuklugunde-oldu-7697677",
+              "source": "Sabah"
+            }
+          ]
+        },
+        {
+          "title": "adana deprem",
+          "traffic": 50000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Adana&apos;da 4,6 büyüklüğünde deprem",
+              "url": "https://www.trthaber.com/haber/turkiye/adanada-46-buyuklugunde-deprem-962694.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Son dakika... AFAD duyurdu! Adana&apos;da 4.6 büyüklüğünde deprem",
+              "url": "https://www.milliyet.com.tr/gundem/son-dakika-adana-ve-cevre-illerde-hissedilen-bir-deprem-meydana-geldi-7697431",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "mersin deprem",
+          "traffic": 2000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Son Dakika: Mersin&apos;de şiddetli deprem",
+              "url": "https://www.mersinhabermerkezi.com/son-dakika-mersinde-siddetli-deprem",
+              "source": "Mersin Haber Merkezi"
+            },
+            {
+              "title": "Mersin açıklarında deprem | 9 Kasım 2026",
+              "url": "https://www.yildirimgazetesi.com/mersin-aciklarinda-deprem-9-kasim-2026",
+              "source": "Yıldırım Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "ikindi namazı",
+          "traffic": 2000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 9 Kasım 2026 namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-9-kasim-2026-namaz-vakitleri-1747301",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "2 Kasım Pazartesi Bursa&apos;da ezan saat kaçta okunacak?",
+              "url": "https://www.bursasaati.com.tr/2-kasim-pazartesi-bursada-ezan-saat-kacta-okunacak",
+              "source": "Bursa Saati Gazetesi"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
