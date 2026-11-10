@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-10",
+  "collectedAt": "2026-11-10T13:23:36.125Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "antalya valiliği",
+          "traffic": 2000,
+          "rank": 1,
+          "news": [
+            {
+              "title": "COP eski başkanlarından COP31 için ortak bildiri! Bakan Kurum: Antalya&apos;da bir şeyler değişti",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/cop-eski-baskanlarindan-cop31-icin-ortak-bildiri-7698065",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "COP31 Yeşil Bölge&apos;deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
+              "url": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "g20",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "German government explains conditions under which Merz willing to speak with Putin",
+              "url": "https://www.ukrinform.net/rubric-polytics/4183125-german-government-explains-conditions-under-which-merz-willing-to-speak-with-putin.html",
+              "source": "Ukrinform"
+            },
+            {
+              "title": "The Kremlin has not yet decided whether Putin will meet with Merz at the G20 summit",
+              "url": "https://ua.news/en/world/u-kremli-poki-ne-viznachilisia-chi-zustrinetsia-putin-z-mertsom-na-samiti-g20",
+              "source": "UA.NEWS"
+            }
+          ]
+        },
+        {
+          "title": "uğur uçar",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Son dakika... Süper Lig&apos;de bir ayrılık daha kapıda! Uğur Uçar yeni teknik direktör oluyor",
+              "url": "https://spor.haber7.com/super-lig/haber/3675718-son-dakika-super-ligde-bir-ayrilik-daha-kapida-ugur-ucar-yeni-teknik-direktor-oluyor",
+              "source": "Haber 7"
+            },
+            {
+              "title": "Corendon Alanyaspor’da Joao Pereria dönemi sona erdi",
+              "url": "https://www.aspor.com.tr/alanyaspor/2026/11/10/corendon-alanyasporda-joao-pereria-donemi-sona-erdi",
+              "source": "A Spor"
+            }
+          ]
+        },
+        {
+          "title": "nevşehir hava durumu",
+          "traffic": 1000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Nevşehir’de Önce Kar, Sonra Yalancı Bahar…",
+              "url": "https://www.fibhaber.com/nevsehirde-once-kar-sonra-yalanci-bahar",
+              "source": "Fibhaber"
+            },
+            {
+              "title": "Nevşehir&apos;de salı günü sürprizi!",
+              "url": "https://www.nevsehirkenthaber.com/haber/29129940/nevsehirde-sali-gunu-surprizi",
+              "source": "Nevşehir Kent Haber Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "ikindi namazı",
+          "traffic": 2000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Kahramanmaraş 10 Kasım namaz vakitleri",
+              "url": "https://www.kahramantv.com/kahramanmaras-10-kasim-namaz-vakitleri-1",
+              "source": "kahramantv"
+            },
+            {
+              "title": "Malatya’da Bugün Namaz Vakitleri Açıklandı! Öğle, İkindi ve Akşam Ezanı Saat Kaçta?",
+              "url": "https://www.malatyasoz.com/malatyada-bugun-namaz-vakitleri-aciklandi-ogle-ikindi-ve-aksam-ezani-saat-kacta",
+              "source": "Malatya Söz"
+            }
+          ]
+        },
+        {
+          "title": "mit personel alımı",
+          "traffic": 500,
+          "rank": 6,
+          "news": [
+            {
+              "title": "MİT KPSS şartsız personel alımı 2026: Başvuru şartları | Özgün Haberleri",
+              "url": "https://www.gzt.com/gundem/mit-kpss-sartsiz-personel-alimi-2026-basvuru-sartlari-4277258",
+              "source": "GZT"
+            },
+            {
+              "title": "MİT Personel Alımı Başladı: KPSS Şartsız Başvuru Şartları",
+              "url": "https://www.muglayenigun.com/mit-personel-alimi-kpss-sartsiz-basvuru-sartlari/",
+              "source": "Muğla Yenigün"
+            }
+          ]
+        },
+        {
+          "title": "marc cucurella",
+          "traffic": 500,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Real Madrid&apos;in yıldızı Arda Güler&apos;i öve öve bitiremedi! &apos;O varken farklı oynuyoruz&apos;",
+              "url": "https://www.sozcu.com.tr/real-madridin-yildizi-arda-guleri-ove-ove-bitiremedi-o-varken-farkli-oynuyoruz-p379844",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Arda Güler&apos;e takım arkadaşı Cucurella&apos;dan övgü: &apos;Gözden kaçıyor! O sahadayken daha iyi oynuyoruz&apos;",
+              "url": "https://www.hurriyet.com.tr/sporarena/arda-gulere-takim-arkadasi-cucurelladan-ovgu-gozden-kaciyor-o-sahadayken-daha-iyi-oynuyoruz-43372938",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "selma konak",
+          "traffic": 500,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Selma Konak duygulandırdı: İstediğim zaman elini tutamıyorum belki ama...",
+              "url": "https://www.hurriyet.com.tr/kelebek/hayat/istedigim-zaman-elini-tutamiyorum-43372573",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Volkan Konak&apos;ın eşi duygulandırdı",
+              "url": "https://www.odatv.com/magazin/volkan-konakin-esi-duygulandirdi-120170585",
+              "source": "Odatv"
+            }
+          ]
+        },
+        {
+          "title": "ahmet şık",
+          "traffic": 2000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Ahmet Şık&apos;ın eşi Yonca Şık gözaltına alındı",
+              "url": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-gozaltina-alindi-1750284",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Erkan Baş: Alçaklık, çetevari, mafyavari",
+              "url": "https://www.diken.com.tr/erkan-bas-alcaklik-cetevari-mafyavari/",
+              "source": "Diken"
+            }
+          ]
+        },
+        {
+          "title": "kuyt",
+          "traffic": 20000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Aziz Yıldırım&apos;dan Dirk Kuyt&apos;a sürpriz teklif! Yeni görevi…",
+              "url": "https://www.fotomac.com.tr/fenerbahce/2026/11/10/fenerbahcede-dirk-kuyt-gelismesi-yeni-gorevi",
+              "source": "Fotomaç"
+            },
+            {
+              "title": "ÖZEL | Fenerbahçe&apos;de ayrılık! Emre Belözoğlu biletlerini kesti: Yeni dönem başlıyor",
+              "url": "https://www.fanatik.com.tr/fenerbahce/galeri-ozel-fenerbahcede-ayrilik-emre-belozoglu-biletlerini-kesti-yeni-donem-basliyor-2643984",
+              "source": "Fanatik"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

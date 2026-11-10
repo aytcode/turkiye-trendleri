@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | adana deprem | 1 |
-| 2 | kandilli rasathanesi | 1 |
-| 3 | adana&apos;da deprem oldu mu | 1 |
-| 4 | mersin deprem | 1 |
-| 5 | ikindi namazı | 1 |
-| 6 | tekstil | 1 |
-| 7 | şafak karaali | 1 |
-| 8 | duvar | 1 |
-| 9 | sinem kobal kenan imirzalıoğlu | 1 |
-| 10 | kayseri deprem | 1 |
+| 2 | Cevad Prekazi | 1 |
+| 3 | kandilli rasathanesi | 1 |
+| 4 | Fatma Betül Sayan Kaya | 1 |
+| 5 | kuyt | 1 |
+| 6 | Yol Ayrımı (film) | 1 |
+| 7 | ikindi namazı | 1 |
+| 8 | Yapay zekâ | 1 |
+| 9 | adana&apos;da deprem oldu mu | 1 |
+| 10 | Coğrafya | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
