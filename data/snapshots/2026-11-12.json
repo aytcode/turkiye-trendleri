@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-12",
+  "collectedAt": "2026-11-12T13:39:13.335Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "recep tayyip erdoğan",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Cumhurbaşkanı Erdoğan&apos;dan COP31&apos;de diplomasi trafiği",
+              "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-diplomasi-trafigi-963032.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "İletişim Başkanlığından Cumhurbaşkanı Erdoğan&apos;ın Libya Başbakanı Dibeybe&apos;yi kabulüne ilişkin açıklama:",
+              "url": "https://www.aa.com.tr/tr/enerjiterminali/genel/iletisim-baskanligindan-cumhurbaskani-erdoganin-libya-basbakani-dibeybeyi-kabulune-iliskin-aciklama/60939",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "ev",
+          "traffic": 500,
+          "rank": 2,
+          "news": [
+            {
+              "title": "HABAŞ patlaması: Şirketin yönetim kurulu başkanı adli kontrolle serbest",
+              "url": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo",
+              "source": "BBC"
+            },
+            {
+              "title": "Patronun ilk vukuatı değil... Hastaneden acı haber: ölü sayısı 18’e çıktı",
+              "url": "https://www.hurriyet.com.tr/gundem/patronun-ilk-vukuati-degil-hastaneden-aci-haber-olu-sayisi-18e-cikti-43374988",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "antalya valiliği",
+          "traffic": 500,
+          "rank": 3,
+          "news": [
+            {
+              "title": "COP31 Antalya&apos;da başladı: İlk günler trafik sorunu yaşandı",
+              "url": "https://www.bbc.com/turkce/articles/cwg7l9de1ngjo",
+              "source": "BBC"
+            },
+            {
+              "title": "Antalya&apos;nın 7 ilçesindeki kamu personeli yarın da izinli sayılacak",
+              "url": "https://www.trthaber.com/haber/turkiye/antalyanin-7-ilcesindeki-kamu-personeli-yarin-da-izinli-sayilacak-963080.html",
+              "source": "TRT Haber"
+            }
+          ]
+        },
+        {
+          "title": "öğretim üyesi",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "SON DAKİKA HABERİ | Üniversitede taciz! Öğretim üyesi açığa alındı | Son dakika haberleri",
+              "url": "https://www.haberturk.com/gundem/son-dakika-haberi-universitede-taciz-ogretim-uyesi-aciga-alindi-3926869",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Gümüşhane Üniversitesi&apos;nde taciz iddiası! Öğretim üyesi açığa alındı",
+              "url": "https://www.milliyet.com.tr/gundem/gumushane-universitesinde-taciz-iddiasi-ogretim-uyesi-aciga-alindi-7699497",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "demiryolu",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Türkiye&apos;nin en büyük dış finansmanlı demiryolu projesine 25 teklif",
+              "url": "https://www.haberturk.com/ekonomi/turkiye-nin-en-buyuk-dis-finansmanli-demiryolu-projesine-25-teklif-3926806",
+              "source": "Habertürk"
+            },
+            {
+              "title": "İstanbul&apos;a 6,75 milyar dolarlık yeni proje. 125 kilometrelik hat için 25 teklif",
+              "url": "https://www.ntv.com.tr/ntvpara/galeri-istanbula-675-milyar-dolarlik-yeni-proje-125-kilometrelik-hat-icin-25-teklif-1750567",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "twitch",
+          "traffic": 2000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "TwitchCon 2026 in San Diego: Meetups, panels and parties to check out",
+              "url": "https://www.kpbs.org/news/arts-culture/2026/11/10/twitchcon-2026-in-san-diego-meetups-panels-and-parties-to-check-out",
+              "source": "KPBS"
+            },
+            {
+              "title": "TwitchCon is at a crossroads as creators question its value",
+              "url": "https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/",
+              "source": "Digiday"
+            }
+          ]
+        },
+        {
+          "title": "gss prim borcu",
+          "traffic": 500,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Son dakika: GSS borçlarının silinmesine yönelik AK Parti harekete geçti",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/gss-borclarinin-silinmesine-yonelik-ak-parti-harekete-gecti-7699483",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "Son dakika... Fon tasfiyesinde görevli banka personeline yasal dokunulmazlık getiriliyor",
+              "url": "https://www.ntv.com.tr/ntvpara/yeni-fon-duzenlemesi-belli-oldu-hukuki-guvence-getiriliyor-1750593",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "ikindi namazı",
+          "traffic": 2000,
+          "rank": 8,
+          "news": []
+        },
+        {
+          "title": "ronaldo fenerbahçe",
+          "traffic": 500,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Cristiano Ronaldo için Türkiye ihtimali: Dünyanın en çok kazanan futbolcusu",
+              "url": "https://www.transfermarkt.com.tr/cristiano-ronaldo-icin-turkiye-ihtimali-dunyanin-en-cok-kazanan-futbolcusu/view/news/490477",
+              "source": "Transfermarkt"
+            },
+            {
+              "title": "Cristiano Ronaldo, Süper Lig devi ile anıldı: Transferi kasıp kavuran gelişme",
+              "url": "https://www.gzt.com/spor/fenerbahceden-transferde-cristiano-ronaldo-bombasi-cristiano-ronaldo-fenerbahceye-transfer-olacak-mi-4277902",
+              "source": "GZT"
+            }
+          ]
+        },
+        {
+          "title": "önlisans branş sıralaması 2026",
+          "traffic": 10000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Engelli Kamu Personeli Seçme Sınavı&apos;nın branş bazında sıralamaları yayımlandı",
+              "url": "https://aa.com.tr/tr/gundem/engelli-kamu-personeli-secme-sinavinin-brans-bazinda-siralamalari-yayimlandi/4120773",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "EKPSS TERCİH TARİHLERİ 2026 ÖSYM TAKVİMİ | Engelli Kamu Personeli Seçme Sınavı tercihleri ne zaman, başladı mı, ÖSYM tercih kılavuzu yayınlandı mı?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/ekpss-tercih-tarihleri-2026-engelli-kamu-personeli-secme-sinavi-tercihleri-ne-zaman-43374534",
+              "source": "Hürriyet"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

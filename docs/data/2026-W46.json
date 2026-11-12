@@ -13,8 +13,8 @@
   "end": "2026-11-15",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-11T12:35:15.766Z",
-  "snapshotDays": 3,
+  "generatedAt": "2026-11-12T13:39:13.335Z",
+  "snapshotDays": 4,
   "activeSources": [
     "google",
     "wikipedia"
@@ -133,8 +133,8 @@
         },
         {
           "title": "ikindi namazı",
-          "traffic": 9000,
-          "days": 3,
+          "traffic": 11000,
+          "days": 4,
           "news": [
             {
               "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 9 Kasım 2026 namaz vakitleri",
@@ -147,7 +147,43 @@
               "source": "Bursa Saati Gazetesi"
             }
           ],
-          "score": 9000
+          "score": 11000
+        },
+        {
+          "title": "önlisans branş sıralaması 2026",
+          "traffic": 10000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Engelli Kamu Personeli Seçme Sınavı&apos;nın branş bazında sıralamaları yayımlandı",
+              "url": "https://aa.com.tr/tr/gundem/engelli-kamu-personeli-secme-sinavinin-brans-bazinda-siralamalari-yayimlandi/4120773",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "EKPSS TERCİH TARİHLERİ 2026 ÖSYM TAKVİMİ | Engelli Kamu Personeli Seçme Sınavı tercihleri ne zaman, başladı mı, ÖSYM tercih kılavuzu yayınlandı mı?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/ekpss-tercih-tarihleri-2026-engelli-kamu-personeli-secme-sinavi-tercihleri-ne-zaman-43374534",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 10000
+        },
+        {
+          "title": "antalya valiliği",
+          "traffic": 2500,
+          "days": 2,
+          "news": [
+            {
+              "title": "COP eski başkanlarından COP31 için ortak bildiri! Bakan Kurum: Antalya&apos;da bir şeyler değişti",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/cop-eski-baskanlarindan-cop31-icin-ortak-bildiri-7698065",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "COP31 Yeşil Bölge&apos;deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
+              "url": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858",
+              "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 2500
         },
         {
           "title": "adana&apos;da deprem oldu mu",
@@ -186,24 +222,6 @@
           "score": 2000
         },
         {
-          "title": "antalya valiliği",
-          "traffic": 2000,
-          "days": 1,
-          "news": [
-            {
-              "title": "COP eski başkanlarından COP31 için ortak bildiri! Bakan Kurum: Antalya&apos;da bir şeyler değişti",
-              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/cop-eski-baskanlarindan-cop31-icin-ortak-bildiri-7698065",
-              "source": "Uzmanpara"
-            },
-            {
-              "title": "COP31 Yeşil Bölge&apos;deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
-              "url": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858",
-              "source": "Anadolu Ajansı"
-            }
-          ],
-          "score": 2000
-        },
-        {
           "title": "ahmet şık",
           "traffic": 2000,
           "days": 1,
@@ -217,6 +235,24 @@
               "title": "Erkan Baş: Alçaklık, çetevari, mafyavari",
               "url": "https://www.diken.com.tr/erkan-bas-alcaklik-cetevari-mafyavari/",
               "source": "Diken"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "twitch",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "TwitchCon 2026 in San Diego: Meetups, panels and parties to check out",
+              "url": "https://www.kpbs.org/news/arts-culture/2026/11/10/twitchcon-2026-in-san-diego-meetups-panels-and-parties-to-check-out",
+              "source": "KPBS"
+            },
+            {
+              "title": "TwitchCon is at a crossroads as creators question its value",
+              "url": "https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/",
+              "source": "Digiday"
             }
           ],
           "score": 2000
@@ -420,6 +456,60 @@
           "score": 500
         },
         {
+          "title": "ev",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "HABAŞ patlaması: Şirketin yönetim kurulu başkanı adli kontrolle serbest",
+              "url": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo",
+              "source": "BBC"
+            },
+            {
+              "title": "Patronun ilk vukuatı değil... Hastaneden acı haber: ölü sayısı 18’e çıktı",
+              "url": "https://www.hurriyet.com.tr/gundem/patronun-ilk-vukuati-degil-hastaneden-aci-haber-olu-sayisi-18e-cikti-43374988",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "gss prim borcu",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Son dakika: GSS borçlarının silinmesine yönelik AK Parti harekete geçti",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/gss-borclarinin-silinmesine-yonelik-ak-parti-harekete-gecti-7699483",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "Son dakika... Fon tasfiyesinde görevli banka personeline yasal dokunulmazlık getiriliyor",
+              "url": "https://www.ntv.com.tr/ntvpara/yeni-fon-duzenlemesi-belli-oldu-hukuki-guvence-getiriliyor-1750593",
+              "source": "NTV Haber"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "ronaldo fenerbahçe",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Cristiano Ronaldo için Türkiye ihtimali: Dünyanın en çok kazanan futbolcusu",
+              "url": "https://www.transfermarkt.com.tr/cristiano-ronaldo-icin-turkiye-ihtimali-dunyanin-en-cok-kazanan-futbolcusu/view/news/490477",
+              "source": "Transfermarkt"
+            },
+            {
+              "title": "Cristiano Ronaldo, Süper Lig devi ile anıldı: Transferi kasıp kavuran gelişme",
+              "url": "https://www.gzt.com/spor/fenerbahceden-transferde-cristiano-ronaldo-bombasi-cristiano-ronaldo-fenerbahceye-transfer-olacak-mi-4277902",
+              "source": "GZT"
+            }
+          ],
+          "score": 500
+        },
+        {
           "title": "duvar",
           "traffic": 200,
           "days": 1,
@@ -436,99 +526,9 @@
             }
           ],
           "score": 200
-        },
-        {
-          "title": "sinem kobal kenan imirzalıoğlu",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Sinem Kobal ve Kenan İmirzalıoğlu boşandı mı, ayrıldılar mı?",
-              "url": "https://www.haberler.com/haber/sinem-kobal-ve-kenan-imirzalioglu-bosandi-mi-20410414-haberi/",
-              "source": "Haberler"
-            },
-            {
-              "title": "Set arkasında yüzünde maskeyle poz! Sinem Kobal’ın siyah beyaz tarzı çok konuşuldu!",
-              "url": "https://www.sabah.com.tr/trend/galeri/magazin/set-arkasinda-yuzunde-maskeyle-poz-sinem-kobalin-siyah-beyaz-tarzi-cok-konusuldu",
-              "source": "Sabah"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "kayseri deprem",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Kayseri’de 3.2 büyüklüğünde deprem",
-              "url": "https://www.hurriyet.com.tr/gundem/kayseride-3-2-buyuklugunde-deprem-43370804",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Kayseri deprem son dakika! 8 Kasım Kayseri&apos;de deprem mi oldu, merkez üssü neresi?",
-              "url": "https://www.sabah.com.tr/yasam/son-dakika-kayseri-depremi-yahyalida-deprem-kac-buyuklugunde-oldu-7697677",
-              "source": "Sabah"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "g20",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "German government explains conditions under which Merz willing to speak with Putin",
-              "url": "https://www.ukrinform.net/rubric-polytics/4183125-german-government-explains-conditions-under-which-merz-willing-to-speak-with-putin.html",
-              "source": "Ukrinform"
-            },
-            {
-              "title": "The Kremlin has not yet decided whether Putin will meet with Merz at the G20 summit",
-              "url": "https://ua.news/en/world/u-kremli-poki-ne-viznachilisia-chi-zustrinetsia-putin-z-mertsom-na-samiti-g20",
-              "source": "UA.NEWS"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "uğur uçar",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Son dakika... Süper Lig&apos;de bir ayrılık daha kapıda! Uğur Uçar yeni teknik direktör oluyor",
-              "url": "https://spor.haber7.com/super-lig/haber/3675718-son-dakika-super-ligde-bir-ayrilik-daha-kapida-ugur-ucar-yeni-teknik-direktor-oluyor",
-              "source": "Haber 7"
-            },
-            {
-              "title": "Corendon Alanyaspor’da Joao Pereria dönemi sona erdi",
-              "url": "https://www.aspor.com.tr/alanyaspor/2026/11/10/corendon-alanyasporda-joao-pereria-donemi-sona-erdi",
-              "source": "A Spor"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "rahmi turan",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "“Atatürk’ü sevmek ibadettir” sözüne büyük destek geldi - Rahmi Turan",
-              "url": "https://www.sozcu.com.tr/ataturk-u-sevmek-ibadettir-sozune-buyuk-destek-geldi-p380064",
-              "source": "Sözcü Gazetesi"
-            },
-            {
-              "title": "Celal Bayar’ın Atatürk hayranlığı - Rahmi Turan",
-              "url": "https://www.sozcu.com.tr/celal-bayar-in-ataturk-hayranligi-p379695",
-              "source": "Sözcü Gazetesi"
-            }
-          ],
-          "score": 200
         }
       ],
-      "total": 28
+      "total": 36
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -538,204 +538,204 @@
       "status": "ok",
       "items": [
         {
-          "title": "Cevad Prekazi",
-          "article": "Cevad_Prekazi",
-          "views": 72389,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Cevad_Prekazi",
-          "score": 72389
-        },
-        {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 28191,
+          "views": 38838,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 28191
-        },
-        {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 27335,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 27335
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 27067,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 27067
+          "score": 38838
         },
         {
           "title": "Teknoloji",
           "article": "Teknoloji",
-          "views": 27028,
+          "views": 38060,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 27028
+          "score": 38060
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 37919,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 37919
         },
         {
           "title": "Tarih",
           "article": "Tarih",
-          "views": 26909,
+          "views": 37663,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 26909
+          "score": 37663
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 37591,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 37591
         },
         {
           "title": "Bilim",
           "article": "Bilim",
-          "views": 26747,
+          "views": 37566,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 26747
-        },
-        {
-          "title": "Fatma Betül Sayan Kaya",
-          "article": "Fatma_Betül_Sayan_Kaya",
-          "views": 19996,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
-          "score": 19996
-        },
-        {
-          "title": "Mehmet Rüştü Başaran",
-          "article": "Mehmet_Rüştü_Başaran",
-          "views": 16457,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Mehmet_R%C3%BC%C5%9Ft%C3%BC_Ba%C5%9Faran",
-          "score": 16457
-        },
-        {
-          "title": "Aylin Kotil",
-          "article": "Aylin_Kotil",
-          "views": 15555,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 15555
+          "score": 37566
         },
         {
           "title": "Haluk Bilginer",
           "article": "Haluk_Bilginer",
-          "views": 14062,
+          "views": 20393,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Haluk_Bilginer",
-          "score": 14062
+          "score": 20393
         },
         {
-          "title": "Yol Ayrımı (film)",
-          "article": "Yol_Ayrımı_(film)",
-          "views": 12697,
+          "title": "Aylin Kotil",
+          "article": "Aylin_Kotil",
+          "views": 15998,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Yol_Ayr%C4%B1m%C4%B1_(film)",
-          "score": 12697
+          "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
+          "score": 15998
         },
         {
-          "title": "Salih Bozok",
-          "article": "Salih_Bozok",
-          "views": 12112,
+          "title": "Cevad Prekazi",
+          "article": "Cevad_Prekazi",
+          "views": 15264,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Salih_Bozok",
-          "score": 12112
+          "url": "https://tr.wikipedia.org/wiki/Cevad_Prekazi",
+          "score": 15264
         },
         {
-          "title": "Mustafa Sarıgül",
-          "article": "Mustafa_Sarıgül",
-          "views": 8954,
+          "title": "Palau",
+          "article": "Palau",
+          "views": 14122,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Palau",
+          "score": 14122
+        },
+        {
+          "title": "Mehmet Rüştü Başaran",
+          "article": "Mehmet_Rüştü_Başaran",
+          "views": 13150,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 8954
+          "url": "https://tr.wikipedia.org/wiki/Mehmet_R%C3%BC%C5%9Ft%C3%BC_Ba%C5%9Faran",
+          "score": 13150
+        },
+        {
+          "title": "Şahap Kavcıoğlu",
+          "article": "Şahap_Kavcıoğlu",
+          "views": 12955,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
+          "score": 12955
         },
         {
           "title": "Despina Hatun",
           "article": "Despina_Hatun",
-          "views": 8525,
-          "days": 1,
+          "views": 11888,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Despina_Hatun",
-          "score": 8525
+          "score": 11888
         },
         {
-          "title": "Mustafa Kemal Atatürk'ün ölümü ve devlet cenaze töreni",
-          "article": "Mustafa_Kemal_Atatürk'ün_ölümü_ve_devlet_cenaze_töreni",
-          "views": 8174,
+          "title": "Salih Bozok",
+          "article": "Salih_Bozok",
+          "views": 11429,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk'%C3%BCn_%C3%B6l%C3%BCm%C3%BC_ve_devlet_cenaze_t%C3%B6reni",
-          "score": 8174
+          "url": "https://tr.wikipedia.org/wiki/Salih_Bozok",
+          "score": 11429
         },
         {
           "title": "Uzun Hasan",
           "article": "Uzun_Hasan",
-          "views": 8030,
+          "views": 10884,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Uzun_Hasan",
-          "score": 8030
+          "score": 10884
         },
         {
-          "title": "10 Kasım Atatürk'ü anma günü ve Atatürk haftası",
-          "article": "10_Kasım_Atatürk'ü_anma_günü_ve_Atatürk_haftası",
-          "views": 7412,
+          "title": "Fatma Betül Sayan Kaya",
+          "article": "Fatma_Betül_Sayan_Kaya",
+          "views": 9703,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/10_Kas%C4%B1m_Atat%C3%BCrk'%C3%BC_anma_g%C3%BCn%C3%BC_ve_Atat%C3%BCrk_haftas%C4%B1",
-          "score": 7412
+          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
+          "score": 9703
         },
         {
-          "title": "Gürkan Uygun",
-          "article": "Gürkan_Uygun",
-          "views": 6802,
+          "title": "Mustafa Sarıgül",
+          "article": "Mustafa_Sarıgül",
+          "views": 8194,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/G%C3%BCrkan_Uygun",
-          "score": 6802
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
+          "score": 8194
         },
         {
-          "title": "HABAŞ",
-          "article": "HABAŞ",
-          "views": 6560,
+          "title": "Mustafa Kemal Atatürk'ün ölümü ve devlet cenaze töreni",
+          "article": "Mustafa_Kemal_Atatürk'ün_ölümü_ve_devlet_cenaze_töreni",
+          "views": 6382,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/HABA%C5%9E",
-          "score": 6560
-        },
-        {
-          "title": "Emre Belözoğlu",
-          "article": "Emre_Belözoğlu",
-          "views": 5962,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
-          "score": 5962
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk'%C3%BCn_%C3%B6l%C3%BCm%C3%BC_ve_devlet_cenaze_t%C3%B6reni",
+          "score": 6382
         },
         {
           "title": "Osmanlı padişahları listesi",
           "article": "Osmanlı_padişahları_listesi",
-          "views": 5584,
+          "views": 5907,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 5584
+          "score": 5907
         },
         {
-          "title": "Türkiye cumhurbaşkanları listesi",
-          "article": "Türkiye_cumhurbaşkanları_listesi",
-          "views": 5470,
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 5700,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_cumhurba%C5%9Fkanlar%C4%B1_listesi",
-          "score": 5470
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 5700
         },
         {
           "title": "Bir sonraki Türkiye genel seçimleri",
           "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 5295,
+          "views": 5463,
           "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 5295
+          "score": 5463
         },
         {
-          "title": "Candan Yüceer",
-          "article": "Candan_Yüceer",
-          "views": 5277,
+          "title": "Makbule Atadan",
+          "article": "Makbule_Atadan",
+          "views": 5130,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Candan_Y%C3%BCceer",
-          "score": 5277
+          "url": "https://tr.wikipedia.org/wiki/Makbule_Atadan",
+          "score": 5130
+        },
+        {
+          "title": "Latife Uşşakî",
+          "article": "Latife_Uşşakî",
+          "views": 4925,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Latife_U%C5%9F%C5%9Fak%C3%AE",
+          "score": 4925
+        },
+        {
+          "title": "Recep Tayyip Erdoğan",
+          "article": "Recep_Tayyip_Erdoğan",
+          "views": 4924,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+          "score": 4924
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 4527,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 4527
         }
       ],
       "coveredDays": 2,
@@ -754,7 +754,7 @@
       "total": 100
     },
     {
-      "title": "Cevad Prekazi",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Yapay zekâ",
+      "title": "Teknoloji",
       "platforms": [
         "wikipedia"
       ],
@@ -794,7 +794,7 @@
       "total": 93
     },
     {
-      "title": "Coğrafya",
+      "title": "Sanat",
       "platforms": [
         "wikipedia"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Sanat",
+      "title": "Tarih",
       "platforms": [
         "wikipedia"
       ],
@@ -824,7 +824,7 @@
       "total": 90
     },
     {
-      "title": "adana&apos;da deprem oldu mu",
+      "title": "önlisans branş sıralaması 2026",
       "platforms": [
         "google"
       ],
@@ -834,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Teknoloji",
+      "title": "Coğrafya",
       "platforms": [
         "wikipedia"
       ],
@@ -844,7 +844,7 @@
       "total": 87
     },
     {
-      "title": "mersin deprem",
+      "title": "antalya valiliği",
       "platforms": [
         "google"
       ],
@@ -854,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "Tarih",
+      "title": "Bilim",
       "platforms": [
         "wikipedia"
       ],
@@ -864,7 +864,7 @@
       "total": 83
     },
     {
-      "title": "antalya valiliği",
+      "title": "adana&apos;da deprem oldu mu",
       "platforms": [
         "google"
       ],
@@ -874,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Bilim",
+      "title": "Haluk Bilginer",
       "platforms": [
         "wikipedia"
       ],
@@ -884,7 +884,7 @@
       "total": 80
     },
     {
-      "title": "ahmet şık",
+      "title": "mersin deprem",
       "platforms": [
         "google"
       ],
@@ -894,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Fatma Betül Sayan Kaya",
+      "title": "Aylin Kotil",
       "platforms": [
         "wikipedia"
       ],
@@ -904,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "tekstil",
+      "title": "ahmet şık",
       "platforms": [
         "google"
       ],
@@ -914,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "Mehmet Rüştü Başaran",
+      "title": "Cevad Prekazi",
       "platforms": [
         "wikipedia"
       ],
@@ -924,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "şafak karaali",
+      "title": "twitch",
       "platforms": [
         "google"
       ],
@@ -934,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Aylin Kotil",
+      "title": "Palau",
       "platforms": [
         "wikipedia"
       ],
