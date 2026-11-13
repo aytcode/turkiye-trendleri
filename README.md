@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | adana deprem | 1 |
-| 2 | Yapay zekâ | 1 |
+| 2 | Cevad Prekazi | 1 |
 | 3 | kandilli rasathanesi | 1 |
-| 4 | Teknoloji | 1 |
+| 4 | Yapay zekâ | 1 |
 | 5 | kuyt | 1 |
 | 6 | Sanat | 1 |
 | 7 | ikindi namazı | 1 |
-| 8 | Tarih | 1 |
+| 8 | Coğrafya | 1 |
 | 9 | önlisans branş sıralaması 2026 | 1 |
-| 10 | Coğrafya | 1 |
+| 10 | Teknoloji | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
