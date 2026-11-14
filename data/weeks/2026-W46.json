@@ -13,8 +13,8 @@
   "end": "2026-11-15",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-13T12:57:34.971Z",
-  "snapshotDays": 5,
+  "generatedAt": "2026-11-14T12:01:37.766Z",
+  "snapshotDays": 6,
   "activeSources": [
     "google",
     "wikipedia"
@@ -402,6 +402,24 @@
           "score": 1000
         },
         {
+          "title": "muşspor",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "CANLI İZLE | Muşspor - Gebzespor maçı ne zaman, saat kaçta, hangi kanalda?",
+              "url": "https://www.ntvspor.net/futbol/galeri-canli-izle-musspor-gebzespor-maci-ne-zaman-saat-kacta-hangi-kanalda-432997",
+              "source": "NTVSpor"
+            },
+            {
+              "title": "MUŞSPOR YENİDEN EVİNE DÖNÜYOR",
+              "url": "https://mussarkhaber.com/haber/musspor-yeniden-evine-donuyor-28682",
+              "source": "Muş Şark Haber"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "mit personel alımı",
           "traffic": 500,
           "days": 1,
@@ -508,27 +526,9 @@
             }
           ],
           "score": 500
-        },
-        {
-          "title": "insansız hava aracı",
-          "traffic": 500,
-          "days": 1,
-          "news": [
-            {
-              "title": "Japonya&apos;dan Filipinler&apos;e radar ve İHA desteği",
-              "url": "https://www.hurriyet.com.tr/dunya/japonyadan-filipinlere-radar-ve-iha-destegi-43371324",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Japonya ve Filipinler’den 27 milyon dolarlık savunma anlaşması",
-              "url": "https://www.bolgegundemi.com/dunya/japonya-ve-filipinlerden-27-milyon-dolarlik-savunma-anlasmasi-231179.html",
-              "source": "Bölge Gündemi"
-            }
-          ],
-          "score": 500
         }
       ],
-      "total": 46
+      "total": 56
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -538,156 +538,180 @@
       "status": "ok",
       "items": [
         {
-          "title": "Cevad Prekazi",
-          "article": "Cevad_Prekazi",
-          "views": 85474,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Cevad_Prekazi",
-          "score": 85474
-        },
-        {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 69461,
-          "days": 4,
+          "views": 93627,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 69461
+          "score": 93627
         },
         {
           "title": "Sanat",
           "article": "Sanat",
-          "views": 67416,
-          "days": 4,
+          "views": 91084,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 67416
+          "score": 91084
         },
         {
           "title": "Coğrafya",
           "article": "Coğrafya",
-          "views": 67366,
-          "days": 4,
+          "views": 91067,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 67366
+          "score": 91067
+        },
+        {
+          "title": "Cevad Prekazi",
+          "article": "Cevad_Prekazi",
+          "views": 90386,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Cevad_Prekazi",
+          "score": 90386
         },
         {
           "title": "Teknoloji",
           "article": "Teknoloji",
-          "views": 67100,
-          "days": 4,
+          "views": 90259,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 67100
-        },
-        {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 66669,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 66669
+          "score": 90259
         },
         {
           "title": "Bilim",
           "article": "Bilim",
-          "views": 66604,
-          "days": 4,
+          "views": 90079,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 66604
+          "score": 90079
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 89849,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 89849
         },
         {
           "title": "Haluk Bilginer",
           "article": "Haluk_Bilginer",
-          "views": 29156,
-          "days": 4,
+          "views": 33962,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Haluk_Bilginer",
-          "score": 29156
-        },
-        {
-          "title": "Fatma Betül Sayan Kaya",
-          "article": "Fatma_Betül_Sayan_Kaya",
-          "views": 26667,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
-          "score": 26667
+          "score": 33962
         },
         {
           "title": "Mehmet Rüştü Başaran",
           "article": "Mehmet_Rüştü_Başaran",
-          "views": 26402,
-          "days": 4,
+          "views": 31827,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Mehmet_R%C3%BC%C5%9Ft%C3%BC_Ba%C5%9Faran",
-          "score": 26402
+          "score": 31827
+        },
+        {
+          "title": "Fatma Betül Sayan Kaya",
+          "article": "Fatma_Betül_Sayan_Kaya",
+          "views": 28941,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
+          "score": 28941
         },
         {
           "title": "Aylin Kotil",
           "article": "Aylin_Kotil",
-          "views": 24813,
-          "days": 4,
+          "views": 28321,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Aylin_Kotil",
-          "score": 24813
-        },
-        {
-          "title": "Palau",
-          "article": "Palau",
-          "views": 17594,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Palau",
-          "score": 17594
-        },
-        {
-          "title": "Şahap Kavcıoğlu",
-          "article": "Şahap_Kavcıoğlu",
-          "views": 16840,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
-          "score": 16840
-        },
-        {
-          "title": "Salih Bozok",
-          "article": "Salih_Bozok",
-          "views": 14865,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Salih_Bozok",
-          "score": 14865
+          "score": 28321
         },
         {
           "title": "Sikorsky S-70",
           "article": "Sikorsky_S-70",
-          "views": 14734,
-          "days": 1,
+          "views": 19544,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Sikorsky_S-70",
-          "score": 14734
-        },
-        {
-          "title": "Mustafa Sarıgül",
-          "article": "Mustafa_Sarıgül",
-          "views": 14620,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
-          "score": 14620
-        },
-        {
-          "title": "Despina Hatun",
-          "article": "Despina_Hatun",
-          "views": 13875,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Despina_Hatun",
-          "score": 13875
+          "score": 19544
         },
         {
           "title": "Jensen Huang",
           "article": "Jensen_Huang",
-          "views": 13222,
-          "days": 4,
+          "views": 19435,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Jensen_Huang",
-          "score": 13222
+          "score": 19435
+        },
+        {
+          "title": "Berkun Oya",
+          "article": "Berkun_Oya",
+          "views": 18579,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
+          "score": 18579
+        },
+        {
+          "title": "Şahap Kavcıoğlu",
+          "article": "Şahap_Kavcıoğlu",
+          "views": 18275,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
+          "score": 18275
+        },
+        {
+          "title": "Palau",
+          "article": "Palau",
+          "views": 18250,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Palau",
+          "score": 18250
+        },
+        {
+          "title": "Mustafa Sarıgül",
+          "article": "Mustafa_Sarıgül",
+          "views": 18088,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Mustafa_Sar%C4%B1g%C3%BCl",
+          "score": 18088
+        },
+        {
+          "title": "Salih Bozok",
+          "article": "Salih_Bozok",
+          "views": 15384,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Salih_Bozok",
+          "score": 15384
+        },
+        {
+          "title": "Despina Hatun",
+          "article": "Despina_Hatun",
+          "views": 14911,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Despina_Hatun",
+          "score": 14911
+        },
+        {
+          "title": "Abdullah Çatlı",
+          "article": "Abdullah_Çatlı",
+          "views": 14854,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1",
+          "score": 14854
         },
         {
           "title": "Uzun Hasan",
           "article": "Uzun_Hasan",
-          "views": 13080,
-          "days": 4,
+          "views": 14735,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Uzun_Hasan",
-          "score": 13080
+          "score": 14735
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 13062,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 13062
         },
         {
           "title": "Yol Ayrımı (film)",
@@ -698,47 +722,23 @@
           "score": 12697
         },
         {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 12655,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 12655
+        },
+        {
           "title": "Enes Ünal",
           "article": "Enes_Ünal",
-          "views": 11622,
-          "days": 3,
+          "views": 12430,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Enes_%C3%9Cnal",
-          "score": 11622
-        },
-        {
-          "title": "Bir sonraki Türkiye genel seçimleri",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 10631,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 10631
-        },
-        {
-          "title": "Mustafa Kemal Atatürk'ün ölümü ve devlet cenaze töreni",
-          "article": "Mustafa_Kemal_Atatürk'ün_ölümü_ve_devlet_cenaze_töreni",
-          "views": 9648,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk'%C3%BCn_%C3%B6l%C3%BCm%C3%BC_ve_devlet_cenaze_t%C3%B6reni",
-          "score": 9648
-        },
-        {
-          "title": "Osmanlı padişahları listesi",
-          "article": "Osmanlı_padişahları_listesi",
-          "views": 9494,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 9494
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 9402,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 9402
+          "score": 12430
         }
       ],
-      "coveredDays": 4,
+      "coveredDays": 5,
       "total": 50
     }
   },
@@ -754,7 +754,7 @@
       "total": 100
     },
     {
-      "title": "Cevad Prekazi",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Yapay zekâ",
+      "title": "Sanat",
       "platforms": [
         "wikipedia"
       ],
@@ -794,7 +794,7 @@
       "total": 93
     },
     {
-      "title": "Sanat",
+      "title": "Coğrafya",
       "platforms": [
         "wikipedia"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Coğrafya",
+      "title": "Cevad Prekazi",
       "platforms": [
         "wikipedia"
       ],
@@ -854,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "Tarih",
+      "title": "Bilim",
       "platforms": [
         "wikipedia"
       ],
@@ -874,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Bilim",
+      "title": "Tarih",
       "platforms": [
         "wikipedia"
       ],
@@ -914,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "Fatma Betül Sayan Kaya",
+      "title": "Mehmet Rüştü Başaran",
       "platforms": [
         "wikipedia"
       ],
@@ -934,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Mehmet Rüştü Başaran",
+      "title": "Fatma Betül Sayan Kaya",
       "platforms": [
         "wikipedia"
       ],

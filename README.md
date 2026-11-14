@@ -35,13 +35,13 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | adana deprem | 1 |
-| 2 | Cevad Prekazi | 1 |
+| 2 | Yapay zekâ | 1 |
 | 3 | kandilli rasathanesi | 1 |
-| 4 | Yapay zekâ | 1 |
+| 4 | Sanat | 1 |
 | 5 | kuyt | 1 |
-| 6 | Sanat | 1 |
+| 6 | Coğrafya | 1 |
 | 7 | ikindi namazı | 1 |
-| 8 | Coğrafya | 1 |
+| 8 | Cevad Prekazi | 1 |
 | 9 | önlisans branş sıralaması 2026 | 1 |
 | 10 | Teknoloji | 1 |
 <!-- SON-RAPOR:BITIR -->
