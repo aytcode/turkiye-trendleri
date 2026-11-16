@@ -30,20 +30,20 @@
 ## Son rapor
 
 <!-- SON-RAPOR:BASLA -->
-**2026-W46** (2026-11-09 → 2026-11-15) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W46.html) · [Markdown](reports/2026-W46.md)
+**2026-W47** (2026-11-16 → 2026-11-22) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W47.html) · [Markdown](reports/2026-W47.md)
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | adana deprem | 1 |
-| 2 | Yapay zekâ | 1 |
-| 3 | ikindi namazı | 1 |
-| 4 | Coğrafya | 1 |
-| 5 | kandilli rasathanesi | 1 |
-| 6 | Sanat | 1 |
-| 7 | kuyt | 1 |
-| 8 | Teknoloji | 1 |
-| 9 | önlisans branş sıralaması 2026 | 1 |
-| 10 | Tarih | 1 |
+| 1 | ikindi namazı | 1 |
+| 2 | başakşehir fatih terim stadyumu | 1 |
+| 3 | fabrika | 1 |
+| 4 | sudan - senegal | 1 |
+| 5 | tsg | 1 |
+| 6 | grand theft auto v | 1 |
+| 7 | eskişehir elektrik kesintisi | 1 |
+| 8 | halka arz | 1 |
+| 9 | finans | 1 |
+| 10 | ömer yurtseven | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

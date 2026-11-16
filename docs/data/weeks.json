@@ -1,9 +1,27 @@
 [
   {
+    "week": "2026-W47",
+    "start": "2026-11-16",
+    "end": "2026-11-22",
+    "final": false,
+    "activeSources": [
+      "google",
+      "wikipedia"
+    ],
+    "top": [
+      "ikindi namazı",
+      "başakşehir fatih terim stadyumu",
+      "fabrika",
+      "sudan - senegal",
+      "tsg"
+    ],
+    "url": "hafta/2026-W47.html"
+  },
+  {
     "week": "2026-W46",
     "start": "2026-11-09",
     "end": "2026-11-15",
-    "final": false,
+    "final": true,
     "activeSources": [
       "google",
       "wikipedia"

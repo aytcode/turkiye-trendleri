@@ -1,0 +1,376 @@
+{
+  "week": "2026-W47",
+  "days": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22"
+  ],
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "final": false,
+  "sample": false,
+  "generatedAt": "2026-11-16T13:29:33.943Z",
+  "snapshotDays": 1,
+  "activeSources": [
+    "google",
+    "wikipedia"
+  ],
+  "sources": {
+    "x": {
+      "id": "x",
+      "name": "X (Twitter)",
+      "color": "#536471",
+      "needs": [
+        "X_BEARER_TOKEN"
+      ],
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "tiktok": {
+      "id": "tiktok",
+      "name": "TikTok",
+      "color": "#14B8C4",
+      "needs": [
+        "TIKTOK_CLIENT_KEY",
+        "TIKTOK_CLIENT_SECRET"
+      ],
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "instagram": {
+      "id": "instagram",
+      "name": "Instagram",
+      "color": "#E1306C",
+      "needs": [
+        "IG_USER_ID",
+        "IG_ACCESS_TOKEN"
+      ],
+      "status": "skipped",
+      "reason": "IG_USER_ID, IG_ACCESS_TOKEN tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "youtube": {
+      "id": "youtube",
+      "name": "YouTube",
+      "color": "#FF0033",
+      "needs": [
+        "YOUTUBE_API_KEY"
+      ],
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "google": {
+      "id": "google",
+      "name": "Google Trends",
+      "color": "#4285F4",
+      "needs": [],
+      "status": "ok",
+      "items": [
+        {
+          "title": "ikindi namazı",
+          "traffic": 10000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Bursa&apos;da bugün ezan saatleri belli oldu! 15 Kasım 2026 namaz vakitleri",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bugun-ezan-saatleri-belli-oldu-15-kasim-2026-namaz-vakitleri-1752275",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "Antalya 10 Kasım Namaz Vakitleri Açıklandı! İmsak, Öğle, İkindi, Akşam ve Yatsı Ezan Saatleri",
+              "url": "https://www.antalyahakkinda.com/antalya-10-kasim-namaz-vakitleri-aciklandi-imsak-ogle-ikindi-aksam-ve-yatsi-ezan-saatleri",
+              "source": "Antalya Hakkında"
+            }
+          ],
+          "score": 10000
+        },
+        {
+          "title": "başakşehir fatih terim stadyumu",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Galatasaray, Samsunspor maçını Başakşehir&apos;de oynayacak - RAMS Park&apos;ta zemin çalışmaları devam ediyor",
+              "url": "https://www.transfermarkt.com.tr/galatasaray-samsunspor-macini-basaksehirde-oynayacak-rams-parkta-zemin-calismalari-devam-ediyor/view/news/490676",
+              "source": "Transfermarkt"
+            },
+            {
+              "title": "Galatasaray resmen açıkladı! Samsunspor maçı Başakşehir&apos;de oynanacak",
+              "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-resmen-acikladi-samsunspor-maci-basaksehirde-oynanacak-43380229",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "fabrika",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Edirne&apos;de fabrika servisiyle otomobil çarpıştı: 2 ölü, 5 yaralı",
+              "url": "https://www.hurriyet.com.tr/gundem/edirnede-fabrika-servisiyle-otomobilin-carpisti-2-olu-5-yarali-43379662",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Edirne&apos;de feci kaza: Ölü ve yaralılar var",
+              "url": "https://www.ntv.com.tr/yerel-haberler/edirne/edirnede-feci-kaza-olu-ve-yaralilar-var-1751067",
+              "source": "NTV Haber"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "sudan - senegal",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Preview: Sudan vs Senegal - prediction, team news, lineups",
+              "url": "https://www.sportsmole.co.uk/football/sudan/africa-cup-of-nations/preview/sudan-vs-senegal-prediction-team-news-lineups_609082.html",
+              "source": "Sports Mole"
+            },
+            {
+              "title": "Senegal, Côte d&apos;Ivoire, Cameroon and Benin strengthen AFCON qualification bids",
+              "url": "https://www.cafonline.com/afcon2025/news/senegal-cote-divoire-cameroon-and-benin-strengthen-afcon-qualification-bids/",
+              "source": "CAFOnline.com"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "tsg",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Ticketinformationen zu „Hoffe zwo\" gegen Preußen Münster",
+              "url": "https://www.tsg-hoffenheim.de/aktuelles/news/2026/11/ticketinformationen-zu-hoffe-zwo-gegen-preussen-muenster",
+              "source": "TSG Hoffenheim"
+            },
+            {
+              "title": "Last-Minute-Schock",
+              "url": "https://www.scfreiburg.com/aktuell/nachrichten/frauen-maedchen/2026/27/nachberichte/last-minute-schock/",
+              "source": "SC Freiburg"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "grand theft auto v",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Rockstar&apos;s Two Biggest Games Leave PS Plus Today",
+              "url": "https://www.thegamer.com/gta-5-red-dead-redemption-2-leaving-ps-plus/",
+              "source": "TheGamer"
+            },
+            {
+              "title": "November 17 Is Officially A Very Dark Day For PlayStation Plus Gamers",
+              "url": "https://screenrant.com/november-17-is-officially-a-very-dark-day-for-playstation-plus-gamers/",
+              "source": "ScreenRant"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "eskişehir elektrik kesintisi",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Eskişehir elektrik kesintisi! Eskişehir&apos;de elektrikler ne zaman gelecek 14 - 15 Kasım?",
+              "url": "https://www.haberler.com/haber/eskisehir-elektrik-kesintisi-eskisehirde-20425932-haberi/",
+              "source": "Haberler"
+            },
+            {
+              "title": "OEDAŞ duyurdu: Eskişehir&apos;de elektrik kesintisi yapılacak mahalleler belli oldu",
+              "url": "https://www.anadolugazetesi.com/oedas-duyurdu--eskisehir-de-elektrik-kesintisi-yapilacak-mahalleler-belli-oldu-297847.html",
+              "source": "Anadolu Gazetesi"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "halka arz",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Anthropic&apos;in halka arzı yapay zeka sektörü için sınav olacak",
+              "url": "https://www.bloomberght.com/anthropic-in-halka-arzi-yapay-zeka-sektoru-icin-sinav-olacak-3794700",
+              "source": "Bloomberght"
+            },
+            {
+              "title": "Anthropic’in Halka Arzı | Nvidia Şoku | Bitcoin’deki Düşüş",
+              "url": "https://tr.investing.com/analysis/anthropicin-halka-arz--nvidia-soku--bitcoindeki-dusus-200507108",
+              "source": "Investing.com Türkiye"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "finans",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Ehliyet sınavlarında ezber bozuluyor! 2027&apos;de bakın neler değişecek",
+              "url": "https://www.pusulahaber.com.tr/ehliyet-sinavlarinda-ezber-bozuluyor-2027de-bakin-neler-degisecek-1840674h.htm",
+              "source": "Pusula Haber"
+            },
+            {
+              "title": "Samsun&apos;da Ehliyet Fiyatlarının 25-30 Bin TL Arttığı Bekleniyor",
+              "url": "https://www.mersinhaber.com/haber-samsunda-ehliyet-fiyatlarinin-25-30-bin-tl-arttigi-bekleniyor/841420",
+              "source": "Mersin Haber"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "ömer yurtseven",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Ömer Faruk Yurtseven Alev Alev… 42 Sayı…",
+              "url": "https://basketfaul.com.tr/gundem/omer-faruk-yurtseven-alev-allev-42-sayi/",
+              "source": "Basketfaul"
+            },
+            {
+              "title": "Ömer Faruk Çıldırdı: G-League’de Kariyer Rekoru Kırdı!",
+              "url": "https://www.eurohoops.net/tr/nba-news-tr/2035847/omer-faruk-cildirdi-g-leaguede-kariyer-rekoru-kirdi/",
+              "source": "Eurohoops"
+            }
+          ],
+          "score": 100
+        }
+      ],
+      "total": 10
+    },
+    "wikipedia": {
+      "id": "wikipedia",
+      "name": "Vikipedi",
+      "color": "#8E8E93",
+      "needs": [],
+      "status": "ok",
+      "items": [],
+      "coveredDays": 0,
+      "total": 0
+    }
+  },
+  "overall": [
+    {
+      "title": "ikindi namazı",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 100
+      },
+      "total": 100
+    },
+    {
+      "title": "başakşehir fatih terim stadyumu",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 97
+      },
+      "total": 97
+    },
+    {
+      "title": "fabrika",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 93
+      },
+      "total": 93
+    },
+    {
+      "title": "sudan - senegal",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 90
+      },
+      "total": 90
+    },
+    {
+      "title": "tsg",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 87
+      },
+      "total": 87
+    },
+    {
+      "title": "grand theft auto v",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 83
+      },
+      "total": 83
+    },
+    {
+      "title": "eskişehir elektrik kesintisi",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 80
+      },
+      "total": 80
+    },
+    {
+      "title": "halka arz",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 77
+      },
+      "total": 77
+    },
+    {
+      "title": "finans",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 73
+      },
+      "total": 73
+    },
+    {
+      "title": "ömer yurtseven",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 70
+      },
+      "total": 70
+    }
+  ]
+}
