@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | ikindi namazı | 1 |
-| 2 | başakşehir fatih terim stadyumu | 1 |
-| 3 | fabrika | 1 |
-| 4 | sudan - senegal | 1 |
-| 5 | tsg | 1 |
-| 6 | grand theft auto v | 1 |
-| 7 | eskişehir elektrik kesintisi | 1 |
-| 8 | halka arz | 1 |
-| 9 | finans | 1 |
-| 10 | ömer yurtseven | 1 |
+| 2 | Yapay zekâ | 1 |
+| 3 | palamut | 1 |
+| 4 | Coğrafya | 1 |
+| 5 | başakşehir fatih terim stadyumu | 1 |
+| 6 | Bilim | 1 |
+| 7 | kosgeb | 1 |
+| 8 | Tarih | 1 |
+| 9 | gıda | 1 |
+| 10 | Teknoloji | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

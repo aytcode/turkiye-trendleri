@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-17",
+  "collectedAt": "2026-11-17T14:15:05.905Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "kislyak",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Matvey Kislyak&apos;ın görüştüğü Türk takımı: Transferde ortalık karışacak",
+              "url": "https://www.yenisafak.com/spor/matvey-kislyakin-gorustugu-turk-takimi-transferde-ortalik-karisacak-4873557",
+              "source": "Yeni Şafak"
+            },
+            {
+              "title": "Galatasaray ve Fenerbahçe&apos;nin teklifi masada: Beşiktaş&apos;a ret",
+              "url": "https://www.sozcu.com.tr/galatasaray-ve-fenerbahce-nin-teklifi-masada-besiktas-a-ret-p381533",
+              "source": "Sözcü Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "xiaomi 18 pro",
+          "traffic": 100,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
+              "url": "https://www.log.com.tr/xiaomi-18-pro-serisinin-turkiye-on-satis-tarihi-aciklandi/",
+              "source": "Teknoloji haberleri - LOG"
+            },
+            {
+              "title": "Redmi Note 18 serisi 3C sertifikasında göründü",
+              "url": "https://shiftdelete.net/redmi-note-18-3c-sertifikasi-67w-sarj",
+              "source": "ShiftDelete.Net"
+            }
+          ]
+        },
+        {
+          "title": "palamut",
+          "traffic": 2000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Böyle bolluk görülmedi! Gitti derken yolunu şaşırıp geri döndüler",
+              "url": "https://www.sozcu.com.tr/boyle-bolluk-gorulmedi-gitti-derken-yolunu-sasirip-geri-donduler-p381977",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Palamudun tanesi 50 liraya düştü: \"40 yıldır böyle ucuzluk ve bolluk görmedim\"",
+              "url": "https://yerel-haberler.haberturk.com/samsun-haberleri/palamudun-tanesi-50-liraya-dustu-40-yildir-boyle-ucuzluk-ve-bolluk-gormedim-119524008",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "polonya",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Polonya - Türkiye maçı ne zaman, saat kaçta, hangi kanalda? Potanın Perileri Avrupa Şampiyonası elemeleri mücadelesi...",
+              "url": "https://www.hurriyet.com.tr/sporarena/polonya-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-43381342",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "A Milli Kadın Basketbol Takımı, Avrupa Şampiyonası elemelerinde yarın Polonya&apos;ya konuk olacak",
+              "url": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-avrupa-sampiyonasi-elemelerinde-yarin-polonyaya-konuk-olacak/4126120",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "nefise karatay",
+          "traffic": 500,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Survivor yarışmacıları yeni işlerini duyurdu: 4 bin liradan üye arıyorlar",
+              "url": "https://www.sozcu.com.tr/survivor-yarismacilari-yeni-islerini-duyurdu-4-bin-liradan-uye-ariyorlar-p382170",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Ticarete atıldılar! Nefise Karatay ve Seren Ay Çetin ortak oldu",
+              "url": "https://www.posta.com.tr/galeri/ticarete-atildilar-nefise-karatay-ve-seren-ay-cetin-ortak-oldu-3065474",
+              "source": "Posta"
+            }
+          ]
+        },
+        {
+          "title": "genelge",
+          "traffic": 100,
+          "rank": 6,
+          "news": [
+            {
+              "title": "SGK Genelgesi 2026/23",
+              "url": "https://www.alomaliye.com/2026/11/17/sgk-genelgesi-2026-23/",
+              "source": "Alomaliye"
+            },
+            {
+              "title": "ÜNSAL, VALİ MAKAS’A SESLENDİ: “SAYIN VALİM, ÇİFTÇİ GÖZÜNÜZÜN İÇİNE BAKIYOR”",
+              "url": "https://www.oncurtv.com/unsal-vali-makasa-seslendi-sayin-valim-ciftci-gozunuzun-icine-bakiyor",
+              "source": "Öncü TV"
+            }
+          ]
+        },
+        {
+          "title": "kosgeb",
+          "traffic": 1000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "KOSGEB’DEN KOBİ’LERİN YEŞİL DÖNÜŞÜMÜNE 3 MİLYAR TL’LİK DESTEK",
+              "url": "https://www.kosgeb.gov.tr/site/tr/genel/detay/9508/kosgebden-kobilerin-yesil-donusumune-3-milyar-tllik-destek",
+              "source": "Kosgeb"
+            },
+            {
+              "title": "COP31&apos;de iklim teknolojilerinin ticarileştirilmesi için finansman modelleri değerlendirildi",
+              "url": "https://www.aa.com.tr/tr/enerjiterminali/genel/cop31de-iklim-teknolojilerinin-ticarilestirilmesi-icin-finansman-modelleri-degerlendirildi/61070",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "taşınmaz",
+          "traffic": 100,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Bursa&apos;da belediyeden 26 arsa ve tarla satışa çıkıyor! Fiyatlar 480 bin TL&apos;den başlıyor",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-belediyeden-26-arsa-ve-tarla-satisa-cikiyor-fiyatlar-480-bin-tl-den-basliyor-1753511",
+              "source": "Bursa Hakimiyet"
+            },
+            {
+              "title": "MUSTAFAKEMALPAŞA BELEDİYE BAŞKANLIĞI TARAFINDAN TAŞINMAZ SATIŞ İHALESİ İLANI",
+              "url": "https://www.gencgazete.net/mustafakemalpasa-belediye-baskanligi-tarafindan-tasinmaz-satis-ihalesi-ilani",
+              "source": "Genç Gazete"
+            }
+          ]
+        },
+        {
+          "title": "siber saldırı",
+          "traffic": 100,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Popüler sitelere siber saldırı: BBC, CNN ve Zoom da varmış",
+              "url": "https://www.diken.com.tr/populer-sitelere-siber-saldiri-bbc-cnn-ve-zoom-da-varmis/",
+              "source": "Diken"
+            },
+            {
+              "title": "iPhone kullanıcılarını hedef aldılar. Zararlı kod 178 siteye sızdı",
+              "url": "https://www.ntv.com.tr/dunya/iphone-kullanicilarini-hedef-aldilar-zararli-kod-178-siteye-sizdi-1751261",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "gıda",
+          "traffic": 1000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Türkiye&apos;nin gıda devi iflas etti: Mahkeme konkordato talebini reddetti",
+              "url": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-gida-devi-iflas-etti-mahkeme-konkordato-talebini-reddetti-2556525",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Bursa&apos;da gıda sektöründe iflas kararı! Mahkeme konkordato taleplerini reddetti",
+              "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-gida-sektorunde-iflas-karari-mahkeme-konkordato-taleplerini-reddetti-1752803",
+              "source": "Bursa Hakimiyet"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
