@@ -36,14 +36,14 @@
 |---:|---|---:|
 | 1 | ikindi namazı | 1 |
 | 2 | Yapay zekâ | 1 |
-| 3 | palamut | 1 |
-| 4 | Coğrafya | 1 |
-| 5 | başakşehir fatih terim stadyumu | 1 |
-| 6 | Bilim | 1 |
-| 7 | kosgeb | 1 |
-| 8 | Tarih | 1 |
-| 9 | gıda | 1 |
-| 10 | Teknoloji | 1 |
+| 3 | 17 kasım reyting sonuçları | 1 |
+| 4 | Sanat | 1 |
+| 5 | palamut | 1 |
+| 6 | Teknoloji | 1 |
+| 7 | başakşehir fatih terim stadyumu | 1 |
+| 8 | Coğrafya | 1 |
+| 9 | kosgeb | 1 |
+| 10 | Tarih | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
