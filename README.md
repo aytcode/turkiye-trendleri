@@ -39,11 +39,11 @@
 | 3 | 17 kasım reyting sonuçları | 1 |
 | 4 | Sanat | 1 |
 | 5 | palamut | 1 |
-| 6 | Teknoloji | 1 |
+| 6 | Coğrafya | 1 |
 | 7 | başakşehir fatih terim stadyumu | 1 |
-| 8 | Coğrafya | 1 |
+| 8 | Bilim | 1 |
 | 9 | kosgeb | 1 |
-| 10 | Tarih | 1 |
+| 10 | Teknoloji | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

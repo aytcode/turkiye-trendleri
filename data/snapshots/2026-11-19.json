@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-19",
+  "collectedAt": "2026-11-19T14:16:16.688Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "kumamoto",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Japonya&apos;da 5.7 büyüklüğünde deprem: Yaralılar var! İki bölgede tahliye emri",
+              "url": "https://www.hurriyet.com.tr/dunya/japonyada-5-7-buyuklugunde-deprem-yaralilar-var-iki-bolgede-tahliye-emri-43383373",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Japonya’da 5.3 büyüklüğünde deprem: Tsunami uyarısı yapılmadı",
+              "url": "https://www.gzt.com/dunya/japonyada-53-buyuklugunde-deprem-tsunami-uyarisi-yapilmadi-4280254",
+              "source": "GZT"
+            }
+          ]
+        },
+        {
+          "title": "şeker",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Avrupa’da birinciyiz.. Türkiye’nin şekeri yükseliyor",
+              "url": "https://www.hurriyet.com.tr/gundem/avrupada-birinciyiz-turkiyenin-sekeri-yukseliyor-43381859",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Manisa&apos;da diyabet hastalarına moral buluşması",
+              "url": "https://yerel-haberler.haberturk.com/manisa-haberleri/manisada-diyabet-hastalarina-moral-bulusmasi-119525596",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "ekol lojistik",
+          "traffic": 100,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Ekol Lojistik Alman şirkete satıldı",
+              "url": "https://www.bloomberght.com/ekol-lojistik-alman-sirkete-satildi-3795104",
+              "source": "Bloomberght"
+            },
+            {
+              "title": "Arvato, Ekol Lojistik&apos;in Türkiye&apos;deki sözleşmeli lojistik faaliyetlerini devralmak üzere anlaşma imzaladı",
+              "url": "https://www.aa.com.tr/tr/isdunyasi/genel/arvato-ekol-lojistikin-turkiyedeki-sozlesmeli-lojistik-faaliyetlerini-devralmak-uzere-anlasma-imzaladi/705707",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "cte",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "From rugby powerhouse to bodybuilder: How a World Cup winner is confronting fears of CTE",
+              "url": "https://www.cnn.com/2026/11/16/sport/phil-vickery-cte-rugby-bodybuilding",
+              "source": "CNN"
+            },
+            {
+              "title": "Phil Vickery turns to bodybuilding amid concerns about possible CTE",
+              "url": "https://mezha.net/eng/news/mezha-d588d72945ef3cc2ae964a62_phil_vickery_turns/",
+              "source": "Mezha.net"
+            }
+          ]
+        },
+        {
+          "title": "voleybol",
+          "traffic": 200,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Aras Kargo&apos;nun oyuncuları ve teknik ekibi gıda zehirlenmesi şüphesiyle tedavi altına alındı!",
+              "url": "https://www.hurriyet.com.tr/sporarena/aras-kargonun-oyunculari-ve-teknik-ekibi-gida-zehirlenmesi-suphesiyle-tedavi-altina-alindi-43384048",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Fenerbahçe maçı öncesi zehirlenme şüphesi: Erteleme talebinde bulunuldu",
+              "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-maci-oncesi-zehirlenme-suphesi-erteleme-talebinde-bulunuldu-2557570",
+              "source": "Cumhuriyet"
+            }
+          ]
+        },
+        {
+          "title": "kerem alışık",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Kerem Alışık&apos;ı yıllar sonra ekrana döndüren Haysiyet dizisi için karar verildi",
+              "url": "https://www.sozcu.com.tr/kerem-alisik-i-yillar-sonra-ekrana-donduren-haysiyet-dizisi-icin-karar-verildi-p382780",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Kanal D&apos;den peş peşe final haberleri: Bir dizinin daha sonu geldi",
+              "url": "https://www.ensonhaber.com/kanal-dden-pes-pese-final-haberleri-bir-dizinin-daha-sonu-geldi-h1583824",
+              "source": "Ensonhaber"
+            }
+          ]
+        },
+        {
+          "title": "muğla",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Muğla&apos;da 3 yılda 758 kilometrelik yol çalışması yapıldı",
+              "url": "https://yerel-haberler.haberturk.com/mugla-haberleri/muglada-3-yilda-758-kilometrelik-yol-calismasi-yapildi-119526458",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Muğla’da 3 yılda 758 kilometrelik yol yatırımı İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/mugla-haberleri/muglada-3-yilda-758-kilometrelik-yol-yatirimi-518508792",
+              "source": "İhlas Haber Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "matteo guendouzi",
+          "traffic": 500,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Fenerbahçe&apos;nin yıldızı takımda yapayalnız kaldı",
+              "url": "https://www.sozcu.com.tr/fenerbahce-nin-yildizi-takimda-yapayalniz-kaldi-p382588",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Fenerbahçeli yıldıza yeni rol: Emre Belözoğlu öyle oynamasını istemiyor",
+              "url": "https://www.yenisafak.com/galeri/spor/fenerbahceli-yildiza-yeni-rol-emre-belozoglu-oyle-oynamasini-istemiyor-4873428",
+              "source": "Yeni Şafak"
+            }
+          ]
+        },
+        {
+          "title": "öcal uluç",
+          "traffic": 100,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Deneyimli gazeteci Öcal Uluç hayatını kaybetti",
+              "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/deneyimli-gazeteci-ocal-uluc-hayatini-kaybetti-119526564",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Bakan Bak’tan Öcal Uluç için taziye mesajı İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/ankara-haberleri/bakan-baktan-ocal-uluc-icin-taziye-mesaji-518635657",
+              "source": "İhlas Haber Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "ödeme",
+          "traffic": 500,
+          "rank": 10,
+          "news": [
+            {
+              "title": "KYK burs başvurusu yapanlar dikkat: Ödemeler başladı",
+              "url": "https://www.hurriyet.com.tr/gundem/kyk-burs-basvurusu-yapanlar-dikkat-odemeler-basladi-43383411",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "KYK BURSUM YATTI MI? T.C. ile KYK burs/öğrenim kredisi sorgulama ekranı: KYK burs ödeme tarihleri belli oldu",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/kyk-bursum-yatti-mi-t-c-ile-kyk-burs-ogrenim-kredisi-sorgulama-ekrani-kyk-burs-odeme-tarihleri-belli-oldu-7703517",
+              "source": "Uzmanpara"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
