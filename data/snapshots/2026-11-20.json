@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-20",
+  "collectedAt": "2026-11-20T13:56:17.168Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "carlos alcaraz",
+          "traffic": 200,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Alcaraz gana tiempo y saltará a jugar el último partido con Cobolli",
+              "url": "https://www.marca.com/tenis/copa-masters/2026/11/19/alcaraz-gana-saltara-jugar-ultimo-partido-cobolli.html",
+              "source": "MARCA"
+            },
+            {
+              "title": "Estadísticas del Alcaraz - Cobolli de las ATP Finals",
+              "url": "https://www.abc.es/deportes/tenis/estadisticas-alcaraz-cobolli-atp-finals-20261120135335-di.html",
+              "source": "ABC"
+            }
+          ]
+        },
+        {
+          "title": "kaan ayhan",
+          "traffic": 100,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Galatasaray&apos;ın ayrılık listesine 2 futbolcu daha eklendi! Ocak ayında 4 yolcu",
+              "url": "https://www.sozcu.com.tr/galatasarayin-ayrilik-listesine-2-futbolcu-daha-eklendi-ocak-ayinda-4-yolcu-p382963",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Fenerbahçe&apos;de 11 netleşiyor",
+              "url": "https://www.trtspor.com.tr/haber/futbol/fenerbahcede-11-netlesiyor-34144948",
+              "source": "TRTSpor"
+            }
+          ]
+        },
+        {
+          "title": "konut kredisi",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "SON DAKİKA! BDDK&apos;dan konut kredilerine yönelik düzenleme",
+              "url": "https://www.haberturk.com/ekonomi/son-dakika-bddk-dan-konut-kredilerine-yonelik-duzenleme-3928838",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Konut kredilerinde yeni dönem: İki evi olanların kredi limiti değişti",
+              "url": "https://www.ekonomim.com/ekonomi/konut-kredilerinde-yeni-donem-iki-evi-olanlarin-kredi-limiti-degisti-haberi-932467",
+              "source": "Ekonomim"
+            }
+          ]
+        },
+        {
+          "title": "anıl altan",
+          "traffic": 500,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Pelin Akil ikiz kızlarına GTA 6 oynatan Anıl Altan&apos;la mesajlarını ifşa etti. \"İnanamıyorum\"",
+              "url": "https://www.ntv.com.tr/yasam/pelin-akil-ikiz-kizlarina-gta-6-oynatan-anil-altanla-mesajlarini-ifsa-etti-inanamiyorum-1751733",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Pelin Akil eski eşiyle mesajlarını ifşa etti! &apos;Ben uğraşamıyorum seninle&apos;",
+              "url": "https://www.posta.com.tr/galeri/pelin-akil-eski-esiyle-mesajlarini-ifsa-etti-ben-seninle-ugrasamiyorum-3066499",
+              "source": "Posta"
+            }
+          ]
+        },
+        {
+          "title": "bddk",
+          "traffic": 2000,
+          "rank": 5,
+          "news": [
+            {
+              "title": "BDDK&apos;dan limit kararı! Kredi kartlarında yeni asgari ödeme oranları değişti",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/bddkdan-limit-karari-kredi-kartlarinda-yeni-asgari-odeme-oranlari-degisti-7704596",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "Kredi kartlarında asgari ödeme oranları değişti",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/kredi-kartlarinda-asgari-odeme-oranlari-degisti_ID102292525/",
+              "source": "Bigpara"
+            }
+          ]
+        },
+        {
+          "title": "kura",
+          "traffic": 1000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Uluslar Ligi’nde çeyrek final eşleşmeleri belli oldu - İspanya ile Fransa karşı karşıya gelecek",
+              "url": "https://www.transfermarkt.com.tr/uluslar-liginde-ceyrek-final-eslesmeleri-belli-oldu-ispanya-ile-fransa-karsi-karsiya-gelecek/view/news/490967",
+              "source": "Transfermarkt"
+            },
+            {
+              "title": "Uluslar Ligi’nde perde kapandı! Son haftaya damga vuran 5 gelişme!",
+              "url": "https://www.atv.com.tr/uluslar-ligi/galeri/uluslar-liginde-perde-kapandi-son-haftaya-damga-vuran-5-gelisme",
+              "source": "ATV"
+            }
+          ]
+        },
+        {
+          "title": "yemen",
+          "traffic": 500,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Saudi-led coalition says it intercepts 5 Houthi ballistic missiles, 1 cruise missile",
+              "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-5-houthi-ballistic-missiles-1-cruise-missile/4129923",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+              "url": "https://www.reuters.com/world/middle-east/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says-2026-11-19/",
+              "source": "Reuters"
+            }
+          ]
+        },
+        {
+          "title": "dış borç",
+          "traffic": 200,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Merkez Bankası Türkiye&apos;nin dış borç istatistiklerini yayınladı",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/merkez-bankasi-turkiyenin-dis-borc-istatistiklerini-yayinladi_ID102292518/",
+              "source": "Bigpara"
+            },
+            {
+              "title": "Türkiye&apos;nin dış borcunda rekor çeyrek",
+              "url": "https://www.bloomberght.com/turkiye-nin-dis-borcunda-rekor-ceyrek-3795271",
+              "source": "Bloomberght"
+            }
+          ]
+        },
+        {
+          "title": "ella",
+          "traffic": 500,
+          "rank": 9,
+          "news": [
+            {
+              "title": "CMA Awards 2026: 12 Best, Worst, and Most WTF Moments",
+              "url": "https://www.rollingstone.com/music/music-country-lists/cma-awards-2026-best-worst-moments-1235660457/",
+              "source": "Rolling Stone"
+            },
+            {
+              "title": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards",
+              "url": "https://www.nytimes.com/2026/11/19/arts/music/ella-langley-taylor-swift-cma-awards.html",
+              "source": "The New York Times"
+            }
+          ]
+        },
+        {
+          "title": "deniz ertaş",
+          "traffic": 1000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Süper Lig devinden Deniz Ertaş için transfer teklifi! Konyaspor ile görüşmeler başladı...",
+              "url": "https://www.fanatik.com.tr/trabzonspor/super-lig-devinden-deniz-ertas-icin-transfer-teklifi-konyaspor-ile-gorusmeler-basladi-2645194",
+              "source": "Fanatik"
+            },
+            {
+              "title": "Trabzonspor&apos;dan Deniz Ertaş hamlesi",
+              "url": "https://www.sporx.com/trabzonspor-dan-deniz-ertas-hamlesi-SXHBQ1183446SXQ",
+              "source": "Sporx.com"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

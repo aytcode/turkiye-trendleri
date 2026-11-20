@@ -13,8 +13,8 @@
   "end": "2026-11-22",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-19T14:16:16.688Z",
-  "snapshotDays": 4,
+  "generatedAt": "2026-11-20T13:56:17.168Z",
+  "snapshotDays": 5,
   "activeSources": [
     "google",
     "wikipedia"
@@ -132,6 +132,24 @@
           "score": 2000
         },
         {
+          "title": "bddk",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "BDDK&apos;dan limit kararı! Kredi kartlarında yeni asgari ödeme oranları değişti",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/bddkdan-limit-karari-kredi-kartlarinda-yeni-asgari-odeme-oranlari-degisti-7704596",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "Kredi kartlarında asgari ödeme oranları değişti",
+              "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/kredi-kartlarinda-asgari-odeme-oranlari-degisti_ID102292525/",
+              "source": "Bigpara"
+            }
+          ],
+          "score": 2000
+        },
+        {
           "title": "başakşehir fatih terim stadyumu",
           "traffic": 1000,
           "days": 1,
@@ -199,6 +217,42 @@
               "title": "İstanbul&apos;da Zeytin Kültürünün Korunması İçin Acil Önlem Çağrısı Yapıldı",
               "url": "https://www.mersinhaber.com/haber-istanbulda-zeytin-kulturunun-korunmasi-icin-acil-onlem-cagrisi-yapildi/841221",
               "source": "Mersin Haber"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "kura",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Uluslar Ligi’nde çeyrek final eşleşmeleri belli oldu - İspanya ile Fransa karşı karşıya gelecek",
+              "url": "https://www.transfermarkt.com.tr/uluslar-liginde-ceyrek-final-eslesmeleri-belli-oldu-ispanya-ile-fransa-karsi-karsiya-gelecek/view/news/490967",
+              "source": "Transfermarkt"
+            },
+            {
+              "title": "Uluslar Ligi’nde perde kapandı! Son haftaya damga vuran 5 gelişme!",
+              "url": "https://www.atv.com.tr/uluslar-ligi/galeri/uluslar-liginde-perde-kapandi-son-haftaya-damga-vuran-5-gelisme",
+              "source": "ATV"
+            }
+          ],
+          "score": 1000
+        },
+        {
+          "title": "deniz ertaş",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Süper Lig devinden Deniz Ertaş için transfer teklifi! Konyaspor ile görüşmeler başladı...",
+              "url": "https://www.fanatik.com.tr/trabzonspor/super-lig-devinden-deniz-ertas-icin-transfer-teklifi-konyaspor-ile-gorusmeler-basladi-2645194",
+              "source": "Fanatik"
+            },
+            {
+              "title": "Trabzonspor&apos;dan Deniz Ertaş hamlesi",
+              "url": "https://www.sporx.com/trabzonspor-dan-deniz-ertas-hamlesi-SXHBQ1183446SXQ",
+              "source": "Sporx.com"
             }
           ],
           "score": 1000
@@ -289,6 +343,60 @@
               "title": "KYK BURSUM YATTI MI? T.C. ile KYK burs/öğrenim kredisi sorgulama ekranı: KYK burs ödeme tarihleri belli oldu",
               "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/kyk-bursum-yatti-mi-t-c-ile-kyk-burs-ogrenim-kredisi-sorgulama-ekrani-kyk-burs-odeme-tarihleri-belli-oldu-7703517",
               "source": "Uzmanpara"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "anıl altan",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Pelin Akil ikiz kızlarına GTA 6 oynatan Anıl Altan&apos;la mesajlarını ifşa etti. \"İnanamıyorum\"",
+              "url": "https://www.ntv.com.tr/yasam/pelin-akil-ikiz-kizlarina-gta-6-oynatan-anil-altanla-mesajlarini-ifsa-etti-inanamiyorum-1751733",
+              "source": "NTV Haber"
+            },
+            {
+              "title": "Pelin Akil eski eşiyle mesajlarını ifşa etti! &apos;Ben uğraşamıyorum seninle&apos;",
+              "url": "https://www.posta.com.tr/galeri/pelin-akil-eski-esiyle-mesajlarini-ifsa-etti-ben-seninle-ugrasamiyorum-3066499",
+              "source": "Posta"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "yemen",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Saudi-led coalition says it intercepts 5 Houthi ballistic missiles, 1 cruise missile",
+              "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-5-houthi-ballistic-missiles-1-cruise-missile/4129923",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+              "url": "https://www.reuters.com/world/middle-east/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says-2026-11-19/",
+              "source": "Reuters"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "ella",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "CMA Awards 2026: 12 Best, Worst, and Most WTF Moments",
+              "url": "https://www.rollingstone.com/music/music-country-lists/cma-awards-2026-best-worst-moments-1235660457/",
+              "source": "Rolling Stone"
+            },
+            {
+              "title": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards",
+              "url": "https://www.nytimes.com/2026/11/19/arts/music/ella-langley-taylor-swift-cma-awards.html",
+              "source": "The New York Times"
             }
           ],
           "score": 500
@@ -418,117 +526,9 @@
             }
           ],
           "score": 200
-        },
-        {
-          "title": "adl",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "ADL chief details ‘incredibly troubling trend’ of antisemitism in medical field",
-              "url": "https://www.foxnews.com/video/6408515645112",
-              "source": "Fox News"
-            },
-            {
-              "title": "Antisemitism in the Healthcare Workforce",
-              "url": "https://www.adl.org/resources/report/antisemitism-healthcare-workforce",
-              "source": "Anti-Defamation League"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "türk silahlı kuvvetleri",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Türk Hava Kuvvetleri&apos;nde 15 Temmuz sonrası stratejik dönüşüm: Pilot açığı nasıl kapandı?",
-              "url": "https://www.haber7.com/guncel/haber/3677594-turk-hava-kuvvetlerinde-15-temmuz-sonrasi-stratejik-donusum-pilot-acigi-nasil-kapandi",
-              "source": "Haber 7"
-            },
-            {
-              "title": "Otokar’dan Türk Ordusu’na yeni araç",
-              "url": "https://www.defenceturk.net/otokardan-turk-ordusuna-yeni-arac",
-              "source": "Defence Turk"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "bafra",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Bafra&apos;da \"Akademi Hazırlık Kursları\"nda 110 genç sınavlara hazırlanıyor",
-              "url": "https://yerel-haberler.haberturk.com/samsun-haberleri/bafrada-akademi-hazirlik-kurslarinda-110-genc-sinavlara-hazirlaniyor-119524587",
-              "source": "Habertürk"
-            },
-            {
-              "title": "Türkiye’de İlk Kez Biga’da Uygulandı: Kaymakamlık Baskı Makinesi Aldı, Öğrencilere Ücretsiz Deneme Sınavı Başladı",
-              "url": "https://www.medyalokum.com/turkiyede-ilk-kez-bigada-uygulandi-kaymakamlik-baski-makinesi-aldi-ogrencilere-ucretsiz-deneme-sinavi-basladi",
-              "source": "Medya Lokum"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "şeker",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Avrupa’da birinciyiz.. Türkiye’nin şekeri yükseliyor",
-              "url": "https://www.hurriyet.com.tr/gundem/avrupada-birinciyiz-turkiyenin-sekeri-yukseliyor-43381859",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Manisa&apos;da diyabet hastalarına moral buluşması",
-              "url": "https://yerel-haberler.haberturk.com/manisa-haberleri/manisada-diyabet-hastalarina-moral-bulusmasi-119525596",
-              "source": "Habertürk"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "cte",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "From rugby powerhouse to bodybuilder: How a World Cup winner is confronting fears of CTE",
-              "url": "https://www.cnn.com/2026/11/16/sport/phil-vickery-cte-rugby-bodybuilding",
-              "source": "CNN"
-            },
-            {
-              "title": "Phil Vickery turns to bodybuilding amid concerns about possible CTE",
-              "url": "https://mezha.net/eng/news/mezha-d588d72945ef3cc2ae964a62_phil_vickery_turns/",
-              "source": "Mezha.net"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "voleybol",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Aras Kargo&apos;nun oyuncuları ve teknik ekibi gıda zehirlenmesi şüphesiyle tedavi altına alındı!",
-              "url": "https://www.hurriyet.com.tr/sporarena/aras-kargonun-oyunculari-ve-teknik-ekibi-gida-zehirlenmesi-suphesiyle-tedavi-altina-alindi-43384048",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "Fenerbahçe maçı öncesi zehirlenme şüphesi: Erteleme talebinde bulunuldu",
-              "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-maci-oncesi-zehirlenme-suphesi-erteleme-talebinde-bulunuldu-2557570",
-              "source": "Cumhuriyet"
-            }
-          ],
-          "score": 200
         }
       ],
-      "total": 40
+      "total": 50
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -540,58 +540,90 @@
         {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 43684,
-          "days": 3,
+          "views": 45429,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 43684
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 42385,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 42385
-        },
-        {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 42383,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 42383
+          "score": 45429
         },
         {
           "title": "Bilim",
           "article": "Bilim",
-          "views": 42333,
-          "days": 3,
+          "views": 43388,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 42333
+          "score": 43388
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 43383,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 43383
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 43377,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 43377
         },
         {
           "title": "Teknoloji",
           "article": "Teknoloji",
-          "views": 42325,
-          "days": 3,
+          "views": 43369,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 42325
+          "score": 43369
         },
         {
           "title": "Tarih",
           "article": "Tarih",
-          "views": 42176,
-          "days": 3,
+          "views": 43255,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 42176
+          "score": 43255
         },
         {
           "title": "Berkun Oya",
           "article": "Berkun_Oya",
-          "views": 22210,
-          "days": 3,
+          "views": 26656,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
-          "score": 22210
+          "score": 26656
+        },
+        {
+          "title": "Şahap Kavcıoğlu",
+          "article": "Şahap_Kavcıoğlu",
+          "views": 16297,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
+          "score": 16297
+        },
+        {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 14222,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 14222
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 13927,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 13927
+        },
+        {
+          "title": "Otlukbeli Muharebesi",
+          "article": "Otlukbeli_Muharebesi",
+          "views": 13242,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Otlukbeli_Muharebesi",
+          "score": 13242
         },
         {
           "title": "Çiğdem Karaaslan",
@@ -602,36 +634,60 @@
           "score": 13132
         },
         {
-          "title": "Otlukbeli Muharebesi",
-          "article": "Otlukbeli_Muharebesi",
-          "views": 11809,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Otlukbeli_Muharebesi",
-          "score": 11809
-        },
-        {
-          "title": "XHamster",
-          "article": "XHamster",
-          "views": 11621,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 11621
+          "title": "Bir Başkadır",
+          "article": "Bir_Başkadır",
+          "views": 12813,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Bir_Ba%C5%9Fkad%C4%B1r",
+          "score": 12813
         },
         {
           "title": "Uzun Hasan",
           "article": "Uzun_Hasan",
-          "views": 10568,
-          "days": 3,
+          "views": 12005,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Uzun_Hasan",
-          "score": 10568
+          "score": 12005
         },
         {
-          "title": "Bir Başkadır",
-          "article": "Bir_Başkadır",
-          "views": 10436,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Bir_Ba%C5%9Fkad%C4%B1r",
-          "score": 10436
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 11546,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 11546
+        },
+        {
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 11538,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 11538
+        },
+        {
+          "title": "Hayati Yazıcı",
+          "article": "Hayati_Yazıcı",
+          "views": 11475,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Hayati_Yaz%C4%B1c%C4%B1",
+          "score": 11475
+        },
+        {
+          "title": "Grand Theft Auto VI",
+          "article": "Grand_Theft_Auto_VI",
+          "views": 11169,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "score": 11169
+        },
+        {
+          "title": "Funda Eryiğit",
+          "article": "Funda_Eryiğit",
+          "views": 10229,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Funda_Eryi%C4%9Fit",
+          "score": 10229
         },
         {
           "title": "2026-27 UEFA Uluslar B Ligi",
@@ -642,103 +698,47 @@
           "score": 9918
         },
         {
-          "title": "Bir sonraki Türkiye genel seçimleri",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 9819,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 9819
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 9278,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 9278
-        },
-        {
-          "title": "Berke Özer",
-          "article": "Berke_Özer",
-          "views": 8915,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Berke_%C3%96zer",
-          "score": 8915
-        },
-        {
-          "title": "Şahap Kavcıoğlu",
-          "article": "Şahap_Kavcıoğlu",
-          "views": 8863,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
-          "score": 8863
-        },
-        {
-          "title": "Funda Eryiğit",
-          "article": "Funda_Eryiğit",
-          "views": 8671,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Funda_Eryi%C4%9Fit",
-          "score": 8671
-        },
-        {
-          "title": "Cinsel ilişki",
-          "article": "Cinsel_ilişki",
-          "views": 8552,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 8552
-        },
-        {
-          "title": "Robert Pattinson",
-          "article": "Robert_Pattinson",
-          "views": 7748,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Robert_Pattinson",
-          "score": 7748
-        },
-        {
-          "title": "Haluk Bilginer",
-          "article": "Haluk_Bilginer",
-          "views": 7380,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Haluk_Bilginer",
-          "score": 7380
+          "title": "Abdullah Öcalan",
+          "article": "Abdullah_Öcalan",
+          "views": 9672,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
+          "score": 9672
         },
         {
           "title": "Osmanlı padişahları listesi",
           "article": "Osmanlı_padişahları_listesi",
-          "views": 7368,
-          "days": 3,
+          "views": 9416,
+          "days": 4,
           "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 7368
+          "score": 9416
         },
         {
-          "title": "Hayati Yazıcı",
-          "article": "Hayati_Yazıcı",
-          "views": 6852,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Hayati_Yaz%C4%B1c%C4%B1",
-          "score": 6852
+          "title": "Berke Özer",
+          "article": "Berke_Özer",
+          "views": 9304,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Berke_%C3%96zer",
+          "score": 9304
         },
         {
-          "title": "UEFA Uluslar Ligi",
-          "article": "UEFA_Uluslar_Ligi",
-          "views": 6846,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/UEFA_Uluslar_Ligi",
-          "score": 6846
+          "title": "Robert Pattinson",
+          "article": "Robert_Pattinson",
+          "views": 8631,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Robert_Pattinson",
+          "score": 8631
         },
         {
-          "title": "Abdullah Öcalan",
-          "article": "Abdullah_Öcalan",
-          "views": 6641,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
-          "score": 6641
+          "title": "Haluk Bilginer",
+          "article": "Haluk_Bilginer",
+          "views": 8335,
+          "days": 4,
+          "url": "https://tr.wikipedia.org/wiki/Haluk_Bilginer",
+          "score": 8335
         }
       ],
-      "coveredDays": 3,
+      "coveredDays": 4,
       "total": 50
     }
   },
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Sanat",
+      "title": "Bilim",
       "platforms": [
         "wikipedia"
       ],
@@ -794,7 +794,7 @@
       "total": 93
     },
     {
-      "title": "Coğrafya",
+      "title": "Sanat",
       "platforms": [
         "wikipedia"
       ],
@@ -804,7 +804,7 @@
       "total": 93
     },
     {
-      "title": "başakşehir fatih terim stadyumu",
+      "title": "bddk",
       "platforms": [
         "google"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Bilim",
+      "title": "Coğrafya",
       "platforms": [
         "wikipedia"
       ],
@@ -824,7 +824,7 @@
       "total": 90
     },
     {
-      "title": "kosgeb",
+      "title": "başakşehir fatih terim stadyumu",
       "platforms": [
         "google"
       ],
@@ -844,7 +844,7 @@
       "total": 87
     },
     {
-      "title": "gıda",
+      "title": "kosgeb",
       "platforms": [
         "google"
       ],
@@ -864,7 +864,7 @@
       "total": 83
     },
     {
-      "title": "pazartesi",
+      "title": "gıda",
       "platforms": [
         "google"
       ],
@@ -884,7 +884,7 @@
       "total": 80
     },
     {
-      "title": "fabrika",
+      "title": "pazartesi",
       "platforms": [
         "google"
       ],
@@ -894,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Çiğdem Karaaslan",
+      "title": "Şahap Kavcıoğlu",
       "platforms": [
         "wikipedia"
       ],
@@ -904,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "nefise karatay",
+      "title": "kura",
       "platforms": [
         "google"
       ],
@@ -914,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "Otlukbeli Muharebesi",
+      "title": "XHamster",
       "platforms": [
         "wikipedia"
       ],
@@ -924,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "kumamoto",
+      "title": "deniz ertaş",
       "platforms": [
         "google"
       ],
@@ -934,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "XHamster",
+      "title": "Bir sonraki Türkiye genel seçimleri",
       "platforms": [
         "wikipedia"
       ],

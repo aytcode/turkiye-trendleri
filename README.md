@@ -37,12 +37,12 @@
 | 1 | ikindi namazı | 1 |
 | 2 | Yapay zekâ | 1 |
 | 3 | 17 kasım reyting sonuçları | 1 |
-| 4 | Sanat | 1 |
+| 4 | Bilim | 1 |
 | 5 | palamut | 1 |
-| 6 | Coğrafya | 1 |
-| 7 | başakşehir fatih terim stadyumu | 1 |
-| 8 | Bilim | 1 |
-| 9 | kosgeb | 1 |
+| 6 | Sanat | 1 |
+| 7 | bddk | 1 |
+| 8 | Coğrafya | 1 |
+| 9 | başakşehir fatih terim stadyumu | 1 |
 | 10 | Teknoloji | 1 |
 <!-- SON-RAPOR:BITIR -->
 
