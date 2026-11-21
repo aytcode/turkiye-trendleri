@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-21",
+  "collectedAt": "2026-11-21T13:20:34.496Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "lucas torreira",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Hajradinovic&apos;ten Galatasaray ve Beşiktaş hakkında olay sözler",
+              "url": "https://www.alanyapostasi.com.tr/hajradinovicten-galatasaray-ve-besiktas-hakkinda-olay-sozler",
+              "source": "Alanya Postası"
+            },
+            {
+              "title": "Kasımpaşa kaptanı Haris Hajradinovic&apos;ten Galatasaray sözleri: En zorlayan o oldu",
+              "url": "https://www.turkiyegazetesi.com.tr/spor/kasimpasa-kaptanindan-galatasaray-sozleri-en-zorlayan-o-oldu-1830715",
+              "source": "Türkiye Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "selcuk",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Anjiyo Ünitesi Geliyormuş! Peki Sayın Başkan, Uzman Ekip de Gelecek mi?",
+              "url": "https://marmarismanset.com/haber/29184128/anjiyo-unitesi-geliyormus-peki-sayin-baskan-uzman-ekip-de-gelecek-mi",
+              "source": "Marmaris Manşet"
+            },
+            {
+              "title": "ÖZDAĞ’DAN MENTEŞE DEVLET HASTANESİ İÇİN “YIKIM” UYARISI",
+              "url": "https://www.muglahaber.com.tr/gundem-2/ozdagdan-mentese-devlet-hastanesi-icin-yikim-uyarisi-173774h",
+              "source": "Muğla Haber Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "taraftar tv",
+          "traffic": 2000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Fenerbahçe, Kocaelispor&apos;a konuk oluyor! Maçın heyecanı Misli&apos;de yaşanacak",
+              "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kocaelispora-konuk-oluyor-macin-heyecani-mislide-yasanacak-43385844",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Kocaelispor - Fenerbahçe maçı muhtemel 11&apos;leri (Trendyol Süper Lig)",
+              "url": "https://www.haberturk.com/spor/kocaelispor-fenerbahce-maci-canli-anlatim-kocaeli-fb-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-ilk-11-ler-ve-mac-detaylari-3928949",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "justin",
+          "traffic": 2000,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Saints expected to release Justin Reid",
+              "url": "https://neworleans.football/article/saints-to-release-justin-reid-source",
+              "source": "NewOrleans.Football"
+            },
+            {
+              "title": "Another reunion is on the table for the Kansas City Chiefs, but roster mathematics and more could stand in the way of it happening",
+              "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-justin-reid-reunion-on-the-table-roster-mathematics-2026-performance-could-stand-in-the-way/",
+              "source": "A to Z Sports"
+            }
+          ]
+        },
+        {
+          "title": "todd",
+          "traffic": 200,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Australia wins the toss and will bowl in the 1st of 5 T20 matches against England",
+              "url": "https://www.eagletribune.com/australia-wins-the-toss-and-will-bowl-in-the-1st-of-5-t20-matches-against/article_dac8dd61-5e97-522c-b506-9bd09346323a.html",
+              "source": "Eagle-Tribune"
+            },
+            {
+              "title": "Cleveland Browns Path To The Playoffs - Week 11",
+              "url": "https://sports.yahoo.com/articles/cleveland-browns-path-playoffs-week-080157283.html",
+              "source": "Yahoo Sports"
+            }
+          ]
+        },
+        {
+          "title": "barış pehlivan",
+          "traffic": 200,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Gazetecilerin yargılandığı davada savcıdan 5 isme hapis cezası istemi",
+              "url": "https://www.cumhuriyet.com.tr/turkiye/gazetecilerin-yargilandigi-davada-savcidan-5-isme-hapis-cezasi-istemi-2557898",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Halk TV&apos;ye \"bilirkişi davası\"nda 5 gazeteciye 5 ila 10 yıl hapis istendi",
+              "url": "https://bianet.org/haber/halk-tv-ye-bilirkisi-davasi-nda-5-gazeteciye-5-ila-10-yil-hapis-istendi-325632",
+              "source": "Bianet"
+            }
+          ]
+        },
+        {
+          "title": "галатасарай – самсунспор",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "«Галатасарай» — «Самсунспор»: когда начало, где смотреть онлайн матч чемпионата Турции 21 ноября",
+              "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Turcija/spbnews_NI2387730_Galatasaraj__Samsunspor_kogda_nachalo_gde_smotret_onlajn_match_chempionata_Turcii_21_nojabra",
+              "source": "Sportbox"
+            },
+            {
+              "title": "Прогноз на матч Галатасарай – Самсунспор. Стамбульцы разгромят соперника",
+              "url": "https://metaratings.ru/prognozy/futbol/galatasaraj-samsunspor-prognoz-na-match-chempionata-turcii-21-noyabrya-2026-goda/",
+              "source": "Metaratings"
+            }
+          ]
+        },
+        {
+          "title": "giriş sınavı",
+          "traffic": 200,
+          "rank": 8,
+          "news": []
+        },
+        {
+          "title": "tod",
+          "traffic": 2000,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Was hilft, wenn die Trauer vor dem Tod beginnt?",
+              "url": "https://www.aachener-zeitung.de/leben/familie/was-hilft-wenn-die-trauer-vor-dem-tod-beginnt/164772468.html",
+              "source": "Aachener Zeitung"
+            },
+            {
+              "title": "Was hilft, wenn die Trauer vor dem Tod beginnt?",
+              "url": "https://www.mt.de/ratgeber/familien/Was-hilft-wenn-die-Trauer-vor-dem-Tod-beginnt-24466202.html",
+              "source": "Mindener Tageblatt"
+            }
+          ]
+        },
+        {
+          "title": "kayserispor - sarıyer",
+          "traffic": 2000,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Kayserispor, Sarıyer maçının hazırlıklarını tamamladı",
+              "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/kayserispor-sariyer-macinin-hazirliklarini-tamamladi-119528134",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Tufan Koç: &apos;Sarıyer maçını iyi futbol ve iyi sonuçla geçeceğiz&apos;",
+              "url": "https://www.sporx.com/tufan-koc-sariyer-macini-iyi-futbol-ve-iyi-sonucla-gececegiz-SXHBQ1183457SXQ",
+              "source": "Sporx.com"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

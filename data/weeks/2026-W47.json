@@ -13,8 +13,8 @@
   "end": "2026-11-22",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-20T13:56:17.168Z",
-  "snapshotDays": 5,
+  "generatedAt": "2026-11-21T13:20:34.496Z",
+  "snapshotDays": 6,
   "activeSources": [
     "google",
     "wikipedia"
@@ -145,6 +145,78 @@
               "title": "Kredi kartlarında asgari ödeme oranları değişti",
               "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/kredi-kartlarinda-asgari-odeme-oranlari-degisti_ID102292525/",
               "source": "Bigpara"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "taraftar tv",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Fenerbahçe, Kocaelispor&apos;a konuk oluyor! Maçın heyecanı Misli&apos;de yaşanacak",
+              "url": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kocaelispora-konuk-oluyor-macin-heyecani-mislide-yasanacak-43385844",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Kocaelispor - Fenerbahçe maçı muhtemel 11&apos;leri (Trendyol Süper Lig)",
+              "url": "https://www.haberturk.com/spor/kocaelispor-fenerbahce-maci-canli-anlatim-kocaeli-fb-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-ilk-11-ler-ve-mac-detaylari-3928949",
+              "source": "Habertürk"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "justin",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Saints expected to release Justin Reid",
+              "url": "https://neworleans.football/article/saints-to-release-justin-reid-source",
+              "source": "NewOrleans.Football"
+            },
+            {
+              "title": "Another reunion is on the table for the Kansas City Chiefs, but roster mathematics and more could stand in the way of it happening",
+              "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-justin-reid-reunion-on-the-table-roster-mathematics-2026-performance-could-stand-in-the-way/",
+              "source": "A to Z Sports"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "tod",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Was hilft, wenn die Trauer vor dem Tod beginnt?",
+              "url": "https://www.aachener-zeitung.de/leben/familie/was-hilft-wenn-die-trauer-vor-dem-tod-beginnt/164772468.html",
+              "source": "Aachener Zeitung"
+            },
+            {
+              "title": "Was hilft, wenn die Trauer vor dem Tod beginnt?",
+              "url": "https://www.mt.de/ratgeber/familien/Was-hilft-wenn-die-Trauer-vor-dem-Tod-beginnt-24466202.html",
+              "source": "Mindener Tageblatt"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "kayserispor - sarıyer",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Kayserispor, Sarıyer maçının hazırlıklarını tamamladı",
+              "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/kayserispor-sariyer-macinin-hazirliklarini-tamamladi-119528134",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Tufan Koç: &apos;Sarıyer maçını iyi futbol ve iyi sonuçla geçeceğiz&apos;",
+              "url": "https://www.sporx.com/tufan-koc-sariyer-macini-iyi-futbol-ve-iyi-sonucla-gececegiz-SXHBQ1183457SXQ",
+              "source": "Sporx.com"
             }
           ],
           "score": 2000
@@ -402,6 +474,24 @@
           "score": 500
         },
         {
+          "title": "lucas torreira",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "Hajradinovic&apos;ten Galatasaray ve Beşiktaş hakkında olay sözler",
+              "url": "https://www.alanyapostasi.com.tr/hajradinovicten-galatasaray-ve-besiktas-hakkinda-olay-sozler",
+              "source": "Alanya Postası"
+            },
+            {
+              "title": "Kasımpaşa kaptanı Haris Hajradinovic&apos;ten Galatasaray sözleri: En zorlayan o oldu",
+              "url": "https://www.turkiyegazetesi.com.tr/spor/kasimpasa-kaptanindan-galatasaray-sozleri-en-zorlayan-o-oldu-1830715",
+              "source": "Türkiye Gazetesi"
+            }
+          ],
+          "score": 500
+        },
+        {
           "title": "sudan - senegal",
           "traffic": 200,
           "days": 1,
@@ -436,99 +526,9 @@
             }
           ],
           "score": 200
-        },
-        {
-          "title": "grand theft auto v",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Rockstar&apos;s Two Biggest Games Leave PS Plus Today",
-              "url": "https://www.thegamer.com/gta-5-red-dead-redemption-2-leaving-ps-plus/",
-              "source": "TheGamer"
-            },
-            {
-              "title": "November 17 Is Officially A Very Dark Day For PlayStation Plus Gamers",
-              "url": "https://screenrant.com/november-17-is-officially-a-very-dark-day-for-playstation-plus-gamers/",
-              "source": "ScreenRant"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "eskişehir elektrik kesintisi",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Eskişehir elektrik kesintisi! Eskişehir&apos;de elektrikler ne zaman gelecek 14 - 15 Kasım?",
-              "url": "https://www.haberler.com/haber/eskisehir-elektrik-kesintisi-eskisehirde-20425932-haberi/",
-              "source": "Haberler"
-            },
-            {
-              "title": "OEDAŞ duyurdu: Eskişehir&apos;de elektrik kesintisi yapılacak mahalleler belli oldu",
-              "url": "https://www.anadolugazetesi.com/oedas-duyurdu--eskisehir-de-elektrik-kesintisi-yapilacak-mahalleler-belli-oldu-297847.html",
-              "source": "Anadolu Gazetesi"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "kislyak",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Matvey Kislyak&apos;ın görüştüğü Türk takımı: Transferde ortalık karışacak",
-              "url": "https://www.yenisafak.com/spor/matvey-kislyakin-gorustugu-turk-takimi-transferde-ortalik-karisacak-4873557",
-              "source": "Yeni Şafak"
-            },
-            {
-              "title": "Galatasaray ve Fenerbahçe&apos;nin teklifi masada: Beşiktaş&apos;a ret",
-              "url": "https://www.sozcu.com.tr/galatasaray-ve-fenerbahce-nin-teklifi-masada-besiktas-a-ret-p381533",
-              "source": "Sözcü Gazetesi"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "2 aile arasında",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "‘2 Aile Arasında’nın gala biletleri tükendi",
-              "url": "https://www.hurriyet.com.tr/kelebek/televizyon/2-aile-arasindanin-gala-biletleri-tukendi-43381916",
-              "source": "Hürriyet"
-            },
-            {
-              "title": "\"Fikret\" Engin Günaydın&apos;ın 2 Aile Arasında&apos;yı 9 Yıl Sonra Çekme Nedeni Ortaya Çıktı",
-              "url": "https://onedio.com/haber/fikret-engin-gunaydin-in-2-aile-arasinda-yi-9-yil-sonra-cekme-nedeni-ortaya-cikti-1395853",
-              "source": "Onedio"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "ankaragücü",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Crystal Palace, Thomas Frank&apos;la anlaştı",
-              "url": "https://www.trtspor.com.tr/haber/futbol/crystal-palace-thomas-frankla-anlasti-34105281",
-              "source": "TRTSpor"
-            },
-            {
-              "title": "Ankaragücü&apos;nün yeni teknik direktörü resmen açıklandı!",
-              "url": "https://www.cumhuriyet.com.tr/spor/ankaragucu-nun-yeni-teknik-direktoru-resmen-aciklandi-2556699",
-              "source": "Cumhuriyet"
-            }
-          ],
-          "score": 200
         }
       ],
-      "total": 50
+      "total": 60
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -540,90 +540,130 @@
         {
           "title": "Yapay zekâ",
           "article": "Yapay_zekâ",
-          "views": 45429,
-          "days": 4,
+          "views": 46924,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 45429
-        },
-        {
-          "title": "Bilim",
-          "article": "Bilim",
-          "views": 43388,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 43388
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 43383,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 43383
+          "score": 46924
         },
         {
           "title": "Coğrafya",
           "article": "Coğrafya",
-          "views": 43377,
-          "days": 4,
+          "views": 44392,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 43377
+          "score": 44392
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 44371,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 44371
         },
         {
           "title": "Teknoloji",
           "article": "Teknoloji",
-          "views": 43369,
-          "days": 4,
+          "views": 44365,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 43369
+          "score": 44365
+        },
+        {
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 44349,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 44349
         },
         {
           "title": "Tarih",
           "article": "Tarih",
-          "views": 43255,
-          "days": 4,
+          "views": 44228,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 43255
+          "score": 44228
         },
         {
           "title": "Berkun Oya",
           "article": "Berkun_Oya",
-          "views": 26656,
-          "days": 4,
+          "views": 30587,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
-          "score": 26656
+          "score": 30587
         },
         {
           "title": "Şahap Kavcıoğlu",
           "article": "Şahap_Kavcıoğlu",
-          "views": 16297,
-          "days": 4,
+          "views": 22158,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
-          "score": 16297
+          "score": 22158
         },
         {
           "title": "XHamster",
           "article": "XHamster",
-          "views": 14222,
-          "days": 4,
+          "views": 17743,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 14222
+          "score": 17743
         },
         {
           "title": "Bir sonraki Türkiye genel seçimleri",
           "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 13927,
-          "days": 4,
+          "views": 17461,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 13927
+          "score": 17461
+        },
+        {
+          "title": "Grand Theft Auto VI",
+          "article": "Grand_Theft_Auto_VI",
+          "views": 14980,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "score": 14980
+        },
+        {
+          "title": "Bir Başkadır",
+          "article": "Bir_Başkadır",
+          "views": 14869,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Bir_Ba%C5%9Fkad%C4%B1r",
+          "score": 14869
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 14282,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 14282
         },
         {
           "title": "Otlukbeli Muharebesi",
           "article": "Otlukbeli_Muharebesi",
-          "views": 13242,
-          "days": 4,
+          "views": 14147,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Otlukbeli_Muharebesi",
-          "score": 13242
+          "score": 14147
+        },
+        {
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 13571,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 13571
+        },
+        {
+          "title": "Hayati Yazıcı",
+          "article": "Hayati_Yazıcı",
+          "views": 13315,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Hayati_Yaz%C4%B1c%C4%B1",
+          "score": 13315
         },
         {
           "title": "Çiğdem Karaaslan",
@@ -634,60 +674,36 @@
           "score": 13132
         },
         {
-          "title": "Bir Başkadır",
-          "article": "Bir_Başkadır",
-          "views": 12813,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Bir_Ba%C5%9Fkad%C4%B1r",
-          "score": 12813
-        },
-        {
           "title": "Uzun Hasan",
           "article": "Uzun_Hasan",
-          "views": 12005,
-          "days": 4,
+          "views": 13014,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Uzun_Hasan",
-          "score": 12005
-        },
-        {
-          "title": "Cinsel ilişki",
-          "article": "Cinsel_ilişki",
-          "views": 11546,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 11546
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 11538,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 11538
-        },
-        {
-          "title": "Hayati Yazıcı",
-          "article": "Hayati_Yazıcı",
-          "views": 11475,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Hayati_Yaz%C4%B1c%C4%B1",
-          "score": 11475
-        },
-        {
-          "title": "Grand Theft Auto VI",
-          "article": "Grand_Theft_Auto_VI",
-          "views": 11169,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-          "score": 11169
+          "score": 13014
         },
         {
           "title": "Funda Eryiğit",
           "article": "Funda_Eryiğit",
-          "views": 10229,
-          "days": 4,
+          "views": 11719,
+          "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Funda_Eryi%C4%9Fit",
-          "score": 10229
+          "score": 11719
+        },
+        {
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 11206,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 11206
+        },
+        {
+          "title": "Abdullah Öcalan",
+          "article": "Abdullah_Öcalan",
+          "views": 11179,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
+          "score": 11179
         },
         {
           "title": "2026-27 UEFA Uluslar B Ligi",
@@ -698,47 +714,31 @@
           "score": 9918
         },
         {
-          "title": "Abdullah Öcalan",
-          "article": "Abdullah_Öcalan",
-          "views": 9672,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
-          "score": 9672
+          "title": "Bir sonraki Türkiye genel seçimleri için yapılan anketler",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri_için_yapılan_anketler",
+          "views": 9917,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler",
+          "score": 9917
         },
         {
-          "title": "Osmanlı padişahları listesi",
-          "article": "Osmanlı_padişahları_listesi",
-          "views": 9416,
+          "title": "Büşra Özdemir",
+          "article": "Büşra_Özdemir",
+          "views": 9914,
           "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 9416
+          "url": "https://tr.wikipedia.org/wiki/B%C3%BC%C5%9Fra_%C3%96zdemir",
+          "score": 9914
         },
         {
-          "title": "Berke Özer",
-          "article": "Berke_Özer",
-          "views": 9304,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Berke_%C3%96zer",
-          "score": 9304
-        },
-        {
-          "title": "Robert Pattinson",
-          "article": "Robert_Pattinson",
-          "views": 8631,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Robert_Pattinson",
-          "score": 8631
-        },
-        {
-          "title": "Haluk Bilginer",
-          "article": "Haluk_Bilginer",
-          "views": 8335,
-          "days": 4,
-          "url": "https://tr.wikipedia.org/wiki/Haluk_Bilginer",
-          "score": 8335
+          "title": "Candan Yüceer",
+          "article": "Candan_Yüceer",
+          "views": 9736,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Candan_Y%C3%BCceer",
+          "score": 9736
         }
       ],
-      "coveredDays": 4,
+      "coveredDays": 5,
       "total": 50
     }
   },
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Bilim",
+      "title": "Coğrafya",
       "platforms": [
         "wikipedia"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Coğrafya",
+      "title": "Teknoloji",
       "platforms": [
         "wikipedia"
       ],
@@ -824,7 +824,7 @@
       "total": 90
     },
     {
-      "title": "başakşehir fatih terim stadyumu",
+      "title": "taraftar tv",
       "platforms": [
         "google"
       ],
@@ -834,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Teknoloji",
+      "title": "Bilim",
       "platforms": [
         "wikipedia"
       ],
@@ -844,7 +844,7 @@
       "total": 87
     },
     {
-      "title": "kosgeb",
+      "title": "justin",
       "platforms": [
         "google"
       ],
@@ -864,7 +864,7 @@
       "total": 83
     },
     {
-      "title": "gıda",
+      "title": "tod",
       "platforms": [
         "google"
       ],
@@ -884,7 +884,7 @@
       "total": 80
     },
     {
-      "title": "pazartesi",
+      "title": "kayserispor - sarıyer",
       "platforms": [
         "google"
       ],
@@ -904,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "kura",
+      "title": "başakşehir fatih terim stadyumu",
       "platforms": [
         "google"
       ],
@@ -924,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "deniz ertaş",
+      "title": "kosgeb",
       "platforms": [
         "google"
       ],

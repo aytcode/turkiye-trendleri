@@ -37,13 +37,13 @@
 | 1 | ikindi namazı | 1 |
 | 2 | Yapay zekâ | 1 |
 | 3 | 17 kasım reyting sonuçları | 1 |
-| 4 | Bilim | 1 |
+| 4 | Coğrafya | 1 |
 | 5 | palamut | 1 |
 | 6 | Sanat | 1 |
 | 7 | bddk | 1 |
-| 8 | Coğrafya | 1 |
-| 9 | başakşehir fatih terim stadyumu | 1 |
-| 10 | Teknoloji | 1 |
+| 8 | Teknoloji | 1 |
+| 9 | taraftar tv | 1 |
+| 10 | Bilim | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
