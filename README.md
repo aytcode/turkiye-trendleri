@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | ikindi namazı | 1 |
-| 2 | Yapay zekâ | 1 |
+| 2 | Berkun Oya | 1 |
 | 3 | 17 kasım reyting sonuçları | 1 |
-| 4 | Coğrafya | 1 |
-| 5 | palamut | 1 |
-| 6 | Sanat | 1 |
-| 7 | bddk | 1 |
-| 8 | Teknoloji | 1 |
-| 9 | taraftar tv | 1 |
-| 10 | Bilim | 1 |
+| 4 | Şahap Kavcıoğlu | 1 |
+| 5 | batman petrol spor - muğlaspor puan durumları | 1 |
+| 6 | Yapay zekâ | 1 |
+| 7 | palamut | 1 |
+| 8 | Çığlık (tablo) | 1 |
+| 9 | bddk | 1 |
+| 10 | Sanat | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

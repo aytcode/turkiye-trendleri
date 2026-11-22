@@ -13,8 +13,8 @@
   "end": "2026-11-22",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-21T13:20:34.496Z",
-  "snapshotDays": 6,
+  "generatedAt": "2026-11-22T13:13:11.682Z",
+  "snapshotDays": 7,
   "activeSources": [
     "google",
     "wikipedia"
@@ -109,6 +109,24 @@
               "title": "REYTİNG SONUÇLARI 17 KASIM 2026: Total, AB ve ABC1’de zirveye hangi dizi yerleşti? Haysiyet, Tuzlu Kahve, Anne Yarısı ve MasterChef reytinglerde kaçıncı oldu?",
               "url": "https://www.haberturk.com/bilgi/foto/reyting-sonuclari-17-kasim-2026-total-ab-ve-abc1-de-zirveye-hangi-dizi-yerlesti-haysiyet-tuzlu-kahve-anne-yarisi-ve-masterchef-reytinglerde-kacinci-oldu-3928104",
               "source": "Habertürk"
+            }
+          ],
+          "score": 5000
+        },
+        {
+          "title": "batman petrol spor - muğlaspor puan durumları",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Muğlaspor çıkış arıyor",
+              "url": "https://yerel-haberler.haberturk.com/mugla-haberleri/muglaspor-cikis-ariyor-119528375",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Batman Petrolspor&apos;dan iki gollü galibiyet!",
+              "url": "https://www.sporx.com/batman-petrolspor-dan-iki-gollu-galibiyet-SXHBQ1183667SXQ",
+              "source": "Sporx.com"
             }
           ],
           "score": 5000
@@ -330,6 +348,24 @@
           "score": 1000
         },
         {
+          "title": "juventus",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "LIVE Juventus-Venezia 4-0 Serie A 2026/2027: Venezia, Halhal colpisce il palo",
+              "url": "https://www.virgilio.it/sport/dirette/live/serie-a/22-11-2026/juventus-venezia/2638235/",
+              "source": "Virgilio"
+            },
+            {
+              "title": "LIVE Juve-Venezia 4-0: anche Kolo Muani a segno! Dagli 11 metri, dopo i gol di Woltemade, Koop e Cabal",
+              "url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/22-11-2026/live-juve-venezia-risultato-e-gol-in-diretta-serie-a.shtml",
+              "source": "La Gazzetta dello Sport"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "fabrika",
           "traffic": 500,
           "days": 1,
@@ -490,45 +526,9 @@
             }
           ],
           "score": 500
-        },
-        {
-          "title": "sudan - senegal",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Preview: Sudan vs Senegal - prediction, team news, lineups",
-              "url": "https://www.sportsmole.co.uk/football/sudan/africa-cup-of-nations/preview/sudan-vs-senegal-prediction-team-news-lineups_609082.html",
-              "source": "Sports Mole"
-            },
-            {
-              "title": "Senegal, Côte d&apos;Ivoire, Cameroon and Benin strengthen AFCON qualification bids",
-              "url": "https://www.cafonline.com/afcon2025/news/senegal-cote-divoire-cameroon-and-benin-strengthen-afcon-qualification-bids/",
-              "source": "CAFOnline.com"
-            }
-          ],
-          "score": 200
-        },
-        {
-          "title": "tsg",
-          "traffic": 200,
-          "days": 1,
-          "news": [
-            {
-              "title": "Ticketinformationen zu „Hoffe zwo\" gegen Preußen Münster",
-              "url": "https://www.tsg-hoffenheim.de/aktuelles/news/2026/11/ticketinformationen-zu-hoffe-zwo-gegen-preussen-muenster",
-              "source": "TSG Hoffenheim"
-            },
-            {
-              "title": "Last-Minute-Schock",
-              "url": "https://www.scfreiburg.com/aktuell/nachrichten/frauen-maedchen/2026/27/nachberichte/last-minute-schock/",
-              "source": "SC Freiburg"
-            }
-          ],
-          "score": 200
         }
       ],
-      "total": 60
+      "total": 70
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -538,204 +538,204 @@
       "status": "ok",
       "items": [
         {
-          "title": "Yapay zekâ",
-          "article": "Yapay_zekâ",
-          "views": 46924,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
-          "score": 46924
-        },
-        {
-          "title": "Coğrafya",
-          "article": "Coğrafya",
-          "views": 44392,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
-          "score": 44392
-        },
-        {
-          "title": "Sanat",
-          "article": "Sanat",
-          "views": 44371,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Sanat",
-          "score": 44371
-        },
-        {
-          "title": "Teknoloji",
-          "article": "Teknoloji",
-          "views": 44365,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
-          "score": 44365
-        },
-        {
-          "title": "Bilim",
-          "article": "Bilim",
-          "views": 44349,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bilim",
-          "score": 44349
-        },
-        {
-          "title": "Tarih",
-          "article": "Tarih",
-          "views": 44228,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Tarih",
-          "score": 44228
-        },
-        {
           "title": "Berkun Oya",
           "article": "Berkun_Oya",
-          "views": 30587,
+          "views": 24499,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
-          "score": 30587
+          "score": 24499
         },
         {
           "title": "Şahap Kavcıoğlu",
           "article": "Şahap_Kavcıoğlu",
-          "views": 22158,
+          "views": 24208,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/%C5%9Eahap_Kavc%C4%B1o%C4%9Flu",
-          "score": 22158
+          "score": 24208
         },
         {
-          "title": "XHamster",
-          "article": "XHamster",
-          "views": 17743,
+          "title": "Yapay zekâ",
+          "article": "Yapay_zekâ",
+          "views": 20463,
           "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 17743
+          "url": "https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2",
+          "score": 20463
+        },
+        {
+          "title": "Çığlık (tablo)",
+          "article": "Çığlık_(tablo)",
+          "views": 18554,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C3%87%C4%B1%C4%9Fl%C4%B1k_(tablo)",
+          "score": 18554
+        },
+        {
+          "title": "Sanat",
+          "article": "Sanat",
+          "views": 18027,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Sanat",
+          "score": 18027
+        },
+        {
+          "title": "Teknoloji",
+          "article": "Teknoloji",
+          "views": 17847,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+          "score": 17847
+        },
+        {
+          "title": "Tarih",
+          "article": "Tarih",
+          "views": 17699,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Tarih",
+          "score": 17699
+        },
+        {
+          "title": "Coğrafya",
+          "article": "Coğrafya",
+          "views": 17590,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Co%C4%9Frafya",
+          "score": 17590
+        },
+        {
+          "title": "Bilim",
+          "article": "Bilim",
+          "views": 17590,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Bilim",
+          "score": 17590
         },
         {
           "title": "Bir sonraki Türkiye genel seçimleri",
           "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 17461,
+          "views": 17501,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 17461
+          "score": 17501
+        },
+        {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 17454,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 17454
+        },
+        {
+          "title": "Recep Tayyip Erdoğan",
+          "article": "Recep_Tayyip_Erdoğan",
+          "views": 17364,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+          "score": 17364
         },
         {
           "title": "Grand Theft Auto VI",
           "article": "Grand_Theft_Auto_VI",
-          "views": 14980,
+          "views": 16866,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-          "score": 14980
+          "score": 16866
         },
         {
-          "title": "Bir Başkadır",
-          "article": "Bir_Başkadır",
-          "views": 14869,
+          "title": "Levent Alpöge",
+          "article": "Levent_Alpöge",
+          "views": 16632,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/Levent_Alp%C3%B6ge",
+          "score": 16632
+        },
+        {
+          "title": "Türkiye cumhurbaşkanları listesi",
+          "article": "Türkiye_cumhurbaşkanları_listesi",
+          "views": 15608,
           "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bir_Ba%C5%9Fkad%C4%B1r",
-          "score": 14869
+          "url": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_cumhurba%C5%9Fkanlar%C4%B1_listesi",
+          "score": 15608
         },
         {
           "title": "Cinsel ilişki",
           "article": "Cinsel_ilişki",
-          "views": 14282,
+          "views": 14741,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 14282
+          "score": 14741
         },
         {
           "title": "Otlukbeli Muharebesi",
           "article": "Otlukbeli_Muharebesi",
-          "views": 14147,
+          "views": 14327,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Otlukbeli_Muharebesi",
-          "score": 14147
-        },
-        {
-          "title": "II. Mehmed",
-          "article": "II._Mehmed",
-          "views": 13571,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 13571
+          "score": 14327
         },
         {
           "title": "Hayati Yazıcı",
           "article": "Hayati_Yazıcı",
-          "views": 13315,
+          "views": 14064,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Hayati_Yaz%C4%B1c%C4%B1",
-          "score": 13315
+          "score": 14064
         },
         {
-          "title": "Çiğdem Karaaslan",
-          "article": "Çiğdem_Karaaslan",
-          "views": 13132,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/%C3%87i%C4%9Fdem_Karaaslan",
-          "score": 13132
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 13811,
+          "days": 5,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 13811
         },
         {
           "title": "Uzun Hasan",
           "article": "Uzun_Hasan",
-          "views": 13014,
+          "views": 12931,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Uzun_Hasan",
-          "score": 13014
+          "score": 12931
         },
         {
-          "title": "Funda Eryiğit",
-          "article": "Funda_Eryiğit",
-          "views": 11719,
+          "title": "Bir Başkadır",
+          "article": "Bir_Başkadır",
+          "views": 12742,
           "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Funda_Eryi%C4%9Fit",
-          "score": 11719
+          "url": "https://tr.wikipedia.org/wiki/Bir_Ba%C5%9Fkad%C4%B1r",
+          "score": 12742
         },
         {
           "title": "Osmanlı padişahları listesi",
           "article": "Osmanlı_padişahları_listesi",
-          "views": 11206,
+          "views": 11689,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 11206
+          "score": 11689
         },
         {
           "title": "Abdullah Öcalan",
           "article": "Abdullah_Öcalan",
-          "views": 11179,
+          "views": 11536,
           "days": 5,
           "url": "https://tr.wikipedia.org/wiki/Abdullah_%C3%96calan",
-          "score": 11179
+          "score": 11536
         },
         {
-          "title": "2026-27 UEFA Uluslar B Ligi",
-          "article": "2026-27_UEFA_Uluslar_B_Ligi",
-          "views": 9918,
-          "days": 3,
-          "url": "https://tr.wikipedia.org/wiki/2026-27_UEFA_Uluslar_B_Ligi",
-          "score": 9918
-        },
-        {
-          "title": "Bir sonraki Türkiye genel seçimleri için yapılan anketler",
-          "article": "Bir_sonraki_Türkiye_genel_seçimleri_için_yapılan_anketler",
-          "views": 9917,
+          "title": "Sibel Kekilli",
+          "article": "Sibel_Kekilli",
+          "views": 10905,
           "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler",
-          "score": 9917
+          "url": "https://tr.wikipedia.org/wiki/Sibel_Kekilli",
+          "score": 10905
         },
         {
           "title": "Büşra Özdemir",
           "article": "Büşra_Özdemir",
-          "views": 9914,
+          "views": 10473,
           "days": 4,
           "url": "https://tr.wikipedia.org/wiki/B%C3%BC%C5%9Fra_%C3%96zdemir",
-          "score": 9914
-        },
-        {
-          "title": "Candan Yüceer",
-          "article": "Candan_Yüceer",
-          "views": 9736,
-          "days": 5,
-          "url": "https://tr.wikipedia.org/wiki/Candan_Y%C3%BCceer",
-          "score": 9736
+          "score": 10473
         }
       ],
       "coveredDays": 5,
@@ -754,7 +754,7 @@
       "total": 100
     },
     {
-      "title": "Yapay zekâ",
+      "title": "Berkun Oya",
       "platforms": [
         "wikipedia"
       ],
@@ -774,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Coğrafya",
+      "title": "Şahap Kavcıoğlu",
       "platforms": [
         "wikipedia"
       ],
@@ -784,7 +784,7 @@
       "total": 97
     },
     {
-      "title": "palamut",
+      "title": "batman petrol spor - muğlaspor puan durumları",
       "platforms": [
         "google"
       ],
@@ -794,7 +794,7 @@
       "total": 93
     },
     {
-      "title": "Sanat",
+      "title": "Yapay zekâ",
       "platforms": [
         "wikipedia"
       ],
@@ -804,7 +804,7 @@
       "total": 93
     },
     {
-      "title": "bddk",
+      "title": "palamut",
       "platforms": [
         "google"
       ],
@@ -814,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "Teknoloji",
+      "title": "Çığlık (tablo)",
       "platforms": [
         "wikipedia"
       ],
@@ -824,7 +824,7 @@
       "total": 90
     },
     {
-      "title": "taraftar tv",
+      "title": "bddk",
       "platforms": [
         "google"
       ],
@@ -834,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Bilim",
+      "title": "Sanat",
       "platforms": [
         "wikipedia"
       ],
@@ -844,7 +844,7 @@
       "total": 87
     },
     {
-      "title": "justin",
+      "title": "taraftar tv",
       "platforms": [
         "google"
       ],
@@ -854,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "Tarih",
+      "title": "Teknoloji",
       "platforms": [
         "wikipedia"
       ],
@@ -864,7 +864,7 @@
       "total": 83
     },
     {
-      "title": "tod",
+      "title": "justin",
       "platforms": [
         "google"
       ],
@@ -874,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Berkun Oya",
+      "title": "Tarih",
       "platforms": [
         "wikipedia"
       ],
@@ -884,7 +884,7 @@
       "total": 80
     },
     {
-      "title": "kayserispor - sarıyer",
+      "title": "tod",
       "platforms": [
         "google"
       ],
@@ -894,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Şahap Kavcıoğlu",
+      "title": "Coğrafya",
       "platforms": [
         "wikipedia"
       ],
@@ -904,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "başakşehir fatih terim stadyumu",
+      "title": "kayserispor - sarıyer",
       "platforms": [
         "google"
       ],
@@ -914,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "XHamster",
+      "title": "Bilim",
       "platforms": [
         "wikipedia"
       ],
@@ -924,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "kosgeb",
+      "title": "başakşehir fatih terim stadyumu",
       "platforms": [
         "google"
       ],
