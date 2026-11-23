@@ -30,20 +30,20 @@
 ## Son rapor
 
 <!-- SON-RAPOR:BASLA -->
-**2026-W47** (2026-11-16 → 2026-11-22) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W47.html) · [Markdown](reports/2026-W47.md)
+**2026-W48** (2026-11-23 → 2026-11-29) · hafta devam ediyor — [grafikli rapor](https://aytcode.github.io/turkiye-trendleri/hafta/2026-W48.html) · [Markdown](reports/2026-W48.md)
 
 | # | Konu | Platform sayısı |
 |---:|---|---:|
-| 1 | ikindi namazı | 1 |
-| 2 | Berkun Oya | 1 |
-| 3 | 17 kasım reyting sonuçları | 1 |
-| 4 | Şahap Kavcıoğlu | 1 |
-| 5 | batman petrol spor - muğlaspor puan durumları | 1 |
-| 6 | Yapay zekâ | 1 |
-| 7 | palamut | 1 |
-| 8 | Çığlık (tablo) | 1 |
-| 9 | bddk | 1 |
-| 10 | Sanat | 1 |
+| 1 | kar | 1 |
+| 2 | sömestr tatili ne zaman 2027 | 1 |
+| 3 | ekonomi | 1 |
+| 4 | ev | 1 |
+| 5 | övgün ahmet ercan | 1 |
+| 6 | morgan stanley | 1 |
+| 7 | cyberleek | 1 |
+| 8 | kırklareli hava durumu | 1 |
+| 9 | kabine toplantısı | 1 |
+| 10 | dolunay ne zaman | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

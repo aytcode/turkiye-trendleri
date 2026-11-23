@@ -1,18 +1,36 @@
 [
   {
-    "week": "2026-W47",
-    "start": "2026-11-16",
-    "end": "2026-11-22",
+    "week": "2026-W48",
+    "start": "2026-11-23",
+    "end": "2026-11-29",
     "final": false,
     "activeSources": [
       "google",
       "wikipedia"
     ],
     "top": [
+      "kar",
+      "sömestr tatili ne zaman 2027",
+      "ekonomi",
+      "ev",
+      "övgün ahmet ercan"
+    ],
+    "url": "hafta/2026-W48.html"
+  },
+  {
+    "week": "2026-W47",
+    "start": "2026-11-16",
+    "end": "2026-11-22",
+    "final": true,
+    "activeSources": [
+      "google",
+      "wikipedia"
+    ],
+    "top": [
       "ikindi namazı",
-      "Berkun Oya",
+      "Yapay zekâ",
       "17 kasım reyting sonuçları",
-      "Şahap Kavcıoğlu",
+      "Sanat",
       "batman petrol spor - muğlaspor puan durumları"
     ],
     "url": "hafta/2026-W47.html"

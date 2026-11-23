@@ -1,0 +1,354 @@
+{
+  "week": "2026-W48",
+  "days": [
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+  ],
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "final": false,
+  "sample": false,
+  "generatedAt": "2026-11-23T15:50:29.375Z",
+  "snapshotDays": 1,
+  "activeSources": [
+    "google",
+    "wikipedia"
+  ],
+  "sources": {
+    "x": {
+      "id": "x",
+      "name": "X (Twitter)",
+      "color": "#536471",
+      "needs": [
+        "X_BEARER_TOKEN"
+      ],
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "tiktok": {
+      "id": "tiktok",
+      "name": "TikTok",
+      "color": "#14B8C4",
+      "needs": [
+        "TIKTOK_CLIENT_KEY",
+        "TIKTOK_CLIENT_SECRET"
+      ],
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "instagram": {
+      "id": "instagram",
+      "name": "Instagram",
+      "color": "#E1306C",
+      "needs": [
+        "IG_USER_ID",
+        "IG_ACCESS_TOKEN"
+      ],
+      "status": "skipped",
+      "reason": "IG_USER_ID, IG_ACCESS_TOKEN tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "youtube": {
+      "id": "youtube",
+      "name": "YouTube",
+      "color": "#FF0033",
+      "needs": [
+        "YOUTUBE_API_KEY"
+      ],
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil",
+      "items": [],
+      "total": 0
+    },
+    "google": {
+      "id": "google",
+      "name": "Google Trends",
+      "color": "#4285F4",
+      "needs": [],
+      "status": "ok",
+      "items": [
+        {
+          "title": "kar",
+          "traffic": 500000,
+          "days": 1,
+          "news": [
+            {
+              "title": "AKOM ve meteoroloji saat verdi: İstanbul dahil 22 ilde alarm! Gök gürültülü sağanak yağış ve fırtına geliyor",
+              "url": "https://www.hurriyet.com.tr/gundem/akom-ve-meteoroloji-saat-verdi-istanbul-dahil-22-ilde-alarm-gok-gurultulu-saganak-yagis-ve-firtina-geliyor-yerlesim-yerlerinin-43387542",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Meteoroloji&apos;den sağanak uyarısı",
+              "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-saganak-uyarisi-964207.html",
+              "source": "TRT Haber"
+            }
+          ],
+          "score": 500000
+        },
+        {
+          "title": "sömestr tatili ne zaman 2027",
+          "traffic": 5000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Ara tatil sonrası okullarda ilk ders zili çaldı",
+              "url": "https://www.trthaber.com/haber/egitim/ara-tatil-sonrasi-okullarda-ilk-ders-zili-caldi-964161.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "17 milyon öğrenci okula döndü… 9 günlük tatil bitti",
+              "url": "https://www.hurriyet.com.tr/egitim/17-milyon-ogrenci-okula-dondu-9-gunluk-tatil-bitti-43386629",
+              "source": "Hürriyet"
+            }
+          ],
+          "score": 5000
+        },
+        {
+          "title": "ekonomi",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Emekli maaşlarında üç farklı hesaplama sistemi: Bakan Işıkhan ayrıntıları açıkladı",
+              "url": "https://www.cumhuriyet.com.tr/ekonomi/emekli-maaslarinda-uc-farkli-hesaplama-sistemi-bakan-isikhan-ayrintilari-acikladi-2558584",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Kabine toplantısı başladı. Emekliye refah payı düzenlemesi ve fon soruşturması ele alınacak",
+              "url": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-emekliye-refah-payi-duzenlemesi-ve-fon-sorusturmasi-ele-alinacak-1752049",
+              "source": "NTV Haber"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "ev",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "\"Emlakçılar konut gösterimi için ücret talep edemez\" uyarısı",
+              "url": "https://www.aa.com.tr/tr/ekonomi/emlakcilar-konut-gosterimi-icin-ucret-talep-edemez-uyarisi/4133383",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "Emlakçılar &apos;ev gösterme&apos; ücreti alabilir mi? Uzmanlar bu uyarı ile yanıtladı: Mevzuata aykırı!",
+              "url": "https://www.cnnturk.com/emlak/galeri/emlakcilar-ev-gosterme-ucreti-alabilir-mi-uzmanlar-bu-uyari-ile-yanitladi-mevzuata-aykiri-3496453",
+              "source": "CNN Türk"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "övgün ahmet ercan",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Nazillili Jeofizik Yüksek Mühendisi Prof. Dr. Ahmet Övgün Ercan, ilçenin altından geçen \"düşüntülü\" fay hattının 2,5 metreye varan çökmelere ve büyük yıkıma yol açabileceği uyarısında bulundu. Demir yolunun güneyine inilmemesi gerektiğini vurgulayan Erca",
+              "url": "https://www.instagram.com/p/DgFXAbniXXC/",
+              "source": "Instagram"
+            },
+            {
+              "title": "Deprem profesöründen Aydın’a uyarı: Şehir hastanesinin yerini eleştirdi",
+              "url": "https://aydinhavadisleri.com/deprem-profesorunden-aydina-uyari-sehir-hastanesinin-yerini-elestirdi/",
+              "source": "Aydın Havadisleri"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "morgan stanley",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Gümüş yeniden yükselişe geçti: Bankaların tahminleri dikkat çekti",
+              "url": "https://www.cumhuriyet.com.tr/ekonomi/gumus-yeniden-yukselise-gecti-bankalarin-tahminleri-dikkat-cekti-2558647",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "Gümüşte hızlı yükseliş! Morgan Stanley&apos;den yüzde 74&apos;lük kazanç tahmini",
+              "url": "https://www.ekonomim.com/emtia/gumuste-hizli-yukselis-morgan-stanleyden-yuzde-74luk-kazanc-tahmini-haberi-932877",
+              "source": "Ekonomim"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "cyberleek",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic",
+              "url": "https://www.notebookcheck.net/Cyberleek-releases-GTA-6-Xbox-build-making-playable-PC-port-more-realistic.1454770.0.html",
+              "source": "Notebookcheck"
+            },
+            {
+              "title": "Developers have released the Leonida tool for natively running Grand Theft Auto VI on PC.",
+              "url": "https://en.gamegpu.com/news/igry/razrabotchiki-predstavili-instrument-leonida-dlya-nativnogo-zapuska-grand-theft-auto-vi-na-pk",
+              "source": "GameGPU"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "kırklareli hava durumu",
+          "traffic": 100,
+          "days": 1,
+          "news": [],
+          "score": 100
+        },
+        {
+          "title": "kabine toplantısı",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Cumhurbaşkanlığı Kabinesi toplandı",
+              "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4134598",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "Kabine toplantısı sona erdi. Cumhurbaşkanı Erdoğan açıklama yapıyor",
+              "url": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
+              "source": "NTV Haber"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "dolunay ne zaman",
+          "traffic": 100,
+          "days": 1,
+          "news": [],
+          "score": 100
+        }
+      ],
+      "total": 10
+    },
+    "wikipedia": {
+      "id": "wikipedia",
+      "name": "Vikipedi",
+      "color": "#8E8E93",
+      "needs": [],
+      "status": "ok",
+      "items": [],
+      "coveredDays": 0,
+      "total": 0
+    }
+  },
+  "overall": [
+    {
+      "title": "kar",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 100
+      },
+      "total": 100
+    },
+    {
+      "title": "sömestr tatili ne zaman 2027",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 97
+      },
+      "total": 97
+    },
+    {
+      "title": "ekonomi",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 93
+      },
+      "total": 93
+    },
+    {
+      "title": "ev",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 90
+      },
+      "total": 90
+    },
+    {
+      "title": "övgün ahmet ercan",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 87
+      },
+      "total": 87
+    },
+    {
+      "title": "morgan stanley",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 83
+      },
+      "total": 83
+    },
+    {
+      "title": "cyberleek",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 80
+      },
+      "total": 80
+    },
+    {
+      "title": "kırklareli hava durumu",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 77
+      },
+      "total": 77
+    },
+    {
+      "title": "kabine toplantısı",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 73
+      },
+      "total": 73
+    },
+    {
+      "title": "dolunay ne zaman",
+      "platforms": [
+        "google"
+      ],
+      "parts": {
+        "google": 70
+      },
+      "total": 70
+    }
+  ]
+}
