@@ -13,8 +13,8 @@
   "end": "2026-11-29",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-23T15:50:29.375Z",
-  "snapshotDays": 1,
+  "generatedAt": "2026-11-24T15:41:28.896Z",
+  "snapshotDays": 2,
   "activeSources": [
     "google",
     "wikipedia"
@@ -96,6 +96,24 @@
           "score": 500000
         },
         {
+          "title": "galatasaray",
+          "traffic": 100000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Şampiyonlar Ligi&apos;nde bu hafta hangi maçlar var? Devler Ligi 5. hafta maçları ne zaman, saat kaçta oynanacak?",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-sampiyonlar-liginde-bu-hafta-hangi-maclar-var-devler-ligi-5-hafta-maclari-ne-zaman-saat-kacta-oynanacak-43389533",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Aston Villa maçı öncesi Galatasaray Adası&apos;nda dostluk yemeği organize edildi",
+              "url": "https://www.galatasaray.org/haber/kulup/aston-villa-maci-oncesi-galatasaray-adasinda-dostluk-yemegi-organize-edildi/61459",
+              "source": "GALATASARAY.ORG"
+            }
+          ],
+          "score": 100000
+        },
+        {
           "title": "sömestr tatili ne zaman 2027",
           "traffic": 5000,
           "days": 1,
@@ -148,6 +166,60 @@
             }
           ],
           "score": 2000
+        },
+        {
+          "title": "futbol",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Binéfar acoge por segundo año una jornada de fútbol inclusivo con motivo del Día Internacional de la Discapacidad",
+              "url": "https://www.diariodelaltoaragon.es/noticias/deportes/2026/11/24/binefar-acoge-por-segundo-ano-una-jornada-futbol-inclusivo-con-motivo-dia-internacional-discapacidad-2071438.html",
+              "source": "diariodelaltoaragon.es"
+            },
+            {
+              "title": "El Sporting pasa de referente a quitar el fútbol sala, mientras Athletic, Juventus y Premier apuestan por esa formación",
+              "url": "https://www.lavozdeasturias.es/noticia/sporting1905/2026/11/24/sporting-pasa-referente-quitar-futbol-sala-athletic-juventus-premier-apuestan-formacion/00031795521525064240785.htm",
+              "source": "La Voz de Asturias"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "aksaray haber",
+          "traffic": 2000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Aksaray - Nevşehir kara yolunda otobüs devrildi! Çok sayıda yaralı var",
+              "url": "https://www.sozcu.com.tr/aksaray-nevsehir-kara-yolunda-otobus-devrildi-cok-sayida-yarali-var-p384024",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Aksaray&apos;da yolcu otobüsü devrildi, 22 kişi yaralandı",
+              "url": "https://m.aa.com.tr/tr/gundem/aksarayda-yolcu-otobusu-devrildi-22-kisi-yaralandi-/4135691",
+              "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 2000
+        },
+        {
+          "title": "trt 1 yayın akışı",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "TV YAYIN AKIŞI 24 KASIM 2026 (TÜM KANALLAR) || Bugün TV&apos;de ne var? Star TV, Kanal D, ATV, TRT 1, TV8, NOW TV ve Show TV Yayın Akışı Listesi",
+              "url": "https://www.hurriyet.com.tr/galeri-tv-yayin-akisi-24-kasim-2026-tum-kanallar-bugun-tvde-ne-var-star-tv-kanal-d-atv-trt-1-tv8-now-tv-ve-show-tv-yayin-43389473",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "23 Kasım 2026 Pazartesi TV Yayın Akışı: Bu akşam hangi diziler var, televizyonda ne var?",
+              "url": "https://www.birgun.net/haber/23-kasim-2026-pazartesi-tv-yayin-akisi-bu-aksam-hangi-diziler-var-televizyonda-ne-var-747995",
+              "source": "BirGün Gazetesi"
+            }
+          ],
+          "score": 500
         },
         {
           "title": "övgün ahmet ercan",
@@ -204,6 +276,78 @@
           "score": 200
         },
         {
+          "title": "from",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Advancing bioanalysis from small molecules to biologics with high-resolution mass spectrometry",
+              "url": "https://www.news-medical.net/news/20261124/Advancing-bioanalysis-from-small-molecules-to-biologics-with-high-resolution-mass-spectrometry.aspx",
+              "source": "News-Medical"
+            },
+            {
+              "title": "Controversial railroad ties set to be removed from Laramie’s West Side",
+              "url": "https://wyofile.com/controversial-railroad-ties-set-to-be-removed-from-laramies-west-side/",
+              "source": "WyoFile"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "dolandırıcılık",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Sahte araç kiralama sitesiyle 317 bin TL’lik dolandırıcılık",
+              "url": "https://www.gundemkibris.com/sahte-arac-kiralama-sitesiyle-317-bin-tllik-dolandiricilik-1",
+              "source": "Gündem Kıbrıs Gazetesi - Kıbrıs Haber"
+            },
+            {
+              "title": "317 BİN TL&apos;LİK DOLANDIRICILIK İDDİASI MAHKEMEDE!",
+              "url": "https://www.topuzgazetesi.com/317-bin-tllik-dolandiricilik-iddiasi-mahkemede",
+              "source": "Topuz Gazetesi"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "ucl",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Mauricio Pochettino’s struggling Man United defence handed injury boost with Luke Shaw return",
+              "url": "https://www.independent.co.uk/sport/football/man-utd-news-luke-shaw-injury-sporting-champions-b3090606.html",
+              "source": "The Independent"
+            },
+            {
+              "title": "Fernandes facing Sporting for first time",
+              "url": "https://www.manutd.com/en/news/bruno-fernandes-facing-sporting-for-first-time-november-2026",
+              "source": "Manchester United"
+            }
+          ],
+          "score": 200
+        },
+        {
+          "title": "champions league",
+          "traffic": 200,
+          "days": 1,
+          "news": [
+            {
+              "title": "Champions League predicted line-ups: Matchday 5 team news, injuries, suspensions",
+              "url": "https://www.uefa.com/uefachampionsleague/news/02ab-2223c67db015-c4f7874e074e-1000--champions-league-predicted-line-ups-matchday-5-team-news-/",
+              "source": "UEFA.com"
+            },
+            {
+              "title": "UEFA Champions League Picks Today: UCL Predictions for November 24",
+              "url": "https://www.thesportsgeek.com/blog/champions-league-best-bets-2026-11-24/",
+              "source": "The Sports Geek"
+            }
+          ],
+          "score": 200
+        },
+        {
           "title": "kırklareli hava durumu",
           "traffic": 100,
           "days": 1,
@@ -234,9 +378,45 @@
           "days": 1,
           "news": [],
           "score": 100
+        },
+        {
+          "title": "iski su kesintisi",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "İSKİ duyurdu: İstanbul&apos;da 8 saatlik su kesintisi!",
+              "url": "https://www.cumhuriyet.com.tr/turkiye/iski-duyurdu-istanbul-da-8-saatlik-su-kesintisi-2558620",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "İstanbul&apos;da 8 saatlik su kesintisi: İSKİ mahalleleri tek tek açıkladı",
+              "url": "https://www.yenisafak.com/galeri/gundem/istanbulda-8-saatlik-su-kesintisi-iski-mahalleleri-tek-tek-acikladi-4876033",
+              "source": "Yeni Şafak"
+            }
+          ],
+          "score": 100
+        },
+        {
+          "title": "orhun kartal",
+          "traffic": 100,
+          "days": 1,
+          "news": [
+            {
+              "title": "Koray GYO, 441,16 milyon TL’lik Sat-Geri Kirala işlemi gerçekleştirdi",
+              "url": "https://tr.investing.com/news/global-filings/koray-gyo-44116-milyon-tllik-satgeri-kirala-islemi-gerceklestirdi-93CH-4170603",
+              "source": "Investing.com Türkiye"
+            },
+            {
+              "title": "Şahsi mal varlığına kısıtlama getirilen Orhun Kartal&apos;ın patronu olduğu Koray GYO, 7 lüks konutu 441 milyon liraya devretti",
+              "url": "https://www.patronlardunyasi.com/sahsi-mal-varligina-kisitlama-getirilen-orhun-kartalin-patronu-oldugu-koray-gyo-7-luks-konutu-441-milyon-liraya-devretti",
+              "source": "Patronlar Dünyası"
+            }
+          ],
+          "score": 100
         }
       ],
-      "total": 10
+      "total": 20
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -244,9 +424,210 @@
       "color": "#8E8E93",
       "needs": [],
       "status": "ok",
-      "items": [],
-      "coveredDays": 0,
-      "total": 0
+      "items": [
+        {
+          "title": "Levent Alpöge",
+          "article": "Levent_Alpöge",
+          "views": 4131,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Levent_Alp%C3%B6ge",
+          "score": 4131
+        },
+        {
+          "title": "Emre Mor",
+          "article": "Emre_Mor",
+          "views": 3867,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Emre_Mor",
+          "score": 3867
+        },
+        {
+          "title": "Ahmet Uluçay",
+          "article": "Ahmet_Uluçay",
+          "views": 3479,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_Ulu%C3%A7ay",
+          "score": 3479
+        },
+        {
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 3324,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 3324
+        },
+        {
+          "title": "Büşra Develi",
+          "article": "Büşra_Develi",
+          "views": 3178,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/B%C3%BC%C5%9Fra_Develi",
+          "score": 3178
+        },
+        {
+          "title": "Bir sonraki Türkiye genel seçimleri",
+          "article": "Bir_sonraki_Türkiye_genel_seçimleri",
+          "views": 2960,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
+          "score": 2960
+        },
+        {
+          "title": "Ertuğrul Dursun Önkuzu",
+          "article": "Ertuğrul_Dursun_Önkuzu",
+          "views": 2790,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Ertu%C4%9Frul_Dursun_%C3%96nkuzu",
+          "score": 2790
+        },
+        {
+          "title": "Berkun Oya",
+          "article": "Berkun_Oya",
+          "views": 2756,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
+          "score": 2756
+        },
+        {
+          "title": "Aslan",
+          "article": "Aslan",
+          "views": 2674,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Aslan",
+          "score": 2674
+        },
+        {
+          "title": "Ömer Fahreddin Türkkan",
+          "article": "Ömer_Fahreddin_Türkkan",
+          "views": 2161,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C3%96mer_Fahreddin_T%C3%BCrkkan",
+          "score": 2161
+        },
+        {
+          "title": "Öğretmenler Günü",
+          "article": "Öğretmenler_Günü",
+          "views": 2159,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC",
+          "score": 2159
+        },
+        {
+          "title": "Recep Tayyip Erdoğan",
+          "article": "Recep_Tayyip_Erdoğan",
+          "views": 2107,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+          "score": 2107
+        },
+        {
+          "title": "Sibel Kekilli",
+          "article": "Sibel_Kekilli",
+          "views": 1985,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Sibel_Kekilli",
+          "score": 1985
+        },
+        {
+          "title": "Bertuğ Yıldırım",
+          "article": "Bertuğ_Yıldırım",
+          "views": 1983,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Bertu%C4%9F_Y%C4%B1ld%C4%B1r%C4%B1m",
+          "score": 1983
+        },
+        {
+          "title": "Çiğdem Batur",
+          "article": "Çiğdem_Batur",
+          "views": 1959,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/%C3%87i%C4%9Fdem_Batur",
+          "score": 1959
+        },
+        {
+          "title": "Cinsel ilişki",
+          "article": "Cinsel_ilişki",
+          "views": 1929,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
+          "score": 1929
+        },
+        {
+          "title": "Murat Kurum",
+          "article": "Murat_Kurum",
+          "views": 1928,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Murat_Kurum",
+          "score": 1928
+        },
+        {
+          "title": "Riemann hipotezi",
+          "article": "Riemann_hipotezi",
+          "views": 1901,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Riemann_hipotezi",
+          "score": 1901
+        },
+        {
+          "title": "Mehmet Pişkin'in intiharı",
+          "article": "Mehmet_Pişkin'in_intiharı",
+          "views": 1695,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Mehmet_Pi%C5%9Fkin'in_intihar%C4%B1",
+          "score": 1695
+        },
+        {
+          "title": "Reha Muhtar",
+          "article": "Reha_Muhtar",
+          "views": 1672,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Reha_Muhtar",
+          "score": 1672
+        },
+        {
+          "title": "Osmanlı padişahları listesi",
+          "article": "Osmanlı_padişahları_listesi",
+          "views": 1670,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
+          "score": 1670
+        },
+        {
+          "title": "Karpuz Kabuğundan Gemiler Yapmak",
+          "article": "Karpuz_Kabuğundan_Gemiler_Yapmak",
+          "views": 1649,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Karpuz_Kabu%C4%9Fundan_Gemiler_Yapmak",
+          "score": 1649
+        },
+        {
+          "title": "Grand Theft Auto VI",
+          "article": "Grand_Theft_Auto_VI",
+          "views": 1633,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "score": 1633
+        },
+        {
+          "title": "II. Mehmed",
+          "article": "II._Mehmed",
+          "views": 1617,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
+          "score": 1617
+        },
+        {
+          "title": "Abdülkerim Bardakcı",
+          "article": "Abdülkerim_Bardakcı",
+          "views": 1592,
+          "days": 1,
+          "url": "https://tr.wikipedia.org/wiki/Abd%C3%BClkerim_Bardakc%C4%B1",
+          "score": 1592
+        }
+      ],
+      "coveredDays": 1,
+      "total": 50
     }
   },
   "overall": [
@@ -261,7 +642,17 @@
       "total": 100
     },
     {
-      "title": "sömestr tatili ne zaman 2027",
+      "title": "Levent Alpöge",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 100
+      },
+      "total": 100
+    },
+    {
+      "title": "galatasaray",
       "platforms": [
         "google"
       ],
@@ -271,7 +662,17 @@
       "total": 97
     },
     {
-      "title": "ekonomi",
+      "title": "Emre Mor",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 97
+      },
+      "total": 97
+    },
+    {
+      "title": "sömestr tatili ne zaman 2027",
       "platforms": [
         "google"
       ],
@@ -281,7 +682,17 @@
       "total": 93
     },
     {
-      "title": "ev",
+      "title": "Ahmet Uluçay",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 93
+      },
+      "total": 93
+    },
+    {
+      "title": "ekonomi",
       "platforms": [
         "google"
       ],
@@ -291,7 +702,17 @@
       "total": 90
     },
     {
-      "title": "övgün ahmet ercan",
+      "title": "XHamster",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 90
+      },
+      "total": 90
+    },
+    {
+      "title": "ev",
       "platforms": [
         "google"
       ],
@@ -301,7 +722,17 @@
       "total": 87
     },
     {
-      "title": "morgan stanley",
+      "title": "Büşra Develi",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 87
+      },
+      "total": 87
+    },
+    {
+      "title": "futbol",
       "platforms": [
         "google"
       ],
@@ -311,7 +742,17 @@
       "total": 83
     },
     {
-      "title": "cyberleek",
+      "title": "Bir sonraki Türkiye genel seçimleri",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 83
+      },
+      "total": 83
+    },
+    {
+      "title": "aksaray haber",
       "platforms": [
         "google"
       ],
@@ -321,7 +762,17 @@
       "total": 80
     },
     {
-      "title": "kırklareli hava durumu",
+      "title": "Ertuğrul Dursun Önkuzu",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 80
+      },
+      "total": 80
+    },
+    {
+      "title": "trt 1 yayın akışı",
       "platforms": [
         "google"
       ],
@@ -331,7 +782,17 @@
       "total": 77
     },
     {
-      "title": "kabine toplantısı",
+      "title": "Berkun Oya",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 77
+      },
+      "total": 77
+    },
+    {
+      "title": "övgün ahmet ercan",
       "platforms": [
         "google"
       ],
@@ -341,12 +802,32 @@
       "total": 73
     },
     {
-      "title": "dolunay ne zaman",
+      "title": "Aslan",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 73
+      },
+      "total": 73
+    },
+    {
+      "title": "morgan stanley",
       "platforms": [
         "google"
       ],
       "parts": {
         "google": 70
+      },
+      "total": 70
+    },
+    {
+      "title": "Ömer Fahreddin Türkkan",
+      "platforms": [
+        "wikipedia"
+      ],
+      "parts": {
+        "wikipedia": 70
       },
       "total": 70
     }

@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | kar | 1 |
-| 2 | sömestr tatili ne zaman 2027 | 1 |
-| 3 | ekonomi | 1 |
-| 4 | ev | 1 |
-| 5 | övgün ahmet ercan | 1 |
-| 6 | morgan stanley | 1 |
-| 7 | cyberleek | 1 |
-| 8 | kırklareli hava durumu | 1 |
-| 9 | kabine toplantısı | 1 |
-| 10 | dolunay ne zaman | 1 |
+| 2 | Levent Alpöge | 1 |
+| 3 | galatasaray | 1 |
+| 4 | Emre Mor | 1 |
+| 5 | sömestr tatili ne zaman 2027 | 1 |
+| 6 | Ahmet Uluçay | 1 |
+| 7 | ekonomi | 1 |
+| 8 | XHamster | 1 |
+| 9 | ev | 1 |
+| 10 | Büşra Develi | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

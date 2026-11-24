@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-24",
+  "collectedAt": "2026-11-24T15:41:28.896Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "galatasaray",
+          "traffic": 100000,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Şampiyonlar Ligi&apos;nde bu hafta hangi maçlar var? Devler Ligi 5. hafta maçları ne zaman, saat kaçta oynanacak?",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-sampiyonlar-liginde-bu-hafta-hangi-maclar-var-devler-ligi-5-hafta-maclari-ne-zaman-saat-kacta-oynanacak-43389533",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Aston Villa maçı öncesi Galatasaray Adası&apos;nda dostluk yemeği organize edildi",
+              "url": "https://www.galatasaray.org/haber/kulup/aston-villa-maci-oncesi-galatasaray-adasinda-dostluk-yemegi-organize-edildi/61459",
+              "source": "GALATASARAY.ORG"
+            }
+          ]
+        },
+        {
+          "title": "from",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Advancing bioanalysis from small molecules to biologics with high-resolution mass spectrometry",
+              "url": "https://www.news-medical.net/news/20261124/Advancing-bioanalysis-from-small-molecules-to-biologics-with-high-resolution-mass-spectrometry.aspx",
+              "source": "News-Medical"
+            },
+            {
+              "title": "Controversial railroad ties set to be removed from Laramie’s West Side",
+              "url": "https://wyofile.com/controversial-railroad-ties-set-to-be-removed-from-laramies-west-side/",
+              "source": "WyoFile"
+            }
+          ]
+        },
+        {
+          "title": "dolandırıcılık",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Sahte araç kiralama sitesiyle 317 bin TL’lik dolandırıcılık",
+              "url": "https://www.gundemkibris.com/sahte-arac-kiralama-sitesiyle-317-bin-tllik-dolandiricilik-1",
+              "source": "Gündem Kıbrıs Gazetesi - Kıbrıs Haber"
+            },
+            {
+              "title": "317 BİN TL&apos;LİK DOLANDIRICILIK İDDİASI MAHKEMEDE!",
+              "url": "https://www.topuzgazetesi.com/317-bin-tllik-dolandiricilik-iddiasi-mahkemede",
+              "source": "Topuz Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "iski su kesintisi",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "İSKİ duyurdu: İstanbul&apos;da 8 saatlik su kesintisi!",
+              "url": "https://www.cumhuriyet.com.tr/turkiye/iski-duyurdu-istanbul-da-8-saatlik-su-kesintisi-2558620",
+              "source": "Cumhuriyet"
+            },
+            {
+              "title": "İstanbul&apos;da 8 saatlik su kesintisi: İSKİ mahalleleri tek tek açıkladı",
+              "url": "https://www.yenisafak.com/galeri/gundem/istanbulda-8-saatlik-su-kesintisi-iski-mahalleleri-tek-tek-acikladi-4876033",
+              "source": "Yeni Şafak"
+            }
+          ]
+        },
+        {
+          "title": "ucl",
+          "traffic": 200,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Mauricio Pochettino’s struggling Man United defence handed injury boost with Luke Shaw return",
+              "url": "https://www.independent.co.uk/sport/football/man-utd-news-luke-shaw-injury-sporting-champions-b3090606.html",
+              "source": "The Independent"
+            },
+            {
+              "title": "Fernandes facing Sporting for first time",
+              "url": "https://www.manutd.com/en/news/bruno-fernandes-facing-sporting-for-first-time-november-2026",
+              "source": "Manchester United"
+            }
+          ]
+        },
+        {
+          "title": "orhun kartal",
+          "traffic": 100,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Koray GYO, 441,16 milyon TL’lik Sat-Geri Kirala işlemi gerçekleştirdi",
+              "url": "https://tr.investing.com/news/global-filings/koray-gyo-44116-milyon-tllik-satgeri-kirala-islemi-gerceklestirdi-93CH-4170603",
+              "source": "Investing.com Türkiye"
+            },
+            {
+              "title": "Şahsi mal varlığına kısıtlama getirilen Orhun Kartal&apos;ın patronu olduğu Koray GYO, 7 lüks konutu 441 milyon liraya devretti",
+              "url": "https://www.patronlardunyasi.com/sahsi-mal-varligina-kisitlama-getirilen-orhun-kartalin-patronu-oldugu-koray-gyo-7-luks-konutu-441-milyon-liraya-devretti",
+              "source": "Patronlar Dünyası"
+            }
+          ]
+        },
+        {
+          "title": "futbol",
+          "traffic": 2000,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Binéfar acoge por segundo año una jornada de fútbol inclusivo con motivo del Día Internacional de la Discapacidad",
+              "url": "https://www.diariodelaltoaragon.es/noticias/deportes/2026/11/24/binefar-acoge-por-segundo-ano-una-jornada-futbol-inclusivo-con-motivo-dia-internacional-discapacidad-2071438.html",
+              "source": "diariodelaltoaragon.es"
+            },
+            {
+              "title": "El Sporting pasa de referente a quitar el fútbol sala, mientras Athletic, Juventus y Premier apuestan por esa formación",
+              "url": "https://www.lavozdeasturias.es/noticia/sporting1905/2026/11/24/sporting-pasa-referente-quitar-futbol-sala-athletic-juventus-premier-apuestan-formacion/00031795521525064240785.htm",
+              "source": "La Voz de Asturias"
+            }
+          ]
+        },
+        {
+          "title": "aksaray haber",
+          "traffic": 2000,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Aksaray - Nevşehir kara yolunda otobüs devrildi! Çok sayıda yaralı var",
+              "url": "https://www.sozcu.com.tr/aksaray-nevsehir-kara-yolunda-otobus-devrildi-cok-sayida-yarali-var-p384024",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Aksaray&apos;da yolcu otobüsü devrildi, 22 kişi yaralandı",
+              "url": "https://m.aa.com.tr/tr/gundem/aksarayda-yolcu-otobusu-devrildi-22-kisi-yaralandi-/4135691",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "trt 1 yayın akışı",
+          "traffic": 500,
+          "rank": 9,
+          "news": [
+            {
+              "title": "TV YAYIN AKIŞI 24 KASIM 2026 (TÜM KANALLAR) || Bugün TV&apos;de ne var? Star TV, Kanal D, ATV, TRT 1, TV8, NOW TV ve Show TV Yayın Akışı Listesi",
+              "url": "https://www.hurriyet.com.tr/galeri-tv-yayin-akisi-24-kasim-2026-tum-kanallar-bugun-tvde-ne-var-star-tv-kanal-d-atv-trt-1-tv8-now-tv-ve-show-tv-yayin-43389473",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "23 Kasım 2026 Pazartesi TV Yayın Akışı: Bu akşam hangi diziler var, televizyonda ne var?",
+              "url": "https://www.birgun.net/haber/23-kasim-2026-pazartesi-tv-yayin-akisi-bu-aksam-hangi-diziler-var-televizyonda-ne-var-747995",
+              "source": "BirGün Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "champions league",
+          "traffic": 200,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Champions League predicted line-ups: Matchday 5 team news, injuries, suspensions",
+              "url": "https://www.uefa.com/uefachampionsleague/news/02ab-2223c67db015-c4f7874e074e-1000--champions-league-predicted-line-ups-matchday-5-team-news-/",
+              "source": "UEFA.com"
+            },
+            {
+              "title": "UEFA Champions League Picks Today: UCL Predictions for November 24",
+              "url": "https://www.thesportsgeek.com/blog/champions-league-best-bets-2026-11-24/",
+              "source": "The Sports Geek"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
