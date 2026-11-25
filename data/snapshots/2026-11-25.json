@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-25",
+  "collectedAt": "2026-11-25T15:25:27.089Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "basketbol",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "12 DEV ADAM MAÇ PROGRAMI 2026: A Milli Basketbol Takımı Dünya Kupası Elemeleri 2. tur maçları ne zaman, saat kaçta oynanacak, rakipleri kimler?",
+              "url": "https://www.hurriyet.com.tr/sporarena/galeri-a-milli-basketbol-takimi-dunya-kupasi-elemeleri-2-tur-maclari-ne-zaman-saat-kacta-oynanacak-rakipleri-kimler-43391025",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "A Milli Basketbol Takımı, İtalya karşısında resmi maçlardaki 3. galibiyetin peşinde",
+              "url": "https://aa.com.tr/tr/spor/a-milli-basketbol-takimi-italya-karsisinda-resmi-maclardaki-3-galibiyetin-pesinde/4136926",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "feyza civelek",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Feyza Civelek&apos;ten Yeraltı dizisi açıklaması: Kadroya dahil mi oluyor?",
+              "url": "https://www.sozcu.com.tr/feyza-civelek-ten-yeralti-dizisi-aciklamasi-kadroya-dahil-mi-oluyor-p384324",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Kızılcık Şerbeti&apos;nin Nilay&apos;ı sevilen diziye girecek iddiası: Feyza Civelek sonunda açıkladı",
+              "url": "https://www.gzt.com/hayat/kizilcik-serbetinin-nilayi-sevilen-diziye-girecek-iddiasi-feyza-civelek-sonunda-acikladi-4282694",
+              "source": "GZT"
+            }
+          ]
+        },
+        {
+          "title": "nasdaq 100",
+          "traffic": 200,
+          "rank": 3,
+          "news": [
+            {
+              "title": "The Nasdaq-100 Is Now Just 49 Points From a Bear Market",
+              "url": "https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/",
+              "source": "24/7 Wall St."
+            },
+            {
+              "title": "Nasdaq Index Faces Correction Risks Amid AI Stock Decline",
+              "url": "https://intellectia.ai/news/stock/nasdaq-index-faces-correction-risks-amid-ai-stock-decline",
+              "source": "Intellectia AI"
+            }
+          ]
+        },
+        {
+          "title": "matan kahana",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "In 1st meeting, Supreme Court chief and Knesset speaker discuss protecting state institutions",
+              "url": "https://www.timesofisrael.com/liveblog_entry/in-1st-meeting-supreme-court-chief-and-knesset-speaker-discuss-protecting-state-institutions/",
+              "source": "The Times of Israel"
+            },
+            {
+              "title": "Knesset Speaker Kahana Holds First Working Meeting with Supreme Court Chief Justice Amit",
+              "url": "https://www.ynetnews.com/article/b83wjer8m",
+              "source": "Ynetnews"
+            }
+          ]
+        },
+        {
+          "title": "boeing 747",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "AREA15 opens 747 for Las Vegas New Year’s Eve party",
+              "url": "https://www.fox5vegas.com/2026/11/24/area15-opens-747-las-vegas-new-years-eve-party/",
+              "source": "FOX5 Vegas"
+            },
+            {
+              "title": "AREA15 Invites the Public Aboard Its Boeing 747 for a Golden Age New Year’s Eve",
+              "url": "https://963kklz.com/2026/11/25/area15-invites-the-public-aboard-its-boeing-747-for-a-golden-age-new-years-eve/",
+              "source": "96.3 KKLZ"
+            }
+          ]
+        },
+        {
+          "title": "emin sarı trt spor",
+          "traffic": 2000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "TRT SPOR&apos;un acı günü... Emin Sarı&apos;yı kaybettik",
+              "url": "https://www.trtspor.com.tr/haber/diger-sporlar/trt-sporun-aci-gunu-emin-sariyi-kaybettik-34235447",
+              "source": "TRTSpor"
+            },
+            {
+              "title": "Medya dünyasının acı kaybı! Kameraman Emin Sarı hayatını kaybetti",
+              "url": "https://www.sozcu.com.tr/medya-dunyasinin-aci-kaybi-kameraman-emin-sari-hayatini-kaybetti-p384317",
+              "source": "Sözcü Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "toplumsal olaylara müdahale aracı",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Katmerciler, 24,4 milyon dolarlık TOMA siparişi aldı",
+              "url": "https://tr.investing.com/news/global-filings/katmerciler-244-milyon-dolarlk-toma-siparisi-ald-93CH-4172494",
+              "source": "Investing.com Türkiye"
+            },
+            {
+              "title": "KAP *** KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş. *** KATMR *** Yeni İş İlişkisi",
+              "url": "https://www.yenisafak.com/ekonomi/kap-haberleri/kap-katmerciler-arac-ustu-ekipman-sanayi-ve-ticaret-as-katmr-yeni-is-iliskisi-5178249",
+              "source": "Yeni Şafak"
+            }
+          ]
+        },
+        {
+          "title": "zdf daltonlar belgeseli",
+          "traffic": 100,
+          "rank": 8,
+          "news": [
+            {
+              "title": "SON DAKİKA HABERİ | Alman basınına röportaj veren suç örgütüne operasyon | Son dakika haberleri",
+              "url": "https://www.haberturk.com/gundem/son-dakika-haberi-alman-basinina-roportaj-veren-suc-orgutune-operasyon-3930036",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Poz verip \"Sayamayacağımız kadar silah var\" demişlerdi: Alman yayıncı ZDF&apos;ye röportaj veren Daltonlar&apos;a operasyon",
+              "url": "https://gazeteoksijen.com/turkiye/poz-verip-sayamayacagimiz-kadar-silah-var-demislerdi-zdfye-roportaj-veren-daltonlara-operasyon-297220",
+              "source": "Gazete Oksijen"
+            }
+          ]
+        },
+        {
+          "title": "blade runner 2099",
+          "traffic": 100,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Blade Runner 2099 review – every scene of this TV version is packed with terrifying visual beauty",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/blade-runner-2099-review-tv-version-terrifying-visual-beauty",
+              "source": "The Guardian"
+            },
+            {
+              "title": "Blade Runner 2099 First Reviews: Hunter Schafer Shines in a Fresh Take on Familiar Material",
+              "url": "https://editorial.rottentomatoes.com/article/blade-runner-2099-first-reviews/",
+              "source": "Rotten Tomatoes"
+            }
+          ]
+        },
+        {
+          "title": "zuhal topal",
+          "traffic": 200,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Yemekteyiz Caner kimdir? Zuhal Topal&apos;la Yemekteyiz Caner Bey kaç yaşında, nereli?",
+              "url": "https://www.haberler.com/haber/yemekteyiz-caner-kimdir-zuhal-topalla-yemekteyiz-20462222-haberi/",
+              "source": "Haberler"
+            },
+            {
+              "title": "Yemekteyiz Şenay Hanım Kimdir? Edirneli Yarışmacının Mesleği Dikkat Çekti!",
+              "url": "https://www.haberkenti.com/yemekteyiz-senay-hanim-kimdir-edirneli-yarismacinin-meslegi-dikkat-cekti",
+              "source": "Haber Kenti"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
