@@ -35,15 +35,15 @@
 | # | Konu | Platform sayısı |
 |---:|---|---:|
 | 1 | kar | 1 |
-| 2 | Hikmet Çetin | 1 |
+| 2 | 2027 UEFA ülkeler sıralaması | 1 |
 | 3 | galatasaray | 1 |
-| 4 | Eurocopter AS532 Cougar | 1 |
+| 4 | Hikmet Çetin | 1 |
 | 5 | sömestr tatili ne zaman 2027 | 1 |
-| 6 | Öğretmenler Günü | 1 |
+| 6 | Eurocopter AS532 Cougar | 1 |
 | 7 | ekonomi | 1 |
-| 8 | 2027 UEFA ülkeler sıralaması | 1 |
+| 8 | Hayati Yazıcı | 1 |
 | 9 | ev | 1 |
-| 10 | Ahmet Uluçay | 1 |
+| 10 | Fatma Betül Sayan Kaya | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)

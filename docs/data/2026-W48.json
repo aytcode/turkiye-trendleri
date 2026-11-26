@@ -13,8 +13,8 @@
   "end": "2026-11-29",
   "final": false,
   "sample": false,
-  "generatedAt": "2026-11-25T15:25:27.089Z",
-  "snapshotDays": 3,
+  "generatedAt": "2026-11-26T14:56:25.550Z",
+  "snapshotDays": 4,
   "activeSources": [
     "google",
     "wikipedia"
@@ -222,6 +222,24 @@
           "score": 2000
         },
         {
+          "title": "archie brown",
+          "traffic": 1000,
+          "days": 1,
+          "news": [
+            {
+              "title": "Archie Brown&apos;un serbest kalma bedeli belli oldu! Fenerbahçe&apos;nin kapısında kuyruk oldular",
+              "url": "https://www.ntvspor.net/futbol/galeri-archie-brownun-serbest-kalma-bedeli-belli-oldu-fenerbahcenin-kapisinda-kuyruk-oldular-433659",
+              "source": "NTVSpor"
+            },
+            {
+              "title": "Serbest kalma bedeli 23 milyon euro - Newcastle United, Archie Brown’ı takip ediyor",
+              "url": "https://www.transfermarkt.com.tr/serbest-kalma-bedeli-23-milyon-euro-newcastle-united-archie-browni-takip-ediyor/view/news/491275",
+              "source": "Transfermarkt"
+            }
+          ],
+          "score": 1000
+        },
+        {
           "title": "trt 1 yayın akışı",
           "traffic": 500,
           "days": 1,
@@ -253,6 +271,24 @@
               "title": "A Milli Basketbol Takımı, İtalya karşısında resmi maçlardaki 3. galibiyetin peşinde",
               "url": "https://aa.com.tr/tr/spor/a-milli-basketbol-takimi-italya-karsisinda-resmi-maclardaki-3-galibiyetin-pesinde/4136926",
               "source": "Anadolu Ajansı"
+            }
+          ],
+          "score": 500
+        },
+        {
+          "title": "bershka indirim",
+          "traffic": 500,
+          "days": 1,
+          "news": [
+            {
+              "title": "INDITEX (ZARA) KASIM İNDİRİM TARİHLERİ VE GÜNLERİ 2026 || Zara, Bershka, Pull&Bear, Oysho, Massimo Dutti, Stradivarius indirimleri ne zaman başlayacak, saat kaçta? Inditex mağaza ve online indirimleri başladı mı?",
+              "url": "https://www.hurriyet.com.tr/bilgi/galeri/inditex-kasim-indirim-tarihleri-kasim-2026-bu-yil-zara-bershka-pull-bear-oysho-massimo-dutti-stradivarius-indirimleri-ne-zaman-43390703",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "2026 Black Friday spor fırsatları: Krampon, forma, oyun ve antrenman ekipmanları",
+              "url": "https://www.goal.com/tr/galeri-listesi/2026-black-friday-spor-firsatlari-krampon-forma-oyun-ve-antrenman-ekipmanlari/blt5c3e5a3a35232866",
+              "source": "Goal.com"
             }
           ],
           "score": 500
@@ -456,57 +492,43 @@
           "score": 200
         },
         {
-          "title": "kırklareli hava durumu",
-          "traffic": 100,
-          "days": 1,
-          "news": [],
-          "score": 100
-        },
-        {
-          "title": "kabine toplantısı",
-          "traffic": 100,
+          "title": "tağşiş",
+          "traffic": 200,
           "days": 1,
           "news": [
             {
-              "title": "Cumhurbaşkanlığı Kabinesi toplandı",
-              "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4134598",
-              "source": "Anadolu Ajansı"
+              "title": "Listede yok yok! Gıdada en çok hile yapılan ürünler belli oldu: Uzman isimden alışveriş uyarısı",
+              "url": "https://www.ahaber.com.tr/galeri/ekonomi/gidada-en-cok-hile-yapilan-urunler-belli-oldu",
+              "source": "A Haber"
             },
             {
-              "title": "Kabine toplantısı sona erdi. Cumhurbaşkanı Erdoğan açıklama yapıyor",
-              "url": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
-              "source": "NTV Haber"
+              "title": "Taklit ve tağşiş sahtekarları ifşa ediliyor! En çok hile yapılan ürünler belli oldu",
+              "url": "https://www.yeniakit.com.tr/foto-galeri/taklit-ve-tagsis-sahtekarlari-ifsa-ediliyor-en-cok-hile-yapilan-urunler-belli-oldu-186644",
+              "source": "Yeni Akit Gazetesi"
             }
           ],
-          "score": 100
+          "score": 200
         },
         {
-          "title": "dolunay ne zaman",
-          "traffic": 100,
-          "days": 1,
-          "news": [],
-          "score": 100
-        },
-        {
-          "title": "iski su kesintisi",
-          "traffic": 100,
+          "title": "mühimmat",
+          "traffic": 200,
           "days": 1,
           "news": [
             {
-              "title": "İSKİ duyurdu: İstanbul&apos;da 8 saatlik su kesintisi!",
-              "url": "https://www.cumhuriyet.com.tr/turkiye/iski-duyurdu-istanbul-da-8-saatlik-su-kesintisi-2558620",
-              "source": "Cumhuriyet"
+              "title": "Yeni güç çarpanı! ‘Yunanistan’ın planlarını çöpe götürecek mühimmat’",
+              "url": "https://www.hurriyet.com.tr/gundem/yeni-guc-carpani-yunanistanin-planlarini-cope-goturecek-muhimmat-43391554",
+              "source": "Hürriyet"
             },
             {
-              "title": "İstanbul&apos;da 8 saatlik su kesintisi: İSKİ mahalleleri tek tek açıkladı",
-              "url": "https://www.yenisafak.com/galeri/gundem/istanbulda-8-saatlik-su-kesintisi-iski-mahalleleri-tek-tek-acikladi-4876033",
-              "source": "Yeni Şafak"
+              "title": "TOLUN-L&apos;den ilk atışta tam isabet",
+              "url": "https://www.trthaber.com/haber/savunma/tolun-lden-ilk-atista-tam-isabet-964444.html",
+              "source": "TRT Haber"
             }
           ],
-          "score": 100
+          "score": 200
         }
       ],
-      "total": 30
+      "total": 40
     },
     "wikipedia": {
       "id": "wikipedia",
@@ -516,207 +538,207 @@
       "status": "ok",
       "items": [
         {
+          "title": "2027 UEFA ülkeler sıralaması",
+          "article": "2027_UEFA_ülkeler_sıralaması",
+          "views": 26577,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
+          "score": 26577
+        },
+        {
           "title": "Hikmet Çetin",
           "article": "Hikmet_Çetin",
-          "views": 17220,
-          "days": 1,
+          "views": 24370,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Hikmet_%C3%87etin",
-          "score": 17220
+          "score": 24370
         },
         {
           "title": "Eurocopter AS532 Cougar",
           "article": "Eurocopter_AS532_Cougar",
-          "views": 16091,
-          "days": 1,
+          "views": 22228,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Eurocopter_AS532_Cougar",
-          "score": 16091
-        },
-        {
-          "title": "Öğretmenler Günü",
-          "article": "Öğretmenler_Günü",
-          "views": 10251,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC",
-          "score": 10251
-        },
-        {
-          "title": "2027 UEFA ülkeler sıralaması",
-          "article": "2027_UEFA_ülkeler_sıralaması",
-          "views": 8645,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/2027_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
-          "score": 8645
-        },
-        {
-          "title": "Ahmet Uluçay",
-          "article": "Ahmet_Uluçay",
-          "views": 7788,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Ahmet_Ulu%C3%A7ay",
-          "score": 7788
+          "score": 22228
         },
         {
           "title": "Hayati Yazıcı",
           "article": "Hayati_Yazıcı",
-          "views": 7250,
-          "days": 2,
+          "views": 14093,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Hayati_Yaz%C4%B1c%C4%B1",
-          "score": 7250
-        },
-        {
-          "title": "Zion Suzuki",
-          "article": "Zion_Suzuki",
-          "views": 6905,
-          "days": 1,
-          "url": "https://tr.wikipedia.org/wiki/Zion_Suzuki",
-          "score": 6905
+          "score": 14093
         },
         {
           "title": "Fatma Betül Sayan Kaya",
           "article": "Fatma_Betül_Sayan_Kaya",
-          "views": 6873,
-          "days": 2,
+          "views": 12750,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Fatma_Bet%C3%BCl_Sayan_Kaya",
-          "score": 6873
+          "score": 12750
         },
         {
-          "title": "Levent Alpöge",
-          "article": "Levent_Alpöge",
-          "views": 6816,
+          "title": "2026 UEFA ülkeler sıralaması",
+          "article": "2026_UEFA_ülkeler_sıralaması",
+          "views": 11834,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Levent_Alp%C3%B6ge",
-          "score": 6816
+          "url": "https://tr.wikipedia.org/wiki/2026_UEFA_%C3%BClkeler_s%C4%B1ralamas%C4%B1",
+          "score": 11834
+        },
+        {
+          "title": "Öğretmenler Günü",
+          "article": "Öğretmenler_Günü",
+          "views": 11338,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/%C3%96%C4%9Fretmenler_G%C3%BCn%C3%BC",
+          "score": 11338
         },
         {
           "title": "Bir sonraki Türkiye genel seçimleri",
           "article": "Bir_sonraki_Türkiye_genel_seçimleri",
-          "views": 6572,
-          "days": 2,
+          "views": 10257,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri",
-          "score": 6572
+          "score": 10257
         },
         {
-          "title": "XHamster",
-          "article": "XHamster",
-          "views": 6420,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/XHamster",
-          "score": 6420
-        },
-        {
-          "title": "Emre Mor",
-          "article": "Emre_Mor",
-          "views": 6323,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Emre_Mor",
-          "score": 6323
-        },
-        {
-          "title": "Aston Villa FC",
-          "article": "Aston_Villa_FC",
-          "views": 5727,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Aston_Villa_FC",
-          "score": 5727
-        },
-        {
-          "title": "Murat Kurum",
-          "article": "Murat_Kurum",
-          "views": 5592,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Murat_Kurum",
-          "score": 5592
+          "title": "Ahmet Uluçay",
+          "article": "Ahmet_Uluçay",
+          "views": 10077,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Ahmet_Ulu%C3%A7ay",
+          "score": 10077
         },
         {
           "title": "Deniz Gül",
           "article": "Deniz_Gül",
-          "views": 5460,
-          "days": 1,
+          "views": 9861,
+          "days": 2,
           "url": "https://tr.wikipedia.org/wiki/Deniz_G%C3%BCl",
-          "score": 5460
+          "score": 9861
         },
         {
-          "title": "Bertuğ Yıldırım",
-          "article": "Bertuğ_Yıldırım",
-          "views": 4861,
+          "title": "XHamster",
+          "article": "XHamster",
+          "views": 8717,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/XHamster",
+          "score": 8717
+        },
+        {
+          "title": "Levent Alpöge",
+          "article": "Levent_Alpöge",
+          "views": 8694,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Levent_Alp%C3%B6ge",
+          "score": 8694
+        },
+        {
+          "title": "Murat Kurum",
+          "article": "Murat_Kurum",
+          "views": 7959,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Murat_Kurum",
+          "score": 7959
+        },
+        {
+          "title": "Zion Suzuki",
+          "article": "Zion_Suzuki",
+          "views": 7815,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Bertu%C4%9F_Y%C4%B1ld%C4%B1r%C4%B1m",
-          "score": 4861
+          "url": "https://tr.wikipedia.org/wiki/Zion_Suzuki",
+          "score": 7815
+        },
+        {
+          "title": "Aston Villa FC",
+          "article": "Aston_Villa_FC",
+          "views": 6989,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Aston_Villa_FC",
+          "score": 6989
+        },
+        {
+          "title": "Emre Mor",
+          "article": "Emre_Mor",
+          "views": 6953,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Emre_Mor",
+          "score": 6953
         },
         {
           "title": "Recep Tayyip Erdoğan",
           "article": "Recep_Tayyip_Erdoğan",
-          "views": 4821,
-          "days": 2,
+          "views": 6914,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
-          "score": 4821
+          "score": 6914
         },
         {
-          "title": "Berkun Oya",
-          "article": "Berkun_Oya",
-          "views": 4616,
+          "title": "Recep Soytürk",
+          "article": "Recep_Soytürk",
+          "views": 6620,
           "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
-          "score": 4616
+          "url": "https://tr.wikipedia.org/wiki/Recep_Soyt%C3%BCrk",
+          "score": 6620
+        },
+        {
+          "title": "Arda Turan",
+          "article": "Arda_Turan",
+          "views": 6429,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Arda_Turan",
+          "score": 6429
+        },
+        {
+          "title": "Gökmen Çiçek",
+          "article": "Gökmen_Çiçek",
+          "views": 6328,
+          "days": 2,
+          "url": "https://tr.wikipedia.org/wiki/G%C3%B6kmen_%C3%87i%C3%A7ek",
+          "score": 6328
         },
         {
           "title": "Cinsel ilişki",
           "article": "Cinsel_ilişki",
-          "views": 4420,
-          "days": 2,
+          "views": 6318,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/Cinsel_ili%C5%9Fki",
-          "score": 4420
+          "score": 6318
         },
         {
-          "title": "Büşra Develi",
-          "article": "Büşra_Develi",
-          "views": 4334,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/B%C3%BC%C5%9Fra_Develi",
-          "score": 4334
+          "title": "Berkun Oya",
+          "article": "Berkun_Oya",
+          "views": 6253,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Berkun_Oya",
+          "score": 6253
         },
         {
-          "title": "Aslan",
-          "article": "Aslan",
-          "views": 3810,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Aslan",
-          "score": 3810
+          "title": "UEFA Şampiyonlar Ligi",
+          "article": "UEFA_Şampiyonlar_Ligi",
+          "views": 6173,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/UEFA_%C5%9Eampiyonlar_Ligi",
+          "score": 6173
         },
         {
-          "title": "Karpuz Kabuğundan Gemiler Yapmak",
-          "article": "Karpuz_Kabuğundan_Gemiler_Yapmak",
-          "views": 3767,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Karpuz_Kabu%C4%9Fundan_Gemiler_Yapmak",
-          "score": 3767
-        },
-        {
-          "title": "Osmanlı padişahları listesi",
-          "article": "Osmanlı_padişahları_listesi",
-          "views": 3722,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi",
-          "score": 3722
+          "title": "Emre Belözoğlu",
+          "article": "Emre_Belözoğlu",
+          "views": 5574,
+          "days": 3,
+          "url": "https://tr.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
+          "score": 5574
         },
         {
           "title": "II. Mehmed",
           "article": "II._Mehmed",
-          "views": 3716,
-          "days": 2,
+          "views": 5388,
+          "days": 3,
           "url": "https://tr.wikipedia.org/wiki/II._Mehmed",
-          "score": 3716
-        },
-        {
-          "title": "Sibel Kekilli",
-          "article": "Sibel_Kekilli",
-          "views": 3685,
-          "days": 2,
-          "url": "https://tr.wikipedia.org/wiki/Sibel_Kekilli",
-          "score": 3685
+          "score": 5388
         }
       ],
-      "coveredDays": 2,
+      "coveredDays": 3,
       "total": 50
     }
   },
@@ -732,7 +754,7 @@
       "total": 100
     },
     {
-      "title": "Hikmet Çetin",
+      "title": "2027 UEFA ülkeler sıralaması",
       "platforms": [
         "wikipedia"
       ],
@@ -752,7 +774,7 @@
       "total": 97
     },
     {
-      "title": "Eurocopter AS532 Cougar",
+      "title": "Hikmet Çetin",
       "platforms": [
         "wikipedia"
       ],
@@ -772,7 +794,7 @@
       "total": 93
     },
     {
-      "title": "Öğretmenler Günü",
+      "title": "Eurocopter AS532 Cougar",
       "platforms": [
         "wikipedia"
       ],
@@ -792,7 +814,7 @@
       "total": 90
     },
     {
-      "title": "2027 UEFA ülkeler sıralaması",
+      "title": "Hayati Yazıcı",
       "platforms": [
         "wikipedia"
       ],
@@ -812,7 +834,7 @@
       "total": 87
     },
     {
-      "title": "Ahmet Uluçay",
+      "title": "Fatma Betül Sayan Kaya",
       "platforms": [
         "wikipedia"
       ],
@@ -832,7 +854,7 @@
       "total": 83
     },
     {
-      "title": "Hayati Yazıcı",
+      "title": "2026 UEFA ülkeler sıralaması",
       "platforms": [
         "wikipedia"
       ],
@@ -852,7 +874,7 @@
       "total": 80
     },
     {
-      "title": "Zion Suzuki",
+      "title": "Öğretmenler Günü",
       "platforms": [
         "wikipedia"
       ],
@@ -872,7 +894,7 @@
       "total": 77
     },
     {
-      "title": "Fatma Betül Sayan Kaya",
+      "title": "Bir sonraki Türkiye genel seçimleri",
       "platforms": [
         "wikipedia"
       ],
@@ -882,7 +904,7 @@
       "total": 77
     },
     {
-      "title": "trt 1 yayın akışı",
+      "title": "archie brown",
       "platforms": [
         "google"
       ],
@@ -892,7 +914,7 @@
       "total": 73
     },
     {
-      "title": "Levent Alpöge",
+      "title": "Ahmet Uluçay",
       "platforms": [
         "wikipedia"
       ],
@@ -902,7 +924,7 @@
       "total": 73
     },
     {
-      "title": "basketbol",
+      "title": "trt 1 yayın akışı",
       "platforms": [
         "google"
       ],
@@ -912,7 +934,7 @@
       "total": 70
     },
     {
-      "title": "Bir sonraki Türkiye genel seçimleri",
+      "title": "Deniz Gül",
       "platforms": [
         "wikipedia"
       ],
