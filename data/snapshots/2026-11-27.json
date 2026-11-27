@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-27",
+  "collectedAt": "2026-11-27T14:52:28.427Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "türk hava yolları",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "THY İndirimli Bilet Kampanyası Tarihleri: THY indirimli uçak bileti nasıl alınır, kampanya ne zaman bitiyor?",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/thy-indirimli-bilet-kampanyasi-tarihleri-thy-indirimli-ucak-bileti-nasil-alinir-kampanya-ne-zaman-bitiyor-7709285",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "THY’den indirimli bilet kampanyası: THY yurt dışı indirimli bilet kampanyası hangi tarihlerdeki uçuşlar ve hangi ülkeler için geçerli, bilet fiyatları ne kadar?",
+              "url": "https://www.haberturk.com/bilgi/thy-den-indirimli-bilet-kampanyasi-thy-yurt-disi-indirimli-bilet-kampanyasi-hangi-tarihlerdeki-ucuslar-ve-hangi-ulkeler-icin-gecerli-bilet-fiyatlari-ne-kadar-3930650",
+              "source": "Habertürk"
+            }
+          ]
+        },
+        {
+          "title": "seferberlik",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "İkinci Dünya Savaşı&apos;ndan beri bir ilk! 100 bin askere seferberlik mektubu: Hazırlıklı olun",
+              "url": "https://www.hurriyet.com.tr/dunya/ikinci-dunya-savasindan-beri-bir-ilk-100-bin-askere-seferberlik-mektubu-hazirlikli-olun-43393300",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "İngiltere&apos;de savaş alarmı: Üsler korumaya alındı, eski askerlere çağrı yapıldı",
+              "url": "https://www.trthaber.com/haber/dunya/ingilterede-savas-alarmi-usler-korumaya-alindi-eski-askerlere-cagri-yapildi-964630.html",
+              "source": "TRT Haber"
+            }
+          ]
+        },
+        {
+          "title": "avrupa",
+          "traffic": 5000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Avrupa’da Türk takımlarının galibiyet haftası: 4&apos;te 4",
+              "url": "https://www.trthaber.com/haber/gundem/avrupada-turk-takimlarinin-galibiyet-haftasi-4te-4-964621.html",
+              "source": "TRT Haber"
+            },
+            {
+              "title": "Avrupa kulüpler sıralamasında büyük değişim: Avrupa&apos;daki dört galibiyetin ardından güncellendi",
+              "url": "https://www.cumhuriyet.com.tr/spor/avrupa-kulupler-siralamasinda-buyuk-degisim-avrupa-daki-dort-galibiyetin-ardindan-guncellendi-2559938",
+              "source": "Cumhuriyet"
+            }
+          ]
+        },
+        {
+          "title": "halkbank erkek voleybol takımı",
+          "traffic": 100,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Fenerbahçe Medicana, Halkbank’a konuk oluyor",
+              "url": "https://www.fenerbahce.org/haberler/voleybol-erkek/2026/11/fenerbahce-medicana-halkbank-a-konuk-oluyor",
+              "source": "Fenerbahce.org"
+            },
+            {
+              "title": "Halkbank Fenerbahçe&apos;yi ağırlayacak",
+              "url": "https://www.baskentgazete.com.tr/halkbank-fenerbahceyi-agirlayacak-2",
+              "source": "Başkent Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "ciğer",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Kilosu bin TL&apos;yi geçti: Ciğer karaborsaya düştü",
+              "url": "https://www.haberturk.com/ekonomi/kilosu-bin-tl-yi-gecti-karaborsaya-dustu-3930626",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Kasap ve marketlerde bulmak çok zor. Kilosu bin liraya çıktı, karaborsaya düştü",
+              "url": "https://www.ntv.com.tr/ntvpara/kasap-ve-marketlerde-bulmak-cok-zor-kilosu-bin-liraya-cikti-karaborsaya-dustu-1752830",
+              "source": "NTV Haber"
+            }
+          ]
+        },
+        {
+          "title": "diagne",
+          "traffic": 5000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Amedspor&apos;dan Mbaye Diagne&apos;ye veda!",
+              "url": "https://www.hurriyet.com.tr/sporarena/amedspordan-mbaye-diagneye-veda-43392395",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Amedspor, Mbaye Diagne ile yollarını ayırdı: Diagne, Ahmet Kaya&apos;yla veda etti",
+              "url": "https://www.evrensel.net/haber/6011375/amedspor-mbaye-diagne-ile-yollarini-ayirdi-diagne-ahmet-kaya-yla-veda-etti",
+              "source": "Evrensel"
+            }
+          ]
+        },
+        {
+          "title": "deniz yılanı",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "ABD&apos;deki sahillere zehirli yılanlar vurdu: Tek ısırıkları felç ediyor",
+              "url": "https://www.sozcu.com.tr/abd-deki-sahillere-zehirli-yilanlar-vurdu-tek-isiriklari-felc-ediyor-p384922",
+              "source": "Sözcü Gazetesi"
+            },
+            {
+              "title": "Sahile vuran zehirli canlı alarm yarattı! &apos;54 yılda yalnızca 8 kez görüldü&apos;",
+              "url": "https://www.milliyet.com.tr/dunya/son-dakika-sahile-vuran-zehirli-canli-alarm-yaratti-54-yilda-yalnizca-8-kez-goruldu-7708951",
+              "source": "Milliyet"
+            }
+          ]
+        },
+        {
+          "title": "yapay zekâ",
+          "traffic": 200,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Putin, yabancı yapay zeka teknolojilerine bağımlılık konusunda uyardı",
+              "url": "https://www.aa.com.tr/tr/bilim-teknoloji/putin-yabanci-yapay-zeka-teknolojilerine-bagimlilik-konusunda-uyardi/4139589",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "Putin: \"Yapay zekaya sahip olmak dünyaya hükmetmeyi garanti etmiyor\" İhlas Haber Ajansı",
+              "url": "https://www.iha.com.tr/haber-putin-yapay-zekaya-sahip-olmak-dunyaya-hukmetmeyi-garanti-etmiyor-1198021",
+              "source": "İhlas Haber Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "adliye",
+          "traffic": 200,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Samsun&apos;da duruşma çıkışı kadınlar arasında kavga",
+              "url": "https://yerel-haberler.haberturk.com/samsun-haberleri/samsunda-durusma-cikisi-kadinlar-arasinda-kavga-119534266",
+              "source": "Habertürk"
+            },
+            {
+              "title": "Samsun Adliyesi otoparkında duruşma çıkışı kavga: Darbedilen genç kadın \"babamı çağırın\" diyerek sinir krizi geçirdi",
+              "url": "https://www.takvim.com.tr/video/yasam/samsunda-dava-sonrasi-taraflar-arasinda-cikan-kavgada-genc-bir-kadin-darbedildi",
+              "source": "Takvim"
+            }
+          ]
+        },
+        {
+          "title": "türk hava kuvvetleri",
+          "traffic": 100,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Türk F-16’ları Romanya Yolcusu",
+              "url": "https://www.savunmasanayist.com/turk-f-16lari-romanya-yolcusu/",
+              "source": "SavunmaSanayiST"
+            },
+            {
+              "title": "NATO&apos;nun hava nöbeti Türkiye&apos;de",
+              "url": "https://www.ntv.com.tr/turkiye/natonun-hava-nobeti-turkiyede-1752844",
+              "source": "NTV Haber"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}
