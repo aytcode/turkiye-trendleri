@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-28",
+  "collectedAt": "2026-11-28T14:01:19.839Z",
+  "sources": {
+    "google": {
+      "status": "ok",
+      "items": [
+        {
+          "title": "füze",
+          "traffic": 500,
+          "rank": 1,
+          "news": [
+            {
+              "title": "Husilerin saldırıları: Suudi başkenti Riyad&apos;da neler oluor?",
+              "url": "https://www.bbc.com/turkce/articles/crjwj6nlx3peo",
+              "source": "BBC"
+            },
+            {
+              "title": "Suudi Arabistan ile Husilerden karşılıklı saldırılar",
+              "url": "https://www.hurriyet.com.tr/dunya/suudi-arabistan-ile-husilerden-karsilikli-saldirilar-43393295",
+              "source": "Hürriyet"
+            }
+          ]
+        },
+        {
+          "title": "cemil tugay",
+          "traffic": 200,
+          "rank": 2,
+          "news": [
+            {
+              "title": "Halk TV’de üçüncü dalga: İki gazeteci gözaltında",
+              "url": "https://www.hurriyet.com.tr/gundem/halk-tvde-ucuncu-dalga-iki-gazeteci-gozaltinda-43393809",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Halk TV&apos;nin patronu Cafer Mahiroğlu&apos;ndan Cemil Tugay açıklaması",
+              "url": "https://www.birgun.net/haber/halk-tv-nin-patronu-cafer-mahiroglu-ndan-cemil-tugay-aciklamasi-748977",
+              "source": "BirGün Gazetesi"
+            }
+          ]
+        },
+        {
+          "title": "gaziantep amedspor",
+          "traffic": 1000,
+          "rank": 3,
+          "news": [
+            {
+              "title": "Gaziantep FK – Amedspor maçı ne zaman, saat kaçta, hangi kanalda? Süper Lig Gaziantep FK Amed Sportif Faaliyetler muhtemel 11&apos;ler",
+              "url": "https://www.hurriyet.com.tr/sporarena/gaziantep-fk-amedspor-maci-ne-zaman-saat-kacta-hangi-kanalda-super-lig-gaziantep-fk-amed-sportif-faaliyetler-muhtemel-11ler-43394101",
+              "source": "Hürriyet"
+            },
+            {
+              "title": "Gaziantep FK, Süper Lig&apos;de bugün Amed Sportif Faaliyetler&apos;i konuk edecek",
+              "url": "https://www.aa.com.tr/tr/spor/gaziantep-fk-super-ligde-bugun-amed-sportif-faaliyetleri-konuk-edecek/4140558",
+              "source": "Anadolu Ajansı"
+            }
+          ]
+        },
+        {
+          "title": "ريال بتيس ضد رايو فاليكانو",
+          "traffic": 200,
+          "rank": 4,
+          "news": [
+            {
+              "title": "Real Betis vs Rayo Vallecano: Spanish La Liga stats & head-to-head",
+              "url": "https://www.bbc.com/sport/football/live/c6reg91ewxqqt",
+              "source": "BBC"
+            },
+            {
+              "title": "Betis-Rayo preview: Betis arrive with four injury absences",
+              "url": "https://www.tufutbolero.com/en/news/betis-rayo-preview-betis-arrive-with-four-injury-absences-fcf0d0",
+              "source": "Tu Futbolero"
+            }
+          ]
+        },
+        {
+          "title": "mevduat faizi",
+          "traffic": 100,
+          "rank": 5,
+          "news": [
+            {
+              "title": "Bankada parası olanlar dikkat: Mevduat faizlerinde yüzde 40 dönemi kapıda!",
+              "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/bankada-parasi-olanlar-dikkat-mevduat-faizlerinde-yuzde-40-donemi-kapida-7709723",
+              "source": "Uzmanpara"
+            },
+            {
+              "title": "TCMB’den Kritik Haber | Borsa Ne Olur | Yeni İflas Geldi - borsa ve gündem",
+              "url": "https://tr.investing.com/analysis/tcmbden-kritik-haber--borsa-ne-olur--yeni-iflas-geldi--borsa-ve-gundem-200507308",
+              "source": "Investing.com Türkiye"
+            }
+          ]
+        },
+        {
+          "title": "bursaspor",
+          "traffic": 5000,
+          "rank": 6,
+          "news": [
+            {
+              "title": "Vanspor-Bursaspor maçı ne zaman, saat kaçta, hangi kanalda? Maç yayın bilgileri",
+              "url": "https://www.birgun.net/haber/vanspor-bursaspor-maci-ne-zaman-saat-kacta-hangi-kanalda-mac-yayin-bilgileri-748946",
+              "source": "BirGün Gazetesi"
+            },
+            {
+              "title": "Van’ın rakibi Bursa: Muhtemel 11’ler belli oldu",
+              "url": "https://amidahaber.com/van/vanin-rakibi-bursa-muhtemel-11ler-belli-oldu-240929h",
+              "source": "Amida Haber"
+            }
+          ]
+        },
+        {
+          "title": "cooper flagg",
+          "traffic": 200,
+          "rank": 7,
+          "news": [
+            {
+              "title": "Cooper Flagg falls a block short of 5×5 as Mavericks clinch West’s top NBA Cup seed",
+              "url": "https://www.nytimes.com/athletic/7818243/2026/11/28/cooper-flagg-falls-a-block-short-of-5x5-game-as-mavericks-clinch-wests-top-nba-cup-seed/",
+              "source": "The New York Times"
+            },
+            {
+              "title": "NBA player of the night: Cooper Flagg, 34 points in Phoenix · SNA",
+              "url": "https://sportnewsafrica.com/en/news/nba-cooper-flaggs-steals-sink-phoenix-as-dallas-win-113-109/",
+              "source": "Sport News Africa"
+            }
+          ]
+        },
+        {
+          "title": "hertha berlin",
+          "traffic": 100,
+          "rank": 8,
+          "news": [
+            {
+              "title": "Five things to look out for on 2. Bundesliga Matchday 13",
+              "url": "https://onefootball.com/en/news/five-things-to-look-out-for-on-2-bundesliga-matchday-13-43849639",
+              "source": "OneFootball"
+            },
+            {
+              "title": "Hertha BSC vs Karlsruher SC: TV channel and live stream",
+              "url": "https://www.goal.com/en/news/hertha-bsc-vs-karlsruher-sc-live-today-how-to-watch-on-tv-and-online/blt8eaa458b979a57ad",
+              "source": "Goal.com"
+            }
+          ]
+        },
+        {
+          "title": "wiktor nowak",
+          "traffic": 200,
+          "rank": 9,
+          "news": [
+            {
+              "title": "Chcą fortunę za reprezentanta Polski! Zgłasza się klub z Premier League",
+              "url": "https://www.sport.pl/pilka/7,65080,33154844,chca-fortune-za-reprezentanta-polski-zglasza-sie-klub-z-premier.html",
+              "source": "Sport.pl"
+            },
+            {
+              "title": "Wielkie kluby ustawiają się w kolejce po Wiktora Nowaka!",
+              "url": "https://www.fangol.pl/post/88402/wielkie-kluby-ustawiaja-sie-w-kolejce-po-wiktora-nowaka",
+              "source": "Fangol.pl"
+            }
+          ]
+        },
+        {
+          "title": "dinamo kiev",
+          "traffic": 100,
+          "rank": 10,
+          "news": [
+            {
+              "title": "Viktor Kopiievskyi will referee the match Dynamo – Chornomorets",
+              "url": "https://fcdynamo.com/en/news/viktor-kopijevskii-arbitr-matcu-miz-dinamo-ta-cornomorcem",
+              "source": "Динамо» Київ. Офіційний сайт"
+            },
+            {
+              "title": "FC Dynamo Kiev vs Chornomorets head-to-head: 50 goals in 15 meetings since 2016",
+              "url": "https://m.dongqiudi.com/en/news/252809",
+              "source": "懂球帝"
+            }
+          ]
+        }
+      ]
+    },
+    "youtube": {
+      "status": "skipped",
+      "reason": "YOUTUBE_API_KEY tanımlı değil"
+    },
+    "x": {
+      "status": "skipped",
+      "reason": "X_BEARER_TOKEN tanımlı değil"
+    },
+    "tiktok": {
+      "status": "skipped",
+      "reason": "TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET tanımlı değil"
+    }
+  }
+}

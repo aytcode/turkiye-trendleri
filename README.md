@@ -41,9 +41,9 @@
 | 5 | sömestr tatili ne zaman 2027 | 1 |
 | 6 | Hikmet Çetin | 1 |
 | 7 | avrupa | 1 |
-| 8 | Eurocopter AS532 Cougar | 1 |
+| 8 | Doğan Alemdar | 1 |
 | 9 | diagne | 1 |
-| 10 | Doğan Alemdar | 1 |
+| 10 | Eurocopter AS532 Cougar | 1 |
 <!-- SON-RAPOR:BITIR -->
 
 > Bu tablo bot tarafından her gün otomatik güncellenir. Tüm haftalar: [arşiv](https://aytcode.github.io/turkiye-trendleri/#arsiv) · [`reports/`](reports/)
